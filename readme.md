@@ -44,4 +44,4 @@ python timeml_to_timeline.py -h
 for TL2RTL options.
 
 ### Questions?
-> Any questions? Feel free to send an email to tuur.leeuwenberg@cs.kuleuven.be !
+> Any questions? Feel free to send me an email!
