@@ -19,6 +19,7 @@ virtualenv venv -p python3.5
 source venv/bin/activate
 pip install -r requirements.txt
 ```
+3. Unzip the word vectors in `data/wordvectos/xaa` to obtain `data/wordvectors/glove.6B.50d.w2vf.txt`
 
 ### Reproducing the results from the paper:
 To produce the results from Table 4 from the paper, you need to run two scripts:
