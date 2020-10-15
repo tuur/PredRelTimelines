@@ -1,0 +1,8 @@
+torch
+numpy
+python-dateutil
+nltk
+plotly
+bs4
+gensim
+lxml

@@ -1,0 +1,39 @@
+<h2><a id="Code_associated_with_0"></a>Code associated with:</h2>
+<h3><a id="Temporal_Information_Extraction_by_Predicting_Relative_Timelines_2"></a>Temporal Information Extraction by Predicting Relative Time-lines</h3>
+<p>Artuur Leeuwenberg &amp; Marie-Francine Moens<br>
+<em>In Proceedings of EMNLP</em>, Brussels, Belgium, 2018.</p>
+<h4><a id="Terms_of_Usage_6"></a>Terms of Usage</h4>
+<p>Apache License 2.0</p>
+<blockquote>
+<p>Please cite the paper when using the code.</p>
+</blockquote>
+<h3><a id="What_this_code_can_be_used_for_10"></a>What this code can be used for:</h3>
+<p>Training relatie time-line prediction models (TLM), trained from TimeML-annotated data, and to convert TimeML-style annotations to relative time-lines (TL2RTL), i.e. to reproduce the results from the EMNLP 2018 paper. The data used in the original paper was added to facilitate reproducing the results from the paper.</p>
+<h3><a id="How_do_I_get_set_up_13"></a>How do I get set up?</h3>
+<ol>
+<li>Install  Python 3.5 (if not yet installed)</li>
+<li>Setup and activate (line 2) a virtual environment, and install the Python dependencies with:</li>
+</ol>
+<pre><code>virtualenv venv -p python3.5
+source venv/bin/activate
+pip install -r requirements.txt
+</code></pre>
+<h3><a id="Reproducing_the_results_from_the_paper_22"></a>Reproducing the results from the paper:</h3>
+<p>To produce the results from Table 4 from the paper, you need to run two scripts:</p>
+<pre><code>sh EXP-TLM.sh
+sh EXP-TL2RTL.sh
+</code></pre>
+<p>The first will rerun the S-TLM and C-TLM experiments in the different loss settings (evaluation scores can be found at the end of the corresponding log files). And the second will rerun the TL2RTL experiments.</p>
+<p><code>!!!</code> By default these scripts run many subprocesses simultaneously. If you prefer to run the experiments one-by-one you shold remove the &amp;-symbol at the end of the python calls in the scripts. You can indicate which GPU you want to use by setting the CUDA variable in the scripts (-1 for using CPU instead).</p>
+<h3><a id="Obtaining_more_information_32"></a>Obtaining more information</h3>
+<p>To get more information on how to use the scripts you can inspect the .sh files or run:</p>
+<pre><code>python main.py -h
+</code></pre>
+<p>for TLM options or</p>
+<pre><code>python timeml_to_timeline.py -h
+</code></pre>
+<p>for TL2RTL options.</p>
+<h3><a id="Questions_44"></a>Questions?</h3>
+<blockquote>
+<p>Any questions? Feel free to send an email to <a href="mailto:tuur.leeuwenberg@cs.kuleuven.be">tuur.leeuwenberg@cs.kuleuven.be</a> !</p>
+</blockquote>
