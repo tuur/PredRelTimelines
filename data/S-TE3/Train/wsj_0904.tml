@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0904</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Compaq Computer Corp. <EVENT class="REPORTING" eid="e1">said</EVENT> that its net income <EVENT class="OCCURRENCE" eid="e2">rose</EVENT> 51% in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t106" type="DATE" value="1989-Q3">the third quarter</TIMEX3>, <EVENT class="OCCURRENCE" eid="e3">bolstered</EVENT> by unusual <EVENT class="STATE" eid="e117">gains</EVENT> from its <EVENT class="OCCURRENCE" eid="e4">investment</EVENT> in a disk-drive maker and reflecting continued <EVENT class="OCCURRENCE" eid="e52">growth</EVENT> in its European operations.
+
+The computer maker <EVENT class="REPORTING" eid="e9">said</EVENT> net <EVENT class="OCCURRENCE" eid="e10">jumped</EVENT> to $87 million, or $2.02 a share, from $58 million, or $1.40 a share, <TIMEX3 anchorTimeID="t106" functionInDocument="NONE" temporalFunction="true" tid="t58" type="DATE" value="1988-Q3">a year earlier</TIMEX3>. Sales <EVENT class="OCCURRENCE" eid="e12">increased</EVENT> 36% to $683 million from $502 million. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t64" type="DATE" value="1989-Q3">The latest quarter</TIMEX3>'s <EVENT class="STATE" eid="e13">results</EVENT>, however, included a pretax <EVENT class="STATE" eid="e66">gain</EVENT> of $13.7 million, or 20 cents a share, in the carrying value of the company's <EVENT class="OCCURRENCE" eid="e16">investment</EVENT> in Conner Peripherals Inc. and a $7.6 million gain, or 11 cents a share, from the <EVENT class="OCCURRENCE" eid="e17">sale</EVENT> of one million Conner shares.
+
+Net for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t68" type="DURATION" value="P9M">the nine months</TIMEX3> was $254 million, or $5.94 a share, up 56% from $163 million, or $4.06 a share, <TIMEX3 anchorTimeID="t64" functionInDocument="NONE" temporalFunction="true" tid="t72" type="DATE" value="1988-Q3">a year earlier</TIMEX3>. Sales <EVENT class="OCCURRENCE" eid="e20">rose</EVENT> 50% to $2.1 billion from $1.4 billion. Net for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t247" type="DURATION" value="P9M">the year-earlier nine months</TIMEX3> also included a <EVENT class="STATE" eid="e80">gain</EVENT> of $9.7 million, or 15 cents a share, in the carrying value of the Conner <EVENT class="OCCURRENCE" eid="e81">investment</EVENT>.
+
+Michael Swavely, president of Compaq's North America division, <EVENT class="I_ACTION" eid="e23">attributed</EVENT> the company's <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t82" type="DATE" value="1989-Q3">third-quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e24">performance</EVENT> to continued <EVENT class="OCCURRENCE" eid="e25">increases</EVENT> in international sales, which accounted for 43% of the company's sales, a 74% <EVENT class="OCCURRENCE" eid="e28">increase</EVENT> from <TIMEX3 anchorTimeID="t82" functionInDocument="NONE" temporalFunction="true" tid="t83" type="DATE" value="1988-Q3">a year earlier</TIMEX3>.
+
+"Over <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t86" type="DURATION" value="P2Y">the next couple of years</TIMEX3> we would not be <EVENT class="I_STATE" eid="e29">surprised</EVENT> to <EVENT class="PERCEPTION" eid="e33">see</EVENT> Europe and international {sales} <EVENT class="STATE" eid="e34">represent</EVENT> 50% of the company's revenues," he <EVENT class="REPORTING" eid="e35">said</EVENT>.
+
+During <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t87" type="DATE" value="1989-Q3">the third quarter</TIMEX3>, Compaq <EVENT class="OCCURRENCE" eid="e36">purchased</EVENT> a former Wang Laboratories manufacturing facility in Stirling, Scotland, which will be <EVENT class="OCCURRENCE" eid="e37">used</EVENT> for international service and repair operations. Mr. Swavely <EVENT class="REPORTING" eid="e40">said</EVENT> the new space will <EVENT class="I_STATE" eid="e41">allow</EVENT> Compaq to <EVENT class="OCCURRENCE" eid="e43">increase</EVENT> the manufacturing capacity of its plant in Erskine, Scotland.
+
+In New York Stock Exchange composite trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t91" type="DATE" value="1989-10-25">yesterday</TIMEX3>, Compaq shares <EVENT class="OCCURRENCE" eid="e44">fell</EVENT> $1.625 to $108.625.
+</TEXT>
+<LASTEXTRAINFO>wsj_0904</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei386" eventID="e37"/>
+<MAKEINSTANCE eiid="ei385" eventID="e36"/>
+<MAKEINSTANCE eiid="ei384" eventID="e35"/>
+<MAKEINSTANCE eiid="ei383" eventID="e34"/>
+<MAKEINSTANCE eiid="ei382" eventID="e33"/>
+<MAKEINSTANCE eiid="ei359" eventID="e10"/>
+<MAKEINSTANCE eiid="ei365" eventID="e13"/>
+<MAKEINSTANCE eiid="ei362" eventID="e12"/>
+<MAKEINSTANCE eiid="ei369" eventID="e17"/>
+<MAKEINSTANCE eiid="ei367" eventID="e16"/>
+<MAKEINSTANCE eiid="ei356" eventID="e52"/>
+<MAKEINSTANCE eiid="ei389" eventID="e43"/>
+<MAKEINSTANCE eiid="ei358" eventID="e9"/>
+<MAKEINSTANCE eiid="ei355" eventID="e4"/>
+<MAKEINSTANCE eiid="ei351" eventID="e1"/>
+<MAKEINSTANCE eiid="ei353" eventID="e3"/>
+<MAKEINSTANCE eiid="ei352" eventID="e2"/>
+<MAKEINSTANCE eiid="ei378" eventID="e24"/>
+<MAKEINSTANCE eiid="ei379" eventID="e25"/>
+<MAKEINSTANCE eiid="ei387" eventID="e40"/>
+<MAKEINSTANCE eiid="ei388" eventID="e41"/>
+<MAKEINSTANCE eiid="ei372" eventID="e20"/>
+<MAKEINSTANCE eiid="ei390" eventID="e44"/>
+<MAKEINSTANCE eiid="ei377" eventID="e23"/>
+<MAKEINSTANCE eiid="ei380" eventID="e28"/>
+<MAKEINSTANCE eiid="ei381" eventID="e29"/>
+<MAKEINSTANCE eiid="ei354" eventID="e117"/>
+<MAKEINSTANCE eiid="ei375" eventID="e80"/>
+<MAKEINSTANCE eiid="ei376" eventID="e81"/>
+<MAKEINSTANCE eiid="ei366" eventID="e66"/>
+<TLINK eventInstanceID="ei352" lid="l1" relType="OVERLAP" relatedToEventInstance="ei353"/>
+<TLINK lid="l2" relType="ENDED_BY" relatedToEventInstance="ei365" timeID="t64"/>
+<TLINK lid="l3" relType="IDENTITY" relatedToTime="t64" timeID="t68"/>
+<TLINK eventInstanceID="ei375" lid="l4" relType="AFTER" relatedToEventInstance="ei376"/>
+<TLINK eventInstanceID="ei377" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei384" lid="l6" relType="INCLUDES" relatedToEventInstance="ei377"/>
+<TLINK lid="l7" relType="ENDED_BY" relatedToEventInstance="ei378" timeID="t82"/>
+<TLINK eventInstanceID="ei362" lid="l8" relType="SIMULTANEOUS" relatedToEventInstance="ei359"/>
+<TLINK eventInstanceID="ei358" lid="l9" relType="IDENTITY" relatedToEventInstance="ei351"/>
+<TLINK eventInstanceID="ei351" lid="l10" relType="AFTER" relatedToEventInstance="ei352"/>
+<TLINK eventInstanceID="ei387" lid="l11" relType="BEFORE" relatedToEventInstance="ei388"/>
+<TLINK eventInstanceID="ei383" lid="l12" relType="DURING" relatedToTime="t86"/>
+<TLINK eventInstanceID="ei386" lid="l13" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei380" lid="l14" relType="BEFORE" relatedToEventInstance="ei379"/>
+<TLINK eventInstanceID="ei353" lid="l15" relType="BEFORE" relatedToEventInstance="ei352"/>
+<TLINK eventInstanceID="ei358" lid="l16" relType="AFTER" relatedToEventInstance="ei359"/>
+<TLINK eventInstanceID="ei388" lid="l17" relType="BEFORE" relatedToEventInstance="ei389"/>
+<TLINK eventInstanceID="ei386" lid="l18" relType="AFTER" relatedToEventInstance="ei385"/>
+<TLINK eventInstanceID="ei380" lid="l19" relType="BEGINS" relatedToTime="t83"/>
+<TLINK eventInstanceID="ei382" lid="l20" relType="OVERLAP" relatedToEventInstance="ei383"/>
+<TLINK eventInstanceID="ei384" lid="l21" relType="IDENTITY" relatedToEventInstance="ei387"/>
+<TLINK eventInstanceID="ei356" lid="l22" relType="BEFORE" relatedToEventInstance="ei352"/>
+<TLINK eventInstanceID="ei375" lid="l23" relType="ENDS" relatedToTime="t247"/>
+<TLINK eventInstanceID="ei365" lid="l24" relType="INCLUDES" relatedToEventInstance="ei366"/>
+<TLINK eventInstanceID="ei372" lid="l25" relType="IS_INCLUDED" relatedToTime="t68"/>
+<TLINK eventInstanceID="ei385" lid="l26" relType="DURING" relatedToTime="t87"/>
+<TLINK lid="l27" relType="INCLUDES" relatedToEventInstance="ei390" timeID="t91"/>
+<TLINK eventInstanceID="ei354" lid="l28" relType="BEFORE" relatedToEventInstance="ei353"/>
+<TLINK eventInstanceID="ei378" lid="l29" relType="AFTER" relatedToEventInstance="ei379"/>
+<TLINK eventInstanceID="ei355" lid="l30" relType="BEFORE" relatedToEventInstance="ei354"/>
+<TLINK eventInstanceID="ei379" lid="l31" relType="ENDS" relatedToTime="t83"/>
+<TLINK eventInstanceID="ei351" lid="l32" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei352" lid="l33" relType="DURING" relatedToTime="t106"/>
+<TLINK eventInstanceID="ei366" lid="l34" relType="AFTER" relatedToEventInstance="ei367"/>
+</TimeML>

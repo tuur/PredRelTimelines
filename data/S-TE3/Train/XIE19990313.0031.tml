@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>XIE19990313.0031</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1999-03-13">1999-03-13</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+WASHINGTON, <TIMEX3 temporalFunction="false" tid="t111" type="DATE" value="1999-03-12">March 12</TIMEX3> (Xinhua) --
+
+Poland, Hungary and the Czech Republic <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DATE" value="1999-03-12">Friday</TIMEX3> formally <EVENT class="OCCURRENCE" eid="e1">joined</EVENT> NATO at a <EVENT class="OCCURRENCE" eid="e2">ceremony</EVENT> <EVENT class="OCCURRENCE" eid="e3">held</EVENT> in the city of Independence, Missouri.
+
+At the Harry Truman Library in Independence, the three foreign ministers of Bronislaw Geremek of Poland, Janos Martonyi of Hungary and Jan Kavan of the Czech Republic <EVENT class="OCCURRENCE" eid="e4">signed</EVENT> formal documents of accession.
+
+In <EVENT class="OCCURRENCE" eid="e5">speeches</EVENT> before the signing <EVENT class="OCCURRENCE" eid="e6">ceremony</EVENT>, the ministers <EVENT class="REPORTING" eid="e7">said</EVENT> their countries <EVENT class="PERCEPTION" eid="e8">saw</EVENT> NATO membership as an assurance of security and recognition of their rightful place in Europe.
+
+Kavan <EVENT class="PERCEPTION" eid="e9">said</EVENT> the Czech Republic would no longer <EVENT class="STATE" eid="e10">become</EVENT> "the powerless victim of a foreign invasion."
+
+Martonyi <EVENT class="REPORTING" eid="e11">called</EVENT> Hunragy's <EVENT class="OCCURRENCE" eid="e12">admission</EVENT> in NATO "<EVENT class="OCCURRENCE" eid="e13">returning</EVENT> to her natural habitat," <EVENT class="REPORTING" eid="e14">saying</EVENT>: "It has <EVENT class="STATE" eid="e15">been</EVENT> our manifest destiny to <EVENT class="OCCURRENCE" eid="e16">rejoin</EVENT> those with whom we <EVENT class="STATE" eid="e17">share</EVENT> the same values, interests and goals."
+
+And Geremek <EVENT class="REPORTING" eid="e18">said</EVENT> it <EVENT class="STATE" eid="e19">was</EVENT> "a great <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t3" type="DATE" value="1999-03-12">day</TIMEX3> for Poland and for the world."
+
+</TEXT>
+<LASTEXTRAINFO>XIE19990313.0031</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei18" eventID="e18"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei15" eventID="e15"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK lid="l1" relType="IS_INCLUDED" relatedToEventInstance="ei8" timeID="t0"/>
+<TLINK lid="l2" relType="IS_INCLUDED" relatedToEventInstance="ei10" timeID="t0"/>
+<TLINK lid="l3" relType="INCLUDES" relatedToEventInstance="ei5" timeID="t2"/>
+<TLINK lid="l4" relType="IS_INCLUDED" relatedToEventInstance="ei17" timeID="t0"/>
+<TLINK lid="l5" relType="INCLUDES" relatedToEventInstance="ei16" timeID="t2"/>
+<TLINK lid="l6" relType="INCLUDES" relatedToEventInstance="ei19" timeID="t3"/>
+<TLINK lid="l7" relType="IS_INCLUDED" relatedToEventInstance="ei15" timeID="t0"/>
+<TLINK lid="l8" relType="INCLUDES" relatedToEventInstance="ei4" timeID="t2"/>
+<TLINK lid="l9" relType="IS_INCLUDED" relatedToEventInstance="ei13" timeID="t2"/>
+<TLINK lid="l10" relType="IS_INCLUDED" relatedToEventInstance="ei8" timeID="t2"/>
+<TLINK lid="l11" relType="INCLUDES" relatedToEventInstance="ei7" timeID="t2"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei1" timeID="t2"/>
+<TLINK lid="l13" relType="IS_INCLUDED" relatedToEventInstance="ei17" timeID="t2"/>
+<TLINK lid="l14" relType="INCLUDES" relatedToEventInstance="ei3" timeID="t2"/>
+<TLINK eventInstanceID="ei5" lid="l15" relType="BEFORE" relatedToEventInstance="ei6"/>
+<TLINK lid="l16" relType="INCLUDES" relatedToEventInstance="ei12" timeID="t2"/>
+<TLINK lid="l17" relType="IS_INCLUDED" relatedToEventInstance="ei15" timeID="t2"/>
+<TLINK lid="l18" relType="IS_INCLUDED" relatedToEventInstance="ei13" timeID="t0"/>
+<TLINK lid="l19" relType="INCLUDES" relatedToEventInstance="ei9" timeID="t2"/>
+<TLINK lid="l20" relType="IS_INCLUDED" relatedToEventInstance="ei10" timeID="t2"/>
+<TLINK lid="l21" relType="INCLUDES" relatedToEventInstance="ei2" timeID="t2"/>
+<TLINK lid="l22" relType="INCLUDES" relatedToEventInstance="ei6" timeID="t2"/>
+<TLINK lid="l23" relType="INCLUDES" relatedToEventInstance="ei11" timeID="t2"/>
+<TLINK lid="l24" relType="INCLUDES" relatedToEventInstance="ei14" timeID="t2"/>
+<TLINK lid="l25" relType="INCLUDES" relatedToEventInstance="ei18" timeID="t3"/>
+</TimeML>

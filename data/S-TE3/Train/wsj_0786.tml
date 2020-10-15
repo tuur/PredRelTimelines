@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0786</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+IMA Holdings Corp. <EVENT class="ASPECTUAL" eid="e1">completed</EVENT> its $3 billion <EVENT class="OCCURRENCE" eid="e2">acquisition</EVENT> of American Medical International Inc., <EVENT class="OCCURRENCE" eid="e3">purchasing</EVENT> 63 million shares, or 86%, of the Los Angeles-based health-care services concern for $26.50 a share. The price also includes assumption of about $1.4 billion in debt.
+
+IMA is a group that includes First Boston Corp. and the Pritzker family of Chicago through the leveraged buy-out fund Harry Gray Melvyn Klein amp Partners. Harry J. Gray and Melvyn N. Klein, along with five other IMA designees, were <EVENT class="OCCURRENCE" eid="e9">named</EVENT> to <EVENT class="OCCURRENCE" eid="e11">join</EVENT> American Medical's 10-member board.
+
+The <EVENT class="ASPECTUAL" eid="e12">completion</EVENT> of the merger <EVENT class="I_ACTION" eid="e13">agreement</EVENT> follows <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t91" type="DURATION" value="PXM">months</TIMEX3> of <EVENT class="OCCURRENCE" eid="e15">twists</EVENT> and <EVENT class="OCCURRENCE" eid="e16">turns</EVENT>. In <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t93" type="DATE" value="1989-01">January</TIMEX3>, American Medical <EVENT class="OCCURRENCE" eid="e17">brought</EVENT> in a new chief executive officer, Richard A. Gilleland, 45, who will <EVENT class="STATE" eid="e18">remain</EVENT> as chairman, president and chief executive. <TIMEX3 beginPoint="t93" functionInDocument="NONE" temporalFunction="true" tid="t96" type="DURATION" value="PXD">A few days</TIMEX3> later, American Medical <EVENT class="I_ACTION" eid="e19">announced</EVENT> sharply lower earnings, <EVENT class="OCCURRENCE" eid="e20">taking</EVENT> charges of $24 million for insurance reserves and canceled real estate leases.
+
+In <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t97" type="DATE" value="1989-03">March</TIMEX3>, American Medical <EVENT class="OCCURRENCE" eid="e23">received</EVENT> a $24-a-share <EVENT class="I_ACTION" eid="e24">offer</EVENT> to <EVENT class="OCCURRENCE" eid="e26">take</EVENT> the company private from an investor group including large holder M. Lee Pearce. It also was <EVENT class="I_ACTION" eid="e28">considering</EVENT> a <EVENT class="OCCURRENCE" eid="e80">restructuring</EVENT> to <EVENT class="I_ACTION" eid="e30">help</EVENT> <EVENT class="OCCURRENCE" eid="e31">boost</EVENT> the stock price. A group including several members of the the Bass family of Texas <EVENT class="I_ACTION" eid="e32">urged</EVENT> the company to <EVENT class="OCCURRENCE" eid="e34">take</EVENT> some steps to <EVENT class="OCCURRENCE" eid="e36">maximize</EVENT> shareholder value.
+
+<TIMEX3 anchorTimeID="t97" functionInDocument="NONE" temporalFunction="true" tid="t98" type="DATE" value="1989-04">The following month</TIMEX3>, the company <EVENT class="OCCURRENCE" eid="e37">put</EVENT> itself up for sale. It <EVENT class="OCCURRENCE" eid="e39">received</EVENT> more <EVENT class="I_ACTION" eid="e40">offers</EVENT>, but the <EVENT class="OCCURRENCE" eid="e41">auction</EVENT> was surprisingly <EVENT class="OCCURRENCE" eid="e42">won</EVENT> by IMA, which <EVENT class="OCCURRENCE" eid="e43">bid</EVENT> $28 a share and <EVENT class="I_ACTION" eid="e44">asked</EVENT> Mr. Gilleland to <EVENT class="STATE" eid="e84">stay</EVENT> on as an equity participant. He <EVENT class="REPORTING" eid="e47">indicated</EVENT> that some assets might be <EVENT class="OCCURRENCE" eid="e48">sold</EVENT> off to <EVENT class="OCCURRENCE" eid="e51">service</EVENT> the debt.
+
+Then, after <EVENT class="OCCURRENCE" eid="e53">extending</EVENT> its offer four times <EVENT class="I_ACTION" eid="e55">waiting</EVENT> for a congressional tax <EVENT class="OCCURRENCE" eid="e56">ruling</EVENT>, IMA <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t99" type="DATE" value="1989-10">early this month</TIMEX3> <EVENT class="OCCURRENCE" eid="e57">lowered</EVENT> its <EVENT class="OCCURRENCE" eid="e3000">offer</EVENT> to $26.50 a share amid turbulence in the junk bond market. American Medical accepted the offer, meanwhile <EVENT class="REPORTING" eid="e63">indicating</EVENT> it had <EVENT class="OCCURRENCE" eid="e64">heard</EVENT> from two other suitors. But they never <EVENT class="OCCURRENCE" eid="e65">materialized</EVENT> and IMA <EVENT class="ASPECTUAL" eid="e66">completed</EVENT> the <EVENT class="OCCURRENCE" eid="e67">purchase</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t100" type="DATE" value="1989-10-26">yesterday</TIMEX3>.
+
+Other new board members include John S. Harrison and Mark A. Adley of First Boston, James F. Lyons, William S. Goldberg and Harold S. Handelsman.
+</TEXT>
+<LASTEXTRAINFO>wsj_0786</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei415" eventID="e39"/>
+<MAKEINSTANCE eiid="ei398" eventID="e19"/>
+<MAKEINSTANCE eiid="ei397" eventID="e18"/>
+<MAKEINSTANCE eiid="ei411" eventID="e34"/>
+<MAKEINSTANCE eiid="ei410" eventID="e32"/>
+<MAKEINSTANCE eiid="ei409" eventID="e31"/>
+<MAKEINSTANCE eiid="ei408" eventID="e30"/>
+<MAKEINSTANCE eiid="ei390" eventID="e11"/>
+<MAKEINSTANCE eiid="ei393" eventID="e13"/>
+<MAKEINSTANCE eiid="ei391" eventID="e12"/>
+<MAKEINSTANCE eiid="ei394" eventID="e15"/>
+<MAKEINSTANCE eiid="ei396" eventID="e17"/>
+<MAKEINSTANCE eiid="ei395" eventID="e16"/>
+<MAKEINSTANCE eiid="ei426" eventID="e55"/>
+<MAKEINSTANCE eiid="ei428" eventID="e57"/>
+<MAKEINSTANCE eiid="ei427" eventID="e56"/>
+<MAKEINSTANCE eiid="ei424" eventID="e51"/>
+<MAKEINSTANCE eiid="ei425" eventID="e53"/>
+<MAKEINSTANCE eiid="ei404" eventID="e24"/>
+<MAKEINSTANCE eiid="ei413" eventID="e37"/>
+<MAKEINSTANCE eiid="ei412" eventID="e36"/>
+<MAKEINSTANCE eiid="ei416" eventID="e40"/>
+<MAKEINSTANCE eiid="ei389" eventID="e9"/>
+<MAKEINSTANCE eiid="ei386" eventID="e1"/>
+<MAKEINSTANCE eiid="ei388" eventID="e3"/>
+<MAKEINSTANCE eiid="ei387" eventID="e2"/>
+<MAKEINSTANCE eiid="ei418" eventID="e42"/>
+<MAKEINSTANCE eiid="ei419" eventID="e43"/>
+<MAKEINSTANCE eiid="ei405" eventID="e26"/>
+<MAKEINSTANCE eiid="ei417" eventID="e41"/>
+<MAKEINSTANCE eiid="ei400" eventID="e20"/>
+<MAKEINSTANCE eiid="ei422" eventID="e47"/>
+<MAKEINSTANCE eiid="ei420" eventID="e44"/>
+<MAKEINSTANCE eiid="ei403" eventID="e23"/>
+<MAKEINSTANCE eiid="ei423" eventID="e48"/>
+<MAKEINSTANCE eiid="ei406" eventID="e28"/>
+<MAKEINSTANCE eiid="ei421" eventID="e84"/>
+<MAKEINSTANCE eiid="ei407" eventID="e80"/>
+<MAKEINSTANCE eiid="ei431" eventID="e63"/>
+<MAKEINSTANCE eiid="ei432" eventID="e64"/>
+<MAKEINSTANCE eiid="ei433" eventID="e65"/>
+<MAKEINSTANCE eiid="ei434" eventID="e66"/>
+<MAKEINSTANCE eiid="ei435" eventID="e67"/>
+<TLINK lid="l1" relType="INCLUDES" relatedToEventInstance="ei394" timeID="t91"/>
+<TLINK eventInstanceID="ei398" lid="l2" relType="OVERLAP" relatedToEventInstance="ei400"/>
+<TLINK eventInstanceID="ei413" lid="l3" relType="IS_INCLUDED" relatedToTime="t98"/>
+<TLINK eventInstanceID="ei420" lid="l4" relType="AFTER" relatedToEventInstance="ei418"/>
+<TLINK eventInstanceID="ei391" lid="l5" relType="CULMINATES" relatedToEventInstance="ei393"/>
+<TLINK eventInstanceID="ei396" lid="l6" relType="IS_INCLUDED" relatedToTime="t93"/>
+<TLINK eventInstanceID="ei410" lid="l7" relType="IS_INCLUDED" relatedToTime="t97"/>
+<TLINK eventInstanceID="ei419" lid="l8" relType="IS_INCLUDED" relatedToEventInstance="ei417"/>
+<TLINK eventInstanceID="ei413" lid="l9" relType="AFTER" relatedToEventInstance="ei403"/>
+<TLINK eventInstanceID="ei415" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei418"/>
+<TLINK eventInstanceID="ei403" lid="l11" relType="IS_INCLUDED" relatedToTime="t97"/>
+<TLINK eventInstanceID="ei431" lid="l12" relType="AFTER" relatedToEventInstance="ei432"/>
+<TLINK eventInstanceID="ei423" lid="l13" relType="BEFORE" relatedToEventInstance="ei424"/>
+<TLINK eventInstanceID="ei420" lid="l14" relType="BEFORE" relatedToEventInstance="ei421"/>
+<TLINK eventInstanceID="ei398" lid="l15" relType="ENDS" relatedToTime="t96"/>
+<TLINK eventInstanceID="ei393" lid="l16" relType="INCLUDES" relatedToEventInstance="ei387"/>
+<TLINK eventInstanceID="ei386" lid="l17" relType="OVERLAP" relatedToEventInstance="ei388"/>
+<TLINK eventInstanceID="ei434" lid="l18" relType="IS_INCLUDED" relatedToTime="t100"/>
+<TLINK eventInstanceID="ei428" lid="l19" relType="AFTER" relatedToEventInstance="ei425"/>
+<TLINK eventInstanceID="ei415" lid="l20" relType="SIMULTANEOUS" relatedToEventInstance="ei416"/>
+<TLINK eventInstanceID="ei403" lid="l21" relType="SIMULTANEOUS" relatedToEventInstance="ei404"/>
+<TLINK eventInstanceID="ei410" lid="l22" relType="BEFORE" relatedToEventInstance="ei411"/>
+<TLINK eventInstanceID="ei386" lid="l23" relType="CULMINATES" relatedToEventInstance="ei387"/>
+<TLINK lid="l24" relType="INCLUDES" relatedToEventInstance="ei395" timeID="t91"/>
+<TLINK eventInstanceID="ei425" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei426"/>
+<TLINK eventInstanceID="ei396" lid="l26" relType="BEGINS" relatedToTime="t96"/>
+<TLINK eventInstanceID="ei403" lid="l27" relType="SIMULTANEOUS" relatedToEventInstance="ei406"/>
+<TLINK eventInstanceID="ei398" lid="l28" relType="AFTER" relatedToEventInstance="ei396"/>
+<TLINK eventInstanceID="ei391" lid="l29" relType="IDENTITY" relatedToEventInstance="ei386"/>
+<TLINK eventInstanceID="ei434" lid="l30" relType="CULMINATES" relatedToEventInstance="ei435"/>
+<TLINK eventInstanceID="ei417" lid="l31" relType="IDENTITY" relatedToEventInstance="ei413"/>
+<TLINK eventInstanceID="ei391" lid="l32" relType="AFTER" relatedToTime="t91"/>
+<TLINK eventInstanceID="ei389" lid="l33" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei396" lid="l34" relType="BEGINS" relatedToEventInstance="ei397"/>
+<TLINK eventInstanceID="ei386" lid="l35" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei389" lid="l36" relType="BEFORE" relatedToEventInstance="ei390"/>
+<TLINK eventInstanceID="ei388" lid="l37" relType="ENDS" relatedToEventInstance="ei386"/>
+<TLINK eventInstanceID="ei428" lid="l38" relType="IS_INCLUDED" relatedToTime="t99"/>
+<TLINK eventInstanceID="ei422" lid="l39" relType="BEFORE" relatedToEventInstance="ei423"/>
+<TLINK eventInstanceID="ei435" lid="l40" relType="IS_INCLUDED" relatedToTime="t100"/>
+<TLINK eventInstanceID="ei418" lid="l41" relType="ENDS" relatedToEventInstance="ei417"/>
+<TLINK eventInstanceID="ei415" lid="l42" relType="AFTER" relatedToEventInstance="ei413"/>
+<TLINK eventInstanceID="ei422" lid="l43" relType="AFTER" relatedToEventInstance="ei420"/>
+</TimeML>

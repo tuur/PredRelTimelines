@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0973</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Westinghouse Electric Corp., <EVENT class="OCCURRENCE" eid="e1">capitalizing</EVENT> on a major restructuring program, <EVENT class="I_STATE" eid="e3">expects</EVENT> operating margins of more than 10% and double-digit per-share earnings growth <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t119" type="DATE" value="1990">next year</TIMEX3>, top officers <EVENT class="REPORTING" eid="e4">told</EVENT> securities analysts here.
+
+John C. Marous, chairman and chief executive officer, also <EVENT class="REPORTING" eid="e6">said</EVENT> the company <EVENT class="I_STATE" eid="e7">expects</EVENT> sales from continuing businesses to <EVENT class="OCCURRENCE" eid="e12">rise</EVENT> 8.5% annually through <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t121" type="DURATION" value="P3Y">the next three years</TIMEX3>.
+
+In <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t122" type="DATE" value="1988">1988</TIMEX3>, the company <EVENT class="OCCURRENCE" eid="e13">earned</EVENT> $822.8 million, or $5.66 a share, on sales of $12.49 billion.
+
+Since <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t126" type="DATE" value="1983">1983</TIMEX3>, Westinghouse has <EVENT class="OCCURRENCE" eid="e15">shed</EVENT> 70 businesses that it didn't <EVENT class="I_STATE" eid="e17">expect</EVENT> to <EVENT class="OCCURRENCE" eid="e20">produce</EVENT> 10% operating margins while <EVENT class="OCCURRENCE" eid="e22">acquiring</EVENT> 55 businesses.
+
+In <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t127" type="DURATION" value="P20M">the past 20 months</TIMEX3> alone, Paul E. Lego, president and chief operating officer, <EVENT class="REPORTING" eid="e24">said</EVENT> the divestiture of $300 million of slow-growth, low-profit businesses has been more than <EVENT class="OCCURRENCE" eid="e467">offset</EVENT> by $600 million in profitable acquisitions.
+
+Westinghouse <EVENT class="I_STATE" eid="e31">expects</EVENT> to <EVENT class="OCCURRENCE" eid="e33">meet</EVENT> its corporate goals despite a softening in the economy. Even if the gross national product is either flat or in the growth range of 2% to 2.5%, "we can <EVENT class="OCCURRENCE" eid="e37">handle</EVENT> that," Mr. Marous <EVENT class="REPORTING" eid="e39">said</EVENT>. GNP is the total value of the nation's output of goods and services.
+
+A bright spot is the company's power-generation business, which is <EVENT class="I_STATE" eid="e44">experiencing</EVENT> a surge of <EVENT class="OCCURRENCE" eid="e134">growth</EVENT> for the first time in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t136" type="DURATION" value="PXY">years</TIMEX3>. Mr. Marous <EVENT class="REPORTING" eid="e47">said</EVENT> the business will <EVENT class="OCCURRENCE" eid="e49">achieve</EVENT> higher sales <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t137" type="DATE" value="1989">this year</TIMEX3> than the company's target goal of 8.5%.
+
+While Westinghouse hasn't <EVENT class="STATE" eid="e138">had</EVENT> a nuclear power plant order from a U.S. utility in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t141" type="DURATION" value="P1E">about a decade</TIMEX3>, excess capacity is <EVENT class="ASPECTUAL" eid="e52">beginning</EVENT> to <EVENT class="OCCURRENCE" eid="e54">shrink</EVENT>. Mr. Lego <EVENT class="REPORTING" eid="e55">said</EVENT> the company <EVENT class="I_STATE" eid="e56">foresees</EVENT> the need for a major <EVENT class="OCCURRENCE" eid="e57">boost</EVENT> in new-generation capability throughout <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t144" type="DURATION" value="199">the 1990s</TIMEX3>.
+
+Westinghouse also is well <EVENT class="I_STATE" eid="e58">positioned</EVENT> to <EVENT class="OCCURRENCE" eid="e60">sell</EVENT> steam turbine and gas turbine plants to independent power producers. The company's ability to respond to energy needs world-wide will be <EVENT class="OCCURRENCE" eid="e65">enhanced</EVENT> through a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t145" type="DATE" value="PAST_REF">recently</TIMEX3> announced <EVENT class="OCCURRENCE" eid="e66">venture</EVENT> with Mitsubishi Heavy Industries, Mr. Lego <EVENT class="REPORTING" eid="e68">said</EVENT>.
+
+He <EVENT class="REPORTING" eid="e69">said</EVENT> the independent power segment could <EVENT class="OCCURRENCE" eid="e70">grow</EVENT> to <EVENT class="OCCURRENCE" eid="e73">provide</EVENT> as much as 50% of near-term generation capacity, <EVENT class="REPORTING" eid="e74">adding</EVENT>: "We <EVENT class="I_STATE" eid="e75">expect</EVENT> to <EVENT class="OCCURRENCE" eid="e77">supply</EVENT> a significant share of this market."
+
+Westinghouse also <EVENT class="I_STATE" eid="e79">expects</EVENT> its international sales to <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t147" type="DATE" value="FUTURE_REF">soon</TIMEX3> <EVENT class="OCCURRENCE" eid="e81">grow</EVENT> to 25% of total corporate sales from 20% <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t150" type="DATE" value="1988">last year</TIMEX3>. The company is <EVENT class="OCCURRENCE" eid="e82">negotiating</EVENT> with the Soviets to <EVENT class="OCCURRENCE" eid="e84">build</EVENT> a Thermo King truck-refrigeration plant that would <EVENT class="OCCURRENCE" eid="e85">produce</EVENT> about 10,000 units annually.
+
+Mr. Marous <EVENT class="REPORTING" eid="e87">said</EVENT> Westinghouse would <EVENT class="STATE" eid="e154">own</EVENT> 70% of the facility. The <EVENT class="OCCURRENCE" eid="e466">deal</EVENT>, which will <EVENT class="I_STATE" eid="e89">involve</EVENT> an initial $20 million <EVENT class="OCCURRENCE" eid="e90">investment</EVENT>, was <EVENT class="OCCURRENCE" eid="e91">struck</EVENT> with a <EVENT class="OCCURRENCE" eid="e155">handshake</EVENT>, he <EVENT class="REPORTING" eid="e93">added</EVENT>.
+
+Company officials also <EVENT class="REPORTING" eid="e94">said</EVENT> that any gain from the <EVENT class="OCCURRENCE" eid="e95">sale</EVENT> of Westinghouse's 55% stake in its transmission and distribution venture with the Swiss firm of Asea Brown Boveri will be <EVENT class="OCCURRENCE" eid="e101">offset</EVENT> by a restructuring charge in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t157" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3>. The executives didn't <EVENT class="OCCURRENCE" eid="e102">disclose</EVENT> the size of the expected gain.
+
+Capital expenditure in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t158" type="DATE" value="1990">1990</TIMEX3> will <EVENT class="OCCURRENCE" eid="e105">rise</EVENT> slightly, Mr. Marous <EVENT class="REPORTING" eid="e106">said</EVENT>, from an estimated $470 million <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t163" type="DATE" value="1989">this year</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0973</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2015" eventID="e138"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e134"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2042" eventID="e87"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e13"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e12"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2049" eventID="e93"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2047" eventID="e91"/>
+<MAKEINSTANCE eiid="ei2046" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2035" eventID="e79"/>
+<MAKEINSTANCE eiid="ei2051" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2031" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2034" eventID="e77"/>
+<MAKEINSTANCE eiid="ei2033" eventID="e75"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e74"/>
+<MAKEINSTANCE eiid="ei2058" eventID="e467"/>
+<MAKEINSTANCE eiid="ei2044" eventID="e466"/>
+<MAKEINSTANCE eiid="ei2053" eventID="e102"/>
+<MAKEINSTANCE eiid="ei2052" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2055" eventID="e106"/>
+<MAKEINSTANCE eiid="ei2050" eventID="e94"/>
+<MAKEINSTANCE eiid="ei2054" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e55"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2030" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e49"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2028" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2029" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2040" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2041" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2039" eventID="e82"/>
+<MAKEINSTANCE eiid="ei2036" eventID="e81"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e60"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2048" eventID="e155"/>
+<MAKEINSTANCE eiid="ei2043" eventID="e154"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2045" eventID="e89"/>
+<TLINK eventInstanceID="ei2052" lid="l1" relType="IS_INCLUDED" relatedToTime="t157"/>
+<TLINK eventInstanceID="ei2042" lid="l2" relType="IDENTITY" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2047" lid="l3" relType="IDENTITY" relatedToEventInstance="ei2048"/>
+<TLINK eventInstanceID="ei2054" lid="l4" relType="IS_INCLUDED" relatedToTime="t158"/>
+<TLINK eventInstanceID="ei1995" lid="l5" relType="OVERLAP" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei1999" lid="l6" relType="BEGUN_BY" relatedToTime="t126"/>
+<TLINK eventInstanceID="ei1992" lid="l7" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2018" lid="l8" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2012" lid="l9" relType="IS_INCLUDED" relatedToTime="t136"/>
+<TLINK eventInstanceID="ei2055" lid="l10" relType="IDENTITY" relatedToEventInstance="ei2042"/>
+<TLINK eventInstanceID="ei2039" lid="l11" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2039" lid="l12" relType="BEFORE" relatedToEventInstance="ei2040"/>
+<TLINK eventInstanceID="ei1997" lid="l13" relType="DURING" relatedToTime="t121"/>
+<TLINK eventInstanceID="ei2033" lid="l14" relType="BEFORE" relatedToEventInstance="ei2034"/>
+<TLINK eventInstanceID="ei1996" lid="l15" relType="BEFORE" relatedToEventInstance="ei1997"/>
+<TLINK eventInstanceID="ei2045" lid="l16" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2005" lid="l17" relType="BEFORE" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei1994" lid="l18" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2013" lid="l19" relType="BEFORE" relatedToEventInstance="ei2014"/>
+<TLINK eventInstanceID="ei2035" lid="l20" relType="BEFORE" relatedToEventInstance="ei2036"/>
+<TLINK eventInstanceID="ei2032" lid="l21" relType="OVERLAP" relatedToEventInstance="ei2033"/>
+<TLINK eventInstanceID="ei2029" lid="l22" relType="BEFORE" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei2003" lid="l23" relType="IDENTITY" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2011" lid="l24" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1999" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei2002"/>
+<TLINK eventInstanceID="ei2013" lid="l26" relType="IDENTITY" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2050" lid="l27" relType="IDENTITY" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2019" lid="l28" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2053" lid="l29" relType="IS_INCLUDED" relatedToEventInstance="ei2050"/>
+<TLINK eventInstanceID="ei2047" lid="l30" relType="CULMINATES" relatedToEventInstance="ei2044"/>
+<TLINK eventInstanceID="ei2050" lid="l31" relType="BEFORE" relatedToEventInstance="ei2052"/>
+<TLINK eventInstanceID="ei2000" lid="l32" relType="BEFORE" relatedToEventInstance="ei2001"/>
+<TLINK eventInstanceID="ei1991" lid="l33" relType="SIMULTANEOUS" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei1992" lid="l34" relType="INCLUDES" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2030" lid="l35" relType="OVERLAP" relatedToEventInstance="ei2031"/>
+<TLINK eventInstanceID="ei2023" lid="l36" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2035" lid="l37" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2005" lid="l38" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2022" lid="l39" relType="DURING" relatedToTime="t144"/>
+<TLINK eventInstanceID="ei2052" lid="l40" relType="AFTER" relatedToEventInstance="ei2051"/>
+<TLINK eventInstanceID="ei2002" lid="l41" relType="BEGUN_BY" relatedToTime="t126"/>
+<TLINK eventInstanceID="ei2032" lid="l42" relType="IS_INCLUDED" relatedToEventInstance="ei2029"/>
+<TLINK eventInstanceID="ei2017" lid="l43" relType="INITIATES" relatedToEventInstance="ei2018"/>
+<TLINK eventInstanceID="ei2036" lid="l44" relType="IS_INCLUDED" relatedToTime="t147"/>
+<TLINK eventInstanceID="ei2029" lid="l45" relType="IDENTITY" relatedToEventInstance="ei2028"/>
+<TLINK eventInstanceID="ei2003" lid="l46" relType="AFTER" relatedToEventInstance="ei2058"/>
+<TLINK eventInstanceID="ei2045" lid="l47" relType="IDENTITY" relatedToEventInstance="ei2046"/>
+<TLINK eventInstanceID="ei2017" lid="l48" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2014" lid="l49" relType="IS_INCLUDED" relatedToTime="t137"/>
+<TLINK eventInstanceID="ei2049" lid="l50" relType="IDENTITY" relatedToEventInstance="ei2042"/>
+<TLINK eventInstanceID="ei2025" lid="l51" relType="AFTER" relatedToEventInstance="ei2027"/>
+<TLINK eventInstanceID="ei2042" lid="l52" relType="BEFORE" relatedToEventInstance="ei2043"/>
+<TLINK eventInstanceID="ei1999" lid="l53" relType="AFTER" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei2015" lid="l54" relType="IS_INCLUDED" relatedToTime="t141"/>
+<TLINK eventInstanceID="ei2058" lid="l55" relType="IS_INCLUDED" relatedToTime="t127"/>
+<TLINK eventInstanceID="ei2019" lid="l56" relType="OVERLAP" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei2040" lid="l57" relType="BEFORE" relatedToEventInstance="ei2041"/>
+<TLINK eventInstanceID="ei2044" lid="l58" relType="IDENTITY" relatedToEventInstance="ei2039"/>
+<TLINK eventInstanceID="ei1995" lid="l59" relType="IS_INCLUDED" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2010" lid="l60" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1998" lid="l61" relType="IS_INCLUDED" relatedToTime="t122"/>
+</TimeML>

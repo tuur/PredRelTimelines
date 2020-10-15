@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1003</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Bethlehem Steel Corp., <EVENT class="OCCURRENCE" eid="e1">hammered</EVENT> by higher costs and lower shipments to key automotive and service-center customers, <EVENT class="REPORTING" eid="e5">posted</EVENT> a 54% drop in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t180" type="DATE" value="1989-Q3">third-quarter</TIMEX3> profit.
+
+Separately, two more of the nation's top steelmakers -- Armco Inc. and National Intergroup Inc. -- <EVENT class="REPORTING" eid="e7">reported</EVENT> lower operating earnings in their steel businesses, <EVENT class="OCCURRENCE" eid="e10">marking</EVENT> what is generally <EVENT class="OCCURRENCE" eid="e11">believed</EVENT> to be the end of a <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t283" type="DURATION" value="P2Y">two-year</TIMEX3> <EVENT class="OCCURRENCE" eid="e13">boom</EVENT> in the industry.
+
+Wall Street analysts <EVENT class="I_STATE" eid="e16">expect</EVENT> the disappointing <EVENT class="STATE" eid="e310">trend</EVENT> to <EVENT class="ASPECTUAL" eid="e18">continue</EVENT> into <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t182" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3> and through at least the <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t183" type="DATE" value="1990-H1">first two quarters of 1990</TIMEX3>, when the industry will increasingly <EVENT class="PERCEPTION" eid="e21">see</EVENT> the effect of price <EVENT class="OCCURRENCE" eid="e185">erosion</EVENT> in major product lines, such as rolled sheet used for cars, appliances and construction.
+
+"It doesn't <EVENT class="OCCURRENCE" eid="e26">bode</EVENT> well for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t190" type="DATE" value="FUTURE_REF">coming quarters</TIMEX3>," <EVENT class="REPORTING" eid="e29">said</EVENT> John Jacobson, who follows the steel industry for AUS Consultants. In fact, he <EVENT class="I_STATE" eid="e33">thinks</EVENT> several steelmakers will <EVENT class="REPORTING" eid="e34">report</EVENT> actual <EVENT class="OCCURRENCE" eid="e191">losses</EVENT> through <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t192" type="DATE" value="1990-Q3">the third quarter of 1990</TIMEX3>.
+
+Bethlehem, the nation's second largest steelmaker, <EVENT class="OCCURRENCE" eid="e35">earned</EVENT> $46.9 million, or 54 cents a share. The figures <EVENT class="STATE" eid="e373">include</EVENT> $15 million in costs related to a blast furnace <EVENT class="OCCURRENCE" eid="e375">outage</EVENT> and $8 million in losses from unauthorized work <EVENT class="OCCURRENCE" eid="e377">outages</EVENT> at the company's coal operations. In the <TIMEX3 anchorTimeID="t180" functionInDocument="NONE" temporalFunction="true" tid="t196" type="DATE" value="1988-Q3">year-ago period</TIMEX3>, Bethlehem <EVENT class="OCCURRENCE" eid="e44">earned</EVENT> $101.4 million, or $1.27 a share, including a $3.8 million <EVENT class="OCCURRENCE" eid="e197">gain</EVENT> from early retirement of debt.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t198" type="DATE" value="1989-Q3">Third-quarter</TIMEX3> sales <EVENT class="OCCURRENCE" eid="e47">dropped</EVENT> 11% to $1.27 billion from $1.43 billion <TIMEX3 anchorTimeID="t198" functionInDocument="NONE" temporalFunction="true" tid="t199" type="DATE" value="1988-Q3">a year ago</TIMEX3>.
+
+In composite trading on the New York Stock Exchange, Bethlehem shares <EVENT class="OCCURRENCE" eid="e49">rose</EVENT> 50 cents to $17.375.
+
+Of all the major steelmakers, Bethlehem would <EVENT class="PERCEPTION" eid="e50">seem</EVENT> to be the most <EVENT class="I_STATE" eid="e201">vulnerable</EVENT> to a <EVENT class="OCCURRENCE" eid="e53">slowdown</EVENT>. It hasn't <EVENT class="OCCURRENCE" eid="e490">diversified</EVENT> beyond steel, nor has it <EVENT class="OCCURRENCE" eid="e56">linked</EVENT> up with a joint venture partner to <EVENT class="OCCURRENCE" eid="e59">share</EVENT> costs and risks.
+
+However, in spite of the difficult industrywide environment of high cost and low volume, Bethlehem "<EVENT class="OCCURRENCE" eid="e206">had</EVENT> pretty good earnings numbers," <EVENT class="REPORTING" eid="e63">said</EVENT> Michelle Galanter Applebaum, an analyst with Salomon Brothers Inc. Ms. Applebaum had <EVENT class="OCCURRENCE" eid="e64">estimated</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t207" type="DATE" value="1989-Q3">third-quarter</TIMEX3> earnings of 55 cents a shhha55 cents a share, ents a share, but ssa share, but <EVENT class="REPORTING" eid="e67">said</EVENT> the losses for the unusual items were <EVENT class="STATE" eid="e548">larger</EVENT> than <EVENT class="I_STATE" eid="e68">expected</EVENT>.
+
+Still, Bethlehem's core basic steel operations <EVENT class="OCCURRENCE" eid="e70">experienced</EVENT> a steep <EVENT class="OCCURRENCE" eid="e210">drop</EVENT> in operating profit to $58.6 million from $186.4 million <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t211" type="DATE" value="1988-10-26">a year ago</TIMEX3>, when the industry <EVENT class="OCCURRENCE" eid="e74">enjoyed</EVENT> strong demand and pricing. The company <EVENT class="REPORTING" eid="e76">said</EVENT> its shipments <EVENT class="OCCURRENCE" eid="e78">declined</EVENT> as a result of a <EVENT class="OCCURRENCE" eid="e80">reduction</EVENT> in inventories by service centers, a lackluster automotive market and <EVENT class="OCCURRENCE" eid="e84">increasing</EVENT> competitive pressures in the construction market.
+
+At the same time, production costs, compared with <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t215" type="DATE" value="1988-10-26">a year ago</TIMEX3>, were <EVENT class="OCCURRENCE" eid="e89">boosted</EVENT> by higher raw material and employment costs, which <EVENT class="OCCURRENCE" eid="e91">resulted</EVENT> from the company's new labor <EVENT class="OCCURRENCE" eid="e92">pact</EVENT> effective <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t219" type="DATE" value="1990-06-01">June 1</TIMEX3>.
+
+"We <EVENT class="I_STATE" eid="e93">anticipate</EVENT> that steel market conditions will <EVENT class="OCCURRENCE" eid="e94">exhibit</EVENT> a further moderate <EVENT class="OCCURRENCE" eid="e222">decline</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t220" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3> as the automotive sector <EVENT class="STATE" eid="e95">remains</EVENT> weak and customers <EVENT class="ASPECTUAL" eid="e96">continue</EVENT> to <EVENT class="OCCURRENCE" eid="e98">adjust</EVENT> inventories," <EVENT class="REPORTING" eid="e100">said</EVENT> Bethlehem Chairman Walter F. Williams. He <EVENT class="REPORTING" eid="e223">noted</EVENT>, however, that the company's order entry has <EVENT class="OCCURRENCE" eid="e104">increased</EVENT> from the low levels of <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t224" type="DATE" value="1989-SU">the early summer</TIMEX3>, <EVENT class="OCCURRENCE" eid="e106">following</EVENT> the end of labor <EVENT class="OCCURRENCE" eid="e107">negotiations</EVENT>.
+
+Steel business, <EVENT class="REPORTING" eid="e109">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t225" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net income <EVENT class="OCCURRENCE" eid="e110">dropped</EVENT> 8% to $33 million, or 35 cents a share, from $36 million, or 39 cents a share in <TIMEX3 anchorTimeID="t225" functionInDocument="NONE" temporalFunction="true" tid="t227" type="DATE" value="1988-Q3">the year-ago quarter</TIMEX3>. Sales <EVENT class="OCCURRENCE" eid="e112">dropped</EVENT> to $441.1 million from $820.4 million, because the company no longer <EVENT class="OCCURRENCE" eid="e114">consolidates</EVENT> its Eastern Steel division, which is <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t730" type="DATE" value="PRESENT_REF">now</TIMEX3> a joint <EVENT class="OCCURRENCE" eid="e115">venture</EVENT> with Kawasaki Steel Corp.
+
+Along with reduced volume, analysts <EVENT class="REPORTING" eid="e116">said</EVENT> the nation's fifth largest steelmaker was <EVENT class="OCCURRENCE" eid="e117">hurt</EVENT> by <EVENT class="OCCURRENCE" eid="e118">holding</EVENT> higher-cost inventory when raw material costs of such key products as nickel <EVENT class="OCCURRENCE" eid="e122">dropped</EVENT>. Operating profit <EVENT class="OCCURRENCE" eid="e123">dropped</EVENT> 46% in its specialty flat-rolled steel segment. Moreover, the company <EVENT class="REPORTING" eid="e125">said</EVENT> higher sales and shipments to service centers from its Armco Steel Co. joint venture <EVENT class="I_ACTION" eid="e129">failed</EVENT> to <EVENT class="OCCURRENCE" eid="e231">offset</EVENT> weakness in the automotive market, higher production costs and a poorer product mix.
+
+Armco shares <EVENT class="OCCURRENCE" eid="e133">closed</EVENT> unchanged at $10.625 in composite trading on the New York Stock Exchange.
+
+National Intergroup, which <EVENT class="STATE" eid="e136">owns</EVENT> 50% of the nation's sixth largest steelmaker -- National Steel Corp. -- <EVENT class="OCCURRENCE" eid="e137">posted</EVENT> net income for the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t234" type="DATE" value="1989-Q2">fiscal second-quarter</TIMEX3> of $8.6 million, or 33 cents a share, compared with a net loss of $50.3 million. Sales <EVENT class="OCCURRENCE" eid="e141">increased</EVENT> in the <TIMEX3 anchorTimeID="t235" functionInDocument="NONE" temporalFunction="true" tid="t236" type="DATE" value="1989-QX">quarter</TIMEX3> <EVENT class="ASPECTUAL" eid="e142">ended</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t235" type="DATE" value="1989-09-30">Sept. 30</TIMEX3> to $747.8 million from $623.5 million <TIMEX3 anchorTimeID="t236" functionInDocument="NONE" temporalFunction="true" tid="t239" type="DATE" value="1988-QX">a year ago</TIMEX3>. <TIMEX3 anchorTimeID="t234" functionInDocument="NONE" temporalFunction="true" tid="t240" type="DATE" value="1989-Q2">The latest period</TIMEX3> <EVENT class="OCCURRENCE" eid="e143">includes</EVENT> gains of $9.1 million from early retirement of debt and tax loss carry-forward. <TIMEX3 anchorTimeID="t240" functionInDocument="NONE" temporalFunction="true" tid="t838" type="DATE" value="1988-Q2">Last year</TIMEX3>'s results were <EVENT class="OCCURRENCE" eid="e148">hurt</EVENT> by $41.3 million in restructuring charges.
+
+National Intergroup stock <EVENT class="OCCURRENCE" eid="e151">closed</EVENT> at $15, unchanged in composite trading on the New York Stock Exchange.
+
+The company <EVENT class="REPORTING" eid="e154">noted</EVENT> that its Fox-Meyer Drug Co., Ben Franklin Stores Inc. and Permian Corp. operations <EVENT class="I_ACTION" eid="e155">showed</EVENT> <EVENT class="OCCURRENCE" eid="e156">improvements</EVENT> as a result of restructuring <EVENT class="OCCURRENCE" eid="e158">moves</EVENT>. However, its equity in the net income of National Steel <EVENT class="OCCURRENCE" eid="e159">declined</EVENT> to $6.3 million from $10.9 million as a result of softer demand and lost orders following prolonged labor <EVENT class="OCCURRENCE" eid="e164">talks</EVENT> and a <EVENT class="I_ACTION" eid="e249">threatened</EVENT> <EVENT class="OCCURRENCE" eid="e165">strike</EVENT>. National Intergroup is <EVENT class="OCCURRENCE" eid="e166">negotiating</EVENT> for the <EVENT class="OCCURRENCE" eid="e167">sale</EVENT> of its 50% interest in National Steel to <EVENT class="OCCURRENCE" eid="e250">concentrate</EVENT> more fully on drug distribution operations.
+</TEXT>
+<LASTEXTRAINFO>wsj_1003</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei965" eventID="e490"/>
+<MAKEINSTANCE eiid="ei1053" eventID="e250"/>
+<MAKEINSTANCE eiid="ei938" eventID="e310"/>
+<MAKEINSTANCE eiid="ei939" eventID="e18"/>
+<MAKEINSTANCE eiid="ei934" eventID="e11"/>
+<MAKEINSTANCE eiid="ei933" eventID="e10"/>
+<MAKEINSTANCE eiid="ei936" eventID="e13"/>
+<MAKEINSTANCE eiid="ei937" eventID="e16"/>
+<MAKEINSTANCE eiid="ei987" eventID="e91"/>
+<MAKEINSTANCE eiid="ei990" eventID="e93"/>
+<MAKEINSTANCE eiid="ei988" eventID="e92"/>
+<MAKEINSTANCE eiid="ei993" eventID="e95"/>
+<MAKEINSTANCE eiid="ei991" eventID="e94"/>
+<MAKEINSTANCE eiid="ei1032" eventID="e148"/>
+<MAKEINSTANCE eiid="ei994" eventID="e96"/>
+<MAKEINSTANCE eiid="ei995" eventID="e98"/>
+<MAKEINSTANCE eiid="ei1025" eventID="e142"/>
+<MAKEINSTANCE eiid="ei1028" eventID="e143"/>
+<MAKEINSTANCE eiid="ei1024" eventID="e141"/>
+<MAKEINSTANCE eiid="ei1017" eventID="e129"/>
+<MAKEINSTANCE eiid="ei1016" eventID="e125"/>
+<MAKEINSTANCE eiid="ei1014" eventID="e122"/>
+<MAKEINSTANCE eiid="ei1015" eventID="e123"/>
+<MAKEINSTANCE eiid="ei1049" eventID="e249"/>
+<MAKEINSTANCE eiid="ei973" eventID="e548"/>
+<MAKEINSTANCE eiid="ei1041" eventID="e159"/>
+<MAKEINSTANCE eiid="ei1040" eventID="e158"/>
+<MAKEINSTANCE eiid="ei985" eventID="e84"/>
+<MAKEINSTANCE eiid="ei984" eventID="e80"/>
+<MAKEINSTANCE eiid="ei1034" eventID="e151"/>
+<MAKEINSTANCE eiid="ei1037" eventID="e155"/>
+<MAKEINSTANCE eiid="ei1036" eventID="e154"/>
+<MAKEINSTANCE eiid="ei986" eventID="e89"/>
+<MAKEINSTANCE eiid="ei1022" eventID="e137"/>
+<MAKEINSTANCE eiid="ei1021" eventID="e136"/>
+<MAKEINSTANCE eiid="ei1019" eventID="e133"/>
+<MAKEINSTANCE eiid="ei1018" eventID="e231"/>
+<MAKEINSTANCE eiid="ei983" eventID="e78"/>
+<MAKEINSTANCE eiid="ei975" eventID="e70"/>
+<MAKEINSTANCE eiid="ei982" eventID="e76"/>
+<MAKEINSTANCE eiid="ei979" eventID="e74"/>
+<MAKEINSTANCE eiid="ei1001" eventID="e109"/>
+<MAKEINSTANCE eiid="ei996" eventID="e100"/>
+<MAKEINSTANCE eiid="ei999" eventID="e106"/>
+<MAKEINSTANCE eiid="ei1000" eventID="e107"/>
+<MAKEINSTANCE eiid="ei998" eventID="e104"/>
+<MAKEINSTANCE eiid="ei942" eventID="e185"/>
+<MAKEINSTANCE eiid="ei930" eventID="e5"/>
+<MAKEINSTANCE eiid="ei992" eventID="e222"/>
+<MAKEINSTANCE eiid="ei932" eventID="e7"/>
+<MAKEINSTANCE eiid="ei929" eventID="e1"/>
+<MAKEINSTANCE eiid="ei974" eventID="e68"/>
+<MAKEINSTANCE eiid="ei969" eventID="e63"/>
+<MAKEINSTANCE eiid="ei970" eventID="e64"/>
+<MAKEINSTANCE eiid="ei971" eventID="e67"/>
+<MAKEINSTANCE eiid="ei976" eventID="e210"/>
+<MAKEINSTANCE eiid="ei997" eventID="e223"/>
+<MAKEINSTANCE eiid="ei955" eventID="e197"/>
+<MAKEINSTANCE eiid="ei1038" eventID="e156"/>
+<MAKEINSTANCE eiid="ei947" eventID="e191"/>
+<MAKEINSTANCE eiid="ei967" eventID="e59"/>
+<MAKEINSTANCE eiid="ei966" eventID="e56"/>
+<MAKEINSTANCE eiid="ei962" eventID="e50"/>
+<MAKEINSTANCE eiid="ei964" eventID="e53"/>
+<MAKEINSTANCE eiid="ei963" eventID="e201"/>
+<MAKEINSTANCE eiid="ei968" eventID="e206"/>
+<MAKEINSTANCE eiid="ei957" eventID="e47"/>
+<MAKEINSTANCE eiid="ei953" eventID="e44"/>
+<MAKEINSTANCE eiid="ei960" eventID="e49"/>
+<MAKEINSTANCE eiid="ei1009" eventID="e115"/>
+<MAKEINSTANCE eiid="ei1008" eventID="e114"/>
+<MAKEINSTANCE eiid="ei1012" eventID="e117"/>
+<MAKEINSTANCE eiid="ei1011" eventID="e116"/>
+<MAKEINSTANCE eiid="ei1002" eventID="e110"/>
+<MAKEINSTANCE eiid="ei1005" eventID="e112"/>
+<MAKEINSTANCE eiid="ei1013" eventID="e118"/>
+<MAKEINSTANCE eiid="ei950" eventID="e375"/>
+<MAKEINSTANCE eiid="ei952" eventID="e377"/>
+<MAKEINSTANCE eiid="ei949" eventID="e373"/>
+<MAKEINSTANCE eiid="ei948" eventID="e35"/>
+<MAKEINSTANCE eiid="ei946" eventID="e34"/>
+<MAKEINSTANCE eiid="ei945" eventID="e33"/>
+<MAKEINSTANCE eiid="ei1048" eventID="e164"/>
+<MAKEINSTANCE eiid="ei1050" eventID="e165"/>
+<MAKEINSTANCE eiid="ei1051" eventID="e166"/>
+<MAKEINSTANCE eiid="ei1052" eventID="e167"/>
+<MAKEINSTANCE eiid="ei943" eventID="e26"/>
+<MAKEINSTANCE eiid="ei940" eventID="e21"/>
+<MAKEINSTANCE eiid="ei944" eventID="e29"/>
+<TLINK eventInstanceID="ei983" lid="l1" relType="AFTER" relatedToEventInstance="ei984"/>
+<TLINK eventInstanceID="ei1016" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei986" lid="l3" relType="SIMULTANEOUS" relatedToEventInstance="ei983"/>
+<TLINK eventInstanceID="ei982" lid="l4" relType="AFTER" relatedToEventInstance="ei983"/>
+<TLINK eventInstanceID="ei962" lid="l5" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei994" lid="l6" relType="CONTINUES" relatedToEventInstance="ei995"/>
+<TLINK lid="l7" relType="ENDED_BY" relatedToEventInstance="ei957" timeID="t198"/>
+<TLINK eventInstanceID="ei1001" lid="l8" relType="AFTER" relatedToEventInstance="ei1002"/>
+<TLINK lid="l9" relType="ENDED_BY" relatedToEventInstance="ei1002" timeID="t225"/>
+<TLINK eventInstanceID="ei995" lid="l10" relType="DURING" relatedToTime="t220"/>
+<TLINK eventInstanceID="ei999" lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei998"/>
+<TLINK eventInstanceID="ei946" lid="l12" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei1028" timeID="t240"/>
+<TLINK eventInstanceID="ei974" lid="l14" relType="BEFORE" relatedToEventInstance="ei971"/>
+<TLINK lid="l15" relType="AFTER" relatedToEventInstance="ei998" timeID="t224"/>
+<TLINK eventInstanceID="ei965" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1019" lid="l17" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l18" relType="INCLUDES" relatedToEventInstance="ei1032" timeID="t838"/>
+<TLINK eventInstanceID="ei1005" lid="l19" relType="OVERLAP" relatedToEventInstance="ei1008"/>
+<TLINK eventInstanceID="ei955" lid="l20" relType="BEFORE" relatedToEventInstance="ei953"/>
+<TLINK eventInstanceID="ei932" lid="l21" relType="SIMULTANEOUS" relatedToEventInstance="ei933"/>
+<TLINK eventInstanceID="ei1008" lid="l22" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei947" lid="l23" relType="BEFORE" relatedToEventInstance="ei946"/>
+<TLINK eventInstanceID="ei969" lid="l24" relType="AFTER" relatedToEventInstance="ei968"/>
+<TLINK eventInstanceID="ei945" lid="l25" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei937" lid="l26" relType="OVERLAP" relatedToEventInstance="ei939"/>
+<TLINK eventInstanceID="ei1052" lid="l27" relType="AFTER" relatedToEventInstance="ei1051"/>
+<TLINK eventInstanceID="ei986" lid="l28" relType="AFTER" relatedToTime="t215"/>
+<TLINK eventInstanceID="ei1024" lid="l29" relType="IS_INCLUDED" relatedToTime="t236"/>
+<TLINK eventInstanceID="ei991" lid="l30" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei996" lid="l31" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1001" lid="l32" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1025" lid="l33" relType="SIMULTANEOUS" relatedToTime="t235"/>
+<TLINK eventInstanceID="ei1051" lid="l34" relType="BEFORE" relatedToEventInstance="ei1053"/>
+<TLINK eventInstanceID="ei966" lid="l35" relType="BEFORE" relatedToEventInstance="ei967"/>
+<TLINK eventInstanceID="ei966" lid="l36" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei975" lid="l37" relType="SIMULTANEOUS" relatedToEventInstance="ei976"/>
+<TLINK eventInstanceID="ei948" lid="l38" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1021" lid="l39" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1017" lid="l40" relType="OVERLAP" relatedToEventInstance="ei1018"/>
+<TLINK eventInstanceID="ei960" lid="l41" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei940" lid="l42" relType="IS_INCLUDED" relatedToTime="t183"/>
+<TLINK eventInstanceID="ei938" lid="l43" relType="INCLUDES" relatedToTime="t183"/>
+<TLINK eventInstanceID="ei944" lid="l44" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1051" lid="l45" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei933" lid="l46" relType="OVERLAP" relatedToEventInstance="ei934"/>
+<TLINK eventInstanceID="ei970" lid="l47" relType="BEFORE" relatedToTime="t207"/>
+<TLINK eventInstanceID="ei1009" lid="l48" relType="DURING" relatedToTime="t730"/>
+<TLINK eventInstanceID="ei994" lid="l49" relType="DURING" relatedToTime="t220"/>
+<TLINK eventInstanceID="ei962" lid="l50" relType="OVERLAP" relatedToEventInstance="ei963"/>
+<TLINK eventInstanceID="ei1011" lid="l51" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei946" lid="l52" relType="INCLUDES" relatedToTime="t192"/>
+<TLINK eventInstanceID="ei1013" lid="l53" relType="DURING" relatedToEventInstance="ei1014"/>
+<TLINK eventInstanceID="ei1013" lid="l54" relType="BEFORE" relatedToEventInstance="ei1012"/>
+<TLINK eventInstanceID="ei971" lid="l55" relType="OVERLAP" relatedToEventInstance="ei973"/>
+<TLINK eventInstanceID="ei1022" lid="l56" relType="AFTER" relatedToTime="t234"/>
+<TLINK eventInstanceID="ei971" lid="l57" relType="SIMULTANEOUS" relatedToEventInstance="ei969"/>
+<TLINK eventInstanceID="ei934" lid="l58" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei949" lid="l59" relType="SIMULTANEOUS" relatedToEventInstance="ei948"/>
+<TLINK eventInstanceID="ei1011" lid="l60" relType="AFTER" relatedToEventInstance="ei1012"/>
+<TLINK eventInstanceID="ei969" lid="l61" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1015" lid="l62" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei930" lid="l63" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei939" lid="l64" relType="CONTINUES" relatedToEventInstance="ei938"/>
+<TLINK eventInstanceID="ei1000" lid="l65" relType="AFTER" relatedToEventInstance="ei998"/>
+<TLINK eventInstanceID="ei932" lid="l66" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei936" lid="l67" relType="DURING" relatedToTime="t283"/>
+<TLINK eventInstanceID="ei1036" lid="l68" relType="AFTER" relatedToEventInstance="ei1037"/>
+<TLINK eventInstanceID="ei987" lid="l69" relType="AFTER" relatedToEventInstance="ei988"/>
+<TLINK eventInstanceID="ei937" lid="l70" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei929" lid="l71" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei997" lid="l72" relType="IDENTITY" relatedToEventInstance="ei996"/>
+<TLINK eventInstanceID="ei1016" lid="l73" relType="AFTER" relatedToEventInstance="ei1017"/>
+<TLINK eventInstanceID="ei945" lid="l74" relType="BEFORE" relatedToEventInstance="ei946"/>
+<TLINK eventInstanceID="ei997" lid="l75" relType="AFTER" relatedToEventInstance="ei998"/>
+<TLINK lid="l76" relType="AFTER" relatedToTime="t0" timeID="t190"/>
+<TLINK eventInstanceID="ei990" lid="l77" relType="BEFORE" relatedToEventInstance="ei991"/>
+<TLINK eventInstanceID="ei1005" lid="l78" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei993" lid="l79" relType="DURING" relatedToTime="t220"/>
+<TLINK lid="l80" relType="ENDED_BY" relatedToEventInstance="ei1025" timeID="t236"/>
+<TLINK eventInstanceID="ei983" lid="l81" relType="AFTER" relatedToEventInstance="ei985"/>
+<TLINK lid="l82" relType="INCLUDES" relatedToEventInstance="ei953" timeID="t196"/>
+<TLINK eventInstanceID="ei987" lid="l83" relType="SIMULTANEOUS" relatedToEventInstance="ei986"/>
+<TLINK lid="l84" relType="INCLUDES" relatedToEventInstance="ei992" timeID="t220"/>
+<TLINK eventInstanceID="ei948" lid="l85" relType="AFTER" relatedToEventInstance="ei950"/>
+<TLINK eventInstanceID="ei1036" lid="l86" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei982" lid="l87" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei938" lid="l88" relType="INCLUDES" relatedToTime="t182"/>
+<TLINK eventInstanceID="ei979" lid="l89" relType="IS_INCLUDED" relatedToTime="t211"/>
+</TimeML>

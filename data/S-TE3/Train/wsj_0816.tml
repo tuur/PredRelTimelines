@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0816</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Some lousy earnings reports <EVENT class="OCCURRENCE" eid="e2">whacked</EVENT> the stock market, but bond prices <EVENT class="OCCURRENCE" eid="e89">fell</EVENT> only slightly and the dollar <EVENT class="OCCURRENCE" eid="e6">rose</EVENT> a little against most major currencies.
+
+The Dow Jones Industrial Average <EVENT class="OCCURRENCE" eid="e8">tumbled</EVENT> 39.55 points, to 2613.73, in active trading. Long-term Treasury bonds <EVENT class="ASPECTUAL" eid="e11">ended</EVENT> slightly higher. The dollar <EVENT class="OCCURRENCE" eid="e13">rose</EVENT> modestly against the mark and the yen, but <EVENT class="OCCURRENCE" eid="e15">soared</EVENT> against the pound following the <EVENT class="OCCURRENCE" eid="e17">resignation</EVENT> of Britain's chancellor of the Exchequer, Nigel Lawson.
+
+Analysts have <EVENT class="I_ACTION" eid="e18">complained</EVENT> that <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t176" type="DATE" value="1989-Q3">third-quarter</TIMEX3> corporate earnings haven't been very <EVENT class="STATE" eid="e135">good</EVENT>, but the effect <EVENT class="OCCURRENCE" eid="e20">hit</EVENT> home particularly hard <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t95" type="DATE" value="1989-10-26">yesterday</TIMEX3>. Compaq Computer <EVENT class="OCCURRENCE" eid="e21">nose-dived</EVENT> $8.625 a share, to $100, and <EVENT class="OCCURRENCE" eid="e22">pulled</EVENT> other technology issues lower after <EVENT class="REPORTING" eid="e24">reporting</EVENT> lower-than-expected earnings after the stock market <EVENT class="OCCURRENCE" eid="e27">closed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t99" type="DATE" value="1989-10-25">Wednesday</TIMEX3>. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t100" type="DATE" value="1989-10-26">Later yesterday</TIMEX3> the nation's major auto makers <EVENT class="OCCURRENCE" eid="e28">added</EVENT> to the gloom when they each <EVENT class="REPORTING" eid="e30">reported</EVENT> their core auto operations were net <EVENT class="STATE" eid="e101">losers</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t103" type="DATE" value="1989-Q3">the third quarter</TIMEX3>.
+
+The less-than-robust <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t104" type="DATE" value="1989-Q3">third-quarter</TIMEX3> <EVENT class="STATE" eid="e32">results</EVENT> came amid renewed concern about the volatility of stock prices and the role of computer-aided program trading. Taken together, the worries <EVENT class="OCCURRENCE" eid="e37">prompted</EVENT> a broad <EVENT class="OCCURRENCE" eid="e109">sell-off</EVENT> of stocks. The number of stocks on the New York Stock Exchange that <EVENT class="OCCURRENCE" eid="e38">fell</EVENT> in price <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t110" type="DATE" value="1989-10-26">yesterday</TIMEX3> exceeded 1,000, a key measure of underlying sentiment among technical analysts.
+
+Although the government <EVENT class="REPORTING" eid="e43">said</EVENT> the economy <EVENT class="OCCURRENCE" eid="e44">grew</EVENT> an estimated 2.5% in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t112" type="DATE" value="1989-Q3">the third quarter</TIMEX3>, in line with expectations, analysts are increasingly <EVENT class="I_ACTION" eid="e47">predicting</EVENT> much more sluggish <EVENT class="OCCURRENCE" eid="e114">growth</EVENT> -- and therefore more corporate earnings <EVENT class="OCCURRENCE" eid="e48">disappointments</EVENT> -- for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t116" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3>.
+
+"There are a lot more downward <EVENT class="OCCURRENCE" eid="e49">revisions</EVENT> of earnings forecasts than upward <EVENT class="OCCURRENCE" eid="e51">revisions</EVENT>," <EVENT class="REPORTING" eid="e52">said</EVENT> Abby Joseph Cohen, a market strategist at Drexel Burnham Lambert. "People are <EVENT class="OCCURRENCE" eid="e53">questioning</EVENT> corporate profits as a pillar of support for the equity market."
+
+The bond market was <EVENT class="OCCURRENCE" eid="e117">unmoved</EVENT> by the economic statistics. While bond investors would have <EVENT class="I_STATE" eid="e118">preferred</EVENT> <EVENT class="OCCURRENCE" eid="e119">growth</EVENT> to <EVENT class="STATE" eid="e134">be</EVENT> a little slower, they were <EVENT class="OCCURRENCE" eid="e60">cheered</EVENT> by inflation measures in the data that showed prices <EVENT class="OCCURRENCE" eid="e63">rising</EVENT> at a modest annual rate of 2.9%. That is another small <EVENT class="I_ACTION" eid="e65">encouragement</EVENT> for the Federal Reserve to <EVENT class="OCCURRENCE" eid="e120">lower</EVENT> interest rates in <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t121" type="DURATION" value="PXW">coming weeks</TIMEX3>, they <EVENT class="I_ACTION" eid="e68">reasoned</EVENT>.
+
+In major market <EVENT class="OCCURRENCE" eid="e123">activity</EVENT>: Stock prices <EVENT class="OCCURRENCE" eid="e70">fell</EVENT> sharply in active trading. Volume on the New York Stock Exchange <EVENT class="OCCURRENCE" eid="e73">totaled</EVENT> 175.2 million shares. Declining issues on the Big Board <EVENT class="OCCURRENCE" eid="e75">outstripped</EVENT> gainers 1,141 to 406.
+
+Bond prices were barely <EVENT class="STATE" eid="e124">higher</EVENT>. The Treasury's benchmark <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t500" type="DURATION" value="P30Y">30-year</TIMEX3> <EVENT class="OCCURRENCE" eid="e76">rose</EVENT> fractionally. Yield on the issue was 7.88%.
+
+The dollar <EVENT class="OCCURRENCE" eid="e80">rose</EVENT> modestly against most major currencies. In late New York trading the dollar was at 1.8400 marks and 142.10 yen compared with 1.8353 marks and 141.52 yen <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t130" type="DATE" value="1989-10-25">Wednesday</TIMEX3>. The dollar <EVENT class="OCCURRENCE" eid="e85">soared</EVENT> against the pound, which was at $1.5765 compared with $1.6145 <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t131" type="DATE" value="1989-10-25">Wednesday</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0816</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei516" eventID="e49"/>
+<MAKEINSTANCE eiid="ei542" eventID="e135"/>
+<MAKEINSTANCE eiid="ei541" eventID="e134"/>
+<MAKEINSTANCE eiid="ei507" eventID="e37"/>
+<MAKEINSTANCE eiid="ei490" eventID="e18"/>
+<MAKEINSTANCE eiid="ei502" eventID="e32"/>
+<MAKEINSTANCE eiid="ei500" eventID="e30"/>
+<MAKEINSTANCE eiid="ei486" eventID="e11"/>
+<MAKEINSTANCE eiid="ei487" eventID="e13"/>
+<MAKEINSTANCE eiid="ei488" eventID="e15"/>
+<MAKEINSTANCE eiid="ei489" eventID="e17"/>
+<MAKEINSTANCE eiid="ei509" eventID="e38"/>
+<MAKEINSTANCE eiid="ei531" eventID="e73"/>
+<MAKEINSTANCE eiid="ei530" eventID="e70"/>
+<MAKEINSTANCE eiid="ei518" eventID="e51"/>
+<MAKEINSTANCE eiid="ei534" eventID="e76"/>
+<MAKEINSTANCE eiid="ei520" eventID="e53"/>
+<MAKEINSTANCE eiid="ei519" eventID="e52"/>
+<MAKEINSTANCE eiid="ei508" eventID="e109"/>
+<MAKEINSTANCE eiid="ei533" eventID="e124"/>
+<MAKEINSTANCE eiid="ei501" eventID="e101"/>
+<MAKEINSTANCE eiid="ei527" eventID="e120"/>
+<MAKEINSTANCE eiid="ei529" eventID="e123"/>
+<MAKEINSTANCE eiid="ei484" eventID="e8"/>
+<MAKEINSTANCE eiid="ei483" eventID="e6"/>
+<MAKEINSTANCE eiid="ei513" eventID="e47"/>
+<MAKEINSTANCE eiid="ei496" eventID="e24"/>
+<MAKEINSTANCE eiid="ei510" eventID="e43"/>
+<MAKEINSTANCE eiid="ei498" eventID="e27"/>
+<MAKEINSTANCE eiid="ei492" eventID="e20"/>
+<MAKEINSTANCE eiid="ei511" eventID="e44"/>
+<MAKEINSTANCE eiid="ei495" eventID="e22"/>
+<MAKEINSTANCE eiid="ei515" eventID="e48"/>
+<MAKEINSTANCE eiid="ei493" eventID="e21"/>
+<MAKEINSTANCE eiid="ei499" eventID="e28"/>
+<MAKEINSTANCE eiid="ei526" eventID="e65"/>
+<MAKEINSTANCE eiid="ei528" eventID="e68"/>
+<MAKEINSTANCE eiid="ei514" eventID="e114"/>
+<MAKEINSTANCE eiid="ei521" eventID="e117"/>
+<MAKEINSTANCE eiid="ei538" eventID="e85"/>
+<MAKEINSTANCE eiid="ei532" eventID="e75"/>
+<MAKEINSTANCE eiid="ei535" eventID="e80"/>
+<MAKEINSTANCE eiid="ei524" eventID="e60"/>
+<MAKEINSTANCE eiid="ei525" eventID="e63"/>
+<MAKEINSTANCE eiid="ei523" eventID="e119"/>
+<MAKEINSTANCE eiid="ei522" eventID="e118"/>
+<MAKEINSTANCE eiid="ei481" eventID="e2"/>
+<MAKEINSTANCE eiid="ei482" eventID="e89"/>
+<TLINK eventInstanceID="ei521" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei487" lid="l2" relType="IDENTITY" relatedToEventInstance="ei483"/>
+<TLINK eventInstanceID="ei492" lid="l3" relType="IS_INCLUDED" relatedToTime="t95"/>
+<TLINK eventInstanceID="ei520" lid="l4" relType="INCLUDES" relatedToEventInstance="ei519"/>
+<TLINK eventInstanceID="ei499" lid="l5" relType="IS_INCLUDED" relatedToTime="t100"/>
+<TLINK eventInstanceID="ei534" lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei524" lid="l7" relType="AFTER" relatedToEventInstance="ei522"/>
+<TLINK eventInstanceID="ei496" lid="l8" relType="AFTER" relatedToEventInstance="ei498"/>
+<TLINK eventInstanceID="ei490" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei528" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei524"/>
+<TLINK eventInstanceID="ei488" lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei487"/>
+<TLINK eventInstanceID="ei502" lid="l12" relType="ENDS" relatedToTime="t104"/>
+<TLINK eventInstanceID="ei484" lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei482"/>
+<TLINK eventInstanceID="ei533" lid="l14" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei535" lid="l15" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei530" lid="l16" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei531" lid="l17" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei510" lid="l18" relType="AFTER" relatedToEventInstance="ei511"/>
+<TLINK eventInstanceID="ei499" lid="l19" relType="AFTER" relatedToEventInstance="ei500"/>
+<TLINK eventInstanceID="ei507" lid="l20" relType="BEFORE" relatedToEventInstance="ei508"/>
+<TLINK eventInstanceID="ei495" lid="l21" relType="AFTER" relatedToEventInstance="ei496"/>
+<TLINK eventInstanceID="ei525" lid="l22" relType="BEFORE" relatedToEventInstance="ei524"/>
+<TLINK eventInstanceID="ei482" lid="l23" relType="SIMULTANEOUS" relatedToEventInstance="ei483"/>
+<TLINK eventInstanceID="ei493" lid="l24" relType="SIMULTANEOUS" relatedToEventInstance="ei495"/>
+<TLINK eventInstanceID="ei498" lid="l25" relType="IS_INCLUDED" relatedToTime="t99"/>
+<TLINK eventInstanceID="ei519" lid="l26" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei542" lid="l27" relType="SIMULTANEOUS" relatedToTime="t176"/>
+<TLINK eventInstanceID="ei481" lid="l28" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei510" lid="l29" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei527" lid="l30" relType="IS_INCLUDED" relatedToTime="t121"/>
+<TLINK eventInstanceID="ei490" lid="l31" relType="AFTER" relatedToEventInstance="ei542"/>
+<TLINK eventInstanceID="ei519" lid="l32" relType="IS_INCLUDED" relatedToEventInstance="ei516"/>
+<TLINK eventInstanceID="ei529" lid="l33" relType="IS_INCLUDED" relatedToTime="t110"/>
+<TLINK eventInstanceID="ei524" lid="l34" relType="SIMULTANEOUS" relatedToEventInstance="ei521"/>
+<TLINK eventInstanceID="ei515" lid="l35" relType="IS_INCLUDED" relatedToTime="t116"/>
+<TLINK eventInstanceID="ei523" lid="l36" relType="IS_INCLUDED" relatedToTime="t116"/>
+<TLINK eventInstanceID="ei488" lid="l37" relType="AFTER" relatedToEventInstance="ei489"/>
+<TLINK eventInstanceID="ei495" lid="l38" relType="AFTER" relatedToTime="t99"/>
+<TLINK eventInstanceID="ei514" lid="l39" relType="DURING" relatedToTime="t116"/>
+<TLINK eventInstanceID="ei511" lid="l40" relType="IS_INCLUDED" relatedToTime="t112"/>
+<TLINK eventInstanceID="ei509" lid="l41" relType="IS_INCLUDED" relatedToTime="t110"/>
+<TLINK eventInstanceID="ei514" lid="l42" relType="BEFORE" relatedToEventInstance="ei515"/>
+<TLINK eventInstanceID="ei538" lid="l43" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei513" lid="l44" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei532" lid="l45" relType="IS_INCLUDED" relatedToEventInstance="ei529"/>
+<TLINK eventInstanceID="ei493" lid="l46" relType="IS_INCLUDED" relatedToEventInstance="ei492"/>
+<TLINK eventInstanceID="ei529" lid="l47" relType="AFTER" relatedToTime="t130"/>
+<TLINK eventInstanceID="ei529" lid="l48" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei501" lid="l49" relType="ENDS" relatedToTime="t103"/>
+<TLINK eventInstanceID="ei500" lid="l50" relType="AFTER" relatedToEventInstance="ei501"/>
+<TLINK eventInstanceID="ei481" lid="l51" relType="BEFORE" relatedToEventInstance="ei482"/>
+</TimeML>

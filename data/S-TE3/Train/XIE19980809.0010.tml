@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>XIE19980809.0010</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-08-08">1998-08-08</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+TEHRAN, <TIMEX3 functionInDocument="PUBLICATION_TIME" temporalFunction="false" tid="t111" type="DATE" value="1998-08-08">August 8</TIMEX3> (Xinhua) --
+
+Iran <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2" type="DATE" value="1998-08-08">Saturday</TIMEX3> <EVENT class="OCCURRENCE" eid="e1">condemned</EVENT> the <EVENT class="OCCURRENCE" eid="e11">bombing</EVENT> of U.S. embassies in Kenya and Tanzania, and <EVENT class="OCCURRENCE" eid="e2">expressed</EVENT> sympathy for the families of the victims.
+
+Foreign Ministry spokesman Mahmoud Mohammadi <EVENT class="REPORTING" eid="e3">said</EVENT> that Iran <EVENT class="OCCURRENCE" eid="e4">condemns</EVENT> any <EVENT class="OCCURRENCE" eid="e12">acts</EVENT> which may result in the <EVENT class="OCCURRENCE" eid="e13">death</EVENT> of innocent people, the official news agency IRNA <EVENT class="REPORTING" eid="e6">reported</EVENT>.
+
+He <EVENT class="OCCURRENCE" eid="e7">expressed</EVENT> hope the "sinister terrorism" will be <EVENT class="OCCURRENCE" eid="e20">uprooted</EVENT> with an all-out campaign through international <EVENT class="OCCURRENCE" eid="e17">cooperation</EVENT>.
+
+More than 100 people have been <EVENT class="OCCURRENCE" eid="e8">killed</EVENT> and more than 1,000 others <EVENT class="OCCURRENCE" eid="e9">wounded</EVENT> in the <EVENT class="OCCURRENCE" eid="e18">blasts</EVENT> next to the U.S. embassies in Kenya and Tanzania on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t3" type="DATE" value="1998-08-07">Friday</TIMEX3>. No one has <EVENT class="REPORTING" eid="e10">claimed</EVENT> responsibility.
+
+</TEXT>
+<LASTEXTRAINFO>XIE19980809.0010</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei18" eventID="e18"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK eventInstanceID="ei10" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei11" lid="l2" relType="BEFORE" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei7" lid="l3" relType="BEFORE" relatedToEventInstance="ei20"/>
+<TLINK eventInstanceID="ei8" lid="l4" relType="SIMULTANEOUS" relatedToEventInstance="ei9"/>
+<TLINK eventInstanceID="ei12" lid="l5" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK lid="l6" relType="IDENTITY" relatedToTime="t0" timeID="t2"/>
+<TLINK eventInstanceID="ei17" lid="l7" relType="BEFORE" relatedToEventInstance="ei20"/>
+<TLINK eventInstanceID="ei4" lid="l8" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l9" relType="BEFORE" relatedToTime="t2" timeID="t3"/>
+<TLINK eventInstanceID="ei18" lid="l10" relType="IBEFORE" relatedToEventInstance="ei8"/>
+<TLINK eventInstanceID="ei18" lid="l11" relType="IBEFORE" relatedToEventInstance="ei9"/>
+<TLINK eventInstanceID="ei7" lid="l12" relType="BEFORE" relatedToEventInstance="ei17"/>
+<TLINK eventInstanceID="ei6" lid="l13" relType="AFTER" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei12" lid="l14" relType="BEFORE" relatedToEventInstance="ei13"/>
+<TLINK eventInstanceID="ei3" lid="l15" relType="AFTER" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei1" lid="l16" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei10" lid="l17" relType="AFTER" relatedToEventInstance="ei18"/>
+<TLINK eventInstanceID="ei3" lid="l18" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei8" lid="l19" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei7" lid="l20" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1" lid="l21" relType="BEFORE" relatedToEventInstance="ei2"/>
+</TimeML>

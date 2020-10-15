@@ -1,0 +1,467 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>WSJ910225-0066</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1991-02-25">1991-02-25</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+"So far, the <EVENT class="OCCURRENCE" eid="e449">offensive</EVENT> is progressing with dramatic success," <EVENT class="REPORTING" eid="e4">said</EVENT> a buoyant Gen. Norman Schwarzkopf, commander of U.S. forces. Similarly, while cautioning about the uncertainty of early battle reports, White House spokesman Marlin Fitzwater <EVENT class="REPORTING" eid="e8">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t451" type="DATE" value="1991-02-24">late yesterday</TIMEX3> that "the <EVENT class="OCCURRENCE" eid="e9">operation</EVENT> has been very successful." Amid reports that thousands of Iraqi soldiers had <EVENT class="OCCURRENCE" eid="e11">surrendered</EVENT>, administration aides were also upbeat in private, with one even <EVENT class="OCCURRENCE" eid="e12">talking</EVENT> of victory within a week. But even continued military success <EVENT class="OCCURRENCE" eid="e16">carries</EVENT> political and diplomatic risks for President Bush and the U.S. The allied <EVENT class="OCCURRENCE" eid="e18">rejection</EVENT> of the last-minute Soviet-led diplomatic <EVENT class="OCCURRENCE" eid="e19">effort</EVENT> to <EVENT class="I_ACTION" eid="e21">avoid</EVENT> the ground <EVENT class="OCCURRENCE" eid="e22">war</EVENT> <EVENT class="I_STATE" eid="e23">enabled</EVENT> Mr. Bush to <EVENT class="OCCURRENCE" eid="e25">seize</EVENT> the initiative from an Iraq seemingly bent on <EVENT class="OCCURRENCE" eid="e452">dictating</EVENT> peace terms. But it has <EVENT class="OCCURRENCE" eid="e28">offended</EVENT> some, especially in Arab countries, who now <EVENT class="I_STATE" eid="e29">believe</EVENT> that Mr. Bush's real objectives are the <EVENT class="OCCURRENCE" eid="e453">demise</EVENT> of Saddam Hussein and the <EVENT class="OCCURRENCE" eid="e30">destruction</EVENT> of the Iraqi military, not just the <EVENT class="OCCURRENCE" eid="e31">liberation</EVENT> of Kuwait. "Why have a <EVENT class="STATE" eid="e32">war</EVENT>?" <EVENT class="I_ACTION" eid="e33">asked</EVENT> Abdul Latif Shekar, a customs officer in Egypt, a country <EVENT class="OCCURRENCE" eid="e34">participating</EVENT> in the <EVENT class="OCCURRENCE" eid="e35">attack</EVENT> on Iraqi troops. "I <EVENT class="I_STATE" eid="e37">think</EVENT> the Gorbachev plan was a good one. Iraq was ready to <EVENT class="OCCURRENCE" eid="e39">withdraw</EVENT>." Now, he <EVENT class="REPORTING" eid="e40">says</EVENT>, "it <EVENT class="PERCEPTION" eid="e41">looks</EVENT> like the West just <EVENT class="I_STATE" eid="e42">wants</EVENT> to <EVENT class="OCCURRENCE" eid="e44">destroy</EVENT> Iraq." Despite the early indications of success, the allied forces could still <EVENT class="OCCURRENCE" eid="e47">suffer</EVENT> greater casualties and <EVENT class="OCCURRENCE" eid="e526">become</EVENT> <EVENT class="OCCURRENCE" eid="e456">bogged</EVENT> down militarily, especially when they <EVENT class="OCCURRENCE" eid="e52">encounter</EVENT> the tough Republican Guard, which is <EVENT class="OCCURRENCE" eid="e53">entrenched</EVENT> along the Iraq-Kuwait border. If so, and if it <EVENT class="OCCURRENCE" eid="e55">appears</EVENT> that the American goal actually is to <EVENT class="OCCURRENCE" eid="e58">destroy</EVENT> the Iraqi regime even at the cost of badly hurting Iraqi society, "the lingering cost of that could be high," <EVENT class="OCCURRENCE" eid="e458">worries</EVENT> former national security adviser Zbigniew Brzezinski. But, he <EVENT class="REPORTING" eid="e62">notes</EVENT>, "If everything <EVENT class="OCCURRENCE" eid="e459">crumbles</EVENT> totally, that won't be such a problem." American officials staunchly <EVENT class="OCCURRENCE" eid="e64">disavow</EVENT> any interest in <EVENT class="OCCURRENCE" eid="e66">driving</EVENT> through Iraq toward Baghdad, either in <EVENT class="OCCURRENCE" eid="e67">pursuit</EVENT> of Saddam Hussein himself or to <EVENT class="OCCURRENCE" eid="e69">set</EVENT> up some American-controlled government inside Iraq. The Americans <EVENT class="REPORTING" eid="e70">say</EVENT> their battle plans <EVENT class="OCCURRENCE" eid="e71">call</EVENT> for <EVENT class="OCCURRENCE" eid="e72">operating</EVENT> against forces inside Iraq as far north as the city of Basra, about 30 miles north of Kuwait, but say there isn't any plan to <EVENT class="OCCURRENCE" eid="e76">drive</EVENT> beyond that. Indeed, French President Francois Mitterrand <EVENT class="REPORTING" eid="e77">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t463" type="DATE" value="1991-02-24">yesterday</TIMEX3> that some allied forces are <EVENT class="OCCURRENCE" eid="e78">crossing</EVENT> Iraqi territory as part of a "pincer" movement to <EVENT class="OCCURRENCE" eid="e466">trap</EVENT> the soldiers occupying Kuwait, but <EVENT class="REPORTING" eid="e81">insisted</EVENT>, "The purpose isn't to <EVENT class="OCCURRENCE" eid="e82">invade</EVENT> Iraqi territory, that's not the aim, that isn't the mandate." Nevertheless, American officials over <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t472" type="DATE" value="1991-W08-WE">the weekend</TIMEX3> <EVENT class="OCCURRENCE" eid="e84">became</EVENT> more <EVENT class="STATE" eid="e473">open</EVENT> in <EVENT class="REPORTING" eid="e86">declaring</EVENT> that by <EVENT class="OCCURRENCE" eid="e87">destroying</EVENT> Saddam Hussein's military machine they <EVENT class="I_STATE" eid="e88">hope</EVENT> to <EVENT class="OCCURRENCE" eid="e90">destroy</EVENT> his regime -- a goal likely to be <EVENT class="OCCURRENCE" eid="e93">supported</EVENT> by most Americans. In a pre-attack message, Lt. Gen. Walter Boomer, the top Marine in the Persian Gulf, <EVENT class="REPORTING" eid="e95">told</EVENT> U.S. Marines that their goal is to " <EVENT class="OCCURRENCE" eid="e98">restore</EVENT> {Kuwait} to its citizens." He <EVENT class="OCCURRENCE" eid="e99">went</EVENT> on to <EVENT class="REPORTING" eid="e102">add</EVENT> that "in so <EVENT class="OCCURRENCE" eid="e104">doing</EVENT> you not only <EVENT class="OCCURRENCE" eid="e105">return</EVENT> a nation to its people, but you will <EVENT class="OCCURRENCE" eid="e106">destroy</EVENT> the war machine of a ruthless dictator." Secretary of State James Baker <EVENT class="REPORTING" eid="e107">said</EVENT> on ABC-TV's "This Week With David Brinkley" that the series of United Nations resolutions <EVENT class="OCCURRENCE" eid="e478">condemning</EVENT> Iraq's <EVENT class="OCCURRENCE" eid="e110">invasion</EVENT> of Kuwait "<EVENT class="OCCURRENCE" eid="e111">imply</EVENT> that the <EVENT class="OCCURRENCE" eid="e112">restoration</EVENT> of peace and stability in the Gulf would be a heck of a lot easier if he and that leadership were not in power in Iraq." Of course, it is still far too early to <EVENT class="OCCURRENCE" eid="e120">assume</EVENT> that the military <EVENT class="STATE" eid="e482">situation</EVENT> on the ground will <EVENT class="OCCURRENCE" eid="e122">stay</EVENT> as smooth for allied forces as it <EVENT class="OCCURRENCE" eid="e124">appears</EVENT> to have been so far. Iraq still <EVENT class="OCCURRENCE" eid="e127">has</EVENT> the potential to <EVENT class="OCCURRENCE" eid="e129">cause</EVENT> significant problems by <EVENT class="OCCURRENCE" eid="e130">using</EVENT> forces and weapons that don't yet <EVENT class="PERCEPTION" eid="e132">seem</EVENT> fully <EVENT class="OCCURRENCE" eid="e133">engaged</EVENT>. For one thing, Iraq still apparently hasn't <EVENT class="OCCURRENCE" eid="e135">unleashed</EVENT> its stockpile of chemical weapons. Gen. Schwarzkopf <EVENT class="REPORTING" eid="e138">said</EVENT> that some early reports that chemical weapons were <EVENT class="OCCURRENCE" eid="e141">used</EVENT> against allied troops <EVENT class="OCCURRENCE" eid="e142">turned</EVENT> out to be "bogus." Iraq is <EVENT class="OCCURRENCE" eid="e144">believed</EVENT> to <EVENT class="OCCURRENCE" eid="e146">have</EVENT> the ability to <EVENT class="OCCURRENCE" eid="e148">deliver</EVENT> chemical weapons in artillery shells or, perhaps, atop Soviet-made Frog7 missiles. Perhaps more important, it <EVENT class="OCCURRENCE" eid="e150">appears</EVENT> that allied troops haven't yet fully <EVENT class="OCCURRENCE" eid="e151">engaged</EVENT> Iraq's vaunted Republican Guard, which has been <EVENT class="OCCURRENCE" eid="e487">sitting</EVENT> just north of the Iraq-Kuwait border and is <EVENT class="I_STATE" eid="e154">considered</EVENT> the most potent element in the Iraqi defense. It <EVENT class="STATE" eid="e157">remains</EVENT> to be <EVENT class="PERCEPTION" eid="e159">seen</EVENT> how much <EVENT class="OCCURRENCE" eid="e160">damage</EVENT> the allied air <EVENT class="OCCURRENCE" eid="e161">campaign</EVENT> was able to <EVENT class="OCCURRENCE" eid="e163">inflict</EVENT> on the Guard, and whether President Hussein will <EVENT class="OCCURRENCE" eid="e164">commit</EVENT> his most valued troops to a fight-to-the-death finish. Certainly Saddam Hussein <EVENT class="ASPECTUAL" eid="e166">continues</EVENT> to <EVENT class="OCCURRENCE" eid="e168">implore</EVENT> his country to <EVENT class="OCCURRENCE" eid="e169">fight</EVENT> on. "<EVENT class="OCCURRENCE" eid="e170">Fight</EVENT> them," he <EVENT class="OCCURRENCE" eid="e171">urged</EVENT> Iraqis in a radio <EVENT class="OCCURRENCE" eid="e173">address</EVENT>. "All Iraqis, <EVENT class="OCCURRENCE" eid="e174">fight</EVENT> them with all the power you <EVENT class="OCCURRENCE" eid="e175">have</EVENT>, and all <EVENT class="OCCURRENCE" eid="e176">struggle</EVENT> for everything." American war planners have long <EVENT class="OCCURRENCE" eid="e180">assumed</EVENT> that the early stage of the ground <EVENT class="OCCURRENCE" eid="e181">attack</EVENT>, in which American forces would <EVENT class="OCCURRENCE" eid="e182">use</EVENT> their speed to <EVENT class="OCCURRENCE" eid="e185">sweep</EVENT> around Iraqi defenses and their strength to <EVENT class="OCCURRENCE" eid="e188">punch</EVENT> through the relatively weak Iraqi front line, would be the easiest part. Despite these early successes, the mere fact that a ground <EVENT class="OCCURRENCE" eid="e194">campaign</EVENT> has <EVENT class="I_ACTION" eid="e195">begun</EVENT> almost <EVENT class="OCCURRENCE" eid="e196">guarantees</EVENT> that the Bush administration will <EVENT class="OCCURRENCE" eid="e527">face</EVENT> fresh problems <EVENT class="OCCURRENCE" eid="e197">growing</EVENT> out of the military <EVENT class="STATE" eid="e491">situation</EVENT>. There are likely to be additional American prisoners of war taken, and there are signs that President Hussein is <EVENT class="OCCURRENCE" eid="e202">taking</EVENT> Kuwaiti hostages. U.S. and Kuwaiti officials <EVENT class="REPORTING" eid="e203">say</EVENT> there are reports that large numbers of civilians from Kuwait City are being <EVENT class="OCCURRENCE" eid="e492">rounded</EVENT> up and <EVENT class="OCCURRENCE" eid="e207">held</EVENT> by Iraqi troops, apparently either for <EVENT class="OCCURRENCE" eid="e208">use</EVENT> as human shields or for <EVENT class="OCCURRENCE" eid="e209">use</EVENT> later in <EVENT class="OCCURRENCE" eid="e210">bargaining</EVENT> once the <EVENT class="STATE" eid="e211">war</EVENT> is over. President Bush's political argument for <EVENT class="OCCURRENCE" eid="e213">going</EVENT> to a ground <EVENT class="OCCURRENCE" eid="e214">war</EVENT> has been <EVENT class="OCCURRENCE" eid="e215">strengthened</EVENT> by the growing stream of reports of wanton Iraqi <EVENT class="OCCURRENCE" eid="e217">destruction</EVENT> inside Kuwait. U.S. officials <EVENT class="REPORTING" eid="e218">say</EVENT> that hundreds of Kuwaiti oil wells now may have been <EVENT class="OCCURRENCE" eid="e219">set</EVENT> afire. And Robert Gates, Mr. Bush's deputy national security adviser, <EVENT class="REPORTING" eid="e221">asserted</EVENT> in an <EVENT class="OCCURRENCE" eid="e222">interview</EVENT> on the Cable News Network that Iraqi troops have <EVENT class="OCCURRENCE" eid="e224">set</EVENT> fire to "large sections" of Kuwait City. Mr. Bush and his aides were <EVENT class="PERCEPTION" eid="e227">leaning</EVENT> toward a military <EVENT class="ASPECTUAL" eid="e528">conclusion</EVENT> of the <EVENT class="STATE" eid="e228">crisis</EVENT> even before the latest reports of Iraqi <EVENT class="OCCURRENCE" eid="e231">atrocities</EVENT> in Kuwait <EVENT class="OCCURRENCE" eid="e232">came</EVENT> to light. The president and his top aides tentatively <EVENT class="OCCURRENCE" eid="e235">decided</EVENT> on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t494" type="DATE" value="1991-02-11">Feb. 11</TIMEX3> that a ground <EVENT class="OCCURRENCE" eid="e236">war</EVENT> would be <EVENT class="STATE" eid="e538">necessary</EVENT>. The <EVENT class="OCCURRENCE" eid="e238">decision</EVENT> was <EVENT class="OCCURRENCE" eid="e239">made</EVENT> after Defense Secretary Dick Cheney and Gen. Colin Powell, chairman of the Joint Chiefs of Staff, <EVENT class="OCCURRENCE" eid="e240">returned</EVENT> from a <EVENT class="OCCURRENCE" eid="e241">visit</EVENT> with military commanders in Saudi Arabia, administration officials <EVENT class="REPORTING" eid="e243">say</EVENT>. Then, <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t496" type="DATE" value="1991-02-18">a week or so ago</TIMEX3>, Gen. Schwarzkopf secretly <EVENT class="OCCURRENCE" eid="e244">picked</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t498" type="TIME" value="1991-02-23TNI">Saturday night</TIMEX3> as the optimal time to <EVENT class="ASPECTUAL" eid="e247">start</EVENT> the <EVENT class="OCCURRENCE" eid="e248">offensive</EVENT>. The date was <EVENT class="OCCURRENCE" eid="e500">unaffected</EVENT> by the last-ditch Soviet peace <EVENT class="OCCURRENCE" eid="e249">initiative</EVENT>. The real problem with the Soviet proposals, U.S. officials now <EVENT class="REPORTING" eid="e251">say</EVENT>, was that they all would have <EVENT class="OCCURRENCE" eid="e252">required</EVENT> <EVENT class="OCCURRENCE" eid="e254">lifting</EVENT> economic <EVENT class="OCCURRENCE" eid="e255">sanctions</EVENT> against Iraq. The Bush administration <EVENT class="I_STATE" eid="e256">considers</EVENT> the <EVENT class="OCCURRENCE" eid="e257">sanctions</EVENT> essential to <EVENT class="ASPECTUAL" eid="e258">keeping</EVENT> Saddam Hussein under control should he <EVENT class="OCCURRENCE" eid="e259">survive</EVENT> the <EVENT class="STATE" eid="e260">war</EVENT>. Mr. Bush <EVENT class="OCCURRENCE" eid="e261">forestalled</EVENT> further diplomatic <EVENT class="OCCURRENCE" eid="e504">maneuvering</EVENT> by <EVENT class="OCCURRENCE" eid="e262">issuing</EVENT> an ultimatum on behalf of the allies <EVENT class="OCCURRENCE" eid="e266">demanding</EVENT> that Iraq <EVENT class="OCCURRENCE" eid="e267">withdraw</EVENT> within <TIMEX3 beginPoint="t507" functionInDocument="NONE" temporalFunction="true" tid="t505" type="DURATION" value="P1W">a week</TIMEX3>, <EVENT class="ASPECTUAL" eid="e268">starting</EVENT> at <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t507" type="TIME" value="1991-02-16T12:00">noon Saturday</TIMEX3>. Administration aides <EVENT class="REPORTING" eid="e269">said</EVENT> that the idea of the ultimatum was Gen. Powell's. He <EVENT class="OCCURRENCE" eid="e271">argued</EVENT> <EVENT class="OCCURRENCE" eid="e272">setting</EVENT> an explicit deadline for Saddam Hussein to <EVENT class="OCCURRENCE" eid="e274">break</EVENT> would, when it was <EVENT class="OCCURRENCE" eid="e276">broken</EVENT>, <EVENT class="OCCURRENCE" eid="e277">give</EVENT> the U.S. military a clear green light to <EVENT class="OCCURRENCE" eid="e279">proceed</EVENT>. In <EVENT class="OCCURRENCE" eid="e280">setting</EVENT> out his final challenge to Saddam Hussein, Mr. Bush <EVENT class="ASPECTUAL" eid="e282">continued</EVENT> the intensive personal <EVENT class="OCCURRENCE" eid="e283">diplomacy</EVENT> he <EVENT class="I_ACTION" eid="e284">began</EVENT> after the <EVENT class="OCCURRENCE" eid="e285">invasion</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t508" type="DATE" value="1990-08">last August</TIMEX3>. After <EVENT class="OCCURRENCE" eid="e287">cabling</EVENT> world leaders about his intention to <EVENT class="OCCURRENCE" eid="e289">give</EVENT> Saddam Hussein a final deadline to <EVENT class="OCCURRENCE" eid="e290">exit</EVENT> Kuwait, he <EVENT class="I_ACTION" eid="e291">offered</EVENT> him <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t518" type="DURATION" value="P1W">a week</TIMEX3> to <EVENT class="OCCURRENCE" eid="e293">withdraw</EVENT> fully, instead of <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t519" type="DURATION" value="P4D">the four days</TIMEX3> he originally <EVENT class="I_STATE" eid="e294">considered</EVENT>, because of <EVENT class="OCCURRENCE" eid="e295">objections</EVENT> from some European partners that four days <EVENT class="PERCEPTION" eid="e296">seemed</EVENT> punitive and unrealistic. And when he and President Gorbachev <EVENT class="OCCURRENCE" eid="e298">spoke</EVENT> about the <EVENT class="OCCURRENCE" eid="e299">decision</EVENT> in a <EVENT class="OCCURRENCE" eid="e511">talk</EVENT> lasting <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t520" type="DURATION" value="PT1H">nearly an hour</TIMEX3>, the President <EVENT class="OCCURRENCE" eid="e300">took</EVENT> pains to <EVENT class="PERCEPTION" eid="e303">listen</EVENT> to what his counterpart had to <EVENT class="REPORTING" eid="e306">say</EVENT>, although he already had <EVENT class="OCCURRENCE" eid="e307">decided</EVENT> that the Soviet alternative to the allied deadline was <EVENT class="STATE" eid="e539">unacceptable</EVENT>. Finally, when Iraq <EVENT class="OCCURRENCE" eid="e309">failed</EVENT> to <EVENT class="OCCURRENCE" eid="e311">respond</EVENT> to the U.S. ultimatum, Mr. Bush <EVENT class="OCCURRENCE" eid="e312">let</EVENT> the ground <EVENT class="OCCURRENCE" eid="e513">offensive</EVENT> <EVENT class="I_ACTION" eid="e313">begin</EVENT> as previously <EVENT class="I_STATE" eid="e314">planned</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t514" type="TIME" value="1991-02-16TNI">Saturday night</TIMEX3>. The <EVENT class="OCCURRENCE" eid="e315">attack</EVENT> was lightning quick, as allied forces <EVENT class="OCCURRENCE" eid="e317">punched</EVENT> through tall sand berms on the border and <EVENT class="OCCURRENCE" eid="e318">pushed</EVENT> forward into Iraq and Kuwait. U.S. Marines were <EVENT class="REPORTING" eid="e319">said</EVENT> to have <EVENT class="I_STATE" eid="e321">breached</EVENT> troublesome mine fields along the Iraqi lines but Pentagon officials <EVENT class="REPORTING" eid="e323">said</EVENT> no amphibious <EVENT class="OCCURRENCE" eid="e324">assault</EVENT> on Kuwait's beaches had <EVENT class="I_ACTION" eid="e325">begun</EVENT>. Long columns of Iraqi prisoners of war could be <EVENT class="PERCEPTION" eid="e327">seen</EVENT> <EVENT class="OCCURRENCE" eid="e329">trudging</EVENT> through the desert toward the allied rear. U.S. commanders <EVENT class="REPORTING" eid="e331">said</EVENT> 5,500 Iraqi prisoners were <EVENT class="OCCURRENCE" eid="e332">taken</EVENT> in <TIMEX3 tid="t21" type="DURATION" value="PTXH">the first hours</TIMEX3> of the ground <EVENT class="STATE" eid="e334">war</EVENT>, though some military officials later <EVENT class="REPORTING" eid="e335">said</EVENT> the total may have <EVENT class="OCCURRENCE" eid="e336">climbed</EVENT> above 8,000. The U.S. <EVENT class="I_STATE" eid="e338">hopes</EVENT> its troops will <EVENT class="OCCURRENCE" eid="e339">drive</EVENT> Iraqi forces out of Kuwait quickly, <EVENT class="OCCURRENCE" eid="e340">leaving</EVENT> much of Iraq's offensive military equipment <EVENT class="OCCURRENCE" eid="e341">destroyed</EVENT> or <EVENT class="STATE" eid="e342">abandoned</EVENT> in Kuwait. It <EVENT class="I_STATE" eid="e343">expects</EVENT> that tens of thousands of Iraqi soldiers will <EVENT class="OCCURRENCE" eid="e344">surrender</EVENT> to the U.S. and its allies over <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t517" type="DURATION" value="PXD">the next few days</TIMEX3>. If the allies <EVENT class="OCCURRENCE" eid="e345">succeed</EVENT>, Saddam Hussein will have <EVENT class="OCCURRENCE" eid="e346">plunged</EVENT> his country first into a fruitless <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t521" type="DURATION" value="P8Y">eight-year</TIMEX3> <EVENT class="STATE" eid="e347">war</EVENT> against Iran and then into a humiliating <EVENT class="OCCURRENCE" eid="e349">war</EVENT> against the U.S. and the allies to <EVENT class="OCCURRENCE" eid="e352">defend</EVENT> his <EVENT class="OCCURRENCE" eid="e353">conquest</EVENT> of Kuwait, <EVENT class="OCCURRENCE" eid="e354">leaving</EVENT> much of his country's military establishment and modern infrastructure in ruins. Meanwhile, the U.S. <EVENT class="I_STATE" eid="e356">hopes</EVENT>, economic <EVENT class="OCCURRENCE" eid="e357">sanctions</EVENT> and an international arms <EVENT class="OCCURRENCE" eid="e518">embargo</EVENT> will <EVENT class="STATE" eid="e358">remain</EVENT> in effect until Iraq <EVENT class="OCCURRENCE" eid="e359">pays</EVENT> war reparations to Kuwait to <EVENT class="OCCURRENCE" eid="e362">cover</EVENT> war damages. That would <EVENT class="OCCURRENCE" eid="e363">undermine</EVENT> any chances of <EVENT class="OCCURRENCE" eid="e365">rebuilding</EVENT> either Iraq or its armed forces in short order as long as Saddam Hussein <EVENT class="STATE" eid="e368">remains</EVENT> in power. The American hope is that someone from within Iraq, perhaps from the army's professional ranks, will step forward and push Saddam Hussein aside so that the country can begin recovering from the disaster. Outside analysts <EVENT class="I_STATE" eid="e369">think</EVENT> Saddam Hussein's position is indeed precarious. "I think frankly Saddam is <EVENT class="OCCURRENCE" eid="e378">finished</EVENT>, no matter what <EVENT class="OCCURRENCE" eid="e380">happens</EVENT>," <EVENT class="REPORTING" eid="e381">says</EVENT> Christine Helms, a Middle East scholar who has <EVENT class="OCCURRENCE" eid="e382">written</EVENT> extensively about Iraq. "These guys simply don't <EVENT class="OCCURRENCE" eid="e383">retire</EVENT> to condos over the Euphrates." Despite the lack of any obvious successors, the Iraqi leader's internal power base <EVENT class="OCCURRENCE" eid="e385">appeared</EVENT> to be <EVENT class="OCCURRENCE" eid="e387">narrowing</EVENT> even before the <EVENT class="STATE" eid="e388">war</EVENT> <EVENT class="ASPECTUAL" eid="e390">began</EVENT>. Some analysts <EVENT class="REPORTING" eid="e391">say</EVENT> he <EVENT class="OCCURRENCE" eid="e392">appeared</EVENT> to be <EVENT class="OCCURRENCE" eid="e394">relying</EVENT> on a smaller and smaller circle of close advisers and relatives. If that's true, the narrowing of his support would <EVENT class="OCCURRENCE" eid="e398">make</EVENT> it easier for someone to <EVENT class="OCCURRENCE" eid="e401">push</EVENT> him aside from within. Yet, paradoxically, the perception that the U.S. <EVENT class="I_STATE" eid="e402">wants</EVENT> to <EVENT class="OCCURRENCE" eid="e404">destroy</EVENT> Iraq may <EVENT class="OCCURRENCE" eid="e405">increase</EVENT> Saddam Hussein's support within the Iraqi military. And the U.S. now will <EVENT class="OCCURRENCE" eid="e523">face</EVENT> sharper questions in the Arab world since it didn't <EVENT class="OCCURRENCE" eid="e409">back</EVENT> the peace proposals worked out in Moscow. "We <EVENT class="OCCURRENCE" eid="e413">looked</EVENT> to the United States, we <EVENT class="I_STATE" eid="e414">expected</EVENT> you to <EVENT class="OCCURRENCE" eid="e416">have</EVENT> the moral edge," <EVENT class="REPORTING" eid="e417">says</EVENT> Nasser Tahboub, a Jerusalem-born Jordanian who <EVENT class="OCCURRENCE" eid="e418">has</EVENT> an American wife and a doctorate in political science from Duke University. "Now we <EVENT class="PERCEPTION" eid="e420">see</EVENT> that edge <EVENT class="OCCURRENCE" eid="e421">eroded</EVENT>. For me, it is a great <EVENT class="OCCURRENCE" eid="e422">tragedy</EVENT>. For the first time in history, the U.S. has <EVENT class="OCCURRENCE" eid="e424">gone</EVENT> to <EVENT class="STATE" eid="e425">war</EVENT> with an Arab and Muslim nation, and we <EVENT class="OCCURRENCE" eid="e426">know</EVENT> a peaceful solution was in reach." --- Geraldine Brooks in Amman, Jordan, and Craig Forman in Cairo, Egypt, contributed to this article.
+</TEXT>
+<LASTEXTRAINFO>WSJ910225-0066</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei1404" eventID="e269"/>
+<MAKEINSTANCE eiid="ei1342" eventID="e491"/>
+<MAKEINSTANCE eiid="ei1347" eventID="e492"/>
+<MAKEINSTANCE eiid="ei1509" eventID="e414"/>
+<MAKEINSTANCE eiid="ei1510" eventID="e416"/>
+<MAKEINSTANCE eiid="ei1511" eventID="e417"/>
+<MAKEINSTANCE eiid="ei1391" eventID="e256"/>
+<MAKEINSTANCE eiid="ei1392" eventID="e257"/>
+<MAKEINSTANCE eiid="ei1389" eventID="e254"/>
+<MAKEINSTANCE eiid="ei1390" eventID="e255"/>
+<MAKEINSTANCE eiid="ei1311" eventID="e487"/>
+<MAKEINSTANCE eiid="ei1440" eventID="e312"/>
+<MAKEINSTANCE eiid="ei1393" eventID="e258"/>
+<MAKEINSTANCE eiid="ei1395" eventID="e259"/>
+<MAKEINSTANCE eiid="ei1512" eventID="e418"/>
+<MAKEINSTANCE eiid="ei1381" eventID="e247"/>
+<MAKEINSTANCE eiid="ei1444" eventID="e315"/>
+<MAKEINSTANCE eiid="ei1443" eventID="e314"/>
+<MAKEINSTANCE eiid="ei1205" eventID="e19"/>
+<MAKEINSTANCE eiid="ei1204" eventID="e18"/>
+<MAKEINSTANCE eiid="ei1494" eventID="e390"/>
+<MAKEINSTANCE eiid="ei1317" eventID="e161"/>
+<MAKEINSTANCE eiid="ei1198" eventID="e11"/>
+<MAKEINSTANCE eiid="ei1199" eventID="e12"/>
+<MAKEINSTANCE eiid="ei1202" eventID="e16"/>
+<MAKEINSTANCE eiid="ei1487" eventID="e380"/>
+<MAKEINSTANCE eiid="ei1488" eventID="e381"/>
+<MAKEINSTANCE eiid="ei1489" eventID="e382"/>
+<MAKEINSTANCE eiid="ei1490" eventID="e383"/>
+<MAKEINSTANCE eiid="ei1272" eventID="e95"/>
+<MAKEINSTANCE eiid="ei1491" eventID="e385"/>
+<MAKEINSTANCE eiid="ei1308" eventID="e148"/>
+<MAKEINSTANCE eiid="ei1492" eventID="e387"/>
+<MAKEINSTANCE eiid="ei1307" eventID="e146"/>
+<MAKEINSTANCE eiid="ei1274" eventID="e98"/>
+<MAKEINSTANCE eiid="ei1363" eventID="e222"/>
+<MAKEINSTANCE eiid="ei1305" eventID="e142"/>
+<MAKEINSTANCE eiid="ei1304" eventID="e141"/>
+<MAKEINSTANCE eiid="ei1452" eventID="e327"/>
+<MAKEINSTANCE eiid="ei1450" eventID="e324"/>
+<MAKEINSTANCE eiid="ei1451" eventID="e325"/>
+<MAKEINSTANCE eiid="ei1296" eventID="e129"/>
+<MAKEINSTANCE eiid="ei1448" eventID="e321"/>
+<MAKEINSTANCE eiid="ei1293" eventID="e124"/>
+<MAKEINSTANCE eiid="ei1295" eventID="e127"/>
+<MAKEINSTANCE eiid="ei1290" eventID="e120"/>
+<MAKEINSTANCE eiid="ei1291" eventID="e482"/>
+<MAKEINSTANCE eiid="ei1292" eventID="e122"/>
+<MAKEINSTANCE eiid="ei1453" eventID="e329"/>
+<MAKEINSTANCE eiid="ei1503" eventID="e405"/>
+<MAKEINSTANCE eiid="ei1502" eventID="e404"/>
+<MAKEINSTANCE eiid="ei1384" eventID="e249"/>
+<MAKEINSTANCE eiid="ei1382" eventID="e248"/>
+<MAKEINSTANCE eiid="ei1500" eventID="e401"/>
+<MAKEINSTANCE eiid="ei1412" eventID="e280"/>
+<MAKEINSTANCE eiid="ei1380" eventID="e244"/>
+<MAKEINSTANCE eiid="ei1210" eventID="e452"/>
+<MAKEINSTANCE eiid="ei1378" eventID="e241"/>
+<MAKEINSTANCE eiid="ei1377" eventID="e240"/>
+<MAKEINSTANCE eiid="ei1379" eventID="e243"/>
+<MAKEINSTANCE eiid="ei1388" eventID="e252"/>
+<MAKEINSTANCE eiid="ei1241" eventID="e459"/>
+<MAKEINSTANCE eiid="ei1493" eventID="e388"/>
+<MAKEINSTANCE eiid="ei1447" eventID="e319"/>
+<MAKEINSTANCE eiid="ei1401" eventID="e266"/>
+<MAKEINSTANCE eiid="ei1315" eventID="e159"/>
+<MAKEINSTANCE eiid="ei1496" eventID="e392"/>
+<MAKEINSTANCE eiid="ei1495" eventID="e391"/>
+<MAKEINSTANCE eiid="ei1446" eventID="e318"/>
+<MAKEINSTANCE eiid="ei1259" eventID="e82"/>
+<MAKEINSTANCE eiid="ei1497" eventID="e394"/>
+<MAKEINSTANCE eiid="ei1310" eventID="e151"/>
+<MAKEINSTANCE eiid="ei1309" eventID="e150"/>
+<MAKEINSTANCE eiid="ei1499" eventID="e398"/>
+<MAKEINSTANCE eiid="ei1312" eventID="e154"/>
+<MAKEINSTANCE eiid="ei1314" eventID="e157"/>
+<MAKEINSTANCE eiid="ei1454" eventID="e331"/>
+<MAKEINSTANCE eiid="ei1359" eventID="e218"/>
+<MAKEINSTANCE eiid="ei1505" eventID="e523"/>
+<MAKEINSTANCE eiid="ei1457" eventID="e335"/>
+<MAKEINSTANCE eiid="ei1456" eventID="e334"/>
+<MAKEINSTANCE eiid="ei1230" eventID="e526"/>
+<MAKEINSTANCE eiid="ei1458" eventID="e336"/>
+<MAKEINSTANCE eiid="ei1460" eventID="e339"/>
+<MAKEINSTANCE eiid="ei1459" eventID="e338"/>
+<MAKEINSTANCE eiid="ei1301" eventID="e135"/>
+<MAKEINSTANCE eiid="ei1508" eventID="e413"/>
+<MAKEINSTANCE eiid="ei1300" eventID="e133"/>
+<MAKEINSTANCE eiid="ei1299" eventID="e132"/>
+<MAKEINSTANCE eiid="ei1298" eventID="e130"/>
+<MAKEINSTANCE eiid="ei1375" eventID="e238"/>
+<MAKEINSTANCE eiid="ei1376" eventID="e239"/>
+<MAKEINSTANCE eiid="ei1370" eventID="e231"/>
+<MAKEINSTANCE eiid="ei1371" eventID="e232"/>
+<MAKEINSTANCE eiid="ei1438" eventID="e311"/>
+<MAKEINSTANCE eiid="ei1373" eventID="e236"/>
+<MAKEINSTANCE eiid="ei1264" eventID="e86"/>
+<MAKEINSTANCE eiid="ei1316" eventID="e160"/>
+<MAKEINSTANCE eiid="ei1265" eventID="e87"/>
+<MAKEINSTANCE eiid="ei1445" eventID="e317"/>
+<MAKEINSTANCE eiid="ei1262" eventID="e84"/>
+<MAKEINSTANCE eiid="ei1253" eventID="e78"/>
+<MAKEINSTANCE eiid="ei1231" eventID="e456"/>
+<MAKEINSTANCE eiid="ei1248" eventID="e72"/>
+<MAKEINSTANCE eiid="ei1247" eventID="e71"/>
+<MAKEINSTANCE eiid="ei1246" eventID="e70"/>
+<MAKEINSTANCE eiid="ei1252" eventID="e77"/>
+<MAKEINSTANCE eiid="ei1251" eventID="e76"/>
+<MAKEINSTANCE eiid="ei1276" eventID="e102"/>
+<MAKEINSTANCE eiid="ei1530" eventID="e539"/>
+<MAKEINSTANCE eiid="ei1529" eventID="e538"/>
+<MAKEINSTANCE eiid="ei1279" eventID="e106"/>
+<MAKEINSTANCE eiid="ei1280" eventID="e107"/>
+<MAKEINSTANCE eiid="ei1277" eventID="e104"/>
+<MAKEINSTANCE eiid="ei1278" eventID="e105"/>
+<MAKEINSTANCE eiid="ei1333" eventID="e182"/>
+<MAKEINSTANCE eiid="ei1466" eventID="e345"/>
+<MAKEINSTANCE eiid="ei1467" eventID="e346"/>
+<MAKEINSTANCE eiid="ei1332" eventID="e181"/>
+<MAKEINSTANCE eiid="ei1461" eventID="e340"/>
+<MAKEINSTANCE eiid="ei1462" eventID="e341"/>
+<MAKEINSTANCE eiid="ei1463" eventID="e342"/>
+<MAKEINSTANCE eiid="ei1464" eventID="e343"/>
+<MAKEINSTANCE eiid="ei1517" eventID="e425"/>
+<MAKEINSTANCE eiid="ei1191" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1362" eventID="e221"/>
+<MAKEINSTANCE eiid="ei1518" eventID="e426"/>
+<MAKEINSTANCE eiid="ei1366" eventID="e227"/>
+<MAKEINSTANCE eiid="ei1469" eventID="e349"/>
+<MAKEINSTANCE eiid="ei1515" eventID="e422"/>
+<MAKEINSTANCE eiid="ei1465" eventID="e344"/>
+<MAKEINSTANCE eiid="ei1442" eventID="e313"/>
+<MAKEINSTANCE eiid="ei1437" eventID="e309"/>
+<MAKEINSTANCE eiid="ei1331" eventID="e180"/>
+<MAKEINSTANCE eiid="ei1364" eventID="e224"/>
+<MAKEINSTANCE eiid="ei1245" eventID="e69"/>
+<MAKEINSTANCE eiid="ei1468" eventID="e347"/>
+<MAKEINSTANCE eiid="ei1266" eventID="e88"/>
+<MAKEINSTANCE eiid="ei1196" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1240" eventID="e62"/>
+<MAKEINSTANCE eiid="ei1242" eventID="e64"/>
+<MAKEINSTANCE eiid="ei1243" eventID="e66"/>
+<MAKEINSTANCE eiid="ei1244" eventID="e67"/>
+<MAKEINSTANCE eiid="ei1358" eventID="e217"/>
+<MAKEINSTANCE eiid="ei1355" eventID="e214"/>
+<MAKEINSTANCE eiid="ei1356" eventID="e215"/>
+<MAKEINSTANCE eiid="ei1354" eventID="e213"/>
+<MAKEINSTANCE eiid="ei1351" eventID="e210"/>
+<MAKEINSTANCE eiid="ei1352" eventID="e211"/>
+<MAKEINSTANCE eiid="ei1398" eventID="e504"/>
+<MAKEINSTANCE eiid="ei1334" eventID="e185"/>
+<MAKEINSTANCE eiid="ei1383" eventID="e500"/>
+<MAKEINSTANCE eiid="ei1360" eventID="e219"/>
+<MAKEINSTANCE eiid="ei1475" eventID="e357"/>
+<MAKEINSTANCE eiid="ei1474" eventID="e356"/>
+<MAKEINSTANCE eiid="ei1472" eventID="e354"/>
+<MAKEINSTANCE eiid="ei1471" eventID="e353"/>
+<MAKEINSTANCE eiid="ei1470" eventID="e352"/>
+<MAKEINSTANCE eiid="ei1516" eventID="e424"/>
+<MAKEINSTANCE eiid="ei1337" eventID="e195"/>
+<MAKEINSTANCE eiid="ei1336" eventID="e194"/>
+<MAKEINSTANCE eiid="ei1341" eventID="e197"/>
+<MAKEINSTANCE eiid="ei1338" eventID="e196"/>
+<MAKEINSTANCE eiid="ei1335" eventID="e188"/>
+<MAKEINSTANCE eiid="ei1478" eventID="e359"/>
+<MAKEINSTANCE eiid="ei1477" eventID="e358"/>
+<MAKEINSTANCE eiid="ei1267" eventID="e90"/>
+<MAKEINSTANCE eiid="ei1514" eventID="e421"/>
+<MAKEINSTANCE eiid="ei1302" eventID="e138"/>
+<MAKEINSTANCE eiid="ei1270" eventID="e93"/>
+<MAKEINSTANCE eiid="ei1239" eventID="e458"/>
+<MAKEINSTANCE eiid="ei1513" eventID="e420"/>
+<MAKEINSTANCE eiid="ei1367" eventID="e528"/>
+<MAKEINSTANCE eiid="ei1236" eventID="e58"/>
+<MAKEINSTANCE eiid="ei1234" eventID="e55"/>
+<MAKEINSTANCE eiid="ei1435" eventID="e307"/>
+<MAKEINSTANCE eiid="ei1233" eventID="e53"/>
+<MAKEINSTANCE eiid="ei1232" eventID="e52"/>
+<MAKEINSTANCE eiid="ei1476" eventID="e518"/>
+<MAKEINSTANCE eiid="ei1345" eventID="e203"/>
+<MAKEINSTANCE eiid="ei1344" eventID="e202"/>
+<MAKEINSTANCE eiid="ei1387" eventID="e251"/>
+<MAKEINSTANCE eiid="ei1348" eventID="e207"/>
+<MAKEINSTANCE eiid="ei1350" eventID="e209"/>
+<MAKEINSTANCE eiid="ei1349" eventID="e208"/>
+<MAKEINSTANCE eiid="ei1441" eventID="e513"/>
+<MAKEINSTANCE eiid="ei1480" eventID="e362"/>
+<MAKEINSTANCE eiid="ei1482" eventID="e363"/>
+<MAKEINSTANCE eiid="ei1189" eventID="e449"/>
+<MAKEINSTANCE eiid="ei1483" eventID="e365"/>
+<MAKEINSTANCE eiid="ei1484" eventID="e368"/>
+<MAKEINSTANCE eiid="ei1306" eventID="e144"/>
+<MAKEINSTANCE eiid="ei1225" eventID="e42"/>
+<MAKEINSTANCE eiid="ei1223" eventID="e40"/>
+<MAKEINSTANCE eiid="ei1224" eventID="e41"/>
+<MAKEINSTANCE eiid="ei1228" eventID="e47"/>
+<MAKEINSTANCE eiid="ei1226" eventID="e44"/>
+<MAKEINSTANCE eiid="ei1339" eventID="e527"/>
+<MAKEINSTANCE eiid="ei1284" eventID="e111"/>
+<MAKEINSTANCE eiid="ei1283" eventID="e110"/>
+<MAKEINSTANCE eiid="ei1427" eventID="e298"/>
+<MAKEINSTANCE eiid="ei1285" eventID="e112"/>
+<MAKEINSTANCE eiid="ei1426" eventID="e296"/>
+<MAKEINSTANCE eiid="ei1424" eventID="e294"/>
+<MAKEINSTANCE eiid="ei1425" eventID="e295"/>
+<MAKEINSTANCE eiid="ei1423" eventID="e293"/>
+<MAKEINSTANCE eiid="ei1421" eventID="e290"/>
+<MAKEINSTANCE eiid="ei1422" eventID="e291"/>
+<MAKEINSTANCE eiid="ei1263" eventID="e473"/>
+<MAKEINSTANCE eiid="ei1368" eventID="e228"/>
+<MAKEINSTANCE eiid="ei1506" eventID="e409"/>
+<MAKEINSTANCE eiid="ei1282" eventID="e478"/>
+<MAKEINSTANCE eiid="ei1408" eventID="e274"/>
+<MAKEINSTANCE eiid="ei1409" eventID="e276"/>
+<MAKEINSTANCE eiid="ei1410" eventID="e277"/>
+<MAKEINSTANCE eiid="ei1455" eventID="e332"/>
+<MAKEINSTANCE eiid="ei1486" eventID="e378"/>
+<MAKEINSTANCE eiid="ei1407" eventID="e272"/>
+<MAKEINSTANCE eiid="ei1411" eventID="e279"/>
+<MAKEINSTANCE eiid="ei1449" eventID="e323"/>
+<MAKEINSTANCE eiid="ei1221" eventID="e37"/>
+<MAKEINSTANCE eiid="ei1220" eventID="e35"/>
+<MAKEINSTANCE eiid="ei1219" eventID="e34"/>
+<MAKEINSTANCE eiid="ei1218" eventID="e33"/>
+<MAKEINSTANCE eiid="ei1217" eventID="e32"/>
+<MAKEINSTANCE eiid="ei1216" eventID="e31"/>
+<MAKEINSTANCE eiid="ei1215" eventID="e30"/>
+<MAKEINSTANCE eiid="ei1222" eventID="e39"/>
+<MAKEINSTANCE eiid="ei1372" eventID="e235"/>
+<MAKEINSTANCE eiid="ei1420" eventID="e289"/>
+<MAKEINSTANCE eiid="ei1429" eventID="e511"/>
+<MAKEINSTANCE eiid="ei1319" eventID="e163"/>
+<MAKEINSTANCE eiid="ei1320" eventID="e164"/>
+<MAKEINSTANCE eiid="ei1322" eventID="e166"/>
+<MAKEINSTANCE eiid="ei1323" eventID="e168"/>
+<MAKEINSTANCE eiid="ei1324" eventID="e169"/>
+<MAKEINSTANCE eiid="ei1415" eventID="e283"/>
+<MAKEINSTANCE eiid="ei1414" eventID="e282"/>
+<MAKEINSTANCE eiid="ei1417" eventID="e285"/>
+<MAKEINSTANCE eiid="ei1416" eventID="e284"/>
+<MAKEINSTANCE eiid="ei1418" eventID="e287"/>
+<MAKEINSTANCE eiid="ei1275" eventID="e99"/>
+<MAKEINSTANCE eiid="ei1214" eventID="e453"/>
+<MAKEINSTANCE eiid="ei1195" eventID="e8"/>
+<MAKEINSTANCE eiid="ei1255" eventID="e466"/>
+<MAKEINSTANCE eiid="ei1402" eventID="e267"/>
+<MAKEINSTANCE eiid="ei1257" eventID="e81"/>
+<MAKEINSTANCE eiid="ei1399" eventID="e262"/>
+<MAKEINSTANCE eiid="ei1397" eventID="e261"/>
+<MAKEINSTANCE eiid="ei1396" eventID="e260"/>
+<MAKEINSTANCE eiid="ei1430" eventID="e300"/>
+<MAKEINSTANCE eiid="ei1432" eventID="e303"/>
+<MAKEINSTANCE eiid="ei1434" eventID="e306"/>
+<MAKEINSTANCE eiid="ei1403" eventID="e268"/>
+<MAKEINSTANCE eiid="ei1209" eventID="e25"/>
+<MAKEINSTANCE eiid="ei1206" eventID="e21"/>
+<MAKEINSTANCE eiid="ei1207" eventID="e22"/>
+<MAKEINSTANCE eiid="ei1208" eventID="e23"/>
+<MAKEINSTANCE eiid="ei1406" eventID="e271"/>
+<MAKEINSTANCE eiid="ei1428" eventID="e299"/>
+<MAKEINSTANCE eiid="ei1211" eventID="e28"/>
+<MAKEINSTANCE eiid="ei1212" eventID="e29"/>
+<MAKEINSTANCE eiid="ei1327" eventID="e173"/>
+<MAKEINSTANCE eiid="ei1326" eventID="e171"/>
+<MAKEINSTANCE eiid="ei1325" eventID="e170"/>
+<MAKEINSTANCE eiid="ei1330" eventID="e176"/>
+<MAKEINSTANCE eiid="ei1329" eventID="e175"/>
+<MAKEINSTANCE eiid="ei1328" eventID="e174"/>
+<MAKEINSTANCE eiid="ei1501" eventID="e402"/>
+<TLINK eventInstanceID="ei1515" lid="l1" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1475" lid="l2" relType="IDENTITY" relatedToEventInstance="ei1390"/>
+<TLINK eventInstanceID="ei1242" lid="l3" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1326" lid="l4" relType="INCLUDES" relatedToEventInstance="ei1327"/>
+<TLINK eventInstanceID="ei1402" lid="l5" relType="AFTER" relatedToTime="t507"/>
+<TLINK eventInstanceID="ei1511" lid="l6" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1207" lid="l7" relType="IS_INCLUDED" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1469" lid="l8" relType="IDENTITY" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1389" lid="l9" relType="TERMINATES" relatedToEventInstance="ei1390"/>
+<TLINK eventInstanceID="ei1204" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei1208"/>
+<TLINK eventInstanceID="ei1228" lid="l11" relType="AFTER" relatedToEventInstance="ei1230"/>
+<TLINK eventInstanceID="ei1409" lid="l12" relType="SIMULTANEOUS" relatedToEventInstance="ei1410"/>
+<TLINK eventInstanceID="ei1277" lid="l13" relType="BEFORE" relatedToEventInstance="ei1279"/>
+<TLINK lid="l14" relType="IDENTITY" relatedToTime="t514" timeID="t498"/>
+<TLINK eventInstanceID="ei1387" lid="l15" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1217" lid="l16" relType="INCLUDES" relatedToEventInstance="ei1444"/>
+<TLINK eventInstanceID="ei1509" lid="l17" relType="AFTER" relatedToEventInstance="ei1508"/>
+<TLINK eventInstanceID="ei1345" lid="l18" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1416" lid="l19" relType="IS_INCLUDED" relatedToTime="t508"/>
+<TLINK eventInstanceID="ei1399" lid="l20" relType="AFTER" relatedToEventInstance="ei1398"/>
+<TLINK eventInstanceID="ei1434" lid="l21" relType="IDENTITY" relatedToEventInstance="ei1427"/>
+<TLINK eventInstanceID="ei1220" lid="l22" relType="IDENTITY" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1278" lid="l23" relType="SIMULTANEOUS" relatedToEventInstance="ei1279"/>
+<TLINK eventInstanceID="ei1529" lid="l24" relType="DURING" relatedToEventInstance="ei1375"/>
+<TLINK eventInstanceID="ei1211" lid="l25" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1516" lid="l26" relType="SIMULTANEOUS" relatedToEventInstance="ei1518"/>
+<TLINK eventInstanceID="ei1404" lid="l27" relType="AFTER" relatedToEventInstance="ei1397"/>
+<TLINK eventInstanceID="ei1348" lid="l28" relType="IAFTER" relatedToEventInstance="ei1347"/>
+<TLINK eventInstanceID="ei1332" lid="l29" relType="IDENTITY" relatedToEventInstance="ei1444"/>
+<TLINK eventInstanceID="ei1501" lid="l30" relType="BEFORE" relatedToEventInstance="ei1503"/>
+<TLINK eventInstanceID="ei1329" lid="l31" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1335" lid="l32" relType="SIMULTANEOUS" relatedToEventInstance="ei1334"/>
+<TLINK eventInstanceID="ei1341" lid="l33" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1499" lid="l34" relType="AFTER" relatedToEventInstance="ei1497"/>
+<TLINK eventInstanceID="ei1380" lid="l35" relType="IS_INCLUDED" relatedToTime="t496"/>
+<TLINK eventInstanceID="ei1309" lid="l36" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1530" lid="l37" relType="BEFORE" relatedToEventInstance="ei1435"/>
+<TLINK eventInstanceID="ei1427" lid="l38" relType="IS_INCLUDED" relatedToEventInstance="ei1429"/>
+<TLINK eventInstanceID="ei1488" lid="l39" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1372" lid="l40" relType="IDENTITY" relatedToEventInstance="ei1375"/>
+<TLINK eventInstanceID="ei1277" lid="l41" relType="BEFORE" relatedToEventInstance="ei1278"/>
+<TLINK eventInstanceID="ei1416" lid="l42" relType="INITIATES" relatedToEventInstance="ei1415"/>
+<TLINK eventInstanceID="ei1425" lid="l43" relType="BEFORE" relatedToEventInstance="ei1422"/>
+<TLINK eventInstanceID="ei1464" lid="l44" relType="BEFORE" relatedToEventInstance="ei1465"/>
+<TLINK eventInstanceID="ei1377" lid="l45" relType="BEFORE" relatedToEventInstance="ei1380"/>
+<TLINK eventInstanceID="ei1474" lid="l46" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1381" lid="l47" relType="DURING" relatedToTime="t498"/>
+<TLINK eventInstanceID="ei1477" lid="l48" relType="IBEFORE" relatedToEventInstance="ei1478"/>
+<TLINK eventInstanceID="ei1331" lid="l49" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1248" lid="l50" relType="BEFORE" relatedToEventInstance="ei1251"/>
+<TLINK eventInstanceID="ei1415" lid="l51" relType="DURING" relatedToEventInstance="ei1414"/>
+<TLINK eventInstanceID="ei1240" lid="l52" relType="SIMULTANEOUS" relatedToEventInstance="ei1239"/>
+<TLINK eventInstanceID="ei1490" lid="l53" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1392" lid="l54" relType="IDENTITY" relatedToEventInstance="ei1390"/>
+<TLINK eventInstanceID="ei1447" lid="l55" relType="AFTER" relatedToEventInstance="ei1444"/>
+<TLINK eventInstanceID="ei1382" lid="l56" relType="BEGUN_BY" relatedToTime="t498"/>
+<TLINK eventInstanceID="ei1426" lid="l57" relType="DURING" relatedToEventInstance="ei1425"/>
+<TLINK eventInstanceID="ei1355" lid="l58" relType="IS_INCLUDED" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1233" lid="l59" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1461" lid="l60" relType="SIMULTANEOUS" relatedToEventInstance="ei1460"/>
+<TLINK eventInstanceID="ei1414" lid="l61" relType="AFTER" relatedToEventInstance="ei1416"/>
+<TLINK eventInstanceID="ei1232" lid="l62" relType="BEFORE" relatedToEventInstance="ei1228"/>
+<TLINK eventInstanceID="ei1396" lid="l63" relType="IDENTITY" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1477" lid="l64" relType="CONTINUES" relatedToEventInstance="ei1476"/>
+<TLINK eventInstanceID="ei1437" lid="l65" relType="BEFORE" relatedToEventInstance="ei1440"/>
+<TLINK lid="l66" relType="INCLUDES" relatedToEventInstance="ei1372" timeID="t494"/>
+<TLINK eventInstanceID="ei1403" lid="l67" relType="DURING" relatedToTime="t507"/>
+<TLINK eventInstanceID="ei1494" lid="l68" relType="AFTER" relatedToEventInstance="ei1491"/>
+<TLINK eventInstanceID="ei1449" lid="l69" relType="AFTER" relatedToEventInstance="ei1444"/>
+<TLINK eventInstanceID="ei1393" lid="l70" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1397" lid="l71" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1469" lid="l72" relType="IBEFORE" relatedToEventInstance="ei1472"/>
+<TLINK eventInstanceID="ei1322" lid="l73" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1306" lid="l74" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1219" lid="l75" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1191" lid="l76" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1416" lid="l77" relType="AFTER" relatedToEventInstance="ei1417"/>
+<TLINK eventInstanceID="ei1500" lid="l78" relType="AFTER" relatedToEventInstance="ei1496"/>
+<TLINK eventInstanceID="ei1487" lid="l79" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1377" lid="l80" relType="AFTER" relatedToEventInstance="ei1378"/>
+<TLINK eventInstanceID="ei1418" lid="l81" relType="BEFORE" relatedToEventInstance="ei1422"/>
+<TLINK eventInstanceID="ei1308" lid="l82" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1483" lid="l83" relType="BEFORE" relatedToEventInstance="ei1484"/>
+<TLINK eventInstanceID="ei1280" lid="l84" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1379" lid="l85" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1299" lid="l86" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1296" lid="l87" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1466" lid="l88" relType="SIMULTANEOUS" relatedToEventInstance="ei1467"/>
+<TLINK eventInstanceID="ei1285" lid="l89" relType="AFTER" relatedToEventInstance="ei1283"/>
+<TLINK eventInstanceID="ei1264" lid="l90" relType="IS_INCLUDED" relatedToTime="t472"/>
+<TLINK eventInstanceID="ei1212" lid="l91" relType="SIMULTANEOUS" relatedToEventInstance="ei1211"/>
+<TLINK eventInstanceID="ei1359" lid="l92" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1381" lid="l93" relType="INITIATES" relatedToEventInstance="ei1382"/>
+<TLINK eventInstanceID="ei1371" lid="l94" relType="BEFORE" relatedToEventInstance="ei1428"/>
+<TLINK eventInstanceID="ei1337" lid="l95" relType="INITIATES" relatedToEventInstance="ei1336"/>
+<TLINK eventInstanceID="ei1461" lid="l96" relType="BEFORE" relatedToEventInstance="ei1463"/>
+<TLINK eventInstanceID="ei1276" lid="l97" relType="IDENTITY" relatedToEventInstance="ei1272"/>
+<TLINK lid="l98" relType="INCLUDES" relatedToEventInstance="ei1195" timeID="t451"/>
+<TLINK eventInstanceID="ei1469" lid="l99" relType="AFTER" relatedToEventInstance="ei1468"/>
+<TLINK eventInstanceID="ei1338" lid="l100" relType="SIMULTANEOUS" relatedToEventInstance="ei1337"/>
+<TLINK eventInstanceID="ei1480" lid="l101" relType="SIMULTANEOUS" relatedToEventInstance="ei1478"/>
+<TLINK eventInstanceID="ei1493" lid="l102" relType="IDENTITY" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1429" lid="l103" relType="AFTER" relatedToEventInstance="ei1435"/>
+<TLINK eventInstanceID="ei1368" lid="l104" relType="IDENTITY" relatedToEventInstance="ei1352"/>
+<TLINK eventInstanceID="ei1402" lid="l105" relType="IDENTITY" relatedToEventInstance="ei1222"/>
+<TLINK eventInstanceID="ei1223" lid="l106" relType="IDENTITY" relatedToEventInstance="ei1218"/>
+<TLINK eventInstanceID="ei1461" lid="l107" relType="BEFORE" relatedToEventInstance="ei1462"/>
+<TLINK eventInstanceID="ei1477" lid="l108" relType="CONTINUES" relatedToEventInstance="ei1475"/>
+<TLINK eventInstanceID="ei1442" lid="l109" relType="INITIATES" relatedToEventInstance="ei1441"/>
+<TLINK eventInstanceID="ei1455" lid="l110" relType="IS_INCLUDED" relatedToEventInstance="ei1456"/>
+<TLINK eventInstanceID="ei1210" lid="l111" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1459" lid="l112" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1352" lid="l113" relType="IDENTITY" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1407" lid="l114" relType="BEFORE" relatedToEventInstance="ei1408"/>
+<TLINK lid="l115" relType="INCLUDES" relatedToEventInstance="ei1465" timeID="t517"/>
+<TLINK eventInstanceID="ei1517" lid="l116" relType="IDENTITY" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1451" lid="l117" relType="BEGINS" relatedToEventInstance="ei1450"/>
+<TLINK eventInstanceID="ei1451" lid="l118" relType="INITIATES" relatedToEventInstance="ei1450"/>
+<TLINK eventInstanceID="ei1422" lid="l119" relType="AFTER" relatedToEventInstance="ei1424"/>
+<TLINK eventInstanceID="ei1302" lid="l120" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1348" lid="l121" relType="BEFORE" relatedToEventInstance="ei1349"/>
+<TLINK lid="l122" relType="INCLUDES" relatedToEventInstance="ei1262" timeID="t472"/>
+<TLINK eventInstanceID="ei1391" lid="l123" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1300" lid="l124" relType="SIMULTANEOUS" relatedToEventInstance="ei1299"/>
+<TLINK eventInstanceID="ei1315" lid="l125" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1292" lid="l126" relType="AFTER" relatedToEventInstance="ei1293"/>
+<TLINK eventInstanceID="ei1457" lid="l127" relType="AFTER" relatedToEventInstance="ei1456"/>
+<TLINK eventInstanceID="ei1301" lid="l128" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1494" lid="l129" relType="INITIATES" relatedToEventInstance="ei1493"/>
+<TLINK eventInstanceID="ei1456" lid="l130" relType="IS_INCLUDED" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1204" lid="l131" relType="IAFTER" relatedToEventInstance="ei1205"/>
+<TLINK eventInstanceID="ei1283" lid="l132" relType="IDENTITY" relatedToEventInstance="ei1417"/>
+<TLINK eventInstanceID="ei1411" lid="l133" relType="AFTER" relatedToEventInstance="ei1409"/>
+<TLINK eventInstanceID="ei1445" lid="l134" relType="BEFORE" relatedToEventInstance="ei1446"/>
+<TLINK eventInstanceID="ei1414" lid="l135" relType="IS_INCLUDED" relatedToEventInstance="ei1412"/>
+<TLINK eventInstanceID="ei1295" lid="l136" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1336" lid="l137" relType="IDENTITY" relatedToEventInstance="ei1317"/>
+<TLINK eventInstanceID="ei1272" lid="l138" relType="BEFORE" relatedToEventInstance="ei1275"/>
+<TLINK eventInstanceID="ei1290" lid="l139" relType="BEFORE" relatedToEventInstance="ei1292"/>
+<TLINK eventInstanceID="ei1266" lid="l140" relType="SIMULTANEOUS" relatedToEventInstance="ei1265"/>
+<TLINK eventInstanceID="ei1298" lid="l141" relType="IBEFORE" relatedToEventInstance="ei1296"/>
+<TLINK eventInstanceID="ei1395" lid="l142" relType="AFTER" relatedToEventInstance="ei1396"/>
+<TLINK eventInstanceID="ei1512" lid="l143" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1253" lid="l144" relType="BEFORE" relatedToEventInstance="ei1255"/>
+<TLINK eventInstanceID="ei1342" lid="l145" relType="IDENTITY" relatedToEventInstance="ei1336"/>
+<TLINK eventInstanceID="ei1509" lid="l146" relType="BEFORE" relatedToEventInstance="ei1513"/>
+<TLINK eventInstanceID="ei1243" lid="l147" relType="BEFORE" relatedToEventInstance="ei1245"/>
+<TLINK eventInstanceID="ei1304" lid="l148" relType="BEFORE" relatedToEventInstance="ei1305"/>
+<TLINK eventInstanceID="ei1510" lid="l149" relType="DURING" relatedToEventInstance="ei1509"/>
+<TLINK eventInstanceID="ei1243" lid="l150" relType="BEFORE" relatedToEventInstance="ei1244"/>
+<TLINK lid="l151" relType="AFTER" relatedToEventInstance="ei1337" timeID="t0"/>
+<TLINK eventInstanceID="ei1495" lid="l152" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1408" lid="l153" relType="BEFORE" relatedToEventInstance="ei1409"/>
+<TLINK eventInstanceID="ei1350" lid="l154" relType="AFTER" relatedToEventInstance="ei1348"/>
+<TLINK eventInstanceID="ei1367" lid="l155" relType="TERMINATES" relatedToEventInstance="ei1368"/>
+<TLINK eventInstanceID="ei1332" lid="l156" relType="IS_INCLUDED" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1402" lid="l157" relType="IS_INCLUDED" relatedToTime="t505"/>
+<TLINK eventInstanceID="ei1234" lid="l158" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1323" lid="l159" relType="IDENTITY" relatedToEventInstance="ei1326"/>
+<TLINK eventInstanceID="ei1337" lid="l160" relType="BEFORE" relatedToEventInstance="ei1339"/>
+<TLINK eventInstanceID="ei1377" lid="l161" relType="BEFORE" relatedToEventInstance="ei1376"/>
+<TLINK eventInstanceID="ei1489" lid="l162" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1383" lid="l163" relType="AFTER" relatedToEventInstance="ei1384"/>
+<TLINK eventInstanceID="ei1373" lid="l164" relType="IS_INCLUDED" relatedToEventInstance="ei1217"/>
+<TLINK eventInstanceID="ei1312" lid="l165" relType="SIMULTANEOUS" relatedToEventInstance="ei1311"/>
+<TLINK lid="l166" relType="IS_INCLUDED" relatedToEventInstance="ei1311" timeID="t0"/>
+<TLINK eventInstanceID="ei1414" lid="l167" relType="CONTINUES" relatedToEventInstance="ei1415"/>
+<TLINK eventInstanceID="ei1333" lid="l168" relType="IS_INCLUDED" relatedToEventInstance="ei1332"/>
+<TLINK eventInstanceID="ei1406" lid="l169" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1429" lid="l170" relType="INCLUDES" relatedToEventInstance="ei1430"/>
+<TLINK eventInstanceID="ei1351" lid="l171" relType="AFTER" relatedToEventInstance="ei1352"/>
+<TLINK eventInstanceID="ei1330" lid="l172" relType="SIMULTANEOUS" relatedToEventInstance="ei1328"/>
+<TLINK eventInstanceID="ei1475" lid="l173" relType="SIMULTANEOUS" relatedToEventInstance="ei1476"/>
+<TLINK eventInstanceID="ei1493" lid="l174" relType="AFTER" relatedToEventInstance="ei1491"/>
+<TLINK eventInstanceID="ei1218" lid="l175" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1320" lid="l176" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1314" lid="l177" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1252" lid="l178" relType="BEFORE" relatedToEventInstance="ei1257"/>
+<TLINK eventInstanceID="ei1506" lid="l179" relType="BEFORE" relatedToEventInstance="ei1505"/>
+<TLINK eventInstanceID="ei1362" lid="l180" relType="IS_INCLUDED" relatedToEventInstance="ei1363"/>
+<TLINK eventInstanceID="ei1322" lid="l181" relType="CONTINUES" relatedToEventInstance="ei1323"/>
+<TLINK lid="l182" relType="INCLUDES" relatedToEventInstance="ei1441" timeID="t514"/>
+<TLINK eventInstanceID="ei1441" lid="l183" relType="AFTER" relatedToEventInstance="ei1443"/>
+<TLINK eventInstanceID="ei1452" lid="l184" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1423" lid="l185" relType="IDENTITY" relatedToEventInstance="ei1222"/>
+<TLINK eventInstanceID="ei1468" lid="l186" relType="INCLUDES" relatedToEventInstance="ei1417"/>
+</TimeML>

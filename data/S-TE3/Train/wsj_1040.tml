@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1040</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+ONEIDA Ltd. <EVENT class="OCCURRENCE" eid="e1">declared</EVENT> a 10% stock dividend, payable <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="1989-12-15">Dec. 15</TIMEX3> to stock of record <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1989-11-17">Nov. 17</TIMEX3>. The Oneida, N.Y., maker of consumer, food-service and industrial products also <EVENT class="OCCURRENCE" eid="e3">declared</EVENT> a quarterly cash dividend of 12 cents a share, with the same payable and record dates. The cash dividend <EVENT class="OCCURRENCE" eid="e4">paid</EVENT> on the common stock also will <EVENT class="OCCURRENCE" eid="e6">apply</EVENT> to the new shares, the company <EVENT class="REPORTING" eid="e7">said</EVENT>. The move rewards shareholders and should <EVENT class="OCCURRENCE" eid="e8">improve</EVENT> the stock's liquidity, Oneida <EVENT class="REPORTING" eid="e10">said</EVENT>. The company <EVENT class="OCCURRENCE" eid="e11">has</EVENT> about 8.8 million shares outstanding. In New York Stock Exchange composite trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t63" type="DATE" value="1989-10-25">yesterday</TIMEX3>, Oneida's shares <EVENT class="OCCURRENCE" eid="e12">closed</EVENT> at $18.375 a share, unchanged.
+</TEXT>
+<LASTEXTRAINFO>wsj_1040</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei74" eventID="e11"/>
+<MAKEINSTANCE eiid="ei73" eventID="e10"/>
+<MAKEINSTANCE eiid="ei75" eventID="e12"/>
+<MAKEINSTANCE eiid="ei72" eventID="e8"/>
+<MAKEINSTANCE eiid="ei69" eventID="e4"/>
+<MAKEINSTANCE eiid="ei71" eventID="e7"/>
+<MAKEINSTANCE eiid="ei70" eventID="e6"/>
+<MAKEINSTANCE eiid="ei66" eventID="e1"/>
+<MAKEINSTANCE eiid="ei68" eventID="e3"/>
+<TLINK eventInstanceID="ei73" lid="l1" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei71" lid="l2" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei75" lid="l3" relType="IS_INCLUDED" relatedToTime="t63"/>
+<TLINK eventInstanceID="ei66" lid="l4" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei74" lid="l5" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei69" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei70"/>
+<TLINK eventInstanceID="ei68" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

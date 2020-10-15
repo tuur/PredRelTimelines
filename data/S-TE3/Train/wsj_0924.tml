@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0924</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Dominion Textile Inc. holders <EVENT class="OCCURRENCE" eid="e1">adopted</EVENT> a shareholder-rights plan at the annual <EVENT class="OCCURRENCE" eid="e2">meeting</EVENT>.
+
+The so-called poison pill <EVENT class="OCCURRENCE" eid="e4">took</EVENT> effect <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t24" type="DATE" value="1989-08-09">Aug. 9</TIMEX3> pending <EVENT class="OCCURRENCE" eid="e5">ratification</EVENT> by holders. Rights attached to the company's common shares were <EVENT class="OCCURRENCE" eid="e7">issued</EVENT> that are <EVENT class="OCCURRENCE" eid="e8">triggered</EVENT> if a hostile bidder <EVENT class="OCCURRENCE" eid="e10">acquires</EVENT> more than 20% of the shares outstanding. Once <EVENT class="OCCURRENCE" eid="e11">triggered</EVENT>, the rights <EVENT class="I_STATE" eid="e27">allow</EVENT> holders to <EVENT class="OCCURRENCE" eid="e13">buy</EVENT> additional shares at 50% of the <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t34" type="DATE" value="PAST_REF">then current</TIMEX3> market price or, at the board's discretion, to <EVENT class="OCCURRENCE" eid="e16">receive</EVENT> securities or assets.
+
+Separately, Dominion Textile <EVENT class="REPORTING" eid="e18">posted</EVENT> net <EVENT class="STATE" eid="e47">income</EVENT> of 4.7 million Canadian dollars ($4 million), or 12 Canadian cents a share, for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t36" type="DATE" value="1989-Q1">the fiscal-first quarter</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1989-09-30">Sept. 30</TIMEX3>. The company <EVENT class="OCCURRENCE" eid="e41">had</EVENT> a net loss of C$2.3 million, or 14 Canadian cents a share, <TIMEX3 anchorTimeID="t36" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="1988-Q1">a year ago</TIMEX3>. Sales were C$348.2 million compared with C$307.2 <TIMEX3 anchorTimeID="t36" functionInDocument="NONE" temporalFunction="true" tid="t43" type="DATE" value="1988-Q1">a year earlier</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0924</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei172" eventID="e18"/>
+<MAKEINSTANCE eiid="ei168" eventID="e27"/>
+<MAKEINSTANCE eiid="ei178" eventID="e47"/>
+<MAKEINSTANCE eiid="ei167" eventID="e11"/>
+<MAKEINSTANCE eiid="ei166" eventID="e10"/>
+<MAKEINSTANCE eiid="ei169" eventID="e13"/>
+<MAKEINSTANCE eiid="ei171" eventID="e16"/>
+<MAKEINSTANCE eiid="ei174" eventID="e41"/>
+<MAKEINSTANCE eiid="ei165" eventID="e8"/>
+<MAKEINSTANCE eiid="ei163" eventID="e5"/>
+<MAKEINSTANCE eiid="ei161" eventID="e4"/>
+<MAKEINSTANCE eiid="ei164" eventID="e7"/>
+<MAKEINSTANCE eiid="ei159" eventID="e1"/>
+<MAKEINSTANCE eiid="ei160" eventID="e2"/>
+<TLINK eventInstanceID="ei168" lid="l1" relType="AFTER" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei164" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l3" relType="ENDED_BY" relatedToTime="t38" timeID="t36"/>
+<TLINK eventInstanceID="ei165" lid="l4" relType="BEGUN_BY" relatedToEventInstance="ei166"/>
+<TLINK eventInstanceID="ei172" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei164" lid="l6" relType="BEFORE" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei161" lid="l7" relType="IS_INCLUDED" relatedToTime="t24"/>
+<TLINK eventInstanceID="ei174" lid="l8" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei169" lid="l9" relType="AFTER" relatedToEventInstance="ei168"/>
+<TLINK eventInstanceID="ei159" lid="l10" relType="IS_INCLUDED" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei161" lid="l11" relType="AFTER" relatedToEventInstance="ei159"/>
+<TLINK eventInstanceID="ei160" lid="l12" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei167" lid="l13" relType="IDENTITY" relatedToEventInstance="ei165"/>
+</TimeML>

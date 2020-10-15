@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1039</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Amdahl Corp., a maker of mainframe computers, <EVENT class="REPORTING" eid="e1">reported</EVENT> a sharp <EVENT class="OCCURRENCE" eid="e16">decline</EVENT> in net <EVENT class="OCCURRENCE" eid="e31">income</EVENT> for its <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1989-Q3">third quarter</TIMEX3>, <EVENT class="OCCURRENCE" eid="e2">citing</EVENT> <EVENT class="OCCURRENCE" eid="e18">pricecutting</EVENT> by competitors and adverse effects from a strong U.S. dollar.
+
+Net income <EVENT class="OCCURRENCE" eid="e3">fell</EVENT> 37% to $32.9 million, or 30 cents a share, from $52.2 million, or 48 cents a share, in <TIMEX3 anchorTimeID="t17" functionInDocument="NONE" temporalFunction="true" tid="t21" type="DATE" value="1988-Q3">the year-ago period</TIMEX3>. Revenue <EVENT class="OCCURRENCE" eid="e4">rose</EVENT> 15% to $534.3 million from $464.7 million.
+
+Amdahl's <EVENT class="OCCURRENCE" eid="e5">results</EVENT> were somewhat worse than expected. Jay Stevens, an analyst with Dean Witter Reynolds, said he <EVENT class="I_STATE" eid="e8">expected</EVENT> the Sunnyvale, Calif., company to earn 35 cents a share for <TIMEX3 anchorTimeID="t17" functionInDocument="NONE" temporalFunction="true" tid="t22" type="DATE" value="1989-Q3">the quarter</TIMEX3> and <EVENT class="REPORTING" eid="e11">said</EVENT> the firm's weaker profit was partly the <EVENT class="OCCURRENCE" eid="e12">result</EVENT> of increased competition from International Business Machines Corp., Amdahl's principal competitor for mainframe sales.
+</TEXT>
+<LASTEXTRAINFO>wsj_1039</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei125" eventID="e18"/>
+<MAKEINSTANCE eiid="ei123" eventID="e31"/>
+<MAKEINSTANCE eiid="ei137" eventID="e11"/>
+<MAKEINSTANCE eiid="ei139" eventID="e12"/>
+<MAKEINSTANCE eiid="ei122" eventID="e16"/>
+<MAKEINSTANCE eiid="ei135" eventID="e8"/>
+<MAKEINSTANCE eiid="ei132" eventID="e5"/>
+<MAKEINSTANCE eiid="ei129" eventID="e4"/>
+<MAKEINSTANCE eiid="ei121" eventID="e1"/>
+<MAKEINSTANCE eiid="ei126" eventID="e3"/>
+<MAKEINSTANCE eiid="ei124" eventID="e2"/>
+<TLINK eventInstanceID="ei123" lid="l1" relType="ENDS" relatedToTime="t17"/>
+<TLINK eventInstanceID="ei124" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei121"/>
+<TLINK eventInstanceID="ei137" lid="l3" relType="AFTER" relatedToEventInstance="ei139"/>
+<TLINK eventInstanceID="ei129" lid="l4" relType="DURING" relatedToTime="t21"/>
+<TLINK eventInstanceID="ei126" lid="l5" relType="DURING" relatedToTime="t21"/>
+<TLINK eventInstanceID="ei124" lid="l6" relType="AFTER" relatedToEventInstance="ei125"/>
+<TLINK eventInstanceID="ei132" lid="l7" relType="INCLUDES" relatedToEventInstance="ei123"/>
+<TLINK eventInstanceID="ei121" lid="l8" relType="OVERLAP" relatedToEventInstance="ei124"/>
+<TLINK eventInstanceID="ei121" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

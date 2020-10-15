@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0762</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+CAMBREX Corp., Bayonne, N.J., <EVENT class="OCCURRENCE" eid="e1">declared</EVENT> its initial quarterly of five cents a share, payable <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="1989-12-01">Dec. 1</TIMEX3> to stock of record <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t25" type="DATE" value="1989-11-10">Nov. 10</TIMEX3>. The maker of specialty chemicals has about 5.9 million shares outstanding. The company <EVENT class="REPORTING" eid="e4">said</EVENT> the <EVENT class="OCCURRENCE" eid="e5">move</EVENT> <EVENT class="OCCURRENCE" eid="e6">recognizes</EVENT> its strong financial position. Although profits were " <EVENT class="OCCURRENCE" eid="e7">squeezed</EVENT>" in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t26" type="DATE" value="1989">1989</TIMEX3>, mainly as a result of higher raw-material costs, the company <EVENT class="REPORTING" eid="e9">said</EVENT> it is <EVENT class="I_STATE" eid="e16">confident</EVENT> about future earnings and cash <EVENT class="OCCURRENCE" eid="e10">flow</EVENT> for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t27" type="DATE" value="1990">1990 and beyond</TIMEX3>. In national over-the-counter <EVENT class="OCCURRENCE" eid="e11">trading</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t28" type="DATE" value="1989-10-26">yesterday</TIMEX3>, Cambrex shares <EVENT class="OCCURRENCE" eid="e12">rose</EVENT> 50 cents to <EVENT class="OCCURRENCE" eid="e14">close</EVENT> at $13 a share.
+</TEXT>
+<LASTEXTRAINFO>wsj_0762</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2003" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e16"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e1"/>
+<TLINK eventInstanceID="ei2003" lid="l1" relType="ENDED_BY" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei1998" lid="l2" relType="IS_INCLUDED" relatedToTime="t26"/>
+<TLINK eventInstanceID="ei2003" lid="l3" relType="INCLUDES" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei1995" lid="l4" relType="SIMULTANEOUS" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei1994" lid="l5" relType="OVERLAP" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei2002" lid="l6" relType="SIMULTANEOUS" relatedToTime="t27"/>
+<TLINK eventInstanceID="ei1998" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1999" lid="l8" relType="OVERLAP" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei1999" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2004" lid="l10" relType="ENDED_BY" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei1995" lid="l11" relType="IDENTITY" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei2003" lid="l12" relType="IS_INCLUDED" relatedToTime="t28"/>
+<TLINK eventInstanceID="ei1994" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1991" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

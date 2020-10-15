@@ -1,0 +1,238 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1014</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Anheuser-Busch Cos. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_STATE" eid="e2">plans</EVENT> to aggressively <EVENT class="OCCURRENCE" eid="e4">discount</EVENT> its major beer brands, <EVENT class="OCCURRENCE" eid="e5">setting</EVENT> the stage for a potentially bruising price <EVENT class="OCCURRENCE" eid="e6">war</EVENT> as the maturing industry's <EVENT class="OCCURRENCE" eid="e192">growth</EVENT> <EVENT class="ASPECTUAL" eid="e8">continues</EVENT> to <EVENT class="OCCURRENCE" eid="e10">slow</EVENT>.
+
+Anheuser, the world's largest brewer and U.S. market leader, has historically been <EVENT class="I_STATE" eid="e203">reluctant</EVENT> to <EVENT class="OCCURRENCE" eid="e12">engage</EVENT> in <EVENT class="OCCURRENCE" eid="e210">price-cutting</EVENT> as a means of <EVENT class="OCCURRENCE" eid="e14">boosting</EVENT> sales volume. With the <EVENT class="OCCURRENCE" eid="e15">passing</EVENT> of the heady <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t227" type="DURATION" value="PXD">days</TIMEX3> of swelling industry sales, however, the once-sporadic and brief <EVENT class="OCCURRENCE" eid="e17">forays</EVENT> into <EVENT class="OCCURRENCE" eid="e18">discounting</EVENT> are <EVENT class="OCCURRENCE" eid="e20">becoming</EVENT> standard competitive weapons in the beer industry.
+
+Over the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t246" type="DATE" value="1989-SU">summer</TIMEX3>, Anheuser competitors <EVENT class="I_ACTION" eid="e24">offered</EVENT> more and deeper <EVENT class="OCCURRENCE" eid="e25">discounts</EVENT> than industry observers have <EVENT class="PERCEPTION" eid="e26">seen</EVENT> for a long time. Some experts <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t261" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="OCCURRENCE" eid="e28">predict</EVENT> Anheuser's <EVENT class="OCCURRENCE" eid="e29">entry</EVENT> into the fray <EVENT class="OCCURRENCE" eid="e32">means</EVENT> near-term earnings <EVENT class="OCCURRENCE" eid="e33">trouble</EVENT> for all the industry players.
+
+The St. Louis company <EVENT class="REPORTING" eid="e34">said</EVENT> major rivals, Philip Morris Co.'s Miller Brewing unit and Adolph Coors Co. "have been <EVENT class="OCCURRENCE" eid="e35">following</EVENT> a policy of continuous and deep <EVENT class="OCCURRENCE" eid="e36">discounting</EVENT> for <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t283" type="DURATION" value="P18M">at least the past 18 months</TIMEX3>" on their premium brands, <EVENT class="OCCURRENCE" eid="e38">pricing</EVENT> their product as much as 25 cents a 12-pack below Anheuser's Budweiser label in many markets. Anheuser <EVENT class="REPORTING" eid="e42">said</EVENT> it's discounting policy basically would <EVENT class="OCCURRENCE" eid="e43">involve</EVENT> <EVENT class="OCCURRENCE" eid="e45">matching</EVENT> such <EVENT class="OCCURRENCE" eid="e46">moves</EVENT> by rivals on a market-by-market basis.
+
+Anheuser-Busch <EVENT class="REPORTING" eid="e47">announced</EVENT> its <EVENT class="I_STATE" eid="e1991">plan</EVENT> at the same time it <EVENT class="REPORTING" eid="e50">reported</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t321" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net income <EVENT class="OCCURRENCE" eid="e51">rose</EVENT> a lower-than-anticipated 5.2% to $238.3 million, or 83 cents a share, from $226.5 million, or 78 cents. Third-period sales were $2.49 billion, up from last year's $2.34 billion.
+
+Anheuser <EVENT class="REPORTING" eid="e52">said</EVENT> its new strategy -- <EVENT class="OCCURRENCE" eid="e53">started</EVENT> in some markets <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t354" type="DATE" value="1989-09">last month</TIMEX3> and <EVENT class="I_STATE" eid="e56">expected</EVENT> to be <EVENT class="OCCURRENCE" eid="e58">applied</EVENT> soon in selected markets nationwide -- will <EVENT class="OCCURRENCE" eid="e61">mean</EVENT> lower-than-anticipated earnings for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t371" type="DATE" value="1989-H2">the last half of 1989</TIMEX3> and for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t370" type="DATE" value="1990">1990</TIMEX3>. The <EVENT class="OCCURRENCE" eid="e62">projection</EVENT> <EVENT class="OCCURRENCE" eid="e63">sent</EVENT> Anheuser shares <EVENT class="OCCURRENCE" eid="e64">plunging</EVENT> $4.375 in New York Stock Exchange composite trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t394" type="DATE" value="1989-10-25">yesterday</TIMEX3>. The stock <EVENT class="OCCURRENCE" eid="e65">closed</EVENT> at $38.50 on heavy volume of about 3.5 million shares. Shares of Coors, the company's sole publicly traded major competitor, <EVENT class="OCCURRENCE" eid="e66">fell</EVENT> $1.50 apiece to $19.125 in national over-the-counter trading, apparently on investor concerns over potential <EVENT class="OCCURRENCE" eid="e410">fallout</EVENT> from the coming pricing <EVENT class="OCCURRENCE" eid="e70">struggle</EVENT>.
+
+Anheuser <EVENT class="REPORTING" eid="e72">noted</EVENT> that "beer industry sales volume is <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t419" type="DATE" value="1989">1989</TIMEX3> is <EVENT class="OCCURRENCE" eid="e73">following</EVENT> the trend that has <EVENT class="OCCURRENCE" eid="e74">characterized</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t446" type="DATE" value="198">the last half of the '80s</TIMEX3>, with sales volume being essentially <EVENT class="STATE" eid="e2238">flat</EVENT>" while <EVENT class="OCCURRENCE" eid="e77">consolidation</EVENT> <EVENT class="OCCURRENCE" eid="e78">creates</EVENT> fewer, bigger players.
+
+"We cannot <EVENT class="I_ACTION" eid="e80">permit</EVENT> a further <EVENT class="OCCURRENCE" eid="e2000">slowing</EVENT> in our volume trend," Anheuser <EVENT class="REPORTING" eid="e82">said</EVENT>, <EVENT class="REPORTING" eid="e83">adding</EVENT> it will <EVENT class="OCCURRENCE" eid="e84">take</EVENT> "appropriate competitive pricing <EVENT class="OCCURRENCE" eid="e85">actions</EVENT> to <EVENT class="OCCURRENCE" eid="e87">support</EVENT> our long-term market share growth strategy" for the premium brands. Anheuser <EVENT class="REPORTING" eid="e88">said</EVENT> it <EVENT class="ASPECTUAL" eid="e89">continues</EVENT> to <EVENT class="OCCURRENCE" eid="e91">hold</EVENT> to its <EVENT class="STATE" eid="e2045">earlier-announced</EVENT> goal of a 50% U.S. market share by <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2054" type="DATE" value="199">the mid-1990s</TIMEX3>.
+
+Beneath the tepid news-release jargon <EVENT class="OCCURRENCE" eid="e94">lies</EVENT> a powerful threat from the brewing giant, which last year <EVENT class="OCCURRENCE" eid="e96">accounted</EVENT> for about 41% of all U.S. beer sales and is <EVENT class="I_STATE" eid="e97">expected</EVENT> to <EVENT class="PERCEPTION" eid="e99">see</EVENT> that <EVENT class="OCCURRENCE" eid="e100">grow</EVENT> to 42.5% in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2056" type="DATE" value="1989">the current year</TIMEX3>. "Anheuser is the biggest guy in the bar, and he just <EVENT class="OCCURRENCE" eid="e102">decided</EVENT> to <EVENT class="OCCURRENCE" eid="e104">join</EVENT> in the barroom <EVENT class="OCCURRENCE" eid="e105">brawl</EVENT>," <EVENT class="REPORTING" eid="e107">said</EVENT> Joseph J. Doyle, an analyst with Smith Barney, Harris Upham amp Co. "It's going to <EVENT class="OCCURRENCE" eid="e110">get</EVENT> bloody."
+
+Jerry Steinman, publisher of Beer Marketers Insights, a trade newsletter, <EVENT class="REPORTING" eid="e112">said</EVENT> Anheuser's <EVENT class="OCCURRENCE" eid="e113">announcement</EVENT> <EVENT class="OCCURRENCE" eid="e114">means</EVENT> "everybody else in the industry is going to <EVENT class="STATE" eid="e2125">have</EVENT> a difficult time <EVENT class="OCCURRENCE" eid="e120">reaching</EVENT> their profit objectives."
+
+Prudential-Bache Securities Inc. analyst George E. Thompson <EVENT class="OCCURRENCE" eid="e121">downplayed</EVENT> the importance of the <EVENT class="OCCURRENCE" eid="e122">announcement</EVENT>, and <EVENT class="OCCURRENCE" eid="e123">called</EVENT> any comparison between the coming beer-industry tiff and the seemingly unending "cola wars," unwarranted. Mr. Thompson <EVENT class="OCCURRENCE" eid="e128">calls</EVENT> discounting "a loser's game for anyone without a dominant market share," and <EVENT class="REPORTING" eid="e131">projected</EVENT> that Anheuser's statement of intent could simply be a means of <EVENT class="I_ACTION" eid="e2164">warning</EVENT> competitors to <EVENT class="OCCURRENCE" eid="e137">ease</EVENT> up on <EVENT class="OCCURRENCE" eid="e2175">price-cutting</EVENT> or face a costly and fruitless <EVENT class="OCCURRENCE" eid="e138">battle</EVENT>.
+
+Mr. Thompson <EVENT class="REPORTING" eid="e139">noted</EVENT> that the disappointing earnings, which <EVENT class="OCCURRENCE" eid="e140">fell</EVENT> five cents a share short of his own <EVENT class="OCCURRENCE" eid="e141">projections</EVENT>, <EVENT class="OCCURRENCE" eid="e142">contributed</EVENT> to the sell-off by an edgy and currently unforgiving investing public.
+
+But Smith Barney's Mr. Doyle, who <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2196" type="DATE" value="1989-10-25">yesterday</TIMEX3> <EVENT class="OCCURRENCE" eid="e144">trimmed</EVENT> his <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2201" type="DATE" value="1990">1990</TIMEX3> Anheuser earnings projection to $2.95 a share from $3.10, <EVENT class="OCCURRENCE" eid="e145">called</EVENT> the market's reaction "justified." While the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2210" type="DATE" value="1989-Q3">third-quarter</TIMEX3> earnings were a "moderate disappointment," he <EVENT class="REPORTING" eid="e149">said</EVENT>, "the real bad news is the <EVENT class="STATE" eid="e2239">intensity</EVENT> of price <EVENT class="OCCURRENCE" eid="e151">competition</EVENT>" in the premium-beer sector.
+
+<EVENT class="REPORTING" eid="e2231">According</EVENT> to Mr. Steinman, the newsletter publisher, Anheuser's market share is nearly twice that of its nearest competitor, Miller Brewing, which <EVENT class="STATE" eid="e2237">had</EVENT> a 21.2% stake <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2238" type="DATE" value="1988">last year</TIMEX3>. It's <EVENT class="OCCURRENCE" eid="e154">followed</EVENT> by Stroh Brewery Co., which has <EVENT class="I_ACTION" eid="e155">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e157">sell</EVENT> its assets to Coors. Both Coors and Stroh have recently been <EVENT class="OCCURRENCE" eid="e158">ceding</EVENT> market share to Miller and Anheuser.
+</TEXT>
+<LASTEXTRAINFO>wsj_1014</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2307" eventID="e410"/>
+<MAKEINSTANCE eiid="ei2272" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2264" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2266" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2269" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2268" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2271" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2327" eventID="e91"/>
+<MAKEINSTANCE eiid="ei2328" eventID="e2045"/>
+<MAKEINSTANCE eiid="ei2329" eventID="e94"/>
+<MAKEINSTANCE eiid="ei2331" eventID="e97"/>
+<MAKEINSTANCE eiid="ei2330" eventID="e96"/>
+<MAKEINSTANCE eiid="ei2332" eventID="e99"/>
+<MAKEINSTANCE eiid="ei2358" eventID="e144"/>
+<MAKEINSTANCE eiid="ei2359" eventID="e145"/>
+<MAKEINSTANCE eiid="ei2357" eventID="e142"/>
+<MAKEINSTANCE eiid="ei2350" eventID="e2164"/>
+<MAKEINSTANCE eiid="ei2355" eventID="e140"/>
+<MAKEINSTANCE eiid="ei2356" eventID="e141"/>
+<MAKEINSTANCE eiid="ei2347" eventID="e128"/>
+<MAKEINSTANCE eiid="ei2343" eventID="e120"/>
+<MAKEINSTANCE eiid="ei2344" eventID="e121"/>
+<MAKEINSTANCE eiid="ei2345" eventID="e122"/>
+<MAKEINSTANCE eiid="ei2346" eventID="e123"/>
+<MAKEINSTANCE eiid="ei2324" eventID="e87"/>
+<MAKEINSTANCE eiid="ei2322" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2323" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2320" eventID="e82"/>
+<MAKEINSTANCE eiid="ei2321" eventID="e83"/>
+<MAKEINSTANCE eiid="ei2318" eventID="e80"/>
+<MAKEINSTANCE eiid="ei2363" eventID="e151"/>
+<MAKEINSTANCE eiid="ei2368" eventID="e155"/>
+<MAKEINSTANCE eiid="ei2367" eventID="e154"/>
+<MAKEINSTANCE eiid="ei2369" eventID="e157"/>
+<MAKEINSTANCE eiid="ei2326" eventID="e89"/>
+<MAKEINSTANCE eiid="ei2354" eventID="e139"/>
+<MAKEINSTANCE eiid="ei2353" eventID="e138"/>
+<MAKEINSTANCE eiid="ei2351" eventID="e137"/>
+<MAKEINSTANCE eiid="ei2348" eventID="e131"/>
+<MAKEINSTANCE eiid="ei2370" eventID="e158"/>
+<MAKEINSTANCE eiid="ei2316" eventID="e78"/>
+<MAKEINSTANCE eiid="ei2311" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2309" eventID="e72"/>
+<MAKEINSTANCE eiid="ei2308" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2315" eventID="e77"/>
+<MAKEINSTANCE eiid="ei2313" eventID="e74"/>
+<MAKEINSTANCE eiid="ei2334" eventID="e102"/>
+<MAKEINSTANCE eiid="ei2333" eventID="e100"/>
+<MAKEINSTANCE eiid="ei2337" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2335" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2336" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2263" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2260" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2259" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2261" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2257" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2258" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2325" eventID="e88"/>
+<MAKEINSTANCE eiid="ei2300" eventID="e61"/>
+<MAKEINSTANCE eiid="ei2301" eventID="e62"/>
+<MAKEINSTANCE eiid="ei2302" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2303" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2304" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2305" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2291" eventID="e1991"/>
+<MAKEINSTANCE eiid="ei2267" eventID="e210"/>
+<MAKEINSTANCE eiid="ei2262" eventID="e192"/>
+<MAKEINSTANCE eiid="ei2342" eventID="e2125"/>
+<MAKEINSTANCE eiid="ei2299" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2319" eventID="e2000"/>
+<MAKEINSTANCE eiid="ei2298" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2293" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2292" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2297" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2296" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2265" eventID="e203"/>
+<MAKEINSTANCE eiid="ei2361" eventID="e149"/>
+<MAKEINSTANCE eiid="ei2286" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2287" eventID="e43"/>
+<MAKEINSTANCE eiid="ei2289" eventID="e46"/>
+<MAKEINSTANCE eiid="ei2290" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2288" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2341" eventID="e114"/>
+<MAKEINSTANCE eiid="ei2338" eventID="e110"/>
+<MAKEINSTANCE eiid="ei2340" eventID="e113"/>
+<MAKEINSTANCE eiid="ei2339" eventID="e112"/>
+<MAKEINSTANCE eiid="ei2364" eventID="e2231"/>
+<MAKEINSTANCE eiid="ei2284" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2283" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2282" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2281" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2280" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2366" eventID="e2237"/>
+<MAKEINSTANCE eiid="ei2372" eventID="e2239"/>
+<MAKEINSTANCE eiid="ei2371" eventID="e2238"/>
+<MAKEINSTANCE eiid="ei2285" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2352" eventID="e2175"/>
+<MAKEINSTANCE eiid="ei2274" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2275" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2276" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2273" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2277" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2278" eventID="e29"/>
+<TLINK eventInstanceID="ei2258" lid="l1" relType="BEFORE" relatedToEventInstance="ei2259"/>
+<TLINK eventInstanceID="ei2269" lid="l2" relType="ENDS" relatedToTime="t227"/>
+<TLINK eventInstanceID="ei2280" lid="l3" relType="IS_INCLUDED" relatedToEventInstance="ei2277"/>
+<TLINK eventInstanceID="ei2323" lid="l4" relType="IDENTITY" relatedToEventInstance="ei2322"/>
+<TLINK eventInstanceID="ei2309" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2298" lid="l6" relType="BEFORE" relatedToEventInstance="ei2299"/>
+<TLINK eventInstanceID="ei2370" lid="l7" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2284" lid="l8" relType="IS_INCLUDED" relatedToTime="t283"/>
+<TLINK eventInstanceID="ei2260" lid="l9" relType="SIMULTANEOUS" relatedToEventInstance="ei2259"/>
+<TLINK eventInstanceID="ei2316" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei2315"/>
+<TLINK eventInstanceID="ei2372" lid="l11" relType="DURING" relatedToTime="t2210"/>
+<TLINK eventInstanceID="ei2298" lid="l12" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2359" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2352" lid="l14" relType="DURING" relatedToEventInstance="ei2348"/>
+<TLINK eventInstanceID="ei2328" lid="l15" relType="BEFORE" relatedToEventInstance="ei2325"/>
+<TLINK eventInstanceID="ei2277" lid="l16" relType="OVERLAP" relatedToEventInstance="ei2280"/>
+<TLINK eventInstanceID="ei2368" lid="l17" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2265" lid="l18" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l19" relType="INCLUDES" relatedToEventInstance="ei2333" timeID="t2056"/>
+<TLINK eventInstanceID="ei2260" lid="l20" relType="OVERLAP" relatedToEventInstance="ei2263"/>
+<TLINK eventInstanceID="ei2329" lid="l21" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2301" lid="l22" relType="IDENTITY" relatedToEventInstance="ei2296"/>
+<TLINK eventInstanceID="ei2345" lid="l23" relType="IDENTITY" relatedToEventInstance="ei2340"/>
+<TLINK eventInstanceID="ei2313" lid="l24" relType="DURING" relatedToTime="t446"/>
+<TLINK eventInstanceID="ei2300" lid="l25" relType="ENDS" relatedToTime="t370"/>
+<TLINK eventInstanceID="ei2266" lid="l26" relType="BEGINS" relatedToEventInstance="ei2267"/>
+<TLINK eventInstanceID="ei2346" lid="l27" relType="SIMULTANEOUS" relatedToEventInstance="ei2344"/>
+<TLINK eventInstanceID="ei2257" lid="l28" relType="OVERLAP" relatedToEventInstance="ei2258"/>
+<TLINK eventInstanceID="ei2342" lid="l29" relType="AFTER" relatedToEventInstance="ei2339"/>
+<TLINK eventInstanceID="ei2263" lid="l30" relType="CONTINUES" relatedToEventInstance="ei2264"/>
+<TLINK eventInstanceID="ei2263" lid="l31" relType="DURING" relatedToEventInstance="ei2264"/>
+<TLINK eventInstanceID="ei2322" lid="l32" relType="BEFORE" relatedToEventInstance="ei2324"/>
+<TLINK eventInstanceID="ei2283" lid="l33" relType="OVERLAP" relatedToEventInstance="ei2285"/>
+<TLINK eventInstanceID="ei2273" lid="l34" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2353" lid="l35" relType="AFTER" relatedToEventInstance="ei2350"/>
+<TLINK eventInstanceID="ei2287" lid="l36" relType="SIMULTANEOUS" relatedToEventInstance="ei2288"/>
+<TLINK eventInstanceID="ei2340" lid="l37" relType="BEFORE" relatedToEventInstance="ei2339"/>
+<TLINK eventInstanceID="ei2301" lid="l38" relType="SIMULTANEOUS" relatedToEventInstance="ei2302"/>
+<TLINK eventInstanceID="ei2325" lid="l39" relType="BEFORE" relatedToTime="t2054"/>
+<TLINK eventInstanceID="ei2338" lid="l40" relType="AFTER" relatedToEventInstance="ei2337"/>
+<TLINK eventInstanceID="ei2331" lid="l41" relType="DURING" relatedToTime="t2056"/>
+<TLINK eventInstanceID="ei2296" lid="l42" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2355" lid="l43" relType="BEFORE" relatedToEventInstance="ei2354"/>
+<TLINK eventInstanceID="ei2336" lid="l44" relType="DURING" relatedToEventInstance="ei2335"/>
+<TLINK eventInstanceID="ei2286" lid="l45" relType="BEFORE" relatedToEventInstance="ei2287"/>
+<TLINK lid="l46" relType="INCLUDES" relatedToEventInstance="ei2358" timeID="t2196"/>
+<TLINK eventInstanceID="ei2331" lid="l47" relType="BEFORE" relatedToEventInstance="ei2332"/>
+<TLINK eventInstanceID="ei2275" lid="l48" relType="IDENTITY" relatedToEventInstance="ei2259"/>
+<TLINK eventInstanceID="ei2334" lid="l49" relType="BEFORE" relatedToEventInstance="ei2335"/>
+<TLINK eventInstanceID="ei2342" lid="l50" relType="SIMULTANEOUS" relatedToEventInstance="ei2343"/>
+<TLINK eventInstanceID="ei2272" lid="l51" relType="SIMULTANEOUS" relatedToEventInstance="ei2271"/>
+<TLINK eventInstanceID="ei2290" lid="l52" relType="SIMULTANEOUS" relatedToEventInstance="ei2292"/>
+<TLINK eventInstanceID="ei2348" lid="l53" relType="SIMULTANEOUS" relatedToEventInstance="ei2347"/>
+<TLINK eventInstanceID="ei2288" lid="l54" relType="AFTER" relatedToEventInstance="ei2289"/>
+<TLINK eventInstanceID="ei2285" lid="l55" relType="SIMULTANEOUS" relatedToEventInstance="ei2284"/>
+<TLINK eventInstanceID="ei2363" lid="l56" relType="DURING" relatedToEventInstance="ei2361"/>
+<TLINK eventInstanceID="ei2271" lid="l57" relType="DURING" relatedToTime="t0"/>
+<TLINK lid="l58" relType="ENDED_BY" relatedToTime="t0" timeID="t283"/>
+<TLINK eventInstanceID="ei2293" lid="l59" relType="ENDS" relatedToTime="t321"/>
+<TLINK eventInstanceID="ei2368" lid="l60" relType="BEFORE" relatedToEventInstance="ei2369"/>
+<TLINK eventInstanceID="ei2332" lid="l61" relType="OVERLAP" relatedToEventInstance="ei2333"/>
+<TLINK eventInstanceID="ei2274" lid="l62" relType="IS_INCLUDED" relatedToTime="t246"/>
+<TLINK eventInstanceID="ei2302" lid="l63" relType="BEFORE" relatedToEventInstance="ei2303"/>
+<TLINK eventInstanceID="ei2305" lid="l64" relType="IS_INCLUDED" relatedToTime="t394"/>
+<TLINK eventInstanceID="ei2300" lid="l65" relType="ENDS" relatedToTime="t371"/>
+<TLINK eventInstanceID="ei2282" lid="l66" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2282" lid="l67" relType="AFTER" relatedToEventInstance="ei2283"/>
+<TLINK eventInstanceID="ei2354" lid="l68" relType="AFTER" relatedToEventInstance="ei2357"/>
+<TLINK eventInstanceID="ei2366" lid="l69" relType="IS_INCLUDED" relatedToTime="t2238"/>
+<TLINK lid="l70" relType="AFTER" relatedToEventInstance="ei2358" timeID="t2201"/>
+<TLINK eventInstanceID="ei2260" lid="l71" relType="BEFORE" relatedToEventInstance="ei2261"/>
+<TLINK eventInstanceID="ei2309" lid="l72" relType="OVERLAP" relatedToEventInstance="ei2311"/>
+<TLINK eventInstanceID="ei2347" lid="l73" relType="SIMULTANEOUS" relatedToEventInstance="ei2346"/>
+<TLINK eventInstanceID="ei2296" lid="l74" relType="BEFORE" relatedToEventInstance="ei2300"/>
+<TLINK eventInstanceID="ei2326" lid="l75" relType="CONTINUES" relatedToEventInstance="ei2327"/>
+<TLINK eventInstanceID="ei2286" lid="l76" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2304" lid="l77" relType="IS_INCLUDED" relatedToTime="t394"/>
+<TLINK eventInstanceID="ei2257" lid="l78" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2307" lid="l79" relType="AFTER" relatedToEventInstance="ei2308"/>
+<TLINK eventInstanceID="ei2327" lid="l80" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2351" lid="l81" relType="AFTER" relatedToEventInstance="ei2350"/>
+<TLINK eventInstanceID="ei2321" lid="l82" relType="BEFORE" relatedToEventInstance="ei2322"/>
+<TLINK eventInstanceID="ei2303" lid="l83" relType="IS_INCLUDED" relatedToTime="t394"/>
+<TLINK eventInstanceID="ei2292" lid="l84" relType="AFTER" relatedToTime="t321"/>
+<TLINK eventInstanceID="ei2367" lid="l85" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2356" lid="l86" relType="BEFORE" relatedToEventInstance="ei2355"/>
+<TLINK eventInstanceID="ei2325" lid="l87" relType="OVERLAP" relatedToEventInstance="ei2326"/>
+<TLINK eventInstanceID="ei2262" lid="l88" relType="DURING" relatedToEventInstance="ei2264"/>
+<TLINK eventInstanceID="ei2339" lid="l89" relType="OVERLAP" relatedToEventInstance="ei2341"/>
+<TLINK eventInstanceID="ei2344" lid="l90" relType="AFTER" relatedToEventInstance="ei2345"/>
+<TLINK eventInstanceID="ei2297" lid="l91" relType="IS_INCLUDED" relatedToTime="t354"/>
+<TLINK eventInstanceID="ei2364" lid="l92" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2321" lid="l93" relType="SIMULTANEOUS" relatedToEventInstance="ei2320"/>
+<TLINK eventInstanceID="ei2371" lid="l94" relType="DURING" relatedToTime="t419"/>
+<TLINK eventInstanceID="ei2277" lid="l95" relType="DURING" relatedToTime="t261"/>
+<TLINK eventInstanceID="ei2292" lid="l96" relType="AFTER" relatedToEventInstance="ei2293"/>
+<TLINK eventInstanceID="ei2276" lid="l97" relType="BEFORE" relatedToEventInstance="ei2274"/>
+</TimeML>

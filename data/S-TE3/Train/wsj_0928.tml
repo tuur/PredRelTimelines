@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0928</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Sun Microsystems Inc., <EVENT class="OCCURRENCE" eid="e1">snapping</EVENT> back to profitability after its first quarterly <EVENT class="OCCURRENCE" eid="e2">loss</EVENT> as a public firm, <EVENT class="REPORTING" eid="e4">said</EVENT> it <EVENT class="OCCURRENCE" eid="e5">earned</EVENT> $5.2 million, or seven cents a share, in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t64" type="DATE" value="1989-Q1">the fiscal first quarter</TIMEX3>.
+
+Sun, a maker of computer workstations, <EVENT class="REPORTING" eid="e6">reported</EVENT> sales of $538.5 million for <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t68" type="DURATION" value="P1Q">the quarter</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t69" type="DATE" value="1989-09-29">Sept. 29</TIMEX3>, up 39% from $388.5 million <TIMEX3 anchorTimeID="t68" functionInDocument="NONE" temporalFunction="true" tid="t73" type="DATE" value="1988-QX">a year earlier</TIMEX3>. In <TIMEX3 anchorTimeID="t64" functionInDocument="NONE" temporalFunction="true" tid="t74" type="DATE" value="1988-Q1">the 1988 period</TIMEX3>, the company <EVENT class="OCCURRENCE" eid="e8">earned</EVENT> $20.6 million, or 26 cents a share.
+
+Sun's results were slightly better than expectations. Earlier <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t77" type="DATE" value="1989-10">this month</TIMEX3>, the company <EVENT class="REPORTING" eid="e10">said</EVENT> it <EVENT class="I_STATE" eid="e11">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e13">break</EVENT> even for <TIMEX3 anchorTimeID="t64" functionInDocument="NONE" temporalFunction="true" tid="t78" type="DURATION" value="1989-Q1">the quarter</TIMEX3> on sales of $530 million.
+
+In a statement, Scott McNealy, Sun's chief executive officer, <EVENT class="REPORTING" eid="e16">said</EVENT> the company's performance was <EVENT class="OCCURRENCE" eid="e18">hampered</EVENT> by problems tied to the <EVENT class="OCCURRENCE" eid="e20">introduction</EVENT> of a major new family of computers in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t83" type="DATE" value="1988-04">April</TIMEX3>. One of those new computers, called Sparcstation 1, <EVENT class="I_STATE" eid="e239">accounted</EVENT> for nearly half of the 28,000 systems Sun <EVENT class="OCCURRENCE" eid="e23">shipped</EVENT> in <TIMEX3 anchorTimeID="t64" functionInDocument="NONE" temporalFunction="true" tid="t84" type="DATE" value="1989-Q1">the quarter</TIMEX3>, he <EVENT class="REPORTING" eid="e24">said</EVENT>. More than two-thirds of the systems <EVENT class="OCCURRENCE" eid="e25">shipped</EVENT>, meanwhile, were products <EVENT class="OCCURRENCE" eid="e26">introduced</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t87" type="DATE" value="1989-04">April</TIMEX3>.
+
+But problems in manufacturing, forecasting demand and getting the bugs out of a new management information system <EVENT class="OCCURRENCE" eid="e32">made</EVENT> it extremely difficult for Sun to <EVENT class="I_ACTION" eid="e34">meet</EVENT> demand for its newest computers well into <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t89" type="DATE" value="1989-SU">the summer</TIMEX3>. These problems also <EVENT class="OCCURRENCE" eid="e36">resulted</EVENT> in Sun <EVENT class="REPORTING" eid="e37">reporting</EVENT> a $20.3 million <EVENT class="OCCURRENCE" eid="e38">loss</EVENT> for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t94" type="DATE" value="1989-Q4">its fourth quarter</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t95" type="DATE" value="1989-06-30">June 30</TIMEX3>.
+
+Mr. McNealy <EVENT class="REPORTING" eid="e40">said</EVENT> the issues that <EVENT class="OCCURRENCE" eid="e41">hurt</EVENT> Sun's performance earlier <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t96" type="DATE" value="1989">this year</TIMEX3> are now " largely" behind the firm, and he <EVENT class="I_ACTION" eid="e44">indicated</EVENT> that Sun's profitability should <EVENT class="OCCURRENCE" eid="e45">increase</EVENT> throughout <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t99" type="DURATION" value="P1Y">the fiscal year</TIMEX3>.
+
+Sun also <EVENT class="REPORTING" eid="e47">reported</EVENT> a record backlog of orders. While this indicates continued strong <EVENT class="OCCURRENCE" eid="e50">demand</EVENT> for the company's desk-top computers, Sun <EVENT class="I_STATE" eid="e51">faces</EVENT> increasing competition from Digital Equipment Corp. and Hewlett-Packard Co. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t101" type="DATE" value="PAST_REF">Recently</TIMEX3>, analysts have <EVENT class="REPORTING" eid="e54">said</EVENT> Sun also is <EVENT class="I_STATE" eid="e102">vulnerable</EVENT> to competition from International Business Machines Corp., which <EVENT class="I_STATE" eid="e56">plans</EVENT> to <EVENT class="OCCURRENCE" eid="e58">introduce</EVENT> a group of workstations <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t103" type="DATE" value="1990">early next year</TIMEX3>, and Next Inc.
+</TEXT>
+<LASTEXTRAINFO>wsj_0928</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2007" eventID="e239"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e11"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2033" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2029" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2026" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2030" eventID="e102"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e26"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e8"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e23"/>
+<TLINK eventInstanceID="ei2011" lid="l1" relType="IDENTITY" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei2030" lid="l2" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2000" lid="l3" relType="BEFORE" relatedToEventInstance="ei2001"/>
+<TLINK eventInstanceID="ei2009" lid="l4" relType="IDENTITY" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei2010" lid="l5" relType="AFTER" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei1994" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei2013" lid="l7" relType="OVERLAP" relatedToEventInstance="ei2014"/>
+<TLINK eventInstanceID="ei1998" lid="l8" relType="IS_INCLUDED" relatedToTime="t74"/>
+<TLINK eventInstanceID="ei1993" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2029" lid="l10" relType="OVERLAP" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei1999" lid="l11" relType="IS_INCLUDED" relatedToTime="t77"/>
+<TLINK eventInstanceID="ei2006" lid="l12" relType="IS_INCLUDED" relatedToTime="t83"/>
+<TLINK eventInstanceID="ei1993" lid="l13" relType="AFTER" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei1999" lid="l14" relType="OVERLAP" relatedToEventInstance="ei2000"/>
+<TLINK lid="l15" relType="ENDED_BY" relatedToTime="t95" timeID="t94"/>
+<TLINK eventInstanceID="ei2008" lid="l16" relType="IS_INCLUDED" relatedToTime="t84"/>
+<TLINK eventInstanceID="ei2021" lid="l17" relType="IS_INCLUDED" relatedToTime="t96"/>
+<TLINK eventInstanceID="ei2021" lid="l18" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2020" lid="l19" relType="IDENTITY" relatedToEventInstance="ei2009"/>
+<TLINK eventInstanceID="ei2022" lid="l20" relType="IDENTITY" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei2024" lid="l21" relType="IDENTITY" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei1991" lid="l22" relType="AFTER" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei2022" lid="l23" relType="OVERLAP" relatedToEventInstance="ei2023"/>
+<TLINK lid="l24" relType="ENDED_BY" relatedToTime="t69" timeID="t68"/>
+<TLINK eventInstanceID="ei2019" lid="l25" relType="DURING" relatedToTime="t94"/>
+<TLINK lid="l26" relType="INCLUDES" relatedToEventInstance="ei2029" timeID="t101"/>
+<TLINK eventInstanceID="ei2004" lid="l27" relType="AFTER" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei2030" lid="l28" relType="SIMULTANEOUS" relatedToEventInstance="ei2032"/>
+<TLINK eventInstanceID="ei1999" lid="l29" relType="BEFORE" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei2011" lid="l30" relType="IS_INCLUDED" relatedToTime="t87"/>
+<TLINK eventInstanceID="ei2032" lid="l31" relType="BEFORE" relatedToEventInstance="ei2033"/>
+<TLINK eventInstanceID="ei2017" lid="l32" relType="BEFORE" relatedToEventInstance="ei2019"/>
+<TLINK eventInstanceID="ei1994" lid="l33" relType="IS_INCLUDED" relatedToTime="t64"/>
+<TLINK eventInstanceID="ei2023" lid="l34" relType="DURING" relatedToTime="t99"/>
+<TLINK eventInstanceID="ei2033" lid="l35" relType="IS_INCLUDED" relatedToTime="t103"/>
+<TLINK eventInstanceID="ei2018" lid="l36" relType="IDENTITY" relatedToEventInstance="ei2024"/>
+<TLINK eventInstanceID="ei2006" lid="l37" relType="BEFORE" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei1995" lid="l38" relType="IDENTITY" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei2032" lid="l39" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2014" lid="l40" relType="IS_INCLUDED" relatedToTime="t89"/>
+<TLINK eventInstanceID="ei2027" lid="l41" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2001" lid="l42" relType="IS_INCLUDED" relatedToTime="t78"/>
+</TimeML>

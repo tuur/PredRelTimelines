@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>XIE19980808.0188</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-08-07">1998-08-07</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+HAVANA, <TIMEX3 functionInDocument="PUBLICATION_TIME" temporalFunction="false" tid="t111" type="DATE" value="1998-08-07">August 7</TIMEX3> (Xinhua) --
+
+The Cuban government <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2" type="DATE" value="1998-08-07">Friday</TIMEX3> <EVENT class="OCCURRENCE" eid="e1">condemned</EVENT> the two bomb <EVENT class="OCCURRENCE" eid="e12">explosions</EVENT> near U.S. embassies in Kenya and Tanzania.
+
+The Foreign Ministry <EVENT class="REPORTING" eid="e2">said</EVENT> in a statement that the Cuban government is against such kind of terrorist <EVENT class="OCCURRENCE" eid="e14">attacks</EVENT>, which <EVENT class="OCCURRENCE" eid="e3">pose</EVENT> potential threats to every country.
+
+The Cuban government also <EVENT class="OCCURRENCE" eid="e4">expressed</EVENT> its condolences to the families of the victims.
+
+Two bombs <EVENT class="OCCURRENCE" eid="e5">exploded</EVENT> outside U.S. embassies in Kenya and Tanzania <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t3" type="DATE" value="1998-08-07">Friday</TIMEX3>, <EVENT class="OCCURRENCE" eid="e6">killing</EVENT> at least 81 people and injuring more than 1,700 others.
+
+At least 74, including eight Americans, were <EVENT class="OCCURRENCE" eid="e8">killed</EVENT> in Nairobi, the capital of Kenya, and more then 1,640 were <EVENT class="OCCURRENCE" eid="e9">wounded</EVENT>. At least seven were <EVENT class="REPORTING" eid="e10">reported</EVENT> dead in the Tanzanian capital of Dar es Salaam, and 72 others were <EVENT class="OCCURRENCE" eid="e11">hurt</EVENT>.
+
+</TEXT>
+<LASTEXTRAINFO>XIE19980808.0188</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK eventInstanceID="ei14" lid="l1" relType="IDENTITY" relatedToEventInstance="ei12"/>
+<TLINK eventInstanceID="ei11" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei9"/>
+<TLINK eventInstanceID="ei3" lid="l3" relType="BEFORE" relatedToEventInstance="ei2"/>
+<TLINK eventInstanceID="ei5" lid="l4" relType="IBEFORE" relatedToEventInstance="ei6"/>
+<TLINK eventInstanceID="ei4" lid="l5" relType="DURING" relatedToEventInstance="ei2"/>
+<TLINK eventInstanceID="ei5" lid="l6" relType="IDENTITY" relatedToEventInstance="ei12"/>
+<TLINK eventInstanceID="ei9" lid="l7" relType="SIMULTANEOUS" relatedToEventInstance="ei8"/>
+<TLINK eventInstanceID="ei1" lid="l8" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei10" lid="l9" relType="AFTER" relatedToEventInstance="ei9"/>
+<TLINK lid="l10" relType="IDENTITY" relatedToTime="t0" timeID="t3"/>
+<TLINK eventInstanceID="ei2" lid="l11" relType="DURING" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei8" lid="l12" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei12" lid="l13" relType="BEFORE" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei12" lid="l14" relType="BEFORE" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei5" lid="l15" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei9" lid="l16" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l17" relType="IDENTITY" relatedToTime="t3" timeID="t2"/>
+</TimeML>

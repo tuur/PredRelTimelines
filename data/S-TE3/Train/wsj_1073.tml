@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1073</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-25">1989-10-25</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Advanced Medical Technologies Inc. <EVENT class="REPORTING" eid="e2">said</EVENT> it <EVENT class="OCCURRENCE" eid="e3">purchased</EVENT> 93% of a unit of Henley Group Inc.
+
+Advanced Medical <EVENT class="OCCURRENCE" eid="e4">paid</EVENT> $106 million in cash for its share in a unit of Henley's Fisher Scientific subsidiary. The unit makes intravenous pumps used by hospitals and <EVENT class="OCCURRENCE" eid="e9">had</EVENT> more than $110 million in <EVENT class="OCCURRENCE" eid="e30">sales</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t31" type="DATE" value="1988">last year</TIMEX3>, according to Advanced Medical.
+</TEXT>
+<LASTEXTRAINFO>wsj_1073</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei1991" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1989" eventID="e2"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e3"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e30"/>
+<TLINK eventInstanceID="ei1989" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1993" lid="l2" relType="DURING" relatedToTime="t31"/>
+<TLINK eventInstanceID="ei1992" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1992" lid="l4" relType="SIMULTANEOUS" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei1991" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

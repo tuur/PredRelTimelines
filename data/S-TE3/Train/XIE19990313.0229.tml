@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>XIE19990313.0229</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1999-03-13">1999-03-13</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+WASHINGTON, March 12 (Xinhua) --
+
+Poland, Hungary and the Czech Republic <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DATE" value="1999-03-12">Friday</TIMEX3> formally <EVENT class="OCCURRENCE" eid="e1">joined</EVENT> NATO at a <EVENT class="OCCURRENCE" eid="e2">ceremony</EVENT> <EVENT class="OCCURRENCE" eid="e3">held</EVENT> in the city of Independence, Missouri.
+
+At the Harry Truman Library in Independence, the three foreign ministers of Bronislaw Geremek of Poland, Janos Martonyi of Hungary and Jan Kavan of the Czech Republic <EVENT class="OCCURRENCE" eid="e4">signed</EVENT> formal documents of accession.
+
+In <EVENT class="OCCURRENCE" eid="e5">speeches</EVENT> before the signing <EVENT class="OCCURRENCE" eid="e6">ceremony</EVENT>, the ministers <EVENT class="REPORTING" eid="e7">said</EVENT> their countries <EVENT class="PERCEPTION" eid="e8">saw</EVENT> NATO membership as an assurance of security and recognition of their rightful place in Europe.
+
+Kavan <EVENT class="REPORTING" eid="e9">said</EVENT> the Czech Republic would no longer <EVENT class="STATE" eid="e10">become</EVENT> "the powerless victim of a foreign invasion."
+
+Martonyi <EVENT class="REPORTING" eid="e11">called</EVENT> Hunragy's <EVENT class="OCCURRENCE" eid="e12">admission</EVENT> in NATO "<EVENT class="OCCURRENCE" eid="e13">returning</EVENT> to her natural habitat," <EVENT class="REPORTING" eid="e14">saying</EVENT>: "It has <EVENT class="STATE" eid="e15">been</EVENT> our manifest destiny to <EVENT class="OCCURRENCE" eid="e16">rejoin</EVENT> those with whom we <EVENT class="STATE" eid="e17">share</EVENT> the same values, interests and goals."
+
+And Geremek <EVENT class="REPORTING" eid="e18">said</EVENT> it <EVENT class="STATE" eid="e19">was</EVENT> "a great <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t3" type="DATE" value="1999-03-12">day</TIMEX3> for Poland and for the world."
+
+U.S. Secretary of State Madeleine Albright <EVENT class="OCCURRENCE" eid="e20">accepted</EVENT> admission papers from the three countries' foreign ministers, <EVENT class="I_ACTION" eid="e21">marking</EVENT> their formal <EVENT class="OCCURRENCE" eid="e22">entry</EVENT> into the 50-year-old Western alliance. "Hallelujah," <EVENT class="OCCURRENCE" eid="e23">exclaimed</EVENT> Albright, a daughter of Czechoslovakia, who as a child <EVENT class="OCCURRENCE" eid="e24">fled</EVENT> her native land and later <EVENT class="STATE" eid="e25">became</EVENT> a U.S. citizen.
+
+Ahead of the <EVENT class="OCCURRENCE" eid="e26">ceremony</EVENT>, NATO Secretary-General Javier Solana <EVENT class="REPORTING" eid="e27">said</EVENT> that the <EVENT class="OCCURRENCE" eid="e28">accession</EVENT> of the three countries..."<EVENT class="STATE" eid="e29">is</EVENT> perhaps the clearest demonstration of the fact that Europe is <EVENT class="STATE" eid="e30">growing</EVENT> closer together."
+
+"<EVENT class="OCCURRENCE" eid="e31">Extending</EVENT> membership to these three democracies <EVENT class="I_ACTION" eid="e32">helps</EVENT> to <EVENT class="OCCURRENCE" eid="e33">stabilize</EVENT> a region that historically has <EVENT class="STATE" eid="e34">been</EVENT> the staging ground for many of the <EVENT class="OCCURRENCE" eid="e35">disasters</EVENT> of <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t4" type="DURATION" value="P100Y">this century,</TIMEX3>" Solana <EVENT class="REPORTING" eid="e44">added</EVENT>, <EVENT class="REPORTING" eid="e36">referring</EVENT> to the two world <EVENT class="OCCURRENCE" eid="e37">wars</EVENT>.
+
+The U.S. State Department has <EVENT class="REPORTING" eid="e38">said</EVENT> the three new members "<EVENT class="I_ACTION" eid="e39">enhance</EVENT> NATO's ability to <EVENT class="OCCURRENCE" eid="e40">fulfill</EVENT> its core mission of collective defense, <EVENT class="OCCURRENCE" eid="e41">respond</EVENT> to a range of security challenges and <EVENT class="OCCURRENCE" eid="e42">reduce</EVENT> the possibility of another major conflict in Europe of the kind that has <EVENT class="OCCURRENCE" eid="e43">claimed</EVENT> so many American lives."
+
+</TEXT>
+<LASTEXTRAINFO>XIE19990313.0229</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei44" eventID="e44"/>
+<MAKEINSTANCE eiid="ei39" eventID="e39"/>
+<MAKEINSTANCE eiid="ei18" eventID="e18"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei37" eventID="e37"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei35" eventID="e35"/>
+<MAKEINSTANCE eiid="ei34" eventID="e34"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei32" eventID="e32"/>
+<MAKEINSTANCE eiid="ei31" eventID="e31"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei15" eventID="e15"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei38" eventID="e38"/>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei43" eventID="e43"/>
+<MAKEINSTANCE eiid="ei40" eventID="e40"/>
+<MAKEINSTANCE eiid="ei41" eventID="e41"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei42" eventID="e42"/>
+<MAKEINSTANCE eiid="ei25" eventID="e25"/>
+<MAKEINSTANCE eiid="ei26" eventID="e26"/>
+<MAKEINSTANCE eiid="ei27" eventID="e27"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei22" eventID="e22"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei28" eventID="e28"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<TLINK lid="l1" relType="IS_INCLUDED" relatedToEventInstance="ei8" timeID="t0"/>
+<TLINK lid="l2" relType="IS_INCLUDED" relatedToEventInstance="ei10" timeID="t0"/>
+<TLINK lid="l3" relType="AFTER" relatedToEventInstance="ei37" timeID="t2"/>
+<TLINK lid="l4" relType="INCLUDES" relatedToEventInstance="ei5" timeID="t2"/>
+<TLINK lid="l5" relType="IS_INCLUDED" relatedToEventInstance="ei33" timeID="t0"/>
+<TLINK lid="l6" relType="INCLUDES" relatedToEventInstance="ei16" timeID="t2"/>
+<TLINK lid="l7" relType="IS_INCLUDED" relatedToEventInstance="ei39" timeID="t0"/>
+<TLINK eventInstanceID="ei27" lid="l8" relType="BEFORE" relatedToEventInstance="ei26"/>
+<TLINK lid="l9" relType="INCLUDES" relatedToEventInstance="ei36" timeID="t2"/>
+<TLINK lid="l10" relType="INCLUDES" relatedToEventInstance="ei34" timeID="t4"/>
+<TLINK lid="l11" relType="INCLUDES" relatedToEventInstance="ei19" timeID="t3"/>
+<TLINK lid="l12" relType="IS_INCLUDED" relatedToEventInstance="ei32" timeID="t0"/>
+<TLINK lid="l13" relType="INCLUDES" relatedToEventInstance="ei4" timeID="t2"/>
+<TLINK lid="l14" relType="IS_INCLUDED" relatedToEventInstance="ei40" timeID="t2"/>
+<TLINK lid="l15" relType="INCLUDES" relatedToEventInstance="ei35" timeID="t4"/>
+<TLINK lid="l16" relType="INCLUDES" relatedToEventInstance="ei22" timeID="t2"/>
+<TLINK lid="l17" relType="AFTER" relatedToEventInstance="ei43" timeID="t2"/>
+<TLINK lid="l18" relType="INCLUDES" relatedToEventInstance="ei13" timeID="t2"/>
+<TLINK lid="l19" relType="IS_INCLUDED" relatedToEventInstance="ei8" timeID="t2"/>
+<TLINK lid="l20" relType="IS_INCLUDED" relatedToEventInstance="ei10" timeID="t2"/>
+<TLINK lid="l21" relType="IS_INCLUDED" relatedToEventInstance="ei42" timeID="t2"/>
+<TLINK lid="l22" relType="IS_INCLUDED" relatedToEventInstance="ei17" timeID="t2"/>
+<TLINK lid="l23" relType="INCLUDES" relatedToEventInstance="ei31" timeID="t2"/>
+<TLINK lid="l24" relType="INCLUDES" relatedToEventInstance="ei3" timeID="t2"/>
+<TLINK lid="l25" relType="IS_INCLUDED" relatedToEventInstance="ei17" timeID="t0"/>
+<TLINK lid="l26" relType="INCLUDES" relatedToEventInstance="ei12" timeID="t2"/>
+<TLINK lid="l27" relType="IS_INCLUDED" relatedToEventInstance="ei15" timeID="t2"/>
+<TLINK lid="l28" relType="IS_INCLUDED" relatedToEventInstance="ei40" timeID="t0"/>
+<TLINK lid="l29" relType="INCLUDES" relatedToEventInstance="ei6" timeID="t2"/>
+<TLINK eventInstanceID="ei24" lid="l30" relType="BEFORE" relatedToEventInstance="ei25"/>
+<TLINK lid="l31" relType="INCLUDES" relatedToEventInstance="ei23" timeID="t2"/>
+<TLINK lid="l32" relType="IS_INCLUDED" relatedToEventInstance="ei30" timeID="t2"/>
+<TLINK lid="l33" relType="IS_INCLUDED" relatedToEventInstance="ei42" timeID="t0"/>
+<TLINK lid="l34" relType="INCLUDES" relatedToEventInstance="ei44" timeID="t2"/>
+<TLINK lid="l35" relType="INCLUDES" relatedToEventInstance="ei1" timeID="t2"/>
+<TLINK lid="l36" relType="INCLUDES" relatedToEventInstance="ei9" timeID="t2"/>
+<TLINK lid="l37" relType="INCLUDES" relatedToEventInstance="ei7" timeID="t2"/>
+<TLINK lid="l38" relType="INCLUDES" relatedToEventInstance="ei28" timeID="t2"/>
+<TLINK lid="l39" relType="IS_INCLUDED" relatedToEventInstance="ei41" timeID="t2"/>
+<TLINK lid="l40" relType="AFTER" relatedToEventInstance="ei24" timeID="t2"/>
+<TLINK lid="l41" relType="INCLUDES" relatedToEventInstance="ei2" timeID="t2"/>
+<TLINK lid="l42" relType="AFTER" relatedToEventInstance="ei25" timeID="t2"/>
+<TLINK lid="l43" relType="IS_INCLUDED" relatedToEventInstance="ei29" timeID="t0"/>
+<TLINK lid="l44" relType="IS_INCLUDED" relatedToEventInstance="ei30" timeID="t0"/>
+<TLINK lid="l45" relType="IS_INCLUDED" relatedToEventInstance="ei38" timeID="t2"/>
+<TLINK lid="l46" relType="INCLUDES" relatedToEventInstance="ei26" timeID="t2"/>
+<TLINK lid="l47" relType="INCLUDES" relatedToEventInstance="ei20" timeID="t2"/>
+<TLINK lid="l48" relType="INCLUDES" relatedToEventInstance="ei11" timeID="t2"/>
+<TLINK lid="l49" relType="IS_INCLUDED" relatedToEventInstance="ei39" timeID="t2"/>
+<TLINK lid="l50" relType="INCLUDES" relatedToEventInstance="ei14" timeID="t2"/>
+<TLINK lid="l51" relType="IS_INCLUDED" relatedToEventInstance="ei33" timeID="t2"/>
+<TLINK lid="l52" relType="INCLUDES" relatedToEventInstance="ei18" timeID="t3"/>
+<TLINK lid="l53" relType="IS_INCLUDED" relatedToEventInstance="ei32" timeID="t2"/>
+<TLINK lid="l54" relType="INCLUDES" relatedToEventInstance="ei27" timeID="t2"/>
+<TLINK lid="l55" relType="IS_INCLUDED" relatedToEventInstance="ei41" timeID="t0"/>
+<TLINK lid="l56" relType="INCLUDES" relatedToEventInstance="ei21" timeID="t2"/>
+<TLINK lid="l57" relType="IS_INCLUDED" relatedToEventInstance="ei29" timeID="t2"/>
+</TimeML>

@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0778</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The government is <EVENT class="OCCURRENCE" eid="e1">sharpening</EVENT> its newest weapon against white-collar defendants: the power to <EVENT class="I_ACTION" eid="e4">prevent</EVENT> them from <EVENT class="OCCURRENCE" eid="e6">paying</EVENT> their legal bills. And defense lawyers are <EVENT class="I_ACTION" eid="e8">warning</EVENT> that they won't <EVENT class="OCCURRENCE" eid="e9">stick</EVENT> around if they don't get <EVENT class="STATE" eid="e14">paid</EVENT>.
+
+The issue has come to a boil in Newark, N.J., where federal prosecutors have <EVENT class="I_ACTION" eid="e16">warned</EVENT> lawyers for Eddie Antar that if the founder and former chairman of Crazy Eddie Inc. is <EVENT class="OCCURRENCE" eid="e18">indicted</EVENT>, the government may <EVENT class="OCCURRENCE" eid="e19">move</EVENT> to <EVENT class="OCCURRENCE" eid="e22">seize</EVENT> the money that Mr. Antar is <EVENT class="OCCURRENCE" eid="e24">using</EVENT> to <EVENT class="OCCURRENCE" eid="e26">pay</EVENT> legal fees.
+
+The <EVENT class="OCCURRENCE" eid="e27">warning</EVENT> by the U.S. attorney's office follows two <EVENT class="OCCURRENCE" eid="e29">decisions</EVENT> by the U.S. Supreme Court <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t233" type="DATE" value="1989-06">last June</TIMEX3>. In those cases, the high court <EVENT class="I_ACTION" eid="e31">ruled</EVENT> that federal law <EVENT class="OCCURRENCE" eid="e33">gives</EVENT> prosecutors broad authority to <EVENT class="OCCURRENCE" eid="e35">seize</EVENT> assets of people accused of racketeering and drug-related crimes, including fees paid to lawyers before an indictment.
+
+If the government <EVENT class="I_ACTION" eid="e42">succeeds</EVENT> in <EVENT class="OCCURRENCE" eid="e44">seizing</EVENT> Mr. Antar's assets, he could be <EVENT class="STATE" eid="e45">left</EVENT> without top-flight legal representation, because his attorneys are likely to <EVENT class="ASPECTUAL" eid="e48">quit</EVENT>, <EVENT class="REPORTING" eid="e206">according</EVENT> to individuals familiar with the case. A <EVENT class="OCCURRENCE" eid="e50">seizure</EVENT> also would <EVENT class="OCCURRENCE" eid="e51">make</EVENT> the case the largest -- and one of the first -- in which lawyers' fees have been confiscated in a prosecution unrelated to drugs.
+
+"The people who suffer in the short run are defendants, but the people who suffer in the long run are all of the people, because there won't be a vigorous private bar to defend the Bill of Rights," <EVENT class="REPORTING" eid="e66">says</EVENT> Gerald Lefcourt, a criminal defense attorney who <EVENT class="REPORTING" eid="e67">says</EVENT> he has <EVENT class="OCCURRENCE" eid="e68">turned</EVENT> down a number of cases to <EVENT class="I_ACTION" eid="e71">avoid</EVENT> possible fee <EVENT class="OCCURRENCE" eid="e72">seizures</EVENT>.
+
+Mr. Antar is being <EVENT class="I_ACTION" eid="e73">investigated</EVENT> by a federal grand jury in Newark, where prosecutors have <EVENT class="REPORTING" eid="e74">told</EVENT> him that they may <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t234" type="DATE" value="FUTURE_REF">soon</TIMEX3> <EVENT class="I_ACTION" eid="e75">seek</EVENT> an indictment on racketeering and securities fraud charges. Under the Racketeer Influenced and Corrupt Organizations law, or RICO, the government <EVENT class="STATE" eid="e84">has</EVENT> the authority to <EVENT class="I_ACTION" eid="e86">seek</EVENT> to <EVENT class="OCCURRENCE" eid="e88">freeze</EVENT> or <EVENT class="OCCURRENCE" eid="e89">seize</EVENT> a defendant's assets before <EVENT class="OCCURRENCE" eid="e90">trial</EVENT>.
+
+<EVENT class="REPORTING" eid="e208">According</EVENT> to individuals familiar with Mr. Antar's case, prosecutors <EVENT class="OCCURRENCE" eid="e93">issued</EVENT> their warning <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t235" type="DATE" value="1989-WXX">this week</TIMEX3> after one of Mr. Antar's attorneys <EVENT class="I_ACTION" eid="e95">asked</EVENT> whether legal fees might be <EVENT class="I_STATE" eid="e210">subject</EVENT> to <EVENT class="OCCURRENCE" eid="e98">seizure</EVENT>. In a letter, prosecutors <EVENT class="REPORTING" eid="e100">told</EVENT> Mr. Antar's lawyers that because of the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t236" type="DATE" value="PAST_REF">recent</TIMEX3> Supreme Court <EVENT class="OCCURRENCE" eid="e214">rulings</EVENT>, they could <EVENT class="I_STATE" eid="e101">expect</EVENT> that any fees collected from Mr. Antar may be <EVENT class="OCCURRENCE" eid="e104">seized</EVENT>. Prosecutors have <EVENT class="REPORTING" eid="e106">told</EVENT> Mr. Antar's attorneys that they <EVENT class="I_STATE" eid="e107">believe</EVENT> Mr. Antar's allegedly ill-gotten gains are so great that any money he has used to pay attorneys <EVENT class="STATE" eid="e112">derives</EVENT> from illegal <EVENT class="OCCURRENCE" eid="e113">activities</EVENT>. Therefore, they <EVENT class="REPORTING" eid="e114">said</EVENT>, the money can be <EVENT class="OCCURRENCE" eid="e116">taken</EVENT> from the lawyers even after they are <EVENT class="OCCURRENCE" eid="e118">paid</EVENT>.
+
+Justin Feldman and Jack Arseneault, attorneys for Mr. Antar, both <EVENT class="I_ACTION" eid="e119">declined</EVENT> to <EVENT class="OCCURRENCE" eid="e121">comment</EVENT> on the matter.
+
+In Newark, U.S. Attorney Samuel A. Alito <EVENT class="REPORTING" eid="e123">said</EVENT>, "I don't <EVENT class="I_STATE" eid="e124">think</EVENT> there's any legal reason to <EVENT class="I_ACTION" eid="e216">limit</EVENT> forfeiture of attorney's fees to drug cases." Mr. Alito <EVENT class="REPORTING" eid="e128">said</EVENT> his office "just <EVENT class="I_ACTION" eid="e129">responded</EVENT> to an attorney's question about whether we would <EVENT class="OCCURRENCE" eid="e131">go</EVENT> after attorney's fees, and that is different from actually doing it, although we <EVENT class="I_STATE" eid="e218">reserve</EVENT> that right."
+
+Mr. Antar was <EVENT class="OCCURRENCE" eid="e137">charged</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t237" type="DATE" value="1989-09">last month</TIMEX3> in a civil suit <EVENT class="OCCURRENCE" eid="e140">filed</EVENT> in federal court in Newark by the Securities and Exchange Commission. In that suit, the SEC <EVENT class="I_ACTION" eid="e143">accused</EVENT> Mr. Antar of <EVENT class="I_ACTION" eid="e144">engaging</EVENT> in a "massive financial <EVENT class="OCCURRENCE" eid="e145">fraud</EVENT>" to <EVENT class="OCCURRENCE" eid="e147">overstate</EVENT> the earnings of Crazy Eddie, Edison, N.J., over <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t238" type="DURATION" value="P3Y">a three-year period</TIMEX3>. Through his lawyers, Mr. Antar has <EVENT class="REPORTING" eid="e148">denied</EVENT> <EVENT class="OCCURRENCE" eid="e149">allegations</EVENT> in the SEC suit and in civil suits previously <EVENT class="OCCURRENCE" eid="e154">filed</EVENT> by shareholders against Mr. Antar and others.
+
+The SEC has <EVENT class="I_ACTION" eid="e155">alleged</EVENT> that Mr. Antar <EVENT class="I_STATE" eid="e156">aimed</EVENT> to <EVENT class="OCCURRENCE" eid="e158">pump</EVENT> up the company's stock price through false financial statements in order to <EVENT class="OCCURRENCE" eid="e164">sell</EVENT> his stake and <EVENT class="OCCURRENCE" eid="e166">reap</EVENT> huge profits. Mr. Antar, the SEC <EVENT class="REPORTING" eid="e167">said</EVENT>, <EVENT class="OCCURRENCE" eid="e168">made</EVENT> more than $60 million from the <EVENT class="OCCURRENCE" eid="e169">sale</EVENT> of his shares between <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t240" type="DATE" value="1985">1985</TIMEX3> and <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t241" type="DATE" value="1987">1987</TIMEX3>.
+
+The Justice Department has <EVENT class="REPORTING" eid="e171">emphasized</EVENT> that the government's fee-forfeiture power is to be <EVENT class="OCCURRENCE" eid="e173">used</EVENT> sparingly. <EVENT class="REPORTING" eid="e226">According</EVENT> to department policy, prosecutors must make a strong <EVENT class="I_ACTION" eid="e176">showing</EVENT> that lawyers' fees <EVENT class="OCCURRENCE" eid="e177">came</EVENT> from assets tainted by illegal profits before any <EVENT class="I_ACTION" eid="e179">attempts</EVENT> at <EVENT class="OCCURRENCE" eid="e181">seizure</EVENT> are <EVENT class="I_ACTION" eid="e183">made</EVENT>.
+
+Still, criminal defense lawyers <EVENT class="I_STATE" eid="e184">worry</EVENT> that defendants are being <EVENT class="I_STATE" eid="e185">deprived</EVENT> of their Sixth Amendment right to counsel and a fair <EVENT class="OCCURRENCE" eid="e188">trial</EVENT> if the government can <EVENT class="OCCURRENCE" eid="e190">seize</EVENT> lawyers' fees. They also <EVENT class="I_STATE" eid="e228">worry</EVENT> that if the government <EVENT class="I_ACTION" eid="e193">applies</EVENT> asset-forfeiture laws broadly, the best defense lawyers will be <EVENT class="I_STATE" eid="e230">unwilling</EVENT> to <EVENT class="OCCURRENCE" eid="e196">take</EVENT> criminal cases unless they are <EVENT class="I_STATE" eid="e198">assured</EVENT> of being <EVENT class="OCCURRENCE" eid="e199">paid</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0778</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei1997" eventID="e19"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e18"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e14"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2028" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2030" eventID="e93"/>
+<MAKEINSTANCE eiid="ei2031" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2066" eventID="e148"/>
+<MAKEINSTANCE eiid="ei2067" eventID="e149"/>
+<MAKEINSTANCE eiid="ei2065" eventID="e147"/>
+<MAKEINSTANCE eiid="ei2063" eventID="e144"/>
+<MAKEINSTANCE eiid="ei2064" eventID="e145"/>
+<MAKEINSTANCE eiid="ei2062" eventID="e143"/>
+<MAKEINSTANCE eiid="ei2060" eventID="e140"/>
+<MAKEINSTANCE eiid="ei2052" eventID="e128"/>
+<MAKEINSTANCE eiid="ei2053" eventID="e129"/>
+<MAKEINSTANCE eiid="ei2048" eventID="e124"/>
+<MAKEINSTANCE eiid="ei2046" eventID="e121"/>
+<MAKEINSTANCE eiid="ei2047" eventID="e123"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e86"/>
+<MAKEINSTANCE eiid="ei2073" eventID="e158"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2071" eventID="e155"/>
+<MAKEINSTANCE eiid="ei2070" eventID="e154"/>
+<MAKEINSTANCE eiid="ei2026" eventID="e88"/>
+<MAKEINSTANCE eiid="ei2072" eventID="e156"/>
+<MAKEINSTANCE eiid="ei2058" eventID="e137"/>
+<MAKEINSTANCE eiid="ei2055" eventID="e131"/>
+<MAKEINSTANCE eiid="ei2095" eventID="e230"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e72"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e71"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e75"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e74"/>
+<MAKEINSTANCE eiid="ei2034" eventID="e100"/>
+<MAKEINSTANCE eiid="ei2036" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2038" eventID="e106"/>
+<MAKEINSTANCE eiid="ei2039" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2037" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2087" eventID="e183"/>
+<MAKEINSTANCE eiid="ei2086" eventID="e181"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2088" eventID="e184"/>
+<MAKEINSTANCE eiid="ei2089" eventID="e185"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2091" eventID="e188"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1988" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2082" eventID="e226"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2093" eventID="e228"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e89"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e67"/>
+<MAKEINSTANCE eiid="ei2050" eventID="e216"/>
+<MAKEINSTANCE eiid="ei2035" eventID="e214"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e210"/>
+<MAKEINSTANCE eiid="ei2056" eventID="e218"/>
+<MAKEINSTANCE eiid="ei2098" eventID="e199"/>
+<MAKEINSTANCE eiid="ei2097" eventID="e198"/>
+<MAKEINSTANCE eiid="ei2096" eventID="e196"/>
+<MAKEINSTANCE eiid="ei2092" eventID="e190"/>
+<MAKEINSTANCE eiid="ei2094" eventID="e193"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e206"/>
+<MAKEINSTANCE eiid="ei2029" eventID="e208"/>
+<MAKEINSTANCE eiid="ei2033" eventID="e98"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e48"/>
+<MAKEINSTANCE eiid="ei2042" eventID="e114"/>
+<MAKEINSTANCE eiid="ei2043" eventID="e116"/>
+<MAKEINSTANCE eiid="ei2041" eventID="e113"/>
+<MAKEINSTANCE eiid="ei2040" eventID="e112"/>
+<MAKEINSTANCE eiid="ei2045" eventID="e119"/>
+<MAKEINSTANCE eiid="ei2044" eventID="e118"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2075" eventID="e164"/>
+<MAKEINSTANCE eiid="ei2076" eventID="e166"/>
+<MAKEINSTANCE eiid="ei2077" eventID="e167"/>
+<MAKEINSTANCE eiid="ei2078" eventID="e168"/>
+<MAKEINSTANCE eiid="ei2079" eventID="e169"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e27"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e29"/>
+<MAKEINSTANCE eiid="ei2081" eventID="e173"/>
+<MAKEINSTANCE eiid="ei2080" eventID="e171"/>
+<MAKEINSTANCE eiid="ei2084" eventID="e177"/>
+<MAKEINSTANCE eiid="ei2083" eventID="e176"/>
+<MAKEINSTANCE eiid="ei2085" eventID="e179"/>
+<TLINK eventInstanceID="ei2036" lid="l1" relType="BEFORE" relatedToEventInstance="ei2037"/>
+<TLINK eventInstanceID="ei1998" lid="l2" relType="ENDS" relatedToEventInstance="ei1999"/>
+<TLINK eventInstanceID="ei2070" lid="l3" relType="BEFORE" relatedToEventInstance="ei2066"/>
+<TLINK eventInstanceID="ei2070" lid="l4" relType="BEFORE" relatedToEventInstance="ei2060"/>
+<TLINK eventInstanceID="ei2026" lid="l5" relType="BEFORE" relatedToEventInstance="ei2028"/>
+<TLINK eventInstanceID="ei2045" lid="l6" relType="BEFORE" relatedToEventInstance="ei2046"/>
+<TLINK eventInstanceID="ei2030" lid="l7" relType="AFTER" relatedToEventInstance="ei2031"/>
+<TLINK eventInstanceID="ei2034" lid="l8" relType="BEFORE" relatedToEventInstance="ei2036"/>
+<TLINK eventInstanceID="ei2045" lid="l9" relType="AFTER" relatedToEventInstance="ei2042"/>
+<TLINK eventInstanceID="ei2001" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2031" lid="l11" relType="BEFORE" relatedToEventInstance="ei2032"/>
+<TLINK eventInstanceID="ei2030" lid="l12" relType="IS_INCLUDED" relatedToTime="t235"/>
+<TLINK eventInstanceID="ei2002" lid="l13" relType="IS_INCLUDED" relatedToTime="t233"/>
+<TLINK eventInstanceID="ei1995" lid="l14" relType="BEFORE" relatedToEventInstance="ei1997"/>
+<TLINK eventInstanceID="ei1997" lid="l15" relType="BEFORE" relatedToEventInstance="ei1998"/>
+<TLINK eventInstanceID="ei2085" lid="l16" relType="IDENTITY" relatedToEventInstance="ei2087"/>
+<TLINK eventInstanceID="ei2021" lid="l17" relType="BEFORE" relatedToEventInstance="ei2022"/>
+<TLINK eventInstanceID="ei1992" lid="l18" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2001" lid="l19" relType="AFTER" relatedToEventInstance="ei2002"/>
+<TLINK eventInstanceID="ei2080" lid="l20" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1988" lid="l21" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2029" lid="l22" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2063" lid="l23" relType="OVERLAP" relatedToEventInstance="ei2065"/>
+<TLINK eventInstanceID="ei1992" lid="l24" relType="BEFORE" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei2002" lid="l25" relType="IDENTITY" relatedToEventInstance="ei2003"/>
+<TLINK eventInstanceID="ei2082" lid="l26" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2088" lid="l27" relType="OVERLAP" relatedToEventInstance="ei2089"/>
+<TLINK eventInstanceID="ei2024" lid="l28" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2079" lid="l29" relType="ENDED_BY" relatedToTime="t241"/>
+<TLINK eventInstanceID="ei2002" lid="l30" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2016" lid="l31" relType="AFTER" relatedToEventInstance="ei2017"/>
+<TLINK eventInstanceID="ei2036" lid="l32" relType="AFTER" relatedToEventInstance="ei2035"/>
+<TLINK eventInstanceID="ei2020" lid="l33" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2078" lid="l34" relType="AFTER" relatedToEventInstance="ei2079"/>
+<TLINK eventInstanceID="ei2035" lid="l35" relType="IS_INCLUDED" relatedToTime="t236"/>
+<TLINK eventInstanceID="ei2066" lid="l36" relType="AFTER" relatedToEventInstance="ei2058"/>
+<TLINK eventInstanceID="ei2015" lid="l37" relType="IDENTITY" relatedToEventInstance="ei2016"/>
+<TLINK eventInstanceID="ei2077" lid="l38" relType="IDENTITY" relatedToEventInstance="ei2071"/>
+<TLINK eventInstanceID="ei1997" lid="l39" relType="AFTER" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei2073" lid="l40" relType="BEFORE" relatedToEventInstance="ei2075"/>
+<TLINK eventInstanceID="ei2011" lid="l41" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2042" lid="l42" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2027" lid="l43" relType="BEFORE" relatedToEventInstance="ei2028"/>
+<TLINK eventInstanceID="ei2063" lid="l44" relType="BEFORE" relatedToEventInstance="ei2064"/>
+<TLINK eventInstanceID="ei2097" lid="l45" relType="BEFORE" relatedToEventInstance="ei2096"/>
+<TLINK eventInstanceID="ei2077" lid="l46" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2052" lid="l47" relType="IDENTITY" relatedToEventInstance="ei2047"/>
+<TLINK eventInstanceID="ei2017" lid="l48" relType="BEFORE" relatedToEventInstance="ei2018"/>
+<TLINK eventInstanceID="ei1992" lid="l49" relType="IAFTER" relatedToEventInstance="ei1988"/>
+<TLINK eventInstanceID="ei2034" lid="l50" relType="AFTER" relatedToEventInstance="ei2031"/>
+<TLINK eventInstanceID="ei2080" lid="l51" relType="BEFORE" relatedToEventInstance="ei2081"/>
+<TLINK eventInstanceID="ei2038" lid="l52" relType="OVERLAP" relatedToEventInstance="ei2039"/>
+<TLINK eventInstanceID="ei2063" lid="l53" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2058" lid="l54" relType="IS_INCLUDED" relatedToTime="t237"/>
+<TLINK eventInstanceID="ei2083" lid="l55" relType="BEFORE" relatedToEventInstance="ei2085"/>
+<TLINK eventInstanceID="ei1999" lid="l56" relType="OVERLAP" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei2047" lid="l57" relType="OVERLAP" relatedToEventInstance="ei2048"/>
+<TLINK eventInstanceID="ei2025" lid="l58" relType="BEFORE" relatedToEventInstance="ei2026"/>
+<TLINK eventInstanceID="ei2071" lid="l59" relType="AFTER" relatedToEventInstance="ei2072"/>
+<TLINK eventInstanceID="ei2063" lid="l60" relType="IS_INCLUDED" relatedToTime="t238"/>
+<TLINK eventInstanceID="ei2038" lid="l61" relType="IDENTITY" relatedToEventInstance="ei2034"/>
+<TLINK eventInstanceID="ei1993" lid="l62" relType="AFTER" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2009" lid="l63" relType="AFTER" relatedToEventInstance="ei2007"/>
+<TLINK eventInstanceID="ei2042" lid="l64" relType="IDENTITY" relatedToEventInstance="ei2038"/>
+<TLINK eventInstanceID="ei2003" lid="l65" relType="OVERLAP" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei2025" lid="l66" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2016" lid="l67" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2052" lid="l68" relType="AFTER" relatedToEventInstance="ei2053"/>
+<TLINK eventInstanceID="ei2009" lid="l69" relType="INCLUDES" relatedToEventInstance="ei2010"/>
+<TLINK eventInstanceID="ei2066" lid="l70" relType="AFTER" relatedToEventInstance="ei2062"/>
+<TLINK eventInstanceID="ei2088" lid="l71" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2047" lid="l72" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2093" lid="l73" relType="BEFORE" relatedToEventInstance="ei2095"/>
+<TLINK eventInstanceID="ei2043" lid="l74" relType="AFTER" relatedToEventInstance="ei2044"/>
+<TLINK eventInstanceID="ei2022" lid="l75" relType="IS_INCLUDED" relatedToTime="t234"/>
+<TLINK eventInstanceID="ei2012" lid="l76" relType="IDENTITY" relatedToEventInstance="ei2013"/>
+<TLINK eventInstanceID="ei2096" lid="l77" relType="AFTER" relatedToEventInstance="ei2094"/>
+<TLINK eventInstanceID="ei2089" lid="l78" relType="AFTER" relatedToEventInstance="ei2092"/>
+<TLINK eventInstanceID="ei2034" lid="l79" relType="BEFORE" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei2079" lid="l80" relType="BEGUN_BY" relatedToTime="t240"/>
+<TLINK eventInstanceID="ei2072" lid="l81" relType="BEFORE" relatedToEventInstance="ei2073"/>
+<TLINK eventInstanceID="ei2012" lid="l82" relType="IDENTITY" relatedToEventInstance="ei2008"/>
+<TLINK eventInstanceID="ei2021" lid="l83" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2041" lid="l84" relType="BEFORE" relatedToEventInstance="ei2040"/>
+<TLINK eventInstanceID="ei2001" lid="l85" relType="IDENTITY" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2093" lid="l86" relType="IDENTITY" relatedToEventInstance="ei2088"/>
+</TimeML>

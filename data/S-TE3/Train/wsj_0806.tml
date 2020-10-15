@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0806</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+HEALTHDYNE Inc., Atlanta, <EVENT class="REPORTING" eid="e1">said</EVENT> its subsidiary, Home Nutritional Services Inc., <EVENT class="OCCURRENCE" eid="e2">registered</EVENT> with the Securities and Exchange Commission an initial public <EVENT class="OCCURRENCE" eid="e3">offering</EVENT> of four million shares of common. The in-home health care services provider <EVENT class="REPORTING" eid="e4">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e5">sell</EVENT> 1.8 million of the new shares, while Home Nutritional Services will <EVENT class="OCCURRENCE" eid="e7">sell</EVENT> the remaining 2.2 million. The company <EVENT class="I_STATE" eid="e8">estimates</EVENT> the offering price at between $14 and $16 a share. The company <EVENT class="REPORTING" eid="e9">said</EVENT> it <EVENT class="I_STATE" eid="e10">expects</EVENT> to <EVENT class="OCCURRENCE" eid="e12">use</EVENT> the proceeds to <EVENT class="OCCURRENCE" eid="e14">repay</EVENT> certain bank debt and for general corporate purposes, including <EVENT class="OCCURRENCE" eid="e15">establishing</EVENT> new operating centers and possible <EVENT class="OCCURRENCE" eid="e16">acquisitions</EVENT>. Home Nutritional <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="PRESENT_REF">currently</TIMEX3> <EVENT class="STATE" eid="e17">has</EVENT> 10 million shares outstanding. It will <EVENT class="STATE" eid="e24">have</EVENT> 11.8 million shares outstanding after the offering, with Healthdyne <EVENT class="STATE" eid="e20">owning</EVENT> about 65% of the total.
+</TEXT>
+<LASTEXTRAINFO>wsj_0806</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei127" eventID="e24"/>
+<MAKEINSTANCE eiid="ei129" eventID="e20"/>
+<MAKEINSTANCE eiid="ei121" eventID="e10"/>
+<MAKEINSTANCE eiid="ei122" eventID="e12"/>
+<MAKEINSTANCE eiid="ei124" eventID="e15"/>
+<MAKEINSTANCE eiid="ei123" eventID="e14"/>
+<MAKEINSTANCE eiid="ei126" eventID="e17"/>
+<MAKEINSTANCE eiid="ei125" eventID="e16"/>
+<MAKEINSTANCE eiid="ei120" eventID="e9"/>
+<MAKEINSTANCE eiid="ei118" eventID="e8"/>
+<MAKEINSTANCE eiid="ei116" eventID="e5"/>
+<MAKEINSTANCE eiid="ei115" eventID="e4"/>
+<MAKEINSTANCE eiid="ei117" eventID="e7"/>
+<MAKEINSTANCE eiid="ei112" eventID="e1"/>
+<MAKEINSTANCE eiid="ei114" eventID="e3"/>
+<MAKEINSTANCE eiid="ei113" eventID="e2"/>
+<TLINK eventInstanceID="ei112" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei113" lid="l2" relType="BEGINS" relatedToEventInstance="ei114"/>
+<TLINK eventInstanceID="ei121" lid="l3" relType="BEFORE" relatedToEventInstance="ei122"/>
+<TLINK eventInstanceID="ei126" lid="l4" relType="IS_INCLUDED" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei116" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei117"/>
+<TLINK eventInstanceID="ei120" lid="l6" relType="OVERLAP" relatedToEventInstance="ei121"/>
+<TLINK eventInstanceID="ei118" lid="l7" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei120" lid="l8" relType="IDENTITY" relatedToEventInstance="ei112"/>
+<TLINK eventInstanceID="ei127" lid="l9" relType="AFTER" relatedToEventInstance="ei126"/>
+<TLINK eventInstanceID="ei112" lid="l10" relType="AFTER" relatedToEventInstance="ei113"/>
+<TLINK eventInstanceID="ei115" lid="l11" relType="BEFORE" relatedToEventInstance="ei116"/>
+<TLINK eventInstanceID="ei115" lid="l12" relType="IDENTITY" relatedToEventInstance="ei112"/>
+<TLINK eventInstanceID="ei129" lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei127"/>
+</TimeML>

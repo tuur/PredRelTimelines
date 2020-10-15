@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0991</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Total Assets Protection Inc., <EVENT class="OCCURRENCE" eid="e1">rebounding</EVENT> from its earlier <EVENT class="OCCURRENCE" eid="e2">loss</EVENT>, <EVENT class="I_STATE" eid="e4">expects</EVENT> to <EVENT class="REPORTING" eid="e6">report</EVENT> <EVENT class="STATE" eid="e17">earnings</EVENT> from operations of about $200,000 for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t20" type="DATE" value="1989-Q3">the third quarter</TIMEX3>, J.C. Matlock, chairman, <EVENT class="REPORTING" eid="e9">said</EVENT>.
+
+Net income includes an extraordinary <EVENT class="STATE" eid="e21">gain</EVENT> of about $100,000 from the <EVENT class="OCCURRENCE" eid="e11">reversal</EVENT> of bad debt and interest income. Revenue was about $4.5 million. In <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t23" type="DATE" value="1988-Q3">the 1988 third quarter</TIMEX3>, the company <EVENT class="REPORTING" eid="e13">posted</EVENT> a net loss of $876,706, or 22 cents a share, on revenue of about $5.1 million.
+
+Total Assets plans and designs computer centers, computer security systems and computer backup systems.
+</TEXT>
+<LASTEXTRAINFO>wsj_0991</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei92" eventID="e21"/>
+<MAKEINSTANCE eiid="ei93" eventID="e11"/>
+<MAKEINSTANCE eiid="ei94" eventID="e13"/>
+<MAKEINSTANCE eiid="ei89" eventID="e17"/>
+<MAKEINSTANCE eiid="ei91" eventID="e9"/>
+<MAKEINSTANCE eiid="ei87" eventID="e4"/>
+<MAKEINSTANCE eiid="ei88" eventID="e6"/>
+<MAKEINSTANCE eiid="ei85" eventID="e1"/>
+<MAKEINSTANCE eiid="ei86" eventID="e2"/>
+<TLINK eventInstanceID="ei92" lid="l1" relType="AFTER" relatedToEventInstance="ei93"/>
+<TLINK eventInstanceID="ei87" lid="l2" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei89" lid="l3" relType="DURING" relatedToTime="t20"/>
+<TLINK eventInstanceID="ei94" lid="l4" relType="DURING" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei87" lid="l5" relType="BEFORE" relatedToEventInstance="ei88"/>
+<TLINK eventInstanceID="ei85" lid="l6" relType="AFTER" relatedToEventInstance="ei86"/>
+<TLINK eventInstanceID="ei87" lid="l7" relType="SIMULTANEOUS" relatedToEventInstance="ei85"/>
+<TLINK eventInstanceID="ei91" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

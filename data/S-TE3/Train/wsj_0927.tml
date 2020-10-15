@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0927</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+H. Marshall Schwarz was <EVENT class="OCCURRENCE" eid="e1">named</EVENT> chairman and chief executive officer of U.S. Trust Corp., a private-banking firm with assets under management of about $17 billion.
+
+Mr. Schwarz, 52 years old, will <EVENT class="OCCURRENCE" eid="e3">succeed</EVENT> Daniel P. Davison <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t89" type="DATE" value="1990-02-01">Feb. 1</TIMEX3>, soon after Mr. Davison <EVENT class="I_STATE" eid="e4">reaches</EVENT> the company's mandatory retirement age of 65. Mr. Schwarz, who is president of U.S. Trust, will be <EVENT class="OCCURRENCE" eid="e5">succeeded</EVENT> in that post by Jeffrey S. Maurer, 42, who is executive vice president in charge of the company's asset-management group.
+
+U.S. Trust, a 136-year-old institution that is one of the earliest high-net worth banks in the U.S., has <EVENT class="I_ACTION" eid="e8">faced</EVENT> intensifying competition from other firms that have <EVENT class="OCCURRENCE" eid="e12">established</EVENT>, and heavily <EVENT class="OCCURRENCE" eid="e13">promoted</EVENT>, private-banking businesses of their own. As a result, U.S. Trust's earnings have been <EVENT class="OCCURRENCE" eid="e16">hurt</EVENT>.
+
+But Mr. Schwarz <EVENT class="I_ACTION" eid="e17">welcomes</EVENT> the competition in U.S. Trust's flagship businesses, <EVENT class="I_ACTION" eid="e93">calling</EVENT> it "flattery." Mr. Schwarz <EVENT class="REPORTING" eid="e22">says</EVENT> the competition "<EVENT class="OCCURRENCE" eid="e24">broadens</EVENT> the base of opportunity for us." Other firms "are <EVENT class="OCCURRENCE" eid="e25">dealing</EVENT> with the masses. I don't <EVENT class="I_STATE" eid="e26">believe</EVENT> they <EVENT class="I_STATE" eid="e28">have</EVENT> the culture" to adequately <EVENT class="OCCURRENCE" eid="e29">service</EVENT> high-net-worth individuals, he <EVENT class="REPORTING" eid="e30">adds</EVENT>. U.S. Trust <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t95" type="DATE" value="PAST_REF">recently</TIMEX3> <EVENT class="OCCURRENCE" eid="e31">introduced</EVENT> certain mutual-fund products, which allow it to serve customers with minimum deposits of $250,000. Previously, the company <EVENT class="OCCURRENCE" eid="e35">advertised</EVENT> at the $2 million level.
+
+"We have always <EVENT class="OCCURRENCE" eid="e37">taken</EVENT> smaller accounts, but <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t97" type="DATE" value="PRESENT_REF">now</TIMEX3> we are <EVENT class="OCCURRENCE" eid="e39">looking</EVENT> for smaller accounts that will grow," Mr. Schwarz <EVENT class="REPORTING" eid="e42">says</EVENT>. "Our bread and butter is still the $2 million to $20 million account," he <EVENT class="REPORTING" eid="e2136">says</EVENT>. The new services <EVENT class="I_STATE" eid="e47">allow</EVENT> U.S. Trust to <EVENT class="OCCURRENCE" eid="e49">cater</EVENT> to the "new wealth," Mr. Schwarz <EVENT class="REPORTING" eid="e50">says</EVENT>.
+
+<TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t98" type="DURATION" value="P3M">Quarterly</TIMEX3> net income <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t99" type="DATE" value="1989">this year</TIMEX3> has <EVENT class="OCCURRENCE" eid="e51">risen</EVENT> just over comparable periods in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t104" type="DATE" value="1988">1988</TIMEX3>, when year-end net was <EVENT class="STATE" eid="e2372">below</EVENT> the <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2194" type="DATE" value="1987">1987</TIMEX3> level. In <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t111" type="DATE" value="1989-Q3">this year's third quarter</TIMEX3>, for example, net was $10.5 million, or $1.05 a share, compared with $10.3 million, or $1.02 a share, <TIMEX3 anchorTimeID="t111" functionInDocument="NONE" temporalFunction="true" tid="t112" type="DATE" value="1988-Q3">a year earlier</TIMEX3>. Assets as of <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t113" type="DATE" value="1989-09-30">Sept. 30</TIMEX3> <EVENT class="OCCURRENCE" eid="e54">fell</EVENT> to $2.46 billion from about $2.77 billion. "We will <EVENT class="STATE" eid="e55">have</EVENT> a reasonably flat year <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t122" type="DATE" value="1989">this year</TIMEX3>," Mr. Schwarz <EVENT class="REPORTING" eid="e56">says</EVENT>. Mr. Schwarz also <EVENT class="REPORTING" eid="e57">said</EVENT> costs associated with U.S. Trust's planned move to midtown Manhattan from Wall Street will <EVENT class="ASPECTUAL" eid="e60">continue</EVENT> to be a <EVENT class="OCCURRENCE" eid="e2370">drag</EVENT> on earnings through <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t116" type="DATE" value="1990">1990</TIMEX3>.
+
+Mr. Schwarz's great-grandfather <EVENT class="OCCURRENCE" eid="e62">founded</EVENT> the New York toy store F.A.O. Schwarz, but his family no longer <EVENT class="STATE" eid="e64">has</EVENT> ties to the company. Mr. Schwarz's father was a U.S. Trust <EVENT class="STATE" eid="e2371">trustee</EVENT> until <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t127" type="DATE" value="1974">1974</TIMEX3>.
+
+U.S. Trust also <EVENT class="I_ACTION" eid="e65">created</EVENT> a four-member office of the chairman, effective <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t131" type="DATE" value="1990-02-01">Feb. 1</TIMEX3>. It will include Messrs. Schwarz and Maurer. Donald M. Roberts, 54, treasurer, and Frederick S. Wonham, 58, who takes responsibility for the funds-service group, were <EVENT class="I_ACTION" eid="e69">named</EVENT> vice chairmen and will <EVENT class="OCCURRENCE" eid="e71">serve</EVENT> in the office of the chairman. Mr. Roberts <EVENT class="ASPECTUAL" eid="e72">continues</EVENT> as <EVENT class="STATE" eid="e132">treasurer</EVENT>, and Mr. Wonham <EVENT class="ASPECTUAL" eid="e73">remains</EVENT> <EVENT class="STATE" eid="e133">responsible</EVENT> for the offices of comptroller, planning, marketing and general services.
+
+Frederick B. Taylor, 48, also was <EVENT class="I_ACTION" eid="e77">named</EVENT> a vice chairman and chief investment <EVENT class="STATE" eid="e135">officer</EVENT>, a new post. He previously <EVENT class="STATE" eid="e2364">held</EVENT> similar responsibilities. Mr. Taylor also was <EVENT class="I_ACTION" eid="e80">named</EVENT> a <EVENT class="STATE" eid="e136">director</EVENT>, <EVENT class="OCCURRENCE" eid="e137">increasing</EVENT> the board to 22, but is not part of the new office of the chairman.
+
+James E. Bacon, 58, executive vice president, who has <EVENT class="OCCURRENCE" eid="e84">directed</EVENT> the funds-service group, will <EVENT class="OCCURRENCE" eid="e85">retire</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0927</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2469" eventID="e137"/>
+<MAKEINSTANCE eiid="ei2468" eventID="e136"/>
+<MAKEINSTANCE eiid="ei2465" eventID="e135"/>
+<MAKEINSTANCE eiid="ei2463" eventID="e133"/>
+<MAKEINSTANCE eiid="ei2461" eventID="e132"/>
+<MAKEINSTANCE eiid="ei2432" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2431" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2430" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2478" eventID="e2370"/>
+<MAKEINSTANCE eiid="ei2479" eventID="e2371"/>
+<MAKEINSTANCE eiid="ei2480" eventID="e2372"/>
+<MAKEINSTANCE eiid="ei2428" eventID="e30"/>
+<MAKEINSTANCE eiid="ei2416" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2415" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2418" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2417" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2420" eventID="e93"/>
+<MAKEINSTANCE eiid="ei2447" eventID="e55"/>
+<MAKEINSTANCE eiid="ei2460" eventID="e72"/>
+<MAKEINSTANCE eiid="ei2459" eventID="e71"/>
+<MAKEINSTANCE eiid="ei2448" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2464" eventID="e77"/>
+<MAKEINSTANCE eiid="ei2437" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2433" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2462" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2413" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2444" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2412" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2410" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2408" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2449" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2409" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2435" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2423" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2424" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2425" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2429" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2421" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2438" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2436" eventID="e49"/>
+<MAKEINSTANCE eiid="ei2426" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2427" eventID="e29"/>
+<MAKEINSTANCE eiid="ei2434" eventID="e2136"/>
+<MAKEINSTANCE eiid="ei2457" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2471" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2472" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2467" eventID="e80"/>
+<MAKEINSTANCE eiid="ei2450" eventID="e60"/>
+<MAKEINSTANCE eiid="ei2452" eventID="e62"/>
+<MAKEINSTANCE eiid="ei2453" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2455" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2466" eventID="e2364"/>
+<TLINK eventInstanceID="ei2480" lid="l1" relType="IS_INCLUDED" relatedToTime="t2194"/>
+<TLINK eventInstanceID="ei2412" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei2409"/>
+<TLINK eventInstanceID="ei2431" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2448" lid="l4" relType="IDENTITY" relatedToEventInstance="ei2433"/>
+<TLINK eventInstanceID="ei2444" lid="l5" relType="ENDED_BY" relatedToTime="t113"/>
+<TLINK eventInstanceID="ei2467" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei2464"/>
+<TLINK eventInstanceID="ei2409" lid="l7" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2449" lid="l8" relType="OVERLAP" relatedToEventInstance="ei2450"/>
+<TLINK eventInstanceID="ei2452" lid="l9" relType="BEFORE" relatedToEventInstance="ei2431"/>
+<TLINK eventInstanceID="ei2467" lid="l10" relType="BEGINS" relatedToEventInstance="ei2468"/>
+<TLINK eventInstanceID="ei2455" lid="l11" relType="AFTER" relatedToEventInstance="ei2452"/>
+<TLINK eventInstanceID="ei2431" lid="l12" relType="BEFORE" relatedToEventInstance="ei2432"/>
+<TLINK eventInstanceID="ei2457" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2452" lid="l14" relType="BEFORE" relatedToEventInstance="ei2453"/>
+<TLINK eventInstanceID="ei2430" lid="l15" relType="BEFORE" relatedToEventInstance="ei2429"/>
+<TLINK eventInstanceID="ei2467" lid="l16" relType="SIMULTANEOUS" relatedToEventInstance="ei2457"/>
+<TLINK eventInstanceID="ei2433" lid="l17" relType="IDENTITY" relatedToEventInstance="ei2421"/>
+<TLINK eventInstanceID="ei2428" lid="l18" relType="IS_INCLUDED" relatedToEventInstance="ei2421"/>
+<TLINK eventInstanceID="ei2453" lid="l19" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2459" lid="l20" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l21" relType="DURING" relatedToEventInstance="ei2438" timeID="t98"/>
+<TLINK eventInstanceID="ei2463" lid="l22" relType="SIMULTANEOUS" relatedToEventInstance="ei2460"/>
+<TLINK eventInstanceID="ei2447" lid="l23" relType="IS_INCLUDED" relatedToTime="t122"/>
+<TLINK lid="l24" relType="INCLUDES" relatedToEventInstance="ei2432" timeID="t97"/>
+<TLINK eventInstanceID="ei2420" lid="l25" relType="IS_INCLUDED" relatedToEventInstance="ei2418"/>
+<TLINK eventInstanceID="ei2435" lid="l26" relType="BEFORE" relatedToEventInstance="ei2436"/>
+<TLINK eventInstanceID="ei2427" lid="l27" relType="SIMULTANEOUS" relatedToEventInstance="ei2424"/>
+<TLINK eventInstanceID="ei2415" lid="l28" relType="BEFORE" relatedToEventInstance="ei2417"/>
+<TLINK eventInstanceID="ei2479" lid="l29" relType="BEFORE" relatedToTime="t127"/>
+<TLINK eventInstanceID="ei2460" lid="l30" relType="SIMULTANEOUS" relatedToEventInstance="ei2462"/>
+<TLINK eventInstanceID="ei2409" lid="l31" relType="IS_INCLUDED" relatedToTime="t89"/>
+<TLINK eventInstanceID="ei2462" lid="l32" relType="CONTINUES" relatedToEventInstance="ei2463"/>
+<TLINK eventInstanceID="ei2431" lid="l33" relType="BEFORE" relatedToEventInstance="ei2433"/>
+<TLINK eventInstanceID="ei2418" lid="l34" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2413" lid="l35" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2429" lid="l36" relType="IS_INCLUDED" relatedToTime="t95"/>
+<TLINK eventInstanceID="ei2472" lid="l37" relType="AFTER" relatedToEventInstance="ei2464"/>
+<TLINK eventInstanceID="ei2410" lid="l38" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2449" lid="l39" relType="IDENTITY" relatedToEventInstance="ei2448"/>
+<TLINK eventInstanceID="ei2424" lid="l40" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2466" lid="l41" relType="BEFORE" relatedToEventInstance="ei2464"/>
+<TLINK lid="l42" relType="IS_INCLUDED" relatedToTime="t99" timeID="t98"/>
+<TLINK eventInstanceID="ei2408" lid="l43" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2450" lid="l44" relType="CONTINUES" relatedToEventInstance="ei2478"/>
+<TLINK eventInstanceID="ei2467" lid="l45" relType="BEFORE" relatedToEventInstance="ei2469"/>
+<TLINK eventInstanceID="ei2464" lid="l46" relType="BEGINS" relatedToEventInstance="ei2465"/>
+<TLINK eventInstanceID="ei2415" lid="l47" relType="SIMULTANEOUS" relatedToEventInstance="ei2416"/>
+<TLINK eventInstanceID="ei2434" lid="l48" relType="IDENTITY" relatedToEventInstance="ei2421"/>
+<TLINK eventInstanceID="ei2418" lid="l49" relType="OVERLAP" relatedToEventInstance="ei2420"/>
+<TLINK eventInstanceID="ei2460" lid="l50" relType="CONTINUES" relatedToEventInstance="ei2461"/>
+<TLINK eventInstanceID="ei2421" lid="l51" relType="OVERLAP" relatedToEventInstance="ei2423"/>
+<TLINK eventInstanceID="ei2409" lid="l52" relType="IAFTER" relatedToEventInstance="ei2410"/>
+<TLINK eventInstanceID="ei2450" lid="l53" relType="DURING" relatedToTime="t116"/>
+<TLINK eventInstanceID="ei2432" lid="l54" relType="INCLUDES" relatedToEventInstance="ei2433"/>
+<TLINK eventInstanceID="ei2478" lid="l55" relType="INCLUDES" relatedToEventInstance="ei2450"/>
+<TLINK eventInstanceID="ei2416" lid="l56" relType="BEFORE" relatedToEventInstance="ei2417"/>
+<TLINK eventInstanceID="ei2471" lid="l57" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2421" lid="l58" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2452" lid="l59" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2434" lid="l60" relType="IDENTITY" relatedToEventInstance="ei2437"/>
+<TLINK eventInstanceID="ei2461" lid="l61" relType="INCLUDES" relatedToEventInstance="ei2460"/>
+<TLINK eventInstanceID="ei2471" lid="l62" relType="BEFORE" relatedToEventInstance="ei2464"/>
+<TLINK eventInstanceID="ei2452" lid="l63" relType="BEFORE" relatedToEventInstance="ei2433"/>
+</TimeML>

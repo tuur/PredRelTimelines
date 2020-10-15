@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1006</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+In a stunning <EVENT class="OCCURRENCE" eid="e1">shift</EVENT> in direction, Provigo Inc. <EVENT class="REPORTING" eid="e3">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e4">sell</EVENT> all its non-food operations to <EVENT class="OCCURRENCE" eid="e7">concentrate</EVENT> solely on its retail and wholesale grocery business. The non-food operations <EVENT class="OCCURRENCE" eid="e12">accounted</EVENT> for about 27% of Provigo's 7.38 billion Canadian dollars (US$6.3 billion) in sales in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t177" type="DATE" value="1988">the latest fiscal year</TIMEX3>.
+
+In a related <EVENT class="OCCURRENCE" eid="e14">move</EVENT>, Pierre Lortie, chairman and chief executive, <EVENT class="OCCURRENCE" eid="e15">resigned</EVENT>. Mr. Lortie <EVENT class="OCCURRENCE" eid="e16">joined</EVENT> Provigo in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t141" type="DATE" value="1985">1985</TIMEX3> and <EVENT class="OCCURRENCE" eid="e17">spearheaded</EVENT> the company's <EVENT class="OCCURRENCE" eid="e18">drive</EVENT> to <EVENT class="OCCURRENCE" eid="e20">grow</EVENT> outside its traditional food business. He couldn't be <EVENT class="OCCURRENCE" eid="e22">reached</EVENT> for comment.
+
+Bertin Nadeau, newly <EVENT class="OCCURRENCE" eid="e26">appointed</EVENT> chairman and interim chief executive of Provigo, wouldn't <EVENT class="REPORTING" eid="e27">say</EVENT> if Mr. Lortie was <EVENT class="I_ACTION" eid="e31">asked</EVENT> to <EVENT class="OCCURRENCE" eid="e33">leave</EVENT>. "Mr. Lortie <EVENT class="OCCURRENCE" eid="e34">felt</EVENT> less pertinent," Mr. Nadeau <EVENT class="REPORTING" eid="e35">said</EVENT>, given the <EVENT class="I_ACTION" eid="e37">decision</EVENT> to <EVENT class="OCCURRENCE" eid="e39">dump</EVENT> Provigo's non-food operations. "At this stage it was <EVENT class="OCCURRENCE" eid="e41">felt</EVENT> I was perhaps more pertinent as chief executive." Mr. Nadeau also is chairman and chief executive of Unigesco Inc., Provigo's controlling shareholder.
+
+At a news conference, Mr. Nadeau <EVENT class="REPORTING" eid="e43">said</EVENT> the <EVENT class="OCCURRENCE" eid="e44">sale</EVENT> of the three non-food businesses, which account for nearly half the company's C$900 million in assets, should be <EVENT class="ASPECTUAL" eid="e47">completed</EVENT> in a "matter of months." The three units are a nationwide pharmaceutical and health-products distributor, a small sporting-goods chain, and a combination catalog showroom and toy-store chain.
+
+Investors and analysts <EVENT class="OCCURRENCE" eid="e50">applauded</EVENT> the news. Provigo was the most active industrial stock on the Montreal Exchange, where it <EVENT class="OCCURRENCE" eid="e52">closed</EVENT> at C$9.75 (US$8.32), up 75 Canadian cents.
+
+"I <EVENT class="I_STATE" eid="e53">think</EVENT> it's a pretty positive <EVENT class="OCCURRENCE" eid="e146">development</EVENT>," <EVENT class="REPORTING" eid="e55">said</EVENT> Ross Cowan, a financial analyst with Levesque Beaubien Geoffrion Inc., of the <EVENT class="OCCURRENCE" eid="e56">decision</EVENT> to <EVENT class="OCCURRENCE" eid="e58">concentrate</EVENT> on groceries. Mr. Lortie's <EVENT class="OCCURRENCE" eid="e59">departure</EVENT>, while sudden, was <EVENT class="PERCEPTION" eid="e61">seen</EVENT> as <EVENT class="STATE" eid="e328">inevitable</EVENT> in light of the <EVENT class="OCCURRENCE" eid="e63">shift</EVENT> in strategy. "The non-food operations were largely Mr. Lortie's creation {and} his strategy didn't <EVENT class="OCCURRENCE" eid="e66">work</EVENT>," <EVENT class="REPORTING" eid="e68">said</EVENT> Steven Holt, a financial analyst with Midland Doherty Ltd.
+
+Provigo's profit record over <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t147" type="DURATION" value="P2Y">the past two years</TIMEX3> <EVENT class="OCCURRENCE" eid="e70">tarnished</EVENT> the company's and Mr. Lortie's reputations. For <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t148" type="DURATION" value="P6M">the six months</TIMEX3> <EVENT class="ASPECTUAL" eid="e71">ended</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t149" type="DATE" value="1989-08-12">Aug. 12</TIMEX3>, Provigo <EVENT class="OCCURRENCE" eid="e72">posted</EVENT> net income of C$6.5 million, or eight Canadian cents a share, compared with C$18.1 million, or 21 Canadian cents a share, <TIMEX3 anchorTimeID="t149" functionInDocument="NONE" temporalFunction="true" tid="t150" type="DATE" value="1988-08-12">a year earlier</TIMEX3>. Sales were C$4.2 billion compared with C$3.7 billion. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t151" type="DATE" value="1989-09">Last month</TIMEX3>, Canadian Bond Rating Service <EVENT class="OCCURRENCE" eid="e76">downgraded</EVENT> Provigo's commercial paper and debentures because of its lackluster <EVENT class="OCCURRENCE" eid="e79">performance</EVENT>.
+
+Analysts are <EVENT class="I_STATE" eid="e157">skeptical</EVENT> Provigo will be able to <EVENT class="OCCURRENCE" eid="e81">sell</EVENT> the non-food businesses as a group for at least book value, and are <EVENT class="I_STATE" eid="e84">expecting</EVENT> <EVENT class="OCCURRENCE" eid="e158">write-downs</EVENT>. Mr. Nadeau <EVENT class="REPORTING" eid="e85">said</EVENT> he couldn't yet <EVENT class="REPORTING" eid="e86">say</EVENT> if the sale prices would <EVENT class="OCCURRENCE" eid="e90">match</EVENT> book values. He <EVENT class="REPORTING" eid="e92">said</EVENT> all three non-food operations are <EVENT class="STATE" eid="e156">profitable</EVENT>.
+
+Mr. Nadeau <EVENT class="REPORTING" eid="e94">said</EVENT> <EVENT class="OCCURRENCE" eid="e95">discussions</EVENT> are under way with potential purchasers of each of the units. He <EVENT class="OCCURRENCE" eid="e97">declined</EVENT> to <EVENT class="REPORTING" eid="e99">confirm</EVENT> or <EVENT class="REPORTING" eid="e100">deny</EVENT> <EVENT class="REPORTING" eid="e101">reports</EVENT> that Provigo executive Henri Roy is <EVENT class="I_ACTION" eid="e102">trying</EVENT> to <EVENT class="OCCURRENCE" eid="e104">put</EVENT> together a management <EVENT class="OCCURRENCE" eid="e159">buy-out</EVENT> of the catalogue showroom unit. Mr. Roy couldn't be <EVENT class="OCCURRENCE" eid="e105">reached</EVENT>.
+
+Yvon Bussieres was <EVENT class="I_ACTION" eid="e108">named</EVENT> senior executive vice president and chief operating officer of Provigo, a new position. Mr. Bussieres was president and chief operating officer of Provigo's Quebec retail and wholesale grocery unit. Mr. Nadeau <EVENT class="REPORTING" eid="e110">said</EVENT> he <EVENT class="I_STATE" eid="e111">intends</EVENT> to <EVENT class="STATE" eid="e113">remain</EVENT> Provigo's chief executive only until the non-food businesses are <EVENT class="OCCURRENCE" eid="e116">sold</EVENT>, after a which a new chief executive will be <EVENT class="OCCURRENCE" eid="e117">named</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>wsj_1006</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2044" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e59"/>
+<MAKEINSTANCE eiid="ei2046" eventID="e85"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e37"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2033" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2065" eventID="e110"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e12"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e15"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e39"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2048" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2041" eventID="e79"/>
+<MAKEINSTANCE eiid="ei2049" eventID="e92"/>
+<MAKEINSTANCE eiid="ei2052" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2026" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2054" eventID="e97"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e146"/>
+<MAKEINSTANCE eiid="ei2035" eventID="e72"/>
+<MAKEINSTANCE eiid="ei2034" eventID="e71"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2060" eventID="e159"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2062" eventID="e108"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2058" eventID="e102"/>
+<MAKEINSTANCE eiid="ei2056" eventID="e100"/>
+<MAKEINSTANCE eiid="ei2057" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2051" eventID="e94"/>
+<MAKEINSTANCE eiid="ei2059" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2061" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2055" eventID="e99"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2029" eventID="e328"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1989" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e43"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e27"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e55"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2040" eventID="e76"/>
+<MAKEINSTANCE eiid="ei2047" eventID="e86"/>
+<MAKEINSTANCE eiid="ei2045" eventID="e158"/>
+<MAKEINSTANCE eiid="ei2069" eventID="e117"/>
+<MAKEINSTANCE eiid="ei2068" eventID="e116"/>
+<MAKEINSTANCE eiid="ei2066" eventID="e111"/>
+<MAKEINSTANCE eiid="ei2042" eventID="e157"/>
+<MAKEINSTANCE eiid="ei2067" eventID="e113"/>
+<MAKEINSTANCE eiid="ei2043" eventID="e81"/>
+<MAKEINSTANCE eiid="ei2028" eventID="e61"/>
+<MAKEINSTANCE eiid="ei2030" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2031" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2050" eventID="e156"/>
+<TLINK eventInstanceID="ei2065" lid="l1" relType="OVERLAP" relatedToEventInstance="ei2066"/>
+<TLINK eventInstanceID="ei2028" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei2027"/>
+<TLINK eventInstanceID="ei2000" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2047" lid="l4" relType="BEFORE" relatedToEventInstance="ei2048"/>
+<TLINK eventInstanceID="ei1990" lid="l5" relType="BEFORE" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei2059" lid="l6" relType="BEFORE" relatedToEventInstance="ei2060"/>
+<TLINK eventInstanceID="ei2049" lid="l7" relType="IDENTITY" relatedToEventInstance="ei2046"/>
+<TLINK eventInstanceID="ei2046" lid="l8" relType="OVERLAP" relatedToEventInstance="ei2047"/>
+<TLINK eventInstanceID="ei2024" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2046" lid="l10" relType="IDENTITY" relatedToEventInstance="ei2013"/>
+<TLINK eventInstanceID="ei2002" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2042" lid="l12" relType="SIMULTANEOUS" relatedToEventInstance="ei2044"/>
+<TLINK eventInstanceID="ei2061" lid="l13" relType="BEFORE" relatedToTime="t149"/>
+<TLINK eventInstanceID="ei1989" lid="l14" relType="SIMULTANEOUS" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2067" lid="l15" relType="BEFORE" relatedToEventInstance="ei2068"/>
+<TLINK eventInstanceID="ei2013" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1993" lid="l17" relType="ENDS" relatedToTime="t177"/>
+<TLINK eventInstanceID="ei2062" lid="l18" relType="AFTER" relatedToEventInstance="ei2068"/>
+<TLINK eventInstanceID="ei2034" lid="l19" relType="SIMULTANEOUS" relatedToTime="t149"/>
+<TLINK eventInstanceID="ei2044" lid="l20" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1996" lid="l21" relType="IS_INCLUDED" relatedToTime="t141"/>
+<TLINK eventInstanceID="ei2013" lid="l22" relType="BEFORE" relatedToEventInstance="ei2016"/>
+<TLINK eventInstanceID="ei2022" lid="l23" relType="AFTER" relatedToEventInstance="ei2023"/>
+<TLINK eventInstanceID="ei2065" lid="l24" relType="IDENTITY" relatedToEventInstance="ei2051"/>
+<TLINK eventInstanceID="ei1994" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2058" lid="l26" relType="SIMULTANEOUS" relatedToEventInstance="ei2057"/>
+<TLINK eventInstanceID="ei2066" lid="l27" relType="OVERLAP" relatedToEventInstance="ei2067"/>
+<TLINK eventInstanceID="ei1991" lid="l28" relType="BEFORE" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei2069" lid="l29" relType="AFTER" relatedToEventInstance="ei2068"/>
+<TLINK eventInstanceID="ei2014" lid="l30" relType="IDENTITY" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei2068" lid="l31" relType="BEFORE" relatedToEventInstance="ei2069"/>
+<TLINK eventInstanceID="ei2016" lid="l32" relType="CULMINATES" relatedToEventInstance="ei2014"/>
+<TLINK eventInstanceID="ei2002" lid="l33" relType="AFTER" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2050" lid="l34" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2052" lid="l35" relType="IS_INCLUDED" relatedToTime="t148"/>
+<TLINK eventInstanceID="ei2030" lid="l36" relType="SIMULTANEOUS" relatedToEventInstance="ei2029"/>
+<TLINK eventInstanceID="ei2004" lid="l37" relType="BEFORE" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei1991" lid="l38" relType="AFTER" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2049" lid="l39" relType="OVERLAP" relatedToEventInstance="ei2050"/>
+<TLINK lid="l40" relType="INCLUDES" relatedToEventInstance="ei2040" timeID="t151"/>
+<TLINK lid="l41" relType="ENDED_BY" relatedToEventInstance="ei2034" timeID="t148"/>
+<TLINK eventInstanceID="ei2058" lid="l42" relType="BEFORE" relatedToEventInstance="ei2059"/>
+<TLINK eventInstanceID="ei1997" lid="l43" relType="AFTER" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei2051" lid="l44" relType="IDENTITY" relatedToEventInstance="ei2049"/>
+<TLINK eventInstanceID="ei2011" lid="l45" relType="BEFORE" relatedToEventInstance="ei2007"/>
+<TLINK eventInstanceID="ei2006" lid="l46" relType="BEFORE" relatedToEventInstance="ei1995"/>
+<TLINK lid="l47" relType="INCLUDES" relatedToEventInstance="ei2033" timeID="t147"/>
+<TLINK eventInstanceID="ei1997" lid="l48" relType="BEGINS" relatedToEventInstance="ei1998"/>
+<TLINK eventInstanceID="ei2055" lid="l49" relType="SIMULTANEOUS" relatedToEventInstance="ei2056"/>
+<TLINK eventInstanceID="ei2054" lid="l50" relType="BEFORE" relatedToEventInstance="ei2055"/>
+<TLINK eventInstanceID="ei2025" lid="l51" relType="IDENTITY" relatedToEventInstance="ei2009"/>
+<TLINK eventInstanceID="ei2027" lid="l52" relType="IDENTITY" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2003" lid="l53" relType="AFTER" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei2054" lid="l54" relType="AFTER" relatedToEventInstance="ei2051"/>
+<TLINK eventInstanceID="ei2035" lid="l55" relType="DURING" relatedToTime="t149"/>
+<TLINK eventInstanceID="ei2032" lid="l56" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2041" lid="l57" relType="BEFORE" relatedToEventInstance="ei2040"/>
+</TimeML>

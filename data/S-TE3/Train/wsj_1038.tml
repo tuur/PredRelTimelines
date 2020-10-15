@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_1038</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-26">1989-10-26</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Benjamin Franklin Federal Savings amp Loan Association <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_STATE" eid="e2">plans</EVENT> to <EVENT class="OCCURRENCE" eid="e4">restructure</EVENT> in the wake of a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t59" type="DATE" value="1989-Q3">third-quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e6">loss</EVENT> of $7.7 million, or $1.01 a share, <EVENT class="OCCURRENCE" eid="e7">reflecting</EVENT> an $11 million <EVENT class="OCCURRENCE" eid="e8">addition</EVENT> to loan-loss reserves.
+
+The Portland, Ore., thrift <EVENT class="REPORTING" eid="e9">said</EVENT> the restructuring should <EVENT class="I_ACTION" eid="e10">help</EVENT> it <EVENT class="OCCURRENCE" eid="e12">meet</EVENT> new capital standards from the Financial Institution Reform, Recovery and Enforcement Act. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t96" type="DATE" value="1988">A year ago</TIMEX3>, Benjamin Franklin had <EVENT class="OCCURRENCE" eid="e14">profit</EVENT> of $1.8 million, or 23 cents a share.
+
+In over-the-counter <EVENT class="OCCURRENCE" eid="e15">trading</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t101" type="DATE" value="1989-10-25">yesterday</TIMEX3>, Benjamin Franklin <EVENT class="OCCURRENCE" eid="e16">rose</EVENT> 25 cents to $4.25.
+
+The company <EVENT class="REPORTING" eid="e17">said</EVENT> the restructuring's initial phase will <EVENT class="OCCURRENCE" eid="e18">feature</EVENT> a gradual reduction in assets and staff positions. The <EVENT class="I_ACTION" eid="e131">plan</EVENT> may <EVENT class="OCCURRENCE" eid="e20">include</EVENT> <EVENT class="OCCURRENCE" eid="e22">selling</EVENT> branches, <EVENT class="OCCURRENCE" eid="e23">consolidating</EVENT> or eliminating departments, and <EVENT class="OCCURRENCE" eid="e25">winding</EVENT> down or <EVENT class="OCCURRENCE" eid="e26">disposing</EVENT> of unprofitable units <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t140" type="DURATION" value="P18M">within 18 months</TIMEX3>.
+
+Initially, the company <EVENT class="REPORTING" eid="e27">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e28">close</EVENT> its commercial real-estate lending division, and <EVENT class="ASPECTUAL" eid="e29">stop</EVENT> <EVENT class="ASPECTUAL" eid="e30">originating</EVENT> new leases at its commercial lease subsidiary.
+
+Details of the restructuring won't be <EVENT class="OCCURRENCE" eid="e31">made</EVENT> final until regulators <EVENT class="OCCURRENCE" eid="e34">approve</EVENT> the regulations <EVENT class="OCCURRENCE" eid="e36">mandated</EVENT> by the new federal act, the company <EVENT class="REPORTING" eid="e38">said</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>wsj_1038</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2003" eventID="e131"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e30"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e10"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e12"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e15"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e36"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e8"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1989" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e29"/>
+<TLINK eventInstanceID="ei2014" lid="l1" relType="AFTER" relatedToEventInstance="ei2015"/>
+<TLINK eventInstanceID="ei2010" lid="l2" relType="BEFORE" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei1991" lid="l3" relType="AFTER" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei1989" lid="l4" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2006" lid="l5" relType="IS_INCLUDED" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei2004" lid="l6" relType="IS_INCLUDED" relatedToTime="t140"/>
+<TLINK eventInstanceID="ei1994" lid="l7" relType="BEFORE" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei2008" lid="l8" relType="IS_INCLUDED" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei1998" lid="l9" relType="IS_INCLUDED" relatedToTime="t96"/>
+<TLINK eventInstanceID="ei2016" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1996" lid="l11" relType="OVERLAP" relatedToEventInstance="ei1997"/>
+<TLINK eventInstanceID="ei2001" lid="l12" relType="IDENTITY" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei1993" lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei2003" lid="l14" relType="SIMULTANEOUS" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei2009" lid="l15" relType="IS_INCLUDED" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei1995" lid="l16" relType="IDENTITY" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei2010" lid="l17" relType="BEFORE" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei1989" lid="l18" relType="OVERLAP" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei1992" lid="l19" relType="IS_INCLUDED" relatedToTime="t59"/>
+<TLINK eventInstanceID="ei1999" lid="l20" relType="IS_INCLUDED" relatedToTime="t101"/>
+<TLINK eventInstanceID="ei2004" lid="l21" relType="INCLUDES" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei2017" lid="l22" relType="IDENTITY" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei1990" lid="l23" relType="BEFORE" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei1995" lid="l24" relType="BEFORE" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei2012" lid="l25" relType="ENDS" relatedToEventInstance="ei2013"/>
+<TLINK eventInstanceID="ei2000" lid="l26" relType="IS_INCLUDED" relatedToEventInstance="ei1999"/>
+<TLINK eventInstanceID="ei2001" lid="l27" relType="BEFORE" relatedToEventInstance="ei2002"/>
+</TimeML>
