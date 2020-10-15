@@ -1,0 +1,606 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>NYT19980206.0460</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-02-06T22:19:00">1998-02-06T22:19:00</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+WASHINGTON _ The economy <EVENT class="OCCURRENCE" eid="e1">created</EVENT> jobs at a surprisingly robust pace in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t191" type="DATE" value="1998-01">January</TIMEX3>, the government <EVENT class="REPORTING" eid="e4">reported</EVENT> on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t193" type="DATE" value="1998-02-06">Friday</TIMEX3>, evidence that America's economic stamina has <EVENT class="OCCURRENCE" eid="e6">withstood</EVENT> any <EVENT class="OCCURRENCE" eid="e7">disruptions</EVENT> <EVENT class="OCCURRENCE" eid="e224">caused</EVENT> so far by the financial <EVENT class="OCCURRENCE" eid="e228">tumult</EVENT> in Asia. The Bureau of Labor Statistics <EVENT class="REPORTING" eid="e9">said</EVENT> the economy <EVENT class="OCCURRENCE" eid="e10">added</EVENT> 358,000 jobs <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t195" type="DATE" value="1998-01">last month</TIMEX3>, far above the 235,000 <EVENT class="OCCURRENCE" eid="e12">forecast</EVENT> by economists. It was the third consecutive month that job generation has been exceptionally strong. With growing opportunities for work <EVENT class="OCCURRENCE" eid="e15">drawing</EVENT> more people into the labor force, the unemployment rate <EVENT class="STATE" eid="e17">remained</EVENT> at 4.7 percent <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t196" type="DATE" value="1998-01">last month</TIMEX3>, just a notch above its quarter-century low. The <EVENT class="OCCURRENCE" eid="e229">demand</EVENT> for workers also <EVENT class="OCCURRENCE" eid="e231">led</EVENT> employers to <EVENT class="OCCURRENCE" eid="e20">raise</EVENT> wages again <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t198" type="DATE" value="1998-01">last month</TIMEX3>. Average <TIMEX3 tid="t1001" type="SET" value="PT1H">hourly</TIMEX3> earnings of production and nonsupervisory employees <EVENT class="OCCURRENCE" eid="e23">rose</EVENT> 4 cents, to $12.51. The gain <EVENT class="OCCURRENCE" eid="e24">left</EVENT> wages 3.8 percent higher than <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t199" type="DATE" value="1997">a year earlier</TIMEX3>, <EVENT class="ASPECTUAL" eid="e26">extending</EVENT> a <EVENT class="OCCURRENCE" eid="e2018">trend</EVENT> that has <EVENT class="OCCURRENCE" eid="e27">given</EVENT> back to workers some of the earning power they <EVENT class="OCCURRENCE" eid="e28">lost</EVENT> to inflation in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t200" type="DATE" value="198">the last decade</TIMEX3>. But economists <EVENT class="REPORTING" eid="e30">said</EVENT> the wage <EVENT class="OCCURRENCE" eid="e31">increase</EVENT> was not enough to <EVENT class="OCCURRENCE" eid="e32">raise</EVENT> any concerns about higher inflation. And because the Federal Reserve has <EVENT class="OCCURRENCE" eid="e34">made</EVENT> clear that it <EVENT class="I_STATE" eid="e35">expects</EVENT> the economy to <EVENT class="OCCURRENCE" eid="e37">slow</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t201" type="DATE" value="FUTURE_REF">coming months</TIMEX3> as ripple effects from Asia <EVENT class="OCCURRENCE" eid="e232">reach</EVENT> the United States, investors <EVENT class="OCCURRENCE" eid="e39">disregarded</EVENT> the large jobs gains, <EVENT class="OCCURRENCE" eid="e40">betting</EVENT> that neither a <EVENT class="OCCURRENCE" eid="e41">rise</EVENT> in interest rates nor resurgent <EVENT class="OCCURRENCE" eid="e43">inflation</EVENT> is <EVENT class="I_STATE" eid="e44">looming</EVENT>. Stocks <EVENT class="OCCURRENCE" eid="e45">rose</EVENT>, <EVENT class="OCCURRENCE" eid="e46">pushing</EVENT> the Dow Jones industrial average up 72.24 points, to 8,189.49, <EVENT class="OCCURRENCE" eid="e47">leaving</EVENT> the index within 70 points of its record high set on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t202" type="DATE" value="1997-08-06">Aug. 6</TIMEX3>. In the bond market, a sensitive barometer of inflation anxiety, prices <EVENT class="OCCURRENCE" eid="e52">edged</EVENT> up, <EVENT class="OCCURRENCE" eid="e53">pushing</EVENT> down the yield on the benchmark <TIMEX3 tid="t500" type="DURATION" value="P30Y">30-year</TIMEX3> Treasury bond to 5.92 percent from 5.93 percent. ``Job <EVENT class="OCCURRENCE" eid="e55">creation</EVENT> is sturdy and we have effective price stability,'' <EVENT class="REPORTING" eid="e57">said</EVENT> Paul McCulley, an economist at UBS Securities. ``The bottom line is that we've got a lovely economy.'' With potential inflation <EVENT class="OCCURRENCE" eid="e61">counterbalanced</EVENT> by worries about possible price <EVENT class="OCCURRENCE" eid="e246">declines</EVENT>, the Fed and its chairman, Alan Greenspan, have <EVENT class="I_ACTION" eid="e62">suggested</EVENT> that they <EVENT class="I_ACTION" eid="e63">intend</EVENT> to <EVENT class="OCCURRENCE" eid="e65">keep</EVENT> interest rates unchanged until the economy <EVENT class="OCCURRENCE" eid="e66">tilts</EVENT> clearly in one direction or another. The job figures for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t203" type="DATE" value="1998-01">January</TIMEX3> <EVENT class="ASPECTUAL" eid="e69">extended</EVENT> a <EVENT class="OCCURRENCE" eid="e70">surge</EVENT> in employment <EVENT class="OCCURRENCE" eid="e250">gains</EVENT> that <EVENT class="ASPECTUAL" eid="e72">began</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t204" type="DATE" value="1997-FA">last fall</TIMEX3>, just when the labor market had <EVENT class="OCCURRENCE" eid="e75">showed</EVENT> signs of cooling. After <EVENT class="OCCURRENCE" eid="e78">accounting</EVENT> for a small downward <EVENT class="OCCURRENCE" eid="e395">revision</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t205" type="DATE" value="1998-02-06">Friday</TIMEX3> to <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t206" type="DATE" value="1997-12">December</TIMEX3>'s figures, the economy has been <EVENT class="OCCURRENCE" eid="e81">creating</EVENT> jobs at a rate of 358,000 a month for <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t207" type="DURATION" value="P4M">the last four months</TIMEX3> _ and 381,000 over <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t208" type="DURATION" value="P3M">the last three months</TIMEX3> _ after <EVENT class="OCCURRENCE" eid="e85">averaging</EVENT> 242,000 for <TIMEX3 beginPoint="t211" functionInDocument="NONE" temporalFunction="true" tid="t212" type="DURATION" value="P9M">the first nine months</TIMEX3> of <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t211" type="DATE" value="1997">1997</TIMEX3>. The surge in jobs <EVENT class="OCCURRENCE" eid="e89">reflects</EVENT> a remarkable confluence of positive and self-reinforcing economic forces. Inflation has been almost nonexistent, and consumer confidence has been extremely strong. After a short, sharp <EVENT class="OCCURRENCE" eid="e251">drop</EVENT> when Asia's financial problems first <EVENT class="OCCURRENCE" eid="e93">became</EVENT> clear, the stock market has <EVENT class="OCCURRENCE" eid="e95">rebounded</EVENT> and corporate profits have <EVENT class="STATE" eid="e96">remained</EVENT> healthy. Long-term interest rates, an important indicator of economic stability, have <EVENT class="OCCURRENCE" eid="e98">fallen</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t213" type="DATE" value="PAST_REF">the last few months</TIMEX3>. Lower rates have <EVENT class="I_ACTION" eid="e99">helped</EVENT> <EVENT class="OCCURRENCE" eid="e100">invigorate</EVENT> housing and other interest-sensitive sectors of the economy by <EVENT class="OCCURRENCE" eid="e101">making</EVENT> loans more affordable, and have <EVENT class="I_ACTION" eid="e102">allowed</EVENT> companies to <EVENT class="ASPECTUAL" eid="e104">continue</EVENT> <EVENT class="OCCURRENCE" eid="e105">investing</EVENT> heavily in more efficient equipment. The likelihood that the federal budget will soon <EVENT class="OCCURRENCE" eid="e107">move</EVENT> from deficit into surplus has further <EVENT class="OCCURRENCE" eid="e109">improved</EVENT> the outlook. The less money the government needs to borrow, the more is freed for private investment. President Clinton <EVENT class="OCCURRENCE" eid="e115">welcomed</EVENT> the job figures at a news <EVENT class="OCCURRENCE" eid="e254">conference</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2181" type="DATE" value="1998-02-06">Friday</TIMEX3>. His advisers <EVENT class="REPORTING" eid="e117">said</EVENT> the results <EVENT class="OCCURRENCE" eid="e256">reflected</EVENT> not just from <EVENT class="OCCURRENCE" eid="e122">balancing</EVENT> the budget, but also <EVENT class="OCCURRENCE" eid="e257">initiatives</EVENT> like improved access to education and training and the opening of foreign markets to trade. ``There are enormous economic and social benefits from our nation's high-employment economy,'' said Janet Yellen, the chairwoman of the White House's Council of Economic Advisers. Some of the biggest employment gains <EVENT class="OCCURRENCE" eid="e134">came</EVENT> in the construction industry, which <EVENT class="OCCURRENCE" eid="e137">added</EVENT> 92,000 jobs in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t215" type="DATE" value="1998-01">January</TIMEX3>. The increase <EVENT class="OCCURRENCE" eid="e140">reflected</EVENT> the strength of the housing industry, which has been <EVENT class="OCCURRENCE" eid="e258">helped</EVENT> not just by declining interest rates but also by unusually warm weather. Service industries also <EVENT class="OCCURRENCE" eid="e145">showed</EVENT> solid job gains, as did manufacturers, two areas <EVENT class="I_STATE" eid="e146">expected</EVENT> to be hardest <EVENT class="OCCURRENCE" eid="e148">hit</EVENT> when the effects of the Asian crisis <EVENT class="OCCURRENCE" eid="e151">hit</EVENT> the American economy. The major <EVENT class="OCCURRENCE" eid="e259">harm</EVENT> from Asia is likely to come from the <EVENT class="OCCURRENCE" eid="e155">plunge</EVENT> in the value of many Asian currencies relative to the dollar, a situation that is <EVENT class="I_STATE" eid="e160">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e162">lead</EVENT> to a <EVENT class="OCCURRENCE" eid="e163">surge</EVENT> of inexpensive imports into the United States, <EVENT class="OCCURRENCE" eid="e164">hurting</EVENT> American competitors. And the weakness of the Asian economies is also likely to <EVENT class="OCCURRENCE" eid="e166">lead</EVENT> to decreased demand for American exports. ``The economy has been <EVENT class="OCCURRENCE" eid="e168">running</EVENT> on the fumes of the strength from before the Asia shock,'' McCulley <EVENT class="REPORTING" eid="e169">said</EVENT>. ``Those fumes will <EVENT class="OCCURRENCE" eid="e171">exhaust</EVENT> themselves, and the manufacturing sector is going to <EVENT class="ASPECTUAL" eid="e174">start</EVENT> getting <EVENT class="OCCURRENCE" eid="e176">beat</EVENT> up in the spring.'' The figures <EVENT class="OCCURRENCE" eid="e178">showed</EVENT> the unemployment rate for adult men <EVENT class="OCCURRENCE" eid="e179">declined</EVENT> to 3.8 percent <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t218" type="DATE" value="1998-01">last month</TIMEX3> from 4.1 percent in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t219" type="DATE" value="1997-12">December</TIMEX3>, the lowest figure for almost <TIMEX3 tid="t1002" type="DURATION" value="P20Y">two decades</TIMEX3>. The rate for adult women <EVENT class="OCCURRENCE" eid="e181">rose</EVENT> 0.4 percent, to 4.4 percent. For the first time, the Labor Department <EVENT class="OCCURRENCE" eid="e183">broke</EVENT> out unemployment by education level as well as gender, age and race. The analysis <EVENT class="OCCURRENCE" eid="e186">showed</EVENT> unemployment rates <EVENT class="OCCURRENCE" eid="e187">dropped</EVENT> steadily with higher levels of education. Among people with less than a high school education, the rate in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t222" type="DATE" value="1998-01">January</TIMEX3> was 7.2 percent. Among high school graduates, the rate was 3.9 percent, and college graduates, 1.9 percent.
+</TEXT>
+<LASTEXTRAINFO>NYT19980206.0460</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2232" eventID="e250"/>
+<MAKEINSTANCE eiid="ei2240" eventID="e251"/>
+<MAKEINSTANCE eiid="ei2256" eventID="e256"/>
+<MAKEINSTANCE eiid="ei2258" eventID="e257"/>
+<MAKEINSTANCE eiid="ei2254" eventID="e254"/>
+<MAKEINSTANCE eiid="ei2262" eventID="e258"/>
+<MAKEINSTANCE eiid="ei2267" eventID="e259"/>
+<MAKEINSTANCE eiid="ei2191" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2192" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2193" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2194" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2241" eventID="e93"/>
+<MAKEINSTANCE eiid="ei2242" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2265" eventID="e148"/>
+<MAKEINSTANCE eiid="ei2243" eventID="e96"/>
+<MAKEINSTANCE eiid="ei2264" eventID="e146"/>
+<MAKEINSTANCE eiid="ei2244" eventID="e98"/>
+<MAKEINSTANCE eiid="ei2263" eventID="e145"/>
+<MAKEINSTANCE eiid="ei2261" eventID="e140"/>
+<MAKEINSTANCE eiid="ei2257" eventID="e122"/>
+<MAKEINSTANCE eiid="ei2225" eventID="e246"/>
+<MAKEINSTANCE eiid="ei2238" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2236" eventID="e395"/>
+<MAKEINSTANCE eiid="ei2237" eventID="e81"/>
+<MAKEINSTANCE eiid="ei2266" eventID="e151"/>
+<MAKEINSTANCE eiid="ei2268" eventID="e155"/>
+<MAKEINSTANCE eiid="ei2239" eventID="e89"/>
+<MAKEINSTANCE eiid="ei2260" eventID="e137"/>
+<MAKEINSTANCE eiid="ei2259" eventID="e134"/>
+<MAKEINSTANCE eiid="ei2196" eventID="e231"/>
+<MAKEINSTANCE eiid="ei2210" eventID="e232"/>
+<MAKEINSTANCE eiid="ei2235" eventID="e78"/>
+<MAKEINSTANCE eiid="ei2233" eventID="e72"/>
+<MAKEINSTANCE eiid="ei2231" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2234" eventID="e75"/>
+<MAKEINSTANCE eiid="ei2252" eventID="e109"/>
+<MAKEINSTANCE eiid="ei2248" eventID="e102"/>
+<MAKEINSTANCE eiid="ei2246" eventID="e100"/>
+<MAKEINSTANCE eiid="ei2247" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2251" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2249" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2250" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2284" eventID="e183"/>
+<MAKEINSTANCE eiid="ei2195" eventID="e229"/>
+<MAKEINSTANCE eiid="ei2189" eventID="e228"/>
+<MAKEINSTANCE eiid="ei2190" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2286" eventID="e187"/>
+<MAKEINSTANCE eiid="ei2185" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2187" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2186" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2184" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2188" eventID="e224"/>
+<MAKEINSTANCE eiid="ei2201" eventID="e2018"/>
+<MAKEINSTANCE eiid="ei2283" eventID="e181"/>
+<MAKEINSTANCE eiid="ei2285" eventID="e186"/>
+<MAKEINSTANCE eiid="ei2226" eventID="e62"/>
+<MAKEINSTANCE eiid="ei2227" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2228" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2229" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2222" eventID="e55"/>
+<MAKEINSTANCE eiid="ei2223" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2221" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2220" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2245" eventID="e99"/>
+<MAKEINSTANCE eiid="ei2214" eventID="e43"/>
+<MAKEINSTANCE eiid="ei2212" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2213" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2217" eventID="e46"/>
+<MAKEINSTANCE eiid="ei2218" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2215" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2216" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2253" eventID="e115"/>
+<MAKEINSTANCE eiid="ei2255" eventID="e117"/>
+<MAKEINSTANCE eiid="ei2230" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2209" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2208" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2207" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2206" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2205" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2204" eventID="e30"/>
+<MAKEINSTANCE eiid="ei2211" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2269" eventID="e160"/>
+<MAKEINSTANCE eiid="ei2270" eventID="e162"/>
+<MAKEINSTANCE eiid="ei2271" eventID="e163"/>
+<MAKEINSTANCE eiid="ei2272" eventID="e164"/>
+<MAKEINSTANCE eiid="ei2274" eventID="e166"/>
+<MAKEINSTANCE eiid="ei2276" eventID="e168"/>
+<MAKEINSTANCE eiid="ei2277" eventID="e169"/>
+<MAKEINSTANCE eiid="ei2224" eventID="e61"/>
+<MAKEINSTANCE eiid="ei2199" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2200" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2202" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2197" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2198" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2203" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2278" eventID="e171"/>
+<MAKEINSTANCE eiid="ei2280" eventID="e176"/>
+<MAKEINSTANCE eiid="ei2279" eventID="e174"/>
+<MAKEINSTANCE eiid="ei2282" eventID="e179"/>
+<MAKEINSTANCE eiid="ei2281" eventID="e178"/>
+<TLINK eventInstanceID="ei2276" lid="l1" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l2" relType="IS_INCLUDED" relatedToTime="t208" timeID="t203"/>
+<TLINK eventInstanceID="ei2201" lid="l3" relType="INCLUDES" relatedToEventInstance="ei2206"/>
+<TLINK eventInstanceID="ei2276" lid="l4" relType="BEFORE" relatedToEventInstance="ei2278"/>
+<TLINK eventInstanceID="ei2198" lid="l5" relType="IS_INCLUDED" relatedToEventInstance="ei2201"/>
+<TLINK lid="l6" relType="IS_INCLUDED" relatedToTime="t211" timeID="t212"/>
+<TLINK eventInstanceID="ei2277" lid="l7" relType="BEFORE" relatedToEventInstance="ei2279"/>
+<TLINK eventInstanceID="ei2278" lid="l8" relType="AFTER" relatedToEventInstance="ei2282"/>
+<TLINK eventInstanceID="ei2230" lid="l9" relType="IS_INCLUDED" relatedToTime="t203"/>
+<TLINK eventInstanceID="ei2198" lid="l10" relType="AFTER" relatedToTime="t200"/>
+<TLINK eventInstanceID="ei2199" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l12" relType="BEFORE" relatedToEventInstance="ei2206" timeID="t200"/>
+<TLINK eventInstanceID="ei2210" lid="l13" relType="AFTER" relatedToEventInstance="ei2211"/>
+<TLINK eventInstanceID="ei2192" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2270" lid="l15" relType="BEFORE" relatedToEventInstance="ei2272"/>
+<TLINK eventInstanceID="ei2203" lid="l16" relType="IS_INCLUDED" relatedToTime="t200"/>
+<TLINK lid="l17" relType="AFTER" relatedToEventInstance="ei2234" timeID="t203"/>
+<TLINK eventInstanceID="ei2231" lid="l18" relType="AFTER" relatedToTime="t212"/>
+<TLINK eventInstanceID="ei2236" lid="l19" relType="AFTER" relatedToTime="t207"/>
+<TLINK eventInstanceID="ei2229" lid="l20" relType="AFTER" relatedToEventInstance="ei2230"/>
+<TLINK eventInstanceID="ei2218" lid="l21" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2204" lid="l22" relType="BEFORE" relatedToEventInstance="ei2209"/>
+<TLINK eventInstanceID="ei2248" lid="l23" relType="BEFORE" relatedToEventInstance="ei2249"/>
+<TLINK eventInstanceID="ei2253" lid="l24" relType="IS_INCLUDED" relatedToTime="t2181"/>
+<TLINK eventInstanceID="ei2241" lid="l25" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2230" lid="l26" relType="BEFORE" relatedToTime="t205"/>
+<TLINK eventInstanceID="ei2207" lid="l27" relType="BEFORE" relatedToEventInstance="ei2209"/>
+<TLINK lid="l28" relType="AFTER" relatedToEventInstance="ei2257" timeID="t2181"/>
+<TLINK eventInstanceID="ei2269" lid="l29" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2210" lid="l30" relType="AFTER" relatedToEventInstance="ei2216"/>
+<TLINK eventInstanceID="ei2209" lid="l31" relType="AFTER" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2209" lid="l32" relType="SIMULTANEOUS" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2254" lid="l33" relType="IS_INCLUDED" relatedToTime="t2181"/>
+<TLINK eventInstanceID="ei2201" lid="l34" relType="INCLUDES" relatedToEventInstance="ei2205"/>
+<TLINK eventInstanceID="ei2250" lid="l35" relType="INCLUDES" relatedToEventInstance="ei2252"/>
+<TLINK eventInstanceID="ei2230" lid="l36" relType="IS_INCLUDED" relatedToTime="t207"/>
+<TLINK eventInstanceID="ei2209" lid="l37" relType="AFTER" relatedToEventInstance="ei2218"/>
+<TLINK eventInstanceID="ei2203" lid="l38" relType="BEFORE" relatedToEventInstance="ei2204"/>
+<TLINK eventInstanceID="ei2185" lid="l39" relType="AFTER" relatedToEventInstance="ei2187"/>
+<TLINK eventInstanceID="ei2199" lid="l40" relType="AFTER" relatedToTime="t200"/>
+<TLINK eventInstanceID="ei2240" lid="l41" relType="BEFORE" relatedToEventInstance="ei2243"/>
+<TLINK eventInstanceID="ei2269" lid="l42" relType="BEFORE" relatedToEventInstance="ei2270"/>
+<TLINK lid="l43" relType="BEFORE" relatedToTime="t0" timeID="t212"/>
+<TLINK lid="l44" relType="BEFORE" relatedToEventInstance="ei2236" timeID="t204"/>
+<TLINK eventInstanceID="ei2216" lid="l45" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2231" lid="l46" relType="IS_INCLUDED" relatedToEventInstance="ei2230"/>
+<TLINK eventInstanceID="ei2245" lid="l47" relType="SIMULTANEOUS" relatedToEventInstance="ei2247"/>
+<TLINK lid="l48" relType="IS_INCLUDED" relatedToTime="t207" timeID="t203"/>
+<TLINK eventInstanceID="ei2235" lid="l49" relType="AFTER" relatedToTime="t206"/>
+<TLINK eventInstanceID="ei2206" lid="l50" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK lid="l51" relType="INCLUDES" relatedToTime="t208" timeID="t207"/>
+<TLINK eventInstanceID="ei2191" lid="l52" relType="AFTER" relatedToEventInstance="ei2192"/>
+<TLINK eventInstanceID="ei2212" lid="l53" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK eventInstanceID="ei2199" lid="l54" relType="IS_INCLUDED" relatedToEventInstance="ei2201"/>
+<TLINK eventInstanceID="ei2186" lid="l55" relType="AFTER" relatedToEventInstance="ei2188"/>
+<TLINK lid="l56" relType="BEFORE" relatedToEventInstance="ei2239" timeID="t212"/>
+<TLINK eventInstanceID="ei2241" lid="l57" relType="BEFORE" relatedToEventInstance="ei2242"/>
+<TLINK lid="l58" relType="BEFORE" relatedToEventInstance="ei2204" timeID="t200"/>
+<TLINK lid="l59" relType="BEFORE" relatedToTime="t0" timeID="t199"/>
+<TLINK eventInstanceID="ei2201" lid="l60" relType="INCLUDES" relatedToEventInstance="ei2204"/>
+<TLINK eventInstanceID="ei2233" lid="l61" relType="AFTER" relatedToTime="t212"/>
+<TLINK eventInstanceID="ei2220" lid="l62" relType="SIMULTANEOUS" relatedToEventInstance="ei2221"/>
+<TLINK lid="l63" relType="AFTER" relatedToEventInstance="ei2211" timeID="t201"/>
+<TLINK eventInstanceID="ei2239" lid="l64" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2253" lid="l65" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2282" lid="l66" relType="IS_INCLUDED" relatedToTime="t218"/>
+<TLINK lid="l67" relType="BEFORE" relatedToTime="t0" timeID="t198"/>
+<TLINK eventInstanceID="ei2207" lid="l68" relType="BEFORE" relatedToTime="t201"/>
+<TLINK eventInstanceID="ei2210" lid="l69" relType="AFTER" relatedToEventInstance="ei2212"/>
+<TLINK eventInstanceID="ei2284" lid="l70" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l71" relType="AFTER" relatedToEventInstance="ei2238" timeID="t206"/>
+<TLINK lid="l72" relType="BEFORE" relatedToTime="t0" timeID="t219"/>
+<TLINK lid="l73" relType="AFTER" relatedToEventInstance="ei2238" timeID="t205"/>
+<TLINK lid="l74" relType="IS_INCLUDED" relatedToTime="t211" timeID="t204"/>
+<TLINK eventInstanceID="ei2280" lid="l75" relType="AFTER" relatedToEventInstance="ei2282"/>
+<TLINK eventInstanceID="ei2236" lid="l76" relType="AFTER" relatedToEventInstance="ei2238"/>
+<TLINK eventInstanceID="ei2189" lid="l77" relType="IDENTITY" relatedToEventInstance="ei2188"/>
+<TLINK eventInstanceID="ei2225" lid="l78" relType="AFTER" relatedToTime="t204"/>
+<TLINK eventInstanceID="ei2237" lid="l79" relType="SIMULTANEOUS" relatedToTime="t208"/>
+<TLINK lid="l80" relType="BEFORE" relatedToTime="t0" timeID="t208"/>
+<TLINK eventInstanceID="ei2214" lid="l81" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2282" lid="l82" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l83" relType="AFTER" relatedToEventInstance="ei2217" timeID="t201"/>
+<TLINK lid="l84" relType="BEFORE" relatedToTime="t0" timeID="t215"/>
+<TLINK eventInstanceID="ei2237" lid="l85" relType="AFTER" relatedToEventInstance="ei2238"/>
+<TLINK eventInstanceID="ei2267" lid="l86" relType="AFTER" relatedToEventInstance="ei2268"/>
+<TLINK eventInstanceID="ei2184" lid="l87" relType="IS_INCLUDED" relatedToTime="t191"/>
+<TLINK lid="l88" relType="AFTER" relatedToEventInstance="ei2216" timeID="t201"/>
+<TLINK eventInstanceID="ei2254" lid="l89" relType="AFTER" relatedToEventInstance="ei2257"/>
+<TLINK eventInstanceID="ei2213" lid="l90" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2236" lid="l91" relType="AFTER" relatedToTime="t208"/>
+<TLINK eventInstanceID="ei2195" lid="l92" relType="INCLUDES" relatedToEventInstance="ei2197"/>
+<TLINK eventInstanceID="ei2204" lid="l93" relType="BEFORE" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2243" lid="l94" relType="AFTER" relatedToEventInstance="ei2240"/>
+<TLINK eventInstanceID="ei2234" lid="l95" relType="BEFORE" relatedToTime="t208"/>
+<TLINK eventInstanceID="ei2236" lid="l96" relType="AFTER" relatedToTime="t211"/>
+<TLINK eventInstanceID="ei2207" lid="l97" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK eventInstanceID="ei2243" lid="l98" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2281" lid="l99" relType="AFTER" relatedToTime="t219"/>
+<TLINK eventInstanceID="ei2233" lid="l100" relType="BEFORE" relatedToEventInstance="ei2236"/>
+<TLINK eventInstanceID="ei2229" lid="l101" relType="AFTER" relatedToEventInstance="ei2233"/>
+<TLINK eventInstanceID="ei2205" lid="l102" relType="BEFORE" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2186" lid="l103" relType="AFTER" relatedToEventInstance="ei2187"/>
+<TLINK eventInstanceID="ei2186" lid="l104" relType="SIMULTANEOUS" relatedToEventInstance="ei2187"/>
+<TLINK eventInstanceID="ei2238" lid="l105" relType="IS_INCLUDED" relatedToTime="t211"/>
+<TLINK eventInstanceID="ei2206" lid="l106" relType="BEFORE" relatedToTime="t201"/>
+<TLINK eventInstanceID="ei2278" lid="l107" relType="AFTER" relatedToTime="t218"/>
+<TLINK eventInstanceID="ei2198" lid="l108" relType="AFTER" relatedToEventInstance="ei2203"/>
+<TLINK eventInstanceID="ei2217" lid="l109" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2234" lid="l110" relType="BEFORE" relatedToEventInstance="ei2236"/>
+<TLINK eventInstanceID="ei2230" lid="l111" relType="IS_INCLUDED" relatedToTime="t208"/>
+<TLINK eventInstanceID="ei2247" lid="l112" relType="BEFORE" relatedToEventInstance="ei2246"/>
+<TLINK eventInstanceID="ei2207" lid="l113" relType="BEFORE" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2185" lid="l114" relType="IS_INCLUDED" relatedToTime="t193"/>
+<TLINK eventInstanceID="ei2277" lid="l115" relType="BEFORE" relatedToEventInstance="ei2278"/>
+<TLINK eventInstanceID="ei2246" lid="l116" relType="BEFORE" relatedToEventInstance="ei2251"/>
+<TLINK eventInstanceID="ei2252" lid="l117" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2286" lid="l118" relType="BEFORE" relatedToEventInstance="ei2285"/>
+<TLINK eventInstanceID="ei2211" lid="l119" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK eventInstanceID="ei2204" lid="l120" relType="BEFORE" relatedToTime="t201"/>
+<TLINK eventInstanceID="ei2200" lid="l121" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2213" lid="l122" relType="AFTER" relatedToEventInstance="ei2217"/>
+<TLINK eventInstanceID="ei2266" lid="l123" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l124" relType="IS_INCLUDED" relatedToEventInstance="ei2237" timeID="t203"/>
+<TLINK eventInstanceID="ei2271" lid="l125" relType="SIMULTANEOUS" relatedToEventInstance="ei2272"/>
+<TLINK eventInstanceID="ei2184" lid="l126" relType="AFTER" relatedToEventInstance="ei2192"/>
+<TLINK eventInstanceID="ei2187" lid="l127" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2234" lid="l128" relType="BEFORE" relatedToTime="t205"/>
+<TLINK eventInstanceID="ei2205" lid="l129" relType="BEFORE" relatedToEventInstance="ei2209"/>
+<TLINK lid="l130" relType="INCLUDES" relatedToEventInstance="ei2248" timeID="t213"/>
+<TLINK eventInstanceID="ei2185" lid="l131" relType="AFTER" relatedToEventInstance="ei2192"/>
+<TLINK eventInstanceID="ei2209" lid="l132" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2264" lid="l133" relType="BEFORE" relatedToEventInstance="ei2265"/>
+<TLINK eventInstanceID="ei2284" lid="l134" relType="AFTER" relatedToEventInstance="ei2286"/>
+<TLINK eventInstanceID="ei2259" lid="l135" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2286" lid="l136" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2207" lid="l137" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2215" lid="l138" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2198" lid="l139" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l140" relType="BEFORE" relatedToTime="t0" timeID="t218"/>
+<TLINK eventInstanceID="ei2246" lid="l141" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2279" lid="l142" relType="AFTER" relatedToTime="t218"/>
+<TLINK lid="l143" relType="INCLUDES" relatedToEventInstance="ei2249" timeID="t213"/>
+<TLINK eventInstanceID="ei2185" lid="l144" relType="AFTER" relatedToEventInstance="ei2191"/>
+<TLINK eventInstanceID="ei2208" lid="l145" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK lid="l146" relType="BEFORE" relatedToEventInstance="ei2200" timeID="t199"/>
+<TLINK eventInstanceID="ei2202" lid="l147" relType="AFTER" relatedToEventInstance="ei2203"/>
+<TLINK eventInstanceID="ei2233" lid="l148" relType="INITIATES" relatedToEventInstance="ei2232"/>
+<TLINK lid="l149" relType="AFTER" relatedToEventInstance="ei2238" timeID="t203"/>
+<TLINK eventInstanceID="ei2208" lid="l150" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK lid="l151" relType="AFTER" relatedToTime="t208" timeID="t205"/>
+<TLINK eventInstanceID="ei2185" lid="l152" relType="AFTER" relatedToEventInstance="ei2186"/>
+<TLINK eventInstanceID="ei2205" lid="l153" relType="BEFORE" relatedToEventInstance="ei2206"/>
+<TLINK eventInstanceID="ei2236" lid="l154" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2248" lid="l155" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l156" relType="IS_INCLUDED" relatedToEventInstance="ei2250" timeID="t213"/>
+<TLINK eventInstanceID="ei2216" lid="l157" relType="SIMULTANEOUS" relatedToEventInstance="ei2218"/>
+<TLINK lid="l158" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t2181"/>
+<TLINK eventInstanceID="ei2280" lid="l159" relType="AFTER" relatedToEventInstance="ei2281"/>
+<TLINK eventInstanceID="ei2210" lid="l160" relType="AFTER" relatedToEventInstance="ei2218"/>
+<TLINK eventInstanceID="ei2264" lid="l161" relType="BEFORE" relatedToEventInstance="ei2271"/>
+<TLINK eventInstanceID="ei2204" lid="l162" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK eventInstanceID="ei2264" lid="l163" relType="BEFORE" relatedToEventInstance="ei2267"/>
+<TLINK eventInstanceID="ei2244" lid="l164" relType="IS_INCLUDED" relatedToTime="t213"/>
+<TLINK eventInstanceID="ei2282" lid="l165" relType="SIMULTANEOUS" relatedToEventInstance="ei2283"/>
+<TLINK eventInstanceID="ei2279" lid="l166" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2232" lid="l167" relType="IS_INCLUDED" relatedToTime="t204"/>
+<TLINK eventInstanceID="ei2187" lid="l168" relType="AFTER" relatedToEventInstance="ei2188"/>
+<TLINK lid="l169" relType="AFTER" relatedToTime="t212" timeID="t203"/>
+<TLINK eventInstanceID="ei2217" lid="l170" relType="SIMULTANEOUS" relatedToEventInstance="ei2218"/>
+<TLINK lid="l171" relType="IS_INCLUDED" relatedToTime="t207" timeID="t206"/>
+<TLINK eventInstanceID="ei2235" lid="l172" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2246" lid="l173" relType="INCLUDES" relatedToEventInstance="ei2247"/>
+<TLINK lid="l174" relType="BEFORE" relatedToTime="t0" timeID="t211"/>
+<TLINK eventInstanceID="ei2230" lid="l175" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2229" lid="l176" relType="AFTER" relatedToTime="t203"/>
+<TLINK eventInstanceID="ei2209" lid="l177" relType="AFTER" relatedToEventInstance="ei2211"/>
+<TLINK lid="l178" relType="AFTER" relatedToEventInstance="ei2187" timeID="t193"/>
+<TLINK eventInstanceID="ei2209" lid="l179" relType="AFTER" relatedToEventInstance="ei2217"/>
+<TLINK eventInstanceID="ei2199" lid="l180" relType="SIMULTANEOUS" relatedToEventInstance="ei2200"/>
+<TLINK eventInstanceID="ei2233" lid="l181" relType="IS_INCLUDED" relatedToTime="t204"/>
+<TLINK eventInstanceID="ei2203" lid="l182" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2230" lid="l183" relType="AFTER" relatedToTime="t211"/>
+<TLINK eventInstanceID="ei2264" lid="l184" relType="BEFORE" relatedToEventInstance="ei2272"/>
+<TLINK eventInstanceID="ei2279" lid="l185" relType="AFTER" relatedToEventInstance="ei2281"/>
+<TLINK eventInstanceID="ei2212" lid="l186" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK lid="l187" relType="AFTER" relatedToTime="t212" timeID="t205"/>
+<TLINK eventInstanceID="ei2245" lid="l188" relType="IS_INCLUDED" relatedToEventInstance="ei2246"/>
+<TLINK lid="l189" relType="AFTER" relatedToEventInstance="ei2237" timeID="t205"/>
+<TLINK lid="l190" relType="SIMULTANEOUS" relatedToTime="t198" timeID="t196"/>
+<TLINK eventInstanceID="ei2185" lid="l191" relType="AFTER" relatedToEventInstance="ei2188"/>
+<TLINK eventInstanceID="ei2233" lid="l192" relType="AFTER" relatedToEventInstance="ei2238"/>
+<TLINK eventInstanceID="ei2224" lid="l193" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2234" lid="l194" relType="BEFORE" relatedToEventInstance="ei2237"/>
+<TLINK eventInstanceID="ei2214" lid="l195" relType="AFTER" relatedToEventInstance="ei2216"/>
+<TLINK eventInstanceID="ei2229" lid="l196" relType="AFTER" relatedToTime="t204"/>
+<TLINK eventInstanceID="ei2249" lid="l197" relType="BEFORE" relatedToEventInstance="ei2251"/>
+<TLINK eventInstanceID="ei2193" lid="l198" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2193" lid="l199" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2199" lid="l200" relType="AFTER" relatedToTime="t199"/>
+<TLINK eventInstanceID="ei2216" lid="l201" relType="SIMULTANEOUS" relatedToEventInstance="ei2217"/>
+<TLINK lid="l202" relType="INCLUDES" relatedToEventInstance="ei2213" timeID="t201"/>
+<TLINK eventInstanceID="ei2208" lid="l203" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2269" lid="l204" relType="BEFORE" relatedToEventInstance="ei2272"/>
+<TLINK lid="l205" relType="AFTER" relatedToTime="t219" timeID="t218"/>
+<TLINK eventInstanceID="ei2208" lid="l206" relType="BEFORE" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2190" lid="l207" relType="AFTER" relatedToEventInstance="ei2191"/>
+<TLINK eventInstanceID="ei2214" lid="l208" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2263" lid="l209" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2281" lid="l210" relType="AFTER" relatedToTime="t218"/>
+<TLINK eventInstanceID="ei2269" lid="l211" relType="BEFORE" relatedToEventInstance="ei2271"/>
+<TLINK lid="l212" relType="IS_INCLUDED" relatedToEventInstance="ei2231" timeID="t203"/>
+<TLINK eventInstanceID="ei2278" lid="l213" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2279" lid="l214" relType="AFTER" relatedToTime="t219"/>
+<TLINK eventInstanceID="ei2238" lid="l215" relType="SIMULTANEOUS" relatedToTime="t212"/>
+<TLINK eventInstanceID="ei2204" lid="l216" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK lid="l217" relType="AFTER" relatedToEventInstance="ei2218" timeID="t201"/>
+<TLINK eventInstanceID="ei2229" lid="l218" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2206" lid="l219" relType="BEFORE" relatedToEventInstance="ei2209"/>
+<TLINK eventInstanceID="ei2227" lid="l220" relType="BEFORE" relatedToEventInstance="ei2228"/>
+<TLINK eventInstanceID="ei2200" lid="l221" relType="BEFORE" relatedToEventInstance="ei2204"/>
+<TLINK eventInstanceID="ei2225" lid="l222" relType="AFTER" relatedToEventInstance="ei2234"/>
+<TLINK eventInstanceID="ei2236" lid="l223" relType="IS_INCLUDED" relatedToTime="t205"/>
+<TLINK eventInstanceID="ei2202" lid="l224" relType="INCLUDES" relatedToEventInstance="ei2205"/>
+<TLINK lid="l225" relType="AFTER" relatedToEventInstance="ei2233" timeID="t203"/>
+<TLINK eventInstanceID="ei2240" lid="l226" relType="SIMULTANEOUS" relatedToEventInstance="ei2241"/>
+<TLINK eventInstanceID="ei2207" lid="l227" relType="BEFORE" relatedToEventInstance="ei2211"/>
+<TLINK eventInstanceID="ei2224" lid="l228" relType="INCLUDES" relatedToEventInstance="ei2228"/>
+<TLINK eventInstanceID="ei2263" lid="l229" relType="BEFORE" relatedToEventInstance="ei2267"/>
+<TLINK eventInstanceID="ei2211" lid="l230" relType="IS_INCLUDED" relatedToEventInstance="ei2215"/>
+<TLINK eventInstanceID="ei2260" lid="l231" relType="IS_INCLUDED" relatedToTime="t215"/>
+<TLINK lid="l232" relType="BEFORE" relatedToTime="t193" timeID="t191"/>
+<TLINK eventInstanceID="ei2224" lid="l233" relType="SIMULTANEOUS" relatedToEventInstance="ei2225"/>
+<TLINK eventInstanceID="ei2208" lid="l234" relType="BEFORE" relatedToEventInstance="ei2209"/>
+<TLINK lid="l235" relType="INCLUDES" relatedToEventInstance="ei2210" timeID="t201"/>
+<TLINK lid="l236" relType="AFTER" relatedToTime="t211" timeID="t203"/>
+<TLINK lid="l237" relType="AFTER" relatedToTime="t204" timeID="t203"/>
+<TLINK eventInstanceID="ei2278" lid="l238" relType="AFTER" relatedToTime="t219"/>
+<TLINK eventInstanceID="ei2231" lid="l239" relType="AFTER" relatedToEventInstance="ei2238"/>
+<TLINK eventInstanceID="ei2281" lid="l240" relType="AFTER" relatedToEventInstance="ei2282"/>
+<TLINK eventInstanceID="ei2205" lid="l241" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2277" lid="l242" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2277" lid="l243" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2200" lid="l244" relType="AFTER" relatedToTime="t199"/>
+<TLINK eventInstanceID="ei2205" lid="l245" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK lid="l246" relType="SIMULTANEOUS" relatedToTime="t195" timeID="t191"/>
+<TLINK eventInstanceID="ei2265" lid="l247" relType="SIMULTANEOUS" relatedToEventInstance="ei2266"/>
+<TLINK eventInstanceID="ei2276" lid="l248" relType="BEFORE" relatedToEventInstance="ei2280"/>
+<TLINK eventInstanceID="ei2248" lid="l249" relType="IS_INCLUDED" relatedToEventInstance="ei2250"/>
+<TLINK lid="l250" relType="BEFORE" relatedToEventInstance="ei2190" timeID="t191"/>
+<TLINK eventInstanceID="ei2280" lid="l251" relType="AFTER" relatedToTime="t219"/>
+<TLINK eventInstanceID="ei2215" lid="l252" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2215" lid="l253" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2211" lid="l254" relType="SIMULTANEOUS" relatedToEventInstance="ei2212"/>
+<TLINK eventInstanceID="ei2263" lid="l255" relType="BEFORE" relatedToEventInstance="ei2272"/>
+<TLINK eventInstanceID="ei2236" lid="l256" relType="AFTER" relatedToTime="t206"/>
+<TLINK eventInstanceID="ei2234" lid="l257" relType="IS_INCLUDED" relatedToTime="t211"/>
+<TLINK lid="l258" relType="BEFORE" relatedToTime="t205" timeID="t203"/>
+<TLINK eventInstanceID="ei2209" lid="l259" relType="AFTER" relatedToEventInstance="ei2216"/>
+<TLINK eventInstanceID="ei2242" lid="l260" relType="AFTER" relatedToEventInstance="ei2240"/>
+<TLINK eventInstanceID="ei2274" lid="l261" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2214" lid="l262" relType="AFTER" relatedToEventInstance="ei2217"/>
+<TLINK eventInstanceID="ei2197" lid="l263" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2188" lid="l264" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2230" lid="l265" relType="BEFORE" relatedToEventInstance="ei2236"/>
+<TLINK eventInstanceID="ei2224" lid="l266" relType="INCLUDES" relatedToEventInstance="ei2226"/>
+<TLINK lid="l267" relType="BEFORE" relatedToTime="t0" timeID="t204"/>
+<TLINK eventInstanceID="ei2270" lid="l268" relType="IBEFORE" relatedToEventInstance="ei2271"/>
+<TLINK eventInstanceID="ei2270" lid="l269" relType="BEFORE" relatedToEventInstance="ei2271"/>
+<TLINK eventInstanceID="ei2257" lid="l270" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2230" lid="l271" relType="AFTER" relatedToEventInstance="ei2234"/>
+<TLINK eventInstanceID="ei2196" lid="l272" relType="IS_INCLUDED" relatedToTime="t198"/>
+<TLINK eventInstanceID="ei2250" lid="l273" relType="INCLUDES" relatedToEventInstance="ei2249"/>
+<TLINK eventInstanceID="ei2247" lid="l274" relType="BEFORE" relatedToEventInstance="ei2251"/>
+<TLINK eventInstanceID="ei2184" lid="l275" relType="BEFORE" relatedToTime="t193"/>
+<TLINK eventInstanceID="ei2281" lid="l276" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2278" lid="l277" relType="BEFORE" relatedToEventInstance="ei2279"/>
+<TLINK eventInstanceID="ei2261" lid="l278" relType="AFTER" relatedToEventInstance="ei2264"/>
+<TLINK eventInstanceID="ei2187" lid="l279" relType="BEFORE" relatedToEventInstance="ei2190"/>
+<TLINK eventInstanceID="ei2207" lid="l280" relType="BEFORE" relatedToEventInstance="ei2212"/>
+<TLINK eventInstanceID="ei2224" lid="l281" relType="INCLUDES" relatedToEventInstance="ei2227"/>
+<TLINK eventInstanceID="ei2197" lid="l282" relType="IS_INCLUDED" relatedToTime="t198"/>
+<TLINK eventInstanceID="ei2190" lid="l283" relType="AFTER" relatedToEventInstance="ei2192"/>
+<TLINK eventInstanceID="ei2200" lid="l284" relType="BEFORE" relatedToEventInstance="ei2206"/>
+<TLINK eventInstanceID="ei2207" lid="l285" relType="IS_INCLUDED" relatedToEventInstance="ei2215"/>
+<TLINK eventInstanceID="ei2225" lid="l286" relType="AFTER" relatedToEventInstance="ei2233"/>
+<TLINK eventInstanceID="ei2249" lid="l287" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l288" relType="BEFORE" relatedToTime="t0" timeID="t200"/>
+<TLINK eventInstanceID="ei2210" lid="l289" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2237" lid="l290" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2184" lid="l291" relType="SIMULTANEOUS" relatedToEventInstance="ei2191"/>
+<TLINK eventInstanceID="ei2278" lid="l292" relType="AFTER" relatedToEventInstance="ei2281"/>
+<TLINK eventInstanceID="ei2226" lid="l293" relType="BEFORE" relatedToEventInstance="ei2229"/>
+<TLINK lid="l294" relType="AFTER" relatedToTime="t212" timeID="t206"/>
+<TLINK lid="l295" relType="INCLUDES" relatedToEventInstance="ei2196" timeID="t196"/>
+<TLINK eventInstanceID="ei2191" lid="l296" relType="IS_INCLUDED" relatedToTime="t195"/>
+<TLINK lid="l297" relType="BEFORE" relatedToEventInstance="ei2220" timeID="t202"/>
+<TLINK eventInstanceID="ei2267" lid="l298" relType="AFTER" relatedToEventInstance="ei2270"/>
+<TLINK lid="l299" relType="BEFORE" relatedToTime="t0" timeID="t206"/>
+<TLINK eventInstanceID="ei2204" lid="l300" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l301" relType="AFTER" relatedToTime="t211" timeID="t205"/>
+<TLINK lid="l302" relType="BEFORE" relatedToTime="t0" timeID="t207"/>
+<TLINK eventInstanceID="ei2283" lid="l303" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2211" lid="l304" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK eventInstanceID="ei2233" lid="l305" relType="BEFORE" relatedToTime="t206"/>
+<TLINK eventInstanceID="ei2206" lid="l306" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK eventInstanceID="ei2255" lid="l307" relType="AFTER" relatedToEventInstance="ei2257"/>
+<TLINK eventInstanceID="ei2205" lid="l308" relType="BEFORE" relatedToEventInstance="ei2212"/>
+<TLINK lid="l309" relType="BEFORE" relatedToEventInstance="ei2205" timeID="t200"/>
+<TLINK lid="l310" relType="AFTER" relatedToEventInstance="ei2188" timeID="t193"/>
+<TLINK eventInstanceID="ei2238" lid="l311" relType="BEFORE" relatedToEventInstance="ei2239"/>
+<TLINK eventInstanceID="ei2230" lid="l312" relType="AFTER" relatedToTime="t212"/>
+<TLINK lid="l313" relType="BEFORE" relatedToEventInstance="ei2236" timeID="t203"/>
+<TLINK lid="l314" relType="BEFORE" relatedToEventInstance="ei2204" timeID="t199"/>
+<TLINK eventInstanceID="ei2194" lid="l315" relType="DURING" relatedToTime="t196"/>
+<TLINK eventInstanceID="ei2191" lid="l316" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2209" lid="l317" relType="AFTER" relatedToEventInstance="ei2212"/>
+<TLINK eventInstanceID="ei2202" lid="l318" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2230" lid="l319" relType="AFTER" relatedToEventInstance="ei2238"/>
+<TLINK eventInstanceID="ei2195" lid="l320" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2263" lid="l321" relType="AFTER" relatedToEventInstance="ei2266"/>
+<TLINK eventInstanceID="ei2245" lid="l322" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2204" lid="l323" relType="IS_INCLUDED" relatedToEventInstance="ei2215"/>
+<TLINK eventInstanceID="ei2263" lid="l324" relType="BEFORE" relatedToEventInstance="ei2271"/>
+<TLINK eventInstanceID="ei2263" lid="l325" relType="AFTER" relatedToEventInstance="ei2264"/>
+<TLINK eventInstanceID="ei2249" lid="l326" relType="CONTINUES" relatedToEventInstance="ei2250"/>
+<TLINK eventInstanceID="ei2249" lid="l327" relType="IS_INCLUDED" relatedToEventInstance="ei2250"/>
+<TLINK lid="l328" relType="AFTER" relatedToTime="t195" timeID="t193"/>
+<TLINK eventInstanceID="ei2196" lid="l329" relType="BEFORE" relatedToEventInstance="ei2197"/>
+<TLINK eventInstanceID="ei2233" lid="l330" relType="BEFORE" relatedToTime="t205"/>
+<TLINK lid="l331" relType="BEFORE" relatedToEventInstance="ei2206" timeID="t199"/>
+<TLINK lid="l332" relType="BEFORE" relatedToTime="t0" timeID="t222"/>
+<TLINK lid="l333" relType="AFTER" relatedToTime="t212" timeID="t207"/>
+<TLINK eventInstanceID="ei2228" lid="l334" relType="BEFORE" relatedToEventInstance="ei2229"/>
+<TLINK eventInstanceID="ei2267" lid="l335" relType="SIMULTANEOUS" relatedToEventInstance="ei2272"/>
+<TLINK eventInstanceID="ei2225" lid="l336" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2234" lid="l337" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2198" lid="l338" relType="AFTER" relatedToTime="t199"/>
+<TLINK lid="l339" relType="AFTER" relatedToEventInstance="ei2238" timeID="t208"/>
+<TLINK eventInstanceID="ei2281" lid="l340" relType="AFTER" relatedToEventInstance="ei2283"/>
+<TLINK lid="l341" relType="IS_INCLUDED" relatedToEventInstance="ei2237" timeID="t206"/>
+<TLINK eventInstanceID="ei2202" lid="l342" relType="BEFORE" relatedToEventInstance="ei2206"/>
+<TLINK lid="l343" relType="INCLUDES" relatedToEventInstance="ei2190" timeID="t193"/>
+<TLINK eventInstanceID="ei2277" lid="l344" relType="BEFORE" relatedToEventInstance="ei2280"/>
+<TLINK eventInstanceID="ei2231" lid="l345" relType="INCLUDES" relatedToEventInstance="ei2233"/>
+<TLINK eventInstanceID="ei2251" lid="l346" relType="AFTER" relatedToEventInstance="ei2252"/>
+<TLINK eventInstanceID="ei2251" lid="l347" relType="BEFORE" relatedToEventInstance="ei2252"/>
+<TLINK lid="l348" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t205"/>
+<TLINK eventInstanceID="ei2230" lid="l349" relType="CONTINUES" relatedToEventInstance="ei2231"/>
+<TLINK eventInstanceID="ei2230" lid="l350" relType="IS_INCLUDED" relatedToEventInstance="ei2231"/>
+<TLINK eventInstanceID="ei2276" lid="l351" relType="BEFORE" relatedToEventInstance="ei2279"/>
+<TLINK lid="l352" relType="INCLUDES" relatedToEventInstance="ei2247" timeID="t213"/>
+<TLINK eventInstanceID="ei2205" lid="l353" relType="BEFORE" relatedToTime="t201"/>
+<TLINK eventInstanceID="ei2255" lid="l354" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2255" lid="l355" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2238" lid="l356" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2201" lid="l357" relType="INCLUDES" relatedToEventInstance="ei2202"/>
+<TLINK eventInstanceID="ei2231" lid="l358" relType="INCLUDES" relatedToTime="t206"/>
+<TLINK eventInstanceID="ei2212" lid="l359" relType="IS_INCLUDED" relatedToEventInstance="ei2215"/>
+<TLINK eventInstanceID="ei2231" lid="l360" relType="AFTER" relatedToEventInstance="ei2234"/>
+<TLINK lid="l361" relType="BEFORE" relatedToTime="t0" timeID="t202"/>
+<TLINK eventInstanceID="ei2212" lid="l362" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2188" lid="l363" relType="BEFORE" relatedToEventInstance="ei2190"/>
+<TLINK eventInstanceID="ei2241" lid="l364" relType="BEFORE" relatedToEventInstance="ei2243"/>
+<TLINK eventInstanceID="ei2230" lid="l365" relType="IS_INCLUDED" relatedToEventInstance="ei2237"/>
+<TLINK eventInstanceID="ei2214" lid="l366" relType="AFTER" relatedToEventInstance="ei2218"/>
+<TLINK eventInstanceID="ei2247" lid="l367" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2211" lid="l368" relType="AFTER" relatedToEventInstance="ei2207"/>
+<TLINK eventInstanceID="ei2242" lid="l369" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2261" lid="l370" relType="AFTER" relatedToEventInstance="ei2266"/>
+<TLINK lid="l371" relType="BEFORE" relatedToTime="t0" timeID="t203"/>
+<TLINK eventInstanceID="ei2227" lid="l372" relType="BEFORE" relatedToEventInstance="ei2229"/>
+<TLINK eventInstanceID="ei2260" lid="l373" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2210" lid="l374" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2236" lid="l375" relType="AFTER" relatedToEventInstance="ei2237"/>
+<TLINK eventInstanceID="ei2223" lid="l376" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2223" lid="l377" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2184" lid="l378" relType="BEFORE" relatedToEventInstance="ei2185"/>
+<TLINK eventInstanceID="ei2190" lid="l379" relType="AFTER" relatedToTime="t195"/>
+<TLINK eventInstanceID="ei2254" lid="l380" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2207" lid="l381" relType="IS_INCLUDED" relatedToEventInstance="ei2208"/>
+<TLINK eventInstanceID="ei2256" lid="l382" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2264" lid="l383" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2264" lid="l384" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2196" lid="l385" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l386" relType="BEFORE" relatedToEventInstance="ei2205" timeID="t199"/>
+<TLINK eventInstanceID="ei2240" lid="l387" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2262" lid="l388" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2251" lid="l389" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l390" relType="BEFORE" relatedToTime="t0" timeID="t191"/>
+<TLINK lid="l391" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t193"/>
+<TLINK eventInstanceID="ei2200" lid="l392" relType="CONTINUES" relatedToEventInstance="ei2201"/>
+<TLINK eventInstanceID="ei2200" lid="l393" relType="IS_INCLUDED" relatedToEventInstance="ei2201"/>
+<TLINK lid="l394" relType="AFTER" relatedToEventInstance="ei2203" timeID="t199"/>
+<TLINK lid="l395" relType="BEFORE" relatedToEventInstance="ei2185" timeID="t191"/>
+<TLINK eventInstanceID="ei2195" lid="l396" relType="INCLUDES" relatedToEventInstance="ei2196"/>
+<TLINK eventInstanceID="ei2195" lid="l397" relType="IDENTITY" relatedToEventInstance="ei2196"/>
+<TLINK eventInstanceID="ei2282" lid="l398" relType="IS_INCLUDED" relatedToTime="t219"/>
+<TLINK eventInstanceID="ei2282" lid="l399" relType="AFTER" relatedToTime="t219"/>
+<TLINK eventInstanceID="ei2199" lid="l400" relType="BEFORE" relatedToEventInstance="ei2204"/>
+<TLINK eventInstanceID="ei2253" lid="l401" relType="AFTER" relatedToEventInstance="ei2257"/>
+<TLINK eventInstanceID="ei2245" lid="l402" relType="IS_INCLUDED" relatedToEventInstance="ei2250"/>
+<TLINK lid="l403" relType="BEFORE" relatedToEventInstance="ei2221" timeID="t202"/>
+<TLINK eventInstanceID="ei2233" lid="l404" relType="AFTER" relatedToEventInstance="ei2234"/>
+<TLINK eventInstanceID="ei2233" lid="l405" relType="SIMULTANEOUS" relatedToEventInstance="ei2234"/>
+<TLINK eventInstanceID="ei2213" lid="l406" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2202" lid="l407" relType="BEFORE" relatedToEventInstance="ei2204"/>
+<TLINK eventInstanceID="ei2199" lid="l408" relType="BEFORE" relatedToEventInstance="ei2206"/>
+<TLINK eventInstanceID="ei2237" lid="l409" relType="SIMULTANEOUS" relatedToTime="t207"/>
+<TLINK eventInstanceID="ei2226" lid="l410" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2261" lid="l411" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2240" lid="l412" relType="BEFORE" relatedToEventInstance="ei2242"/>
+<TLINK eventInstanceID="ei2285" lid="l413" relType="AFTER" relatedToEventInstance="ei2286"/>
+<TLINK lid="l414" relType="INCLUDES" relatedToEventInstance="ei2214" timeID="t201"/>
+<TLINK lid="l415" relType="AFTER" relatedToTime="t211" timeID="t206"/>
+<TLINK eventInstanceID="ei2229" lid="l416" relType="AFTER" relatedToEventInstance="ei2234"/>
+<TLINK lid="l417" relType="AFTER" relatedToTime="t202" timeID="t201"/>
+<TLINK eventInstanceID="ei2207" lid="l418" relType="BEFORE" relatedToEventInstance="ei2214"/>
+<TLINK lid="l419" relType="AFTER" relatedToTime="t0" timeID="t201"/>
+<TLINK lid="l420" relType="BEFORE" relatedToEventInstance="ei2283" timeID="t219"/>
+<TLINK eventInstanceID="ei2186" lid="l421" relType="BEFORE" relatedToEventInstance="ei2190"/>
+<TLINK eventInstanceID="ei2224" lid="l422" relType="BEFORE" relatedToEventInstance="ei2229"/>
+<TLINK lid="l423" relType="AFTER" relatedToEventInstance="ei2191" timeID="t193"/>
+<TLINK lid="l424" relType="AFTER" relatedToTime="t207" timeID="t205"/>
+<TLINK eventInstanceID="ei2230" lid="l425" relType="AFTER" relatedToEventInstance="ei2233"/>
+<TLINK eventInstanceID="ei2233" lid="l426" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2207" lid="l427" relType="AFTER" relatedToTime="t202"/>
+<TLINK eventInstanceID="ei2204" lid="l428" relType="AFTER" relatedToEventInstance="ei2205"/>
+<TLINK lid="l429" relType="AFTER" relatedToEventInstance="ei2186" timeID="t193"/>
+<TLINK eventInstanceID="ei2244" lid="l430" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l431" relType="INCLUDES" relatedToEventInstance="ei2245" timeID="t213"/>
+<TLINK eventInstanceID="ei2267" lid="l432" relType="AFTER" relatedToEventInstance="ei2269"/>
+<TLINK eventInstanceID="ei2208" lid="l433" relType="BEFORE" relatedToTime="t201"/>
+<TLINK eventInstanceID="ei2230" lid="l434" relType="AFTER" relatedToTime="t204"/>
+<TLINK eventInstanceID="ei2189" lid="l435" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2203" lid="l436" relType="BEFORE" relatedToEventInstance="ei2205"/>
+<TLINK eventInstanceID="ei2184" lid="l437" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2247" lid="l438" relType="IS_INCLUDED" relatedToEventInstance="ei2250"/>
+<TLINK eventInstanceID="ei2185" lid="l439" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2237" lid="l440" relType="IS_INCLUDED" relatedToTime="t212"/>
+<TLINK eventInstanceID="ei2237" lid="l441" relType="AFTER" relatedToTime="t212"/>
+<TLINK eventInstanceID="ei2209" lid="l442" relType="IS_INCLUDED" relatedToTime="t201"/>
+<TLINK eventInstanceID="ei2280" lid="l443" relType="AFTER" relatedToTime="t218"/>
+<TLINK eventInstanceID="ei2234" lid="l444" relType="BEFORE" relatedToTime="t206"/>
+<TLINK lid="l445" relType="INCLUDES" relatedToEventInstance="ei2191" timeID="t191"/>
+<TLINK eventInstanceID="ei2213" lid="l446" relType="AFTER" relatedToEventInstance="ei2218"/>
+<TLINK lid="l447" relType="BEFORE" relatedToTime="t0" timeID="t196"/>
+<TLINK eventInstanceID="ei2200" lid="l448" relType="AFTER" relatedToEventInstance="ei2203"/>
+<TLINK eventInstanceID="ei2213" lid="l449" relType="AFTER" relatedToEventInstance="ei2216"/>
+<TLINK lid="l450" relType="AFTER" relatedToEventInstance="ei2238" timeID="t207"/>
+<TLINK lid="l451" relType="BEFORE" relatedToTime="t0" timeID="t213"/>
+<TLINK eventInstanceID="ei2236" lid="l452" relType="AFTER" relatedToTime="t212"/>
+<TLINK lid="l453" relType="AFTER" relatedToTime="t206" timeID="t205"/>
+<TLINK lid="l454" relType="INCLUDES" relatedToEventInstance="ei2197" timeID="t196"/>
+<TLINK lid="l455" relType="AFTER" relatedToTime="t212" timeID="t208"/>
+<TLINK eventInstanceID="ei2279" lid="l456" relType="AFTER" relatedToEventInstance="ei2282"/>
+<TLINK eventInstanceID="ei2259" lid="l457" relType="SIMULTANEOUS" relatedToEventInstance="ei2260"/>
+<TLINK lid="l458" relType="AFTER" relatedToEventInstance="ei2212" timeID="t201"/>
+<TLINK lid="l459" relType="AFTER" relatedToTime="t211" timeID="t208"/>
+<TLINK eventInstanceID="ei2184" lid="l460" relType="IS_INCLUDED" relatedToTime="t195"/>
+<TLINK eventInstanceID="ei2186" lid="l461" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2228" lid="l462" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2209" lid="l463" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2185" lid="l464" relType="AFTER" relatedToTime="t195"/>
+<TLINK lid="l465" relType="BEFORE" relatedToTime="t0" timeID="t195"/>
+<TLINK eventInstanceID="ei2280" lid="l466" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2199" lid="l467" relType="AFTER" relatedToEventInstance="ei2203"/>
+<TLINK eventInstanceID="ei2194" lid="l468" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2285" lid="l469" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2285" lid="l470" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2279" lid="l471" relType="INITIATES" relatedToEventInstance="ei2280"/>
+<TLINK eventInstanceID="ei2212" lid="l472" relType="SIMULTANEOUS" relatedToEventInstance="ei2211"/>
+<TLINK eventInstanceID="ei2203" lid="l473" relType="BEFORE" relatedToEventInstance="ei2206"/>
+<TLINK eventInstanceID="ei2206" lid="l474" relType="BEFORE" relatedToEventInstance="ei2210"/>
+<TLINK eventInstanceID="ei2208" lid="l475" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2208" lid="l476" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2253" lid="l477" relType="IS_INCLUDED" relatedToEventInstance="ei2254"/>
+<TLINK eventInstanceID="ei2184" lid="l478" relType="BEFORE" relatedToEventInstance="ei2190"/>
+<TLINK eventInstanceID="ei2250" lid="l479" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2201" lid="l480" relType="AFTER" relatedToEventInstance="ei2203"/>
+<TLINK eventInstanceID="ei2190" lid="l481" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2190" lid="l482" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2205" lid="l483" relType="BEFORE" relatedToEventInstance="ei2213"/>
+<TLINK eventInstanceID="ei2276" lid="l484" relType="INCLUDES" relatedToEventInstance="ei2277"/>
+<TLINK eventInstanceID="ei2248" lid="l485" relType="BEFORE" relatedToEventInstance="ei2251"/>
+<TLINK lid="l486" relType="AFTER" relatedToEventInstance="ei2192" timeID="t193"/>
+<TLINK eventInstanceID="ei2205" lid="l487" relType="BEFORE" relatedToEventInstance="ei2211"/>
+<TLINK eventInstanceID="ei2211" lid="l488" relType="AFTER" relatedToTime="t202"/>
+<TLINK lid="l489" relType="IS_INCLUDED" relatedToTime="t208" timeID="t206"/>
+<TLINK eventInstanceID="ei2200" lid="l490" relType="AFTER" relatedToTime="t200"/>
+<TLINK lid="l491" relType="BEFORE" relatedToTime="t205" timeID="t204"/>
+<TLINK eventInstanceID="ei2210" lid="l492" relType="AFTER" relatedToEventInstance="ei2217"/>
+<TLINK eventInstanceID="ei2245" lid="l493" relType="BEFORE" relatedToEventInstance="ei2251"/>
+<TLINK eventInstanceID="ei2231" lid="l494" relType="INCLUDES" relatedToTime="t208"/>
+</TimeML>

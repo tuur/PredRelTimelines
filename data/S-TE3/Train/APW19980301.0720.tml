@@ -1,0 +1,142 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980301.0720</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-03-01T14:11:00">1998-03-01T14:11:00</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+JERUSALEM (AP)_ Top Israeli officials <EVENT class="OCCURRENCE" eid="e1">sent</EVENT> strong new signals <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t123" type="DATE" value="1998-03-01">Sunday</TIMEX3> that Israel <EVENT class="I_STATE" eid="e3">wants</EVENT> to <EVENT class="OCCURRENCE" eid="e5">withdraw</EVENT> from southern Lebanon, where a costly <EVENT class="OCCURRENCE" eid="e6">war</EVENT> of attrition has been steadily <EVENT class="I_ACTION" eid="e7">claiming</EVENT> soldiers' lives. Prime Minister Benjamin Netanyahu <EVENT class="REPORTING" eid="e8">told</EVENT> his Cabinet on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t125" type="DATE" value="1998-03-01">Sunday</TIMEX3> that Israel was <EVENT class="I_STATE" eid="e1990">willing</EVENT> to <EVENT class="OCCURRENCE" eid="e10">withdraw</EVENT> from southern Lebanon provided Israel's northern frontier could be <EVENT class="OCCURRENCE" eid="e12">secured</EVENT>. ``If the Lebanese government will <EVENT class="OCCURRENCE" eid="e14">cooperate</EVENT> with us in <EVENT class="OCCURRENCE" eid="e16">making</EVENT> appropriate security arrangements in south Lebanon, we will be happy to <EVENT class="OCCURRENCE" eid="e18">get</EVENT> out of Lebanon in the framework of implementation of U.N. Resolution 425,'' Netanyahu <EVENT class="REPORTING" eid="e20">told</EVENT> his ministers. That <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t128" type="DATE" value="1978">1978</TIMEX3> resolution <EVENT class="OCCURRENCE" eid="e22">calls</EVENT> for Israel's unconditional <EVENT class="OCCURRENCE" eid="e23">withdrawal</EVENT> from the self-declared security zone it <EVENT class="OCCURRENCE" eid="e24">occupies</EVENT> in south Lebanon, and for the <EVENT class="OCCURRENCE" eid="e25">deployment</EVENT> of the Lebanese army and U.N. forces to <EVENT class="OCCURRENCE" eid="e27">ensure</EVENT> security along the Lebanese-Israeli border. On <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t127" type="DATE" value="1998-02-27">Friday</TIMEX3>, Netanyahu <EVENT class="REPORTING" eid="e29">said</EVENT> he <EVENT class="OCCURRENCE" eid="e30">had</EVENT> ``no qualms'' about <EVENT class="OCCURRENCE" eid="e32">implementing</EVENT> the U.N. resolution, as long as Israel <EVENT class="OCCURRENCE" eid="e33">had</EVENT> ``the necessary security safeguards.'' Cabinet minister Michael Eitan <EVENT class="REPORTING" eid="e35">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t129" type="DATE" value="1998-03-01">Sunday</TIMEX3> that Netanyahu's <EVENT class="OCCURRENCE" eid="e36">remarks</EVENT> <EVENT class="OCCURRENCE" eid="e37">marked</EVENT> a substantive <EVENT class="OCCURRENCE" eid="e38">change</EVENT> in Israel's position. ``We will <EVENT class="OCCURRENCE" eid="e39">defend</EVENT> our north from the international border,'' <EVENT class="REPORTING" eid="e40">said</EVENT> Eitan, the science minister. ``No one <EVENT class="I_STATE" eid="e41">wants</EVENT> to <EVENT class="OCCURRENCE" eid="e43">stay</EVENT> in Lebanon; thus we <EVENT class="I_STATE" eid="e44">think</EVENT> it better to <EVENT class="OCCURRENCE" eid="e46">withdraw</EVENT>.'' Uri Lubrani, Israel's top official for Lebanon affairs, also <EVENT class="OCCURRENCE" eid="e47">suggested</EVENT> Israel was <EVENT class="I_STATE" eid="e132">willing</EVENT> to <EVENT class="OCCURRENCE" eid="e49">modify</EVENT> its political goals in Lebanon. ``This is a new thing...it means that we are <EVENT class="I_STATE" eid="e133">willing</EVENT> to <EVENT class="OCCURRENCE" eid="e54">talk</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t134" type="DATE" value="1998-03-01">today</TIMEX3> _ full stop _ about security,'' Lubrani <EVENT class="REPORTING" eid="e57">told</EVENT> Israel's Channel One. ``We have <EVENT class="OCCURRENCE" eid="e58">gotten</EVENT> off the issue of peace, off the issue of normalization.'' As the death toll in Lebanon has <EVENT class="OCCURRENCE" eid="e60">mounted</EVENT>, the Israeli government has been <EVENT class="OCCURRENCE" eid="e61">faced</EVENT> with a growing grassroots <EVENT class="OCCURRENCE" eid="e62">movement</EVENT> <EVENT class="OCCURRENCE" eid="e63">calling</EVENT> for Israel's unilateral <EVENT class="OCCURRENCE" eid="e64">withdrawal</EVENT> from Lebanon. Since <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1979" type="DATE" value="1985">1985</TIMEX3> _ when the Israelis <EVENT class="OCCURRENCE" eid="e66">created</EVENT> a security buffer zone southern Lebanon _ nearly 200 Israeli soldiers have been <EVENT class="OCCURRENCE" eid="e67">killed</EVENT> <EVENT class="OCCURRENCE" eid="e68">fighting</EVENT> Hezbollah and other guerrillas. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1980" type="DATE" value="1998-W08">Last week</TIMEX3>, Hezbollah fighters <EVENT class="OCCURRENCE" eid="e69">killed</EVENT> three Israeli soldiers and seriously <EVENT class="OCCURRENCE" eid="e70">wounded</EVENT> six others. The Israelis <EVENT class="OCCURRENCE" eid="e71">suffered</EVENT> a record 39 deaths in southern Lebanon <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1981" type="DURATION" value="1997">last year</TIMEX3>. In addition, 73 soldiers were <EVENT class="OCCURRENCE" eid="e75">killed</EVENT> en route to Lebanon when two military helicopters <EVENT class="OCCURRENCE" eid="e77">crashed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1982" type="DATE" value="1997-02">last February</TIMEX3>. The Maariv newspaper <EVENT class="REPORTING" eid="e78">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1983" type="DATE" value="1998-03-01">Sunday</TIMEX3> that Netanyahu's comments <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1985" type="DATE" value="1998-W08">last week</TIMEX3> were in response to signals from Syria that it <EVENT class="I_STATE" eid="e81">wants</EVENT> to <EVENT class="ASPECTUAL" eid="e83">renew</EVENT> the long-stalled peace <EVENT class="OCCURRENCE" eid="e84">talks</EVENT> between the two countries. The newspaper, <EVENT class="OCCURRENCE" eid="e85">quoting</EVENT> ``secret reports,'' <EVENT class="REPORTING" eid="e87">said</EVENT> Syria had <EVENT class="I_ACTION" eid="e88">indicated</EVENT> its interest in <EVENT class="OCCURRENCE" eid="e90">resuming</EVENT> <EVENT class="OCCURRENCE" eid="e91">talks</EVENT> in <EVENT class="OCCURRENCE" eid="e92">remarks</EVENT> <EVENT class="OCCURRENCE" eid="e94">made</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1986" type="DATE" value="1998-W08">last week</TIMEX3> by the Syrian ambassador to Washington, Walid Mualem, in a <EVENT class="OCCURRENCE" eid="e95">lecture</EVENT> to a closed forum in Baltimore. Two top aides to Netanyahu, political adviser Uzi Arad and Cabinet Secretary Danny Naveh, <EVENT class="OCCURRENCE" eid="e97">left</EVENT> for Europe on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1987" type="DATE" value="1998-03-01">Sunday</TIMEX3>, apparently to <EVENT class="I_ACTION" eid="e98">investigate</EVENT> the Syrian issue, the newspaper <EVENT class="REPORTING" eid="e99">said</EVENT>. Israel-Syrian <EVENT class="OCCURRENCE" eid="e100">talks</EVENT> have been <EVENT class="OCCURRENCE" eid="e101">cut</EVENT> off for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1988" type="DURATION" value="P2Y">nearly two years</TIMEX3>. Defense Minister Yitzhak Mordechai was the first senior Israeli official to <EVENT class="OCCURRENCE" eid="e102">refer</EVENT> to U.N. resolution 425 in a <EVENT class="OCCURRENCE" eid="e103">speech</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1989" type="DATE" value="1998-W02">six weeks ago</TIMEX3>, <EVENT class="REPORTING" eid="e105">saying</EVENT> at <TIMEX3 anchorTimeID="t1989" functionInDocument="NONE" temporalFunction="true" tid="t1993" type="DATE" value="PAST_REF">the time</TIMEX3> he was <EVENT class="I_STATE" eid="e1994">willing</EVENT> to <EVENT class="OCCURRENCE" eid="e109">withdraw</EVENT> troops in exchange for guarantees that Israel would not be <EVENT class="OCCURRENCE" eid="e113">attacked</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>APW19980301.0720</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2077" eventID="e1994"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e1990"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2048" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2036" eventID="e133"/>
+<MAKEINSTANCE eiid="ei2034" eventID="e132"/>
+<MAKEINSTANCE eiid="ei2066" eventID="e92"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e30"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2026" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2065" eventID="e91"/>
+<MAKEINSTANCE eiid="ei2064" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2054" eventID="e78"/>
+<MAKEINSTANCE eiid="ei2068" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2039" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2069" eventID="e97"/>
+<MAKEINSTANCE eiid="ei2071" eventID="e99"/>
+<MAKEINSTANCE eiid="ei2037" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2038" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2049" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2053" eventID="e77"/>
+<MAKEINSTANCE eiid="ei2052" eventID="e75"/>
+<MAKEINSTANCE eiid="ei2067" eventID="e94"/>
+<MAKEINSTANCE eiid="ei2078" eventID="e109"/>
+<MAKEINSTANCE eiid="ei2029" eventID="e43"/>
+<MAKEINSTANCE eiid="ei2074" eventID="e102"/>
+<MAKEINSTANCE eiid="ei2075" eventID="e103"/>
+<MAKEINSTANCE eiid="ei2072" eventID="e100"/>
+<MAKEINSTANCE eiid="ei2073" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2076" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2070" eventID="e98"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2050" eventID="e71"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2058" eventID="e83"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2028" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e46"/>
+<MAKEINSTANCE eiid="ei2033" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2030" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2035" eventID="e49"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e29"/>
+<MAKEINSTANCE eiid="ei2047" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2062" eventID="e87"/>
+<MAKEINSTANCE eiid="ei2059" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2060" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2063" eventID="e88"/>
+<MAKEINSTANCE eiid="ei2081" eventID="e113"/>
+<MAKEINSTANCE eiid="ei2057" eventID="e81"/>
+<MAKEINSTANCE eiid="ei2040" eventID="e60"/>
+<MAKEINSTANCE eiid="ei2041" eventID="e61"/>
+<MAKEINSTANCE eiid="ei2042" eventID="e62"/>
+<MAKEINSTANCE eiid="ei2043" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2044" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2045" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2046" eventID="e67"/>
+<TLINK lid="l1" relType="INCLUDES" relatedToEventInstance="ei2068" timeID="t1986"/>
+<TLINK eventInstanceID="ei2025" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei2024"/>
+<TLINK lid="l3" relType="INCLUDES" relatedToEventInstance="ei2054" timeID="t1983"/>
+<TLINK eventInstanceID="ei2075" lid="l4" relType="INCLUDES" relatedToEventInstance="ei2074"/>
+<TLINK eventInstanceID="ei2067" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei2066"/>
+<TLINK eventInstanceID="ei2041" lid="l6" relType="AFTER" relatedToEventInstance="ei2040"/>
+<TLINK eventInstanceID="ei2048" lid="l7" relType="IS_INCLUDED" relatedToTime="t1980"/>
+<TLINK lid="l8" relType="INCLUDES" relatedToEventInstance="ei2075" timeID="t1989"/>
+<TLINK eventInstanceID="ei2038" lid="l9" relType="IS_INCLUDED" relatedToTime="t129"/>
+<TLINK eventInstanceID="ei2017" lid="l10" relType="AFTER" relatedToEventInstance="ei2016"/>
+<TLINK eventInstanceID="ei2007" lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei2022" lid="l12" relType="IS_INCLUDED" relatedToTime="t129"/>
+<TLINK eventInstanceID="ei2064" lid="l13" relType="AFTER" relatedToEventInstance="ei2063"/>
+<TLINK eventInstanceID="ei2073" lid="l14" relType="DURING" relatedToTime="t1988"/>
+<TLINK eventInstanceID="ei2015" lid="l15" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2002" lid="l16" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2011" lid="l17" relType="IS_INCLUDED" relatedToTime="t125"/>
+<TLINK eventInstanceID="ei2053" lid="l18" relType="SIMULTANEOUS" relatedToEventInstance="ei2052"/>
+<TLINK eventInstanceID="ei2018" lid="l19" relType="IS_INCLUDED" relatedToTime="t127"/>
+<TLINK lid="l20" relType="INCLUDES" relatedToEventInstance="ei2037" timeID="t134"/>
+<TLINK eventInstanceID="ei2046" lid="l21" relType="AFTER" relatedToTime="t1979"/>
+<TLINK eventInstanceID="ei2033" lid="l22" relType="IS_INCLUDED" relatedToTime="t129"/>
+<TLINK eventInstanceID="ei2059" lid="l23" relType="BEFORE" relatedToTime="t125"/>
+<TLINK lid="l24" relType="BEFORE" relatedToEventInstance="ei2039" timeID="t0"/>
+<TLINK eventInstanceID="ei2003" lid="l25" relType="IS_INCLUDED" relatedToEventInstance="ei2002"/>
+<TLINK eventInstanceID="ei2027" lid="l26" relType="IS_INCLUDED" relatedToTime="t129"/>
+<TLINK lid="l27" relType="INCLUDES" relatedToEventInstance="ei2050" timeID="t1981"/>
+<TLINK eventInstanceID="ei2049" lid="l28" relType="IS_INCLUDED" relatedToTime="t1980"/>
+<TLINK eventInstanceID="ei2043" lid="l29" relType="SIMULTANEOUS" relatedToEventInstance="ei2042"/>
+<TLINK lid="l30" relType="INCLUDES" relatedToEventInstance="ei2066" timeID="t1986"/>
+<TLINK eventInstanceID="ei2009" lid="l31" relType="SIMULTANEOUS" relatedToEventInstance="ei2008"/>
+<TLINK eventInstanceID="ei2021" lid="l32" relType="SIMULTANEOUS" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei2068" lid="l33" relType="INCLUDES" relatedToEventInstance="ei2066"/>
+<TLINK eventInstanceID="ei2045" lid="l34" relType="IS_INCLUDED" relatedToTime="t1979"/>
+<TLINK eventInstanceID="ei2042" lid="l35" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2066" lid="l36" relType="INCLUDES" relatedToEventInstance="ei2063"/>
+<TLINK lid="l37" relType="AFTER" relatedToEventInstance="ei2040" timeID="t0"/>
+<TLINK eventInstanceID="ei2058" lid="l38" relType="REINITIATES" relatedToEventInstance="ei2059"/>
+<TLINK eventInstanceID="ei2073" lid="l39" relType="TERMINATES" relatedToEventInstance="ei2072"/>
+<TLINK lid="l40" relType="INCLUDES" relatedToEventInstance="ei2004" timeID="t125"/>
+<TLINK lid="l41" relType="INCLUDES" relatedToEventInstance="ei2069" timeID="t1987"/>
+<TLINK lid="l42" relType="BEFORE" relatedToEventInstance="ei2008" timeID="t0"/>
+<TLINK eventInstanceID="ei2047" lid="l43" relType="SIMULTANEOUS" relatedToEventInstance="ei2046"/>
+<TLINK eventInstanceID="ei2076" lid="l44" relType="IS_INCLUDED" relatedToTime="t1993"/>
+<TLINK eventInstanceID="ei2071" lid="l45" relType="IS_INCLUDED" relatedToTime="t1986"/>
+<TLINK eventInstanceID="ei2000" lid="l46" relType="DURING" relatedToTime="t0"/>
+<TLINK lid="l47" relType="INCLUDES" relatedToEventInstance="ei1998" timeID="t123"/>
+<TLINK eventInstanceID="ei2013" lid="l48" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2062" lid="l49" relType="SIMULTANEOUS" relatedToEventInstance="ei2060"/>
+<TLINK eventInstanceID="ei2010" lid="l50" relType="AFTER" relatedToEventInstance="ei2008"/>
+<TLINK lid="l51" relType="DURING" relatedToEventInstance="ei2041" timeID="t0"/>
+<TLINK lid="l52" relType="INCLUDES" relatedToEventInstance="ei2052" timeID="t1982"/>
+<TLINK eventInstanceID="ei2064" lid="l53" relType="REINITIATES" relatedToEventInstance="ei2065"/>
+<TLINK eventInstanceID="ei2024" lid="l54" relType="SIMULTANEOUS" relatedToEventInstance="ei2023"/>
+<TLINK eventInstanceID="ei2076" lid="l55" relType="SIMULTANEOUS" relatedToEventInstance="ei2074"/>
+</TimeML>

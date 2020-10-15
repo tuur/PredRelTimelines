@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980807.0261</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-08-07">1998-08-07</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+NAIROBI, Kenya (AP) _
+
+Suspected bombs <EVENT class="OCCURRENCE" eid="e1">exploded</EVENT> outside the U.S. embassies in the Kenyan and Tanzanian capitals <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1" type="DATE" value="1998-08-07">Friday</TIMEX3>, <EVENT class="OCCURRENCE" eid="e2">killing</EVENT> dozens of people, witnesses <EVENT class="REPORTING" eid="e3">said</EVENT>.
+
+The American ambassador to Kenya was among hundreds <EVENT class="OCCURRENCE" eid="e12">injured</EVENT>, a local TV <EVENT class="REPORTING" eid="e4">said</EVENT>.
+
+``It was definitely a bomb,'' <EVENT class="REPORTING" eid="e5">said</EVENT> a U.S. Embassy official in Nairobi, who <EVENT class="OCCURRENCE" eid="e6">refused</EVENT> to <EVENT class="OCCURRENCE" eid="e7">identify</EVENT> himself. ``You can <EVENT class="PERCEPTION" eid="e8">see</EVENT> a huge crater behind the building, and a bomb <EVENT class="OCCURRENCE" eid="e9">went</EVENT> off at the embassy in Tanzania at the same time,'' he <EVENT class="REPORTING" eid="e10">said</EVENT>.
+
+</TEXT>
+<LASTEXTRAINFO>APW19980807.0261</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK eventInstanceID="ei5" lid="l1" relType="BEFORE" relatedToEventInstance="ei6"/>
+<TLINK eventInstanceID="ei10" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei5" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2" lid="l4" relType="BEFORE" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei1" lid="l5" relType="BEFORE" relatedToEventInstance="ei8"/>
+<TLINK eventInstanceID="ei3" lid="l6" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei12" lid="l7" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei1" lid="l8" relType="BEFORE" relatedToEventInstance="ei5"/>
+<TLINK eventInstanceID="ei1" lid="l9" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei4" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei6" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1" lid="l12" relType="IBEFORE" relatedToEventInstance="ei2"/>
+<TLINK eventInstanceID="ei3" lid="l13" relType="AFTER" relatedToEventInstance="ei12"/>
+<TLINK eventInstanceID="ei9" lid="l14" relType="BEFORE" relatedToEventInstance="ei10"/>
+<TLINK eventInstanceID="ei12" lid="l15" relType="AFTER" relatedToEventInstance="ei1"/>
+<TLINK lid="l16" relType="IS_INCLUDED" relatedToEventInstance="ei9" timeID="t1"/>
+</TimeML>

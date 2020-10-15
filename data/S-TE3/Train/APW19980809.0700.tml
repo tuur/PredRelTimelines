@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980809.0700</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-08-09">1998-08-09</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+DAR ES SALAAM, Tanzania (AP) _
+
+The bomb outside the U.S. Embassy in Tanzania was so powerful that it <EVENT class="OCCURRENCE" eid="e1">shook</EVENT> furniture in homes a mile away.
+
+But the solid construction of the Israeli-built embassy may have <EVENT class="I_ACTION" eid="e3">prevented</EVENT> the carnage of a similar bomb in Kenya, an official <EVENT class="REPORTING" eid="e4">said</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1" type="DATE" value="1998-08-08">Saturday</TIMEX3>.
+
+Another reason was the location _ a quiet tree-lined neighborhood.
+
+The embassy away from the center of Dar es Salaam, Tanzania's laid-back capital of <EVENT class="OCCURRENCE" eid="e7">swaying</EVENT> palms and sparse traffic, is largely free from the congestion that <EVENT class="STATE" eid="e8">plagues</EVENT> most other major African cities.
+
+</TEXT>
+<LASTEXTRAINFO>APW19980809.0700</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<TLINK eventInstanceID="ei1" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei7" lid="l2" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei8" lid="l3" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei3" lid="l4" relType="BEFORE" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei1" lid="l5" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei3" lid="l6" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei4" lid="l7" relType="AFTER" relatedToEventInstance="ei8"/>
+<TLINK eventInstanceID="ei3" lid="l8" relType="AFTER" relatedToEventInstance="ei7"/>
+<TLINK lid="l9" relType="INCLUDES" relatedToEventInstance="ei4" timeID="t1"/>
+</TimeML>

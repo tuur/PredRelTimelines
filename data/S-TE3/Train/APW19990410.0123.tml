@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19990410.0123</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1999-04-10T06:27">1999-04-10T06:27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+AMHERST, N.Y. (AP) --
+
+A rifle <EVENT class="OCCURRENCE" eid="e1">found</EVENT> near the home of a slain abortion doctor may <EVENT class="OCCURRENCE" eid="e2">yield</EVENT> important clues for investigators <EVENT class="I_ACTION" eid="e3">trying</EVENT> to <EVENT class="OCCURRENCE" eid="e4">track</EVENT> down the gunman.
+
+Dr. Barnett Slepian was <EVENT class="OCCURRENCE" eid="e5">killed</EVENT> in his kitchen by a sniper's bullet <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DATE" value="1998-FA">last fall</TIMEX3>. Investigators <EVENT class="REPORTING" eid="e6">said</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t3" type="DATE" value="1999-04-09">Friday</TIMEX3> they <EVENT class="OCCURRENCE" eid="e7">found</EVENT> a rifle <EVENT class="STATE" eid="e8">buried</EVENT> near his home in the Buffalo suburb of Amherst.
+
+The gun was <EVENT class="I_ACTION" eid="e9">sent</EVENT> to the FBI laboratory in Washington to <EVENT class="I_ACTION" eid="e10">determine</EVENT> whether it was <EVENT class="OCCURRENCE" eid="e11">used</EVENT> to <EVENT class="OCCURRENCE" eid="e12">kill</EVENT> Slepian.
+
+``If it<EVENT class="STATE" eid="e13">'s</EVENT> not too badly rusted, they may be <EVENT class="I_STATE" eid="e14">able</EVENT> to <EVENT class="OCCURRENCE" eid="e15">match</EVENT> the bullet back to the weapon,'' <EVENT class="REPORTING" eid="e16">said</EVENT> Walter Rowe, forensics sciences professor at George Washington University.
+
+The rifle might also <EVENT class="STATE" eid="e17">have</EVENT> clothing fibers, fingerprints or a serial number that can be <EVENT class="OCCURRENCE" eid="e18">traced</EVENT> to the buyer, Rowe <EVENT class="REPORTING" eid="e19">said</EVENT>.
+
+<EVENT class="STATE" eid="e20">Buried</EVENT> a foot beneath the ground, the weapon was <EVENT class="OCCURRENCE" eid="e21">unearthed</EVENT> during a <EVENT class="OCCURRENCE" eid="e22">search</EVENT> of a heavily wooded, four-acre area <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t4" type="DATE" value="1999-04-08">Thursday</TIMEX3>. Investigators did not <EVENT class="REPORTING" eid="e23">say</EVENT> how close the weapon <EVENT class="STATE" eid="e24">was</EVENT> to the house.
+
+Anti-abortion protester James Kopp is being <EVENT class="OCCURRENCE" eid="e25">sought</EVENT> as a material witness in the <EVENT class="OCCURRENCE" eid="e26">shooting</EVENT>.
+
+Investigators <EVENT class="REPORTING" eid="e27">said</EVENT> Kopp's car was <EVENT class="PERCEPTION" eid="e28">seen</EVENT> in the neighborhood in the <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t5" type="DATE" value="1998-FA">days</TIMEX3> before the <EVENT class="OCCURRENCE" eid="e29">slaying</EVENT>. Kopp <EVENT class="OCCURRENCE" eid="e30">vanished</EVENT> after the <EVENT class="OCCURRENCE" eid="e31">shooting</EVENT>, and the car was <EVENT class="PERCEPTION" eid="e32">found</EVENT> <EVENT class="OCCURRENCE" eid="e33">abandoned</EVENT> at the Newark, N.J., airport in <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t6" type="DATE" value="1998-12">December</TIMEX3>.
+
+Officials <EVENT class="REPORTING" eid="e34">said</EVENT> DNA test results <EVENT class="OCCURRENCE" eid="e35">showed</EVENT> a likelihood that a strand of hair <EVENT class="OCCURRENCE" eid="e36">discovered</EVENT> behind Slepian's home <EVENT class="OCCURRENCE" eid="e37">came</EVENT> from Kopp.
+
+</TEXT>
+<LASTEXTRAINFO>APW19990410.0123</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei18" eventID="e18"/>
+<MAKEINSTANCE eiid="ei35" eventID="e35"/>
+<MAKEINSTANCE eiid="ei34" eventID="e34"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei32" eventID="e32"/>
+<MAKEINSTANCE eiid="ei31" eventID="e31"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei15" eventID="e15"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei37" eventID="e37"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei25" eventID="e25"/>
+<MAKEINSTANCE eiid="ei26" eventID="e26"/>
+<MAKEINSTANCE eiid="ei27" eventID="e27"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei22" eventID="e22"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei28" eventID="e28"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<TLINK lid="l1" relType="BEFORE" relatedToEventInstance="ei14" timeID="t0"/>
+<TLINK lid="l2" relType="INCLUDES" relatedToEventInstance="ei22" timeID="t4"/>
+<TLINK lid="l3" relType="BEFORE" relatedToEventInstance="ei15" timeID="t0"/>
+<TLINK lid="l4" relType="AFTER" relatedToEventInstance="ei24" timeID="t0"/>
+<TLINK lid="l5" relType="BEFORE" relatedToEventInstance="ei18" timeID="t0"/>
+<TLINK lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei17" timeID="t0"/>
+<TLINK eventInstanceID="ei30" lid="l7" relType="AFTER" relatedToEventInstance="ei31"/>
+<TLINK lid="l8" relType="INCLUDES" relatedToEventInstance="ei6" timeID="t3"/>
+<TLINK lid="l9" relType="BEFORE" relatedToEventInstance="ei4" timeID="t0"/>
+<TLINK lid="l10" relType="INCLUDES" relatedToEventInstance="ei23" timeID="t0"/>
+<TLINK lid="l11" relType="AFTER" relatedToEventInstance="ei9" timeID="t0"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei32" timeID="t6"/>
+<TLINK lid="l13" relType="AFTER" relatedToEventInstance="ei30" timeID="t0"/>
+<TLINK lid="l14" relType="INCLUDES" relatedToEventInstance="ei34" timeID="t0"/>
+<TLINK lid="l15" relType="AFTER" relatedToEventInstance="ei1" timeID="t0"/>
+<TLINK lid="l16" relType="AFTER" relatedToEventInstance="ei31" timeID="t0"/>
+<TLINK lid="l17" relType="AFTER" relatedToEventInstance="ei12" timeID="t0"/>
+<TLINK lid="l18" relType="BEFORE" relatedToEventInstance="ei29" timeID="t5"/>
+<TLINK lid="l19" relType="INCLUDES" relatedToEventInstance="ei27" timeID="t0"/>
+<TLINK lid="l20" relType="BEFORE" relatedToEventInstance="ei2" timeID="t0"/>
+<TLINK lid="l21" relType="IS_INCLUDED" relatedToEventInstance="ei35" timeID="t0"/>
+<TLINK lid="l22" relType="INCLUDES" relatedToEventInstance="ei19" timeID="t0"/>
+<TLINK lid="l23" relType="AFTER" relatedToEventInstance="ei7" timeID="t3"/>
+<TLINK eventInstanceID="ei28" lid="l24" relType="BEFORE" relatedToEventInstance="ei29"/>
+<TLINK lid="l25" relType="INCLUDES" relatedToEventInstance="ei21" timeID="t4"/>
+<TLINK lid="l26" relType="AFTER" relatedToEventInstance="ei36" timeID="t0"/>
+<TLINK lid="l27" relType="IS_INCLUDED" relatedToEventInstance="ei13" timeID="t0"/>
+<TLINK lid="l28" relType="IS_INCLUDED" relatedToEventInstance="ei3" timeID="t0"/>
+<TLINK lid="l29" relType="AFTER" relatedToEventInstance="ei33" timeID="t6"/>
+<TLINK lid="l30" relType="AFTER" relatedToEventInstance="ei26" timeID="t0"/>
+<TLINK lid="l31" relType="BEFORE" relatedToEventInstance="ei10" timeID="t0"/>
+<TLINK lid="l32" relType="AFTER" relatedToEventInstance="ei8" timeID="t3"/>
+<TLINK lid="l33" relType="AFTER" relatedToEventInstance="ei11" timeID="t0"/>
+<TLINK lid="l34" relType="AFTER" relatedToEventInstance="ei20" timeID="t4"/>
+<TLINK eventInstanceID="ei21" lid="l35" relType="DURING" relatedToEventInstance="ei22"/>
+<TLINK lid="l36" relType="IS_INCLUDED" relatedToEventInstance="ei25" timeID="t0"/>
+<TLINK lid="l37" relType="IS_INCLUDED" relatedToEventInstance="ei37" timeID="t0"/>
+<TLINK lid="l38" relType="INCLUDES" relatedToEventInstance="ei5" timeID="t2"/>
+<TLINK lid="l39" relType="INCLUDES" relatedToEventInstance="ei16" timeID="t0"/>
+<TLINK lid="l40" relType="INCLUDES" relatedToEventInstance="ei28" timeID="t5"/>
+</TimeML>

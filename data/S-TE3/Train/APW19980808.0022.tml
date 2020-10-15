@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980808.0022</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-08-08">1998-08-08</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+NAIROBI, Kenya (AP) _
+
+Terrorist <EVENT class="OCCURRENCE" eid="e24">bombings</EVENT> at U.S. embassies in Kenya and Tanzania <EVENT class="OCCURRENCE" eid="e1">blew</EVENT> apart buildings and buses, <EVENT class="OCCURRENCE" eid="e2">trapping</EVENT> people under slabs of concrete and twisted steel that rescuers <EVENT class="OCCURRENCE" eid="e3">cleared</EVENT> with cranes, blow torches and bare hands.
+
+At least 82 were <EVENT class="OCCURRENCE" eid="e4">killed</EVENT> and more than 1,700 <EVENT class="OCCURRENCE" eid="e36">injured</EVENT>, officials <EVENT class="REPORTING" eid="e5">said</EVENT> as dawn <EVENT class="OCCURRENCE" eid="e6">broke</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1" type="DATE" value="1998-08-08">Saturday</TIMEX3>. Dozens of people were still <EVENT class="OCCURRENCE" eid="e7">missing</EVENT>, however, and the death toll was <EVENT class="I_STATE" eid="e8">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e9">rise</EVENT>, they <EVENT class="REPORTING" eid="e10">said</EVENT>.
+
+The suspected car <EVENT class="OCCURRENCE" eid="e29">bombings</EVENT> occurred 700 kilometers (450 miles) from each other but just minutes apart on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2" type="DATE" value="1998-08-07">Friday</TIMEX3>, <EVENT class="OCCURRENCE" eid="e12">turning</EVENT> busy streets in two African capitals into bloody piles of concrete and knots of steel.
+
+``This <EVENT class="OCCURRENCE" eid="e13">appears</EVENT> to have been a very well-coordinated, very well-planned <EVENT class="OCCURRENCE" eid="e30">attack</EVENT> _ clearly not the work of amateurs,'' U.S. National Security Council spokesman P.J. Crowley <EVENT class="REPORTING" eid="e16">said</EVENT> in Washington. No one has <EVENT class="REPORTING" eid="e17">claimed</EVENT> responsibility.
+
+The <EVENT class="OCCURRENCE" eid="e33">blast</EVENT> in Nairobi occurred at about <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t4" type="TIME" value="1998-08-07T10:35">10:35 a.m.</TIMEX3> (0735 GMT) <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t3" type="DATE" value="1998-08-07">Friday</TIMEX3>, <EVENT class="OCCURRENCE" eid="e19">toppling</EVENT> a crowded building toward the embassy and a street packed with cars, trucks and buses. At least 75 people were <EVENT class="OCCURRENCE" eid="e21">killed</EVENT> and 1,643 <EVENT class="OCCURRENCE" eid="e22">wounded</EVENT> there, Red Cross and ambulance officials <EVENT class="REPORTING" eid="e23">said</EVENT>.
+
+</TEXT>
+<LASTEXTRAINFO>APW19980808.0022</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei22" eventID="e22"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<TLINK eventInstanceID="ei13" lid="l1" relType="AFTER" relatedToEventInstance="ei30"/>
+<TLINK eventInstanceID="ei24" lid="l2" relType="BEFORE" relatedToEventInstance="ei7"/>
+<TLINK eventInstanceID="ei29" lid="l3" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei24" lid="l4" relType="BEFORE" relatedToEventInstance="ei2"/>
+<TLINK lid="l5" relType="IDENTITY" relatedToTime="t3" timeID="t2"/>
+<TLINK eventInstanceID="ei1" lid="l6" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei16" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei6" lid="l8" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei23" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei24" lid="l10" relType="INCLUDES" relatedToEventInstance="ei30"/>
+<TLINK eventInstanceID="ei7" lid="l11" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei24" lid="l12" relType="IBEFORE" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei4" lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei36"/>
+<TLINK eventInstanceID="ei33" lid="l14" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei24" lid="l15" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei17" lid="l16" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei8" lid="l17" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei4" lid="l18" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei29" lid="l19" relType="IDENTITY" relatedToEventInstance="ei24"/>
+<TLINK eventInstanceID="ei22" lid="l20" relType="BEFORE" relatedToEventInstance="ei23"/>
+<TLINK eventInstanceID="ei24" lid="l21" relType="INCLUDES" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei33" lid="l22" relType="BEFORE" relatedToEventInstance="ei21"/>
+<TLINK eventInstanceID="ei3" lid="l23" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei33" lid="l24" relType="BEFORE" relatedToEventInstance="ei22"/>
+<TLINK eventInstanceID="ei21" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei22"/>
+<TLINK eventInstanceID="ei12" lid="l26" relType="AFTER" relatedToEventInstance="ei29"/>
+<TLINK eventInstanceID="ei33" lid="l27" relType="BEFORE" relatedToEventInstance="ei19"/>
+<TLINK eventInstanceID="ei13" lid="l28" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK lid="l29" relType="INCLUDES" relatedToEventInstance="ei10" timeID="t1"/>
+<TLINK eventInstanceID="ei17" lid="l30" relType="ENDED_BY" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei36" lid="l31" relType="BEFORE" relatedToEventInstance="ei6"/>
+<TLINK eventInstanceID="ei8" lid="l32" relType="BEFORE" relatedToEventInstance="ei10"/>
+<TLINK eventInstanceID="ei5" lid="l33" relType="SIMULTANEOUS" relatedToEventInstance="ei6"/>
+<TLINK lid="l34" relType="INCLUDES" relatedToEventInstance="ei36" timeID="t2"/>
+<TLINK eventInstanceID="ei5" lid="l35" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK lid="l36" relType="BEFORE" relatedToTime="t1" timeID="t3"/>
+<TLINK eventInstanceID="ei13" lid="l37" relType="BEFORE" relatedToEventInstance="ei16"/>
+</TimeML>

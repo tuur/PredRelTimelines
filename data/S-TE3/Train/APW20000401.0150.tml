@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW20000401.0150</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="2000-04-01">2000-04-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+HAVANA (AP) --
+
+Tens of thousands of people <EVENT class="OCCURRENCE" eid="e1">paid</EVENT> tribute to the men who <EVENT class="ASPECTUAL" eid="e2">launched</EVENT> the Cuban Revolution <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DURATION" value="P40Y">more than four decades ago</TIMEX3> in a <EVENT class="OCCURRENCE" eid="e35">rally</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t3" type="DATE" value="2000-04-01">Saturday</TIMEX3> <EVENT class="OCCURRENCE" eid="e3">demanding</EVENT> the <EVENT class="OCCURRENCE" eid="e36">return</EVENT> of Elian Gonzalez.
+
+With the historic yacht Granma towering behind him, Raul Castro, younger brother of President Fidel Castro and head of Cuba's Revolutionary Armed Forces, <EVENT class="OCCURRENCE" eid="e4">likened</EVENT> the revolutionary <EVENT class="OCCURRENCE" eid="e38">battle</EVENT> to the <EVENT class="OCCURRENCE" eid="e39">fight</EVENT> for Elian, the 6-year-old boy at the center of an international custody <EVENT class="OCCURRENCE" eid="e41">battle</EVENT>.
+
+''Here, no one <EVENT class="OCCURRENCE" eid="e5">gives</EVENT> up!'' Castro <EVENT class="REPORTING" eid="e6">declared</EVENT>.
+
+The demonstrators, <EVENT class="OCCURRENCE" eid="e7">wearing</EVENT> T-shirts with Elian's portrait, <EVENT class="OCCURRENCE" eid="e8">waved</EVENT> red, white and blue Cuban flags on the shore of the community of Niquero, where the Granma <EVENT class="OCCURRENCE" eid="e9">landed</EVENT> on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t4" type="DATE" value="1956-12-02">Dec. 2, 1956</TIMEX3>, with 82 armed men <EVENT class="OCCURRENCE" eid="e10">led</EVENT> by Fidel Castro.
+
+In the <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t8" type="DURATION" value="PXY">years</TIMEX3> that <EVENT class="OCCURRENCE" eid="e11">followed</EVENT>, the guerrilla fighters <EVENT class="OCCURRENCE" eid="e12">waged</EVENT> war on the troops of dictator Fulgencio Batista, <EVENT class="REPORTING" eid="e13">declaring</EVENT> <EVENT class="OCCURRENCE" eid="e44">victory</EVENT> on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t5" type="DATE" value="1959-01-01">Jan. 1, 1959</TIMEX3> when Batista <EVENT class="OCCURRENCE" eid="e14">fled</EVENT> the country.
+
+Castro <EVENT class="OCCURRENCE" eid="e60">noted</EVENT> the importance that Cuba's younger generations have <EVENT class="OCCURRENCE" eid="e15">played</EVENT> in the communist government's <EVENT class="OCCURRENCE" eid="e46">battle</EVENT> to <EVENT class="OCCURRENCE" eid="e16">secure</EVENT> Elian's <EVENT class="OCCURRENCE" eid="e47">return</EVENT> from the United States, where the boy's Miami relatives are <EVENT class="OCCURRENCE" eid="e17">fighting</EVENT> for permanent custody.
+
+As a father and the grandfather of eight children -- including a boy who just <EVENT class="OCCURRENCE" eid="e19">turned</EVENT> 6, the same age as Elian -- Castro <EVENT class="REPORTING" eid="e20">said</EVENT> he sympathized with the little boy's father, Juan Miguel Gonzalez.
+
+Gonzalez has <EVENT class="REPORTING" eid="e21">cited</EVENT> his rights as the child's sole surviving parent in his <EVENT class="OCCURRENCE" eid="e49">calls</EVENT> for his boy to be <EVENT class="OCCURRENCE" eid="e23">returned</EVENT> to him in communist Cuba. Elian's mother and 10 others <EVENT class="OCCURRENCE" eid="e61">perished</EVENT> when their boat <EVENT class="OCCURRENCE" eid="e24">sank</EVENT> off the coast of Florida in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t6" type="DATE" value="1999-11">late November</TIMEX3> during a <EVENT class="OCCURRENCE" eid="e25">crossing</EVENT> from Cuba to the United States.
+
+''Elian <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t7" type="DATE" value="2000-04-01">today</TIMEX3> is the symbol of our unity,'' Castro <EVENT class="REPORTING" eid="e26">said</EVENT> to cheers.
+
+''And our struggle will not <EVENT class="OCCURRENCE" eid="e27">end</EVENT> with the <EVENT class="OCCURRENCE" eid="e54">return</EVENT> of Elian,'' added Castro. He <EVENT class="REPORTING" eid="e28">said</EVENT> the Cuban people would <EVENT class="ASPECTUAL" eid="e29">continue</EVENT> to <EVENT class="OCCURRENCE" eid="e30">protest</EVENT> American laws and policies <EVENT class="OCCURRENCE" eid="e31">aimed</EVENT> at Cuba, including a four-decade economic embargo and <EVENT class="ASPECTUAL" eid="e33">continued</EVENT> U.S. military presence at the Guantanamo Naval Station on the easternmost end of the island.
+
+</TEXT>
+<LASTEXTRAINFO>APW20000401.0150</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei49" eventID="e49"/>
+<MAKEINSTANCE eiid="ei39" eventID="e39"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei35" eventID="e35"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei31" eventID="e31"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei15" eventID="e15"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei38" eventID="e38"/>
+<MAKEINSTANCE eiid="ei54" eventID="e54"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei27" eventID="e27"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei25" eventID="e25"/>
+<MAKEINSTANCE eiid="ei26" eventID="e26"/>
+<MAKEINSTANCE eiid="ei41" eventID="e41"/>
+<MAKEINSTANCE eiid="ei46" eventID="e46"/>
+<MAKEINSTANCE eiid="ei47" eventID="e47"/>
+<MAKEINSTANCE eiid="ei44" eventID="e44"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei28" eventID="e28"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<MAKEINSTANCE eiid="ei60" eventID="e60"/>
+<MAKEINSTANCE eiid="ei61" eventID="e61"/>
+<TLINK eventInstanceID="ei4" lid="l1" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK lid="l2" relType="BEFORE" relatedToTime="t7" timeID="t6"/>
+<TLINK eventInstanceID="ei19" lid="l3" relType="BEFORE" relatedToEventInstance="ei60"/>
+<TLINK eventInstanceID="ei33" lid="l4" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei9" lid="l5" relType="IS_INCLUDED" relatedToTime="t4"/>
+<TLINK eventInstanceID="ei1" lid="l6" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei46" lid="l7" relType="INCLUDES" relatedToEventInstance="ei17"/>
+<TLINK eventInstanceID="ei7" lid="l8" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei21" lid="l9" relType="BEFORE" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei19" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei39" lid="l11" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei3" lid="l12" relType="BEFORE" relatedToEventInstance="ei36"/>
+<TLINK lid="l13" relType="INCLUDES" relatedToTime="t4" timeID="t2"/>
+<TLINK lid="l14" relType="BEFORE" relatedToTime="t5" timeID="t4"/>
+<TLINK lid="l15" relType="BEFORE" relatedToTime="t8" timeID="t4"/>
+<TLINK eventInstanceID="ei35" lid="l16" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei46" lid="l17" relType="INCLUDES" relatedToEventInstance="ei15"/>
+<TLINK eventInstanceID="ei60" lid="l18" relType="BEFORE" relatedToEventInstance="ei20"/>
+<TLINK eventInstanceID="ei6" lid="l19" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei12" lid="l20" relType="BEFORE" relatedToEventInstance="ei13"/>
+<TLINK eventInstanceID="ei26" lid="l21" relType="BEFORE" relatedToEventInstance="ei54"/>
+<TLINK eventInstanceID="ei1" lid="l22" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei46" lid="l23" relType="BEFORE" relatedToEventInstance="ei16"/>
+<TLINK eventInstanceID="ei13" lid="l24" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei25" lid="l25" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei61" lid="l26" relType="IS_INCLUDED" relatedToTime="t6"/>
+<TLINK eventInstanceID="ei26" lid="l27" relType="BEFORE" relatedToEventInstance="ei28"/>
+<TLINK eventInstanceID="ei12" lid="l28" relType="IS_INCLUDED" relatedToTime="t8"/>
+<TLINK eventInstanceID="ei11" lid="l29" relType="IS_INCLUDED" relatedToTime="t8"/>
+<TLINK eventInstanceID="ei14" lid="l30" relType="BEFORE" relatedToEventInstance="ei13"/>
+<TLINK eventInstanceID="ei4" lid="l31" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei28" lid="l32" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei54" lid="l33" relType="BEFORE" relatedToEventInstance="ei29"/>
+<TLINK eventInstanceID="ei6" lid="l34" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei13" lid="l35" relType="IS_INCLUDED" relatedToTime="t5"/>
+<TLINK eventInstanceID="ei8" lid="l36" relType="IS_INCLUDED" relatedToEventInstance="ei7"/>
+<TLINK eventInstanceID="ei31" lid="l37" relType="BEFORE" relatedToEventInstance="ei29"/>
+<TLINK eventInstanceID="ei3" lid="l38" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei26" lid="l39" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei2" lid="l40" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei16" lid="l41" relType="BEFORE" relatedToEventInstance="ei47"/>
+<TLINK eventInstanceID="ei13" lid="l42" relType="BEFORE" relatedToEventInstance="ei44"/>
+<TLINK eventInstanceID="ei10" lid="l43" relType="BEFORE" relatedToEventInstance="ei9"/>
+<TLINK eventInstanceID="ei31" lid="l44" relType="SIMULTANEOUS" relatedToEventInstance="ei33"/>
+<TLINK eventInstanceID="ei29" lid="l45" relType="CONTINUES" relatedToEventInstance="ei30"/>
+<TLINK eventInstanceID="ei29" lid="l46" relType="BEFORE" relatedToEventInstance="ei30"/>
+<TLINK eventInstanceID="ei1" lid="l47" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei25" lid="l48" relType="BEFORE" relatedToEventInstance="ei24"/>
+<TLINK eventInstanceID="ei24" lid="l49" relType="BEFORE" relatedToEventInstance="ei61"/>
+<TLINK lid="l50" relType="IDENTITY" relatedToTime="t3" timeID="t7"/>
+<TLINK eventInstanceID="ei49" lid="l51" relType="BEFORE" relatedToEventInstance="ei23"/>
+<TLINK eventInstanceID="ei49" lid="l52" relType="INCLUDES" relatedToEventInstance="ei21"/>
+<TLINK eventInstanceID="ei7" lid="l53" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei6" lid="l54" relType="INCLUDES" relatedToEventInstance="ei5"/>
+<TLINK eventInstanceID="ei2" lid="l55" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei26" lid="l56" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei27" lid="l57" relType="AFTER" relatedToEventInstance="ei26"/>
+<TLINK eventInstanceID="ei46" lid="l58" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei15" lid="l59" relType="BEFORE" relatedToEventInstance="ei60"/>
+<TLINK eventInstanceID="ei49" lid="l60" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei41" lid="l61" relType="INCLUDES" relatedToEventInstance="ei39"/>
+<TLINK eventInstanceID="ei60" lid="l62" relType="IS_INCLUDED" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei20" lid="l63" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei38" lid="l64" relType="IS_INCLUDED" relatedToTime="t2"/>
+<TLINK lid="l65" relType="BEFORE" relatedToTime="t6" timeID="t5"/>
+<TLINK eventInstanceID="ei8" lid="l66" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei54" lid="l67" relType="BEFORE" relatedToEventInstance="ei27"/>
+<TLINK eventInstanceID="ei60" lid="l68" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei61" lid="l69" relType="DURING" relatedToEventInstance="ei25"/>
+<TLINK eventInstanceID="ei11" lid="l70" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

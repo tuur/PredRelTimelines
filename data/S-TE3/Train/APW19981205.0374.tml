@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19981205.0374</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-12-05T09:42">1998-12-05T09:42</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+WARSAW, Poland (AP) _
+
+Poland, Hungary and the Czech Republic can now <EVENT class="OCCURRENCE" eid="e1">participate</EVENT> in NATO strategy <EVENT class="OCCURRENCE" eid="e24">planning</EVENT>, because all NATO member states have <EVENT class="I_ACTION" eid="e2">approved</EVENT> their <EVENT class="STATE" eid="e3">joining</EVENT> the alliance, German defense minister Rudolf Scharping <EVENT class="REPORTING" eid="e4">said</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DATE" value="1998-12-05">Saturday</TIMEX3>.
+
+The Netherlands <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t3" type="DATE" value="1998-12-XX">early this week</TIMEX3> <EVENT class="STATE" eid="e5">became</EVENT> the last country to <EVENT class="OCCURRENCE" eid="e7">ratify</EVENT> NATO expansion to include the three former Warsaw Pact nations.
+
+The three are <EVENT class="I_STATE" eid="e8">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e10">join</EVENT> in <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t4" type="DATE" value="1999-04">April</TIMEX3>, as part of <EVENT class="OCCURRENCE" eid="e11">marking</EVENT> NATO's 50th anniversary. With their membership secure, they also can <EVENT class="OCCURRENCE" eid="e12">participate</EVENT> in <EVENT class="I_ACTION" eid="e13">planning</EVENT> for the NATO <EVENT class="OCCURRENCE" eid="e14">summit</EVENT> in <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t5" type="DATE" value="1999-04">April</TIMEX3>.
+
+Scharping, <EVENT class="ASPECTUAL" eid="e15">ending</EVENT> a <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t6" type="DURATION" value="P2D">two-day</TIMEX3> <EVENT class="OCCURRENCE" eid="e16">visit</EVENT>, <EVENT class="REPORTING" eid="e17">said</EVENT> Poland was well <EVENT class="I_STATE" eid="e18">prepared</EVENT> to <EVENT class="OCCURRENCE" eid="e19">join</EVENT> the alliance. Germany has <EVENT class="STATE" eid="e21">been</EVENT> a strong advocate of Poland's access to NATO, <EVENT class="REPORTING" eid="e22">saying</EVENT> it will <EVENT class="OCCURRENCE" eid="e23">serve</EVENT> European security and stability.
+
+</TEXT>
+<LASTEXTRAINFO>APW19981205.0374</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei21" eventID="e19"/>
+<MAKEINSTANCE eiid="ei20" eventID="e18"/>
+<MAKEINSTANCE eiid="ei23" eventID="e21"/>
+<MAKEINSTANCE eiid="ei24" eventID="e22"/>
+<MAKEINSTANCE eiid="ei25" eventID="e23"/>
+<MAKEINSTANCE eiid="ei13" eventID="e11"/>
+<MAKEINSTANCE eiid="ei12" eventID="e10"/>
+<MAKEINSTANCE eiid="ei15" eventID="e13"/>
+<MAKEINSTANCE eiid="ei14" eventID="e12"/>
+<MAKEINSTANCE eiid="ei17" eventID="e15"/>
+<MAKEINSTANCE eiid="ei16" eventID="e14"/>
+<MAKEINSTANCE eiid="ei19" eventID="e17"/>
+<MAKEINSTANCE eiid="ei18" eventID="e16"/>
+<MAKEINSTANCE eiid="ei9" eventID="e8"/>
+<MAKEINSTANCE eiid="ei26" eventID="e24"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK lid="l1" relType="INCLUDES" relatedToEventInstance="ei9" timeID="t0"/>
+<TLINK lid="l2" relType="INCLUDES" relatedToEventInstance="ei21" timeID="t4"/>
+<TLINK eventInstanceID="ei5" lid="l3" relType="SIMULTANEOUS" relatedToEventInstance="ei7"/>
+<TLINK lid="l4" relType="INCLUDES" relatedToEventInstance="ei18" timeID="t6"/>
+<TLINK lid="l5" relType="AFTER" relatedToEventInstance="ei24" timeID="t0"/>
+<TLINK lid="l6" relType="BEFORE" relatedToEventInstance="ei15" timeID="t0"/>
+<TLINK eventInstanceID="ei4" lid="l7" relType="AFTER" relatedToEventInstance="ei2"/>
+<TLINK eventInstanceID="ei18" lid="l8" relType="CULMINATES" relatedToEventInstance="ei17"/>
+<TLINK lid="l9" relType="INCLUDES" relatedToEventInstance="ei16" timeID="t5"/>
+<TLINK lid="l10" relType="AFTER" relatedToEventInstance="ei2" timeID="t0"/>
+<TLINK lid="l11" relType="BEFORE" relatedToEventInstance="ei25" timeID="t0"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei4" timeID="t2"/>
+<TLINK lid="l13" relType="INCLUDES" relatedToEventInstance="ei1" timeID="t0"/>
+<TLINK lid="l14" relType="AFTER" relatedToEventInstance="ei17" timeID="t2"/>
+<TLINK lid="l15" relType="AFTER" relatedToEventInstance="ei23" timeID="t0"/>
+<TLINK lid="l16" relType="BEFORE" relatedToEventInstance="ei26" timeID="t0"/>
+<TLINK lid="l17" relType="INCLUDES" relatedToEventInstance="ei12" timeID="t4"/>
+<TLINK lid="l18" relType="INCLUDES" relatedToEventInstance="ei13" timeID="t4"/>
+<TLINK eventInstanceID="ei2" lid="l19" relType="BEFORE" relatedToEventInstance="ei1"/>
+<TLINK lid="l20" relType="AFTER" relatedToEventInstance="ei20" timeID="t0"/>
+<TLINK lid="l21" relType="INCLUDES" relatedToEventInstance="ei14" timeID="t0"/>
+<TLINK lid="l22" relType="INCLUDES" relatedToEventInstance="ei5" timeID="t3"/>
+<TLINK eventInstanceID="ei3" lid="l23" relType="INCLUDES" relatedToTime="t4"/>
+<TLINK lid="l24" relType="DURING" relatedToEventInstance="ei19" timeID="t6"/>
+<TLINK lid="l25" relType="BEFORE" relatedToEventInstance="ei13" timeID="t0"/>
+<TLINK lid="l26" relType="INCLUDES" relatedToEventInstance="ei19" timeID="t2"/>
+</TimeML>

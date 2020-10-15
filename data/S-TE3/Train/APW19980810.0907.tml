@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980810.0907</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-08-10">1998-08-10</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+NAIROBI, Kenya (AP) _
+
+The following are the latest figures as of <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1" type="DATE" value="1998-08-10">Monday</TIMEX3> for the dead and injured in the <EVENT class="OCCURRENCE" eid="e3">bombings</EVENT> of the U.S. Embassies in Nairobi, Kenya, and Dar es Salaam, Tanzania.
+
+The source for the Kenyan figures is the Department of Relief and Rehabilitation in the office of President Daniel arap Moi.
+
+The source for the Tanzanian figures is the U.S. Embassy in Dar es Salaam.
+
+KENYA:
+Total Dead: 192
+Americans: 12
+<EVENT class="OCCURRENCE" eid="e5">Injured</EVENT>: 4,877
+Hospitalized: 542
+<EVENT class="OCCURRENCE" eid="e4">Treated</EVENT> and <EVENT class="OCCURRENCE" eid="e2">discharged</EVENT>: 4,257
+
+TANZANIA:
+Total dead: 10
+Americans: 0
+<EVENT class="OCCURRENCE" eid="e6">Injured</EVENT>: 74
+Hospitalized: 6
+
+</TEXT>
+<LASTEXTRAINFO>APW19980810.0907</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK eventInstanceID="ei5" lid="l1" relType="IAFTER" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei4" lid="l2" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei4" lid="l3" relType="BEFORE" relatedToEventInstance="ei2"/>
+<TLINK eventInstanceID="ei5" lid="l4" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei3" lid="l5" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei2" lid="l6" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei5" lid="l7" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei3" lid="l8" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK eventInstanceID="ei6" lid="l9" relType="IAFTER" relatedToEventInstance="ei3"/>
+</TimeML>

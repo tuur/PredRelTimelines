@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19990216.0198</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1999-02-16T12:55">1999-02-16T12:55</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+WASHINGTON (AP) --
+
+Secretary of State Madeleine Albright has <EVENT class="OCCURRENCE" eid="e1">invited</EVENT> the foreign ministers of Poland, the Czech Republic and Hungary to a <EVENT class="OCCURRENCE" eid="e2">ceremony</EVENT> in Independence, Mo., on <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DATE" value="1999-03-12">March 12</TIMEX3> to <EVENT class="I_ACTION" eid="e3">mark</EVENT> the <EVENT class="OCCURRENCE" eid="e4">accession</EVENT> of the three countries into the NATO alliance.
+
+The <EVENT class="OCCURRENCE" eid="e5">ceremony</EVENT> will <EVENT class="OCCURRENCE" eid="e6">take</EVENT> place at the Truman Presidential Library.
+
+The venue was <EVENT class="I_ACTION" eid="e7">chosen</EVENT> to honor the <EVENT class="REPORTING" eid="e9">announcement</EVENT> by President Truman of the <EVENT class="OCCURRENCE" eid="e10">creation</EVENT> of NATO <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t4" type="DATE" value="1949-XX">50 years ago</TIMEX3>, the State Department <EVENT class="REPORTING" eid="e11">said</EVENT>.
+
+</TEXT>
+<LASTEXTRAINFO>APW19990216.0198</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<TLINK eventInstanceID="ei5" lid="l1" relType="IDENTITY" relatedToEventInstance="ei6"/>
+<TLINK lid="l2" relType="AFTER" relatedToEventInstance="ei4" timeID="t2"/>
+<TLINK lid="l3" relType="INCLUDES" relatedToEventInstance="ei3" timeID="t2"/>
+<TLINK lid="l4" relType="INCLUDES" relatedToEventInstance="ei11" timeID="t0"/>
+<TLINK lid="l5" relType="AFTER" relatedToEventInstance="ei7" timeID="t2"/>
+<TLINK lid="l6" relType="INCLUDES" relatedToEventInstance="ei5" timeID="t2"/>
+<TLINK lid="l7" relType="BEFORE" relatedToEventInstance="ei2" timeID="t0"/>
+<TLINK lid="l8" relType="INCLUDES" relatedToEventInstance="ei9" timeID="t4"/>
+<TLINK lid="l9" relType="INCLUDES" relatedToEventInstance="ei2" timeID="t2"/>
+<TLINK lid="l10" relType="INCLUDES" relatedToEventInstance="ei1" timeID="t0"/>
+<TLINK lid="l11" relType="INCLUDES" relatedToEventInstance="ei10" timeID="t4"/>
+</TimeML>

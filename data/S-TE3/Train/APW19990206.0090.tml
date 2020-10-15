@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19990206.0090</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1999-02-06T06:22">1999-02-06T06:22</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+ATLANTA (AP) --
+
+The creator of an anti-abortion Web site <EVENT class="OCCURRENCE" eid="e1">found</EVENT> to be a threat to abortion providers <EVENT class="REPORTING" eid="e2">says</EVENT> a <EVENT class="OCCURRENCE" eid="e3">decision</EVENT> to <EVENT class="OCCURRENCE" eid="e4">shut</EVENT> the site down is just a ``temporary <EVENT class="OCCURRENCE" eid="e5">setback</EVENT>.''
+
+Neal Horsley <EVENT class="REPORTING" eid="e6">said</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2" type="DATE" value="1999-02-05">Friday</TIMEX3> that he would <EVENT class="OCCURRENCE" eid="e7">seek</EVENT> a new Internet service for his ``Nuremburg Files'' site, which <EVENT class="STATE" eid="e8">was</EVENT> the focus of a federal court <EVENT class="OCCURRENCE" eid="e9">trial</EVENT> that <EVENT class="I_ACTION" eid="e10">led</EVENT> to a $107 million <EVENT class="OCCURRENCE" eid="e11">verdict</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t3" type="DATE" value="1999-02">this week</TIMEX3> in favor of abortion providers.
+
+Horsley <EVENT class="STATE" eid="e12">was</EVENT> not a defendant in the <EVENT class="OCCURRENCE" eid="e13">suit</EVENT>, in which the Portland, Ore., jury <EVENT class="I_ACTION" eid="e14">ruled</EVENT> that such sites <EVENT class="STATE" eid="e15">constitute</EVENT> threats to abortion providers.
+
+MindSpring, which <EVENT class="OCCURRENCE" eid="e16">provided</EVENT> the Internet space for the site, <EVENT class="OCCURRENCE" eid="e17">closed</EVENT> it <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t4" type="DATE" value="1999-02-04">Thursday</TIMEX3> night for <EVENT class="OCCURRENCE" eid="e18">violating</EVENT> ``our appropriate use policies,'' spokesman Serge Clermont <EVENT class="REPORTING" eid="e19">said</EVENT>.
+
+The Web site <EVENT class="OCCURRENCE" eid="e20">included</EVENT> the names and addresses of abortion doctors and <EVENT class="I_ACTION" eid="e21">featured</EVENT> <EVENT class="OCCURRENCE" eid="e22">photos</EVENT> of mangled fetuses and <EVENT class="OCCURRENCE" eid="e23">drawings</EVENT> of dripping blood.
+
+Three times, doctors whose names <EVENT class="OCCURRENCE" eid="e24">appeared</EVENT> on the list were <EVENT class="OCCURRENCE" eid="e25">killed</EVENT>, most recently <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t5" type="DATE" value="1998-10">last October</TIMEX3> when Dr. Barnett Slepian was <EVENT class="OCCURRENCE" eid="e26">gunned</EVENT> down by sniper fire in his home outside Buffalo, N.Y. His name on the Web site was <EVENT class="OCCURRENCE" eid="e27">crossed</EVENT> out <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t6" type="DATE" value="1998-10-XX">that same day.</TIMEX3>
+
+Pathway Communications, which has <EVENT class="OCCURRENCE" eid="e28">maintained</EVENT> the site, <EVENT class="REPORTING" eid="e29">said</EVENT> in a statement that ``The Nuremberg Files'' was <EVENT class="OCCURRENCE" eid="e30">knocked</EVENT> off-line without notice. The company <EVENT class="REPORTING" eid="e31">said</EVENT> it was <EVENT class="PERCEPTION" eid="e32">informed</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t7" type="DATE" value="1999-02-05">Friday</TIMEX3> that it <EVENT class="OCCURRENCE" eid="e33">violated</EVENT> MindSpring's policy on ``threatening and harassing language.''
+
+Horsley <EVENT class="REPORTING" eid="e34">called</EVENT> the <EVENT class="OCCURRENCE" eid="e36">move</EVENT> a ``temporary <EVENT class="OCCURRENCE" eid="e35">setback</EVENT>.''
+
+``We are presently <EVENT class="I_ACTION" eid="e37">searching</EVENT> for a bolder and more principled (Internet service provider) to <EVENT class="OCCURRENCE" eid="e38">host</EVENT> the Nuremburg Files,'' the statement <EVENT class="REPORTING" eid="e39">said</EVENT>.
+
+</TEXT>
+<LASTEXTRAINFO>APW19990206.0090</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei39" eventID="e39"/>
+<MAKEINSTANCE eiid="ei38" eventID="e38"/>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei18" eventID="e18"/>
+<MAKEINSTANCE eiid="ei35" eventID="e35"/>
+<MAKEINSTANCE eiid="ei34" eventID="e34"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei32" eventID="e32"/>
+<MAKEINSTANCE eiid="ei31" eventID="e31"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei15" eventID="e15"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei37" eventID="e37"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei25" eventID="e25"/>
+<MAKEINSTANCE eiid="ei26" eventID="e26"/>
+<MAKEINSTANCE eiid="ei27" eventID="e27"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei22" eventID="e22"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei28" eventID="e28"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<TLINK lid="l1" relType="IS_INCLUDED" relatedToEventInstance="ei35" timeID="t0"/>
+<TLINK lid="l2" relType="IS_INCLUDED" relatedToEventInstance="ei2" timeID="t0"/>
+<TLINK lid="l3" relType="INCLUDES" relatedToEventInstance="ei26" timeID="t5"/>
+<TLINK lid="l4" relType="BEFORE" relatedToEventInstance="ei7" timeID="t2"/>
+<TLINK lid="l5" relType="IS_INCLUDED" relatedToEventInstance="ei5" timeID="t0"/>
+<TLINK lid="l6" relType="INCLUDES" relatedToEventInstance="ei17" timeID="t4"/>
+<TLINK lid="l7" relType="AFTER" relatedToEventInstance="ei1" timeID="t0"/>
+<TLINK lid="l8" relType="AFTER" relatedToEventInstance="ei30" timeID="t0"/>
+<TLINK lid="l9" relType="AFTER" relatedToEventInstance="ei16" timeID="t4"/>
+<TLINK lid="l10" relType="IS_INCLUDED" relatedToEventInstance="ei12" timeID="t3"/>
+<TLINK lid="l11" relType="AFTER" relatedToEventInstance="ei4" timeID="t0"/>
+<TLINK lid="l12" relType="IS_INCLUDED" relatedToEventInstance="ei18" timeID="t4"/>
+<TLINK lid="l13" relType="INCLUDES" relatedToEventInstance="ei11" timeID="t3"/>
+<TLINK lid="l14" relType="AFTER" relatedToEventInstance="ei25" timeID="t0"/>
+<TLINK lid="l15" relType="IS_INCLUDED" relatedToEventInstance="ei8" timeID="t3"/>
+<TLINK lid="l16" relType="BEFORE" relatedToEventInstance="ei38" timeID="t0"/>
+<TLINK lid="l17" relType="INCLUDES" relatedToEventInstance="ei19" timeID="t0"/>
+<TLINK lid="l18" relType="AFTER" relatedToEventInstance="ei3" timeID="t0"/>
+<TLINK lid="l19" relType="IS_INCLUDED" relatedToEventInstance="ei37" timeID="t0"/>
+<TLINK lid="l20" relType="AFTER" relatedToEventInstance="ei24" timeID="t0"/>
+<TLINK lid="l21" relType="INCLUDES" relatedToEventInstance="ei34" timeID="t0"/>
+<TLINK lid="l22" relType="INCLUDES" relatedToEventInstance="ei14" timeID="t3"/>
+<TLINK lid="l23" relType="AFTER" relatedToEventInstance="ei28" timeID="t0"/>
+<TLINK lid="l24" relType="IS_INCLUDED" relatedToEventInstance="ei33" timeID="t7"/>
+<TLINK lid="l25" relType="IS_INCLUDED" relatedToEventInstance="ei13" timeID="t3"/>
+<TLINK lid="l26" relType="IS_INCLUDED" relatedToEventInstance="ei20" timeID="t0"/>
+<TLINK lid="l27" relType="INCLUDES" relatedToEventInstance="ei6" timeID="t2"/>
+<TLINK lid="l28" relType="INCLUDES" relatedToEventInstance="ei31" timeID="t0"/>
+<TLINK lid="l29" relType="INCLUDES" relatedToEventInstance="ei27" timeID="t6"/>
+<TLINK lid="l30" relType="INCLUDES" relatedToEventInstance="ei29" timeID="t0"/>
+<TLINK lid="l31" relType="INCLUDES" relatedToEventInstance="ei32" timeID="t7"/>
+<TLINK lid="l32" relType="IS_INCLUDED" relatedToEventInstance="ei10" timeID="t3"/>
+<TLINK lid="l33" relType="IS_INCLUDED" relatedToEventInstance="ei21" timeID="t0"/>
+<TLINK lid="l34" relType="IS_INCLUDED" relatedToEventInstance="ei9" timeID="t3"/>
+<TLINK lid="l35" relType="AFTER" relatedToEventInstance="ei36" timeID="t0"/>
+<TLINK lid="l36" relType="INCLUDES" relatedToEventInstance="ei39" timeID="t0"/>
+</TimeML>

@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980930.0425</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-09-30">1998-09-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+NAIROBI, Kenya (AP) _
+
+U.S. Surgeon General David Satcher on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1" type="DATE" value="1998-09-30">Wednesday</TIMEX3> <EVENT class="OCCURRENCE" eid="e1">led</EVENT> a team of medical specialists to Africa to <EVENT class="OCCURRENCE" eid="e2">help</EVENT> victims of terrorist <EVENT class="OCCURRENCE" eid="e33">attacks</EVENT> on the U.S. embassies in Kenya and Tanzania.
+
+``We <EVENT class="I_STATE" eid="e3">want</EVENT> to <EVENT class="OCCURRENCE" eid="e4">build</EVENT> on the long-term partnership that has existed between our countries to <EVENT class="OCCURRENCE" eid="e6">help</EVENT> innocent Kenyans who <EVENT class="OCCURRENCE" eid="e7">suffered</EVENT> in the <EVENT class="OCCURRENCE" eid="e34">bombing</EVENT>,'' Satcher <EVENT class="REPORTING" eid="e8">said</EVENT> at a news <EVENT class="OCCURRENCE" eid="e35">conference</EVENT>.
+
+``At the same time, we <EVENT class="I_STATE" eid="e9">want</EVENT> to <EVENT class="OCCURRENCE" eid="e10">help</EVENT> Kenya prepare to <EVENT class="OCCURRENCE" eid="e12">meet</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t7" type="DATE" value="FUTURE_REF">future</TIMEX3> medical <EVENT class="OCCURRENCE" eid="e36">disasters</EVENT>, regardless of their cause.''
+
+The <EVENT class="OCCURRENCE" eid="e38">bombings</EVENT> on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t3" type="DATE" value="1998-08-07">Aug. 7</TIMEX3> <EVENT class="OCCURRENCE" eid="e13">killed</EVENT> 259 people, including 12 Americans, and <EVENT class="OCCURRENCE" eid="e55">injured</EVENT> more than 5,500.
+
+The U.S. team includes plastic surgeons with experience in physical reconstruction, and a psychiatrist who <EVENT class="OCCURRENCE" eid="e16">worked</EVENT> in Oklahoma City, where 168 people were <EVENT class="OCCURRENCE" eid="e17">killed</EVENT> in a <EVENT class="OCCURRENCE" eid="e41">bombing</EVENT> in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t4" type="DATE" value="1995">1995</TIMEX3>.
+
+The team planned to <EVENT class="OCCURRENCE" eid="e19">leave</EVENT> Nairobi on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t5" type="DATE" value="1998-10-01">Thursday</TIMEX3> for Dar es Salaam.
+
+Besides <EVENT class="OCCURRENCE" eid="e20">meeting</EVENT> the immediate physical and emotional needs of <EVENT class="OCCURRENCE" eid="e43">bombing</EVENT> victims, the United States will <EVENT class="I_STATE" eid="e21">consider</EVENT> <EVENT class="I_ACTION" eid="e22">helping</EVENT> <EVENT class="OCCURRENCE" eid="e23">set</EVENT> up a disaster response center in Kenya, Satcher <EVENT class="REPORTING" eid="e24">said</EVENT>.
+
+In addition to providing assistance using resources of the U.S. Department of Health and Human Services, Satcher <EVENT class="REPORTING" eid="e27">said</EVENT> he will <EVENT class="REPORTING" eid="e28">report</EVENT> to Congress on additional needs.
+
+U.S. President Bill Clinton has <EVENT class="OCCURRENCE" eid="e29">requested</EVENT> dlrs 50 million in emergency assistance funding from Congress for Tanzania and Kenya.
+
+The U.S. government already has <EVENT class="OCCURRENCE" eid="e30">contributed</EVENT> dlrs 3.2 million in assistance to the two countries.
+
+On <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t6" type="DATE" value="1998-09-25">Friday</TIMEX3>, the Kenyan government planned to <EVENT class="OCCURRENCE" eid="e32">pay</EVENT> the first 32 death claims of 100,000 Kenyan shillings (dlrs 1,667) each.
+
+</TEXT>
+<LASTEXTRAINFO>APW19980930.0425</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei38" eventID="e38"/>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei35" eventID="e35"/>
+<MAKEINSTANCE eiid="ei34" eventID="e34"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei32" eventID="e32"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei55" eventID="e55"/>
+<MAKEINSTANCE eiid="ei27" eventID="e27"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei43" eventID="e43"/>
+<MAKEINSTANCE eiid="ei41" eventID="e41"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei22" eventID="e22"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei28" eventID="e28"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<TLINK eventInstanceID="ei13" lid="l1" relType="IAFTER" relatedToEventInstance="ei38"/>
+<TLINK eventInstanceID="ei32" lid="l2" relType="IS_INCLUDED" relatedToTime="t6"/>
+<TLINK eventInstanceID="ei8" lid="l3" relType="INCLUDES" relatedToEventInstance="ei3"/>
+<TLINK eventInstanceID="ei38" lid="l4" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei27" lid="l5" relType="BEFORE" relatedToEventInstance="ei28"/>
+<TLINK eventInstanceID="ei33" lid="l6" relType="BEFORE" relatedToEventInstance="ei1"/>
+<TLINK eventInstanceID="ei29" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l8" relType="BEFORE" relatedToTime="t7" timeID="t5"/>
+<TLINK eventInstanceID="ei41" lid="l9" relType="BEFORE" relatedToEventInstance="ei16"/>
+<TLINK eventInstanceID="ei12" lid="l10" relType="AFTER" relatedToEventInstance="ei36"/>
+<TLINK eventInstanceID="ei21" lid="l11" relType="AFTER" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei16" lid="l12" relType="IS_INCLUDED" relatedToTime="t4"/>
+<TLINK eventInstanceID="ei12" lid="l13" relType="IS_INCLUDED" relatedToTime="t7"/>
+<TLINK eventInstanceID="ei7" lid="l14" relType="BEFORE" relatedToEventInstance="ei6"/>
+<TLINK eventInstanceID="ei30" lid="l15" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei41" lid="l16" relType="IBEFORE" relatedToEventInstance="ei17"/>
+<TLINK eventInstanceID="ei29" lid="l17" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei1" lid="l18" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei19" lid="l19" relType="IS_INCLUDED" relatedToTime="t5"/>
+<TLINK lid="l20" relType="INCLUDES" relatedToEventInstance="ei35" timeID="t1"/>
+<TLINK eventInstanceID="ei12" lid="l21" relType="AFTER" relatedToEventInstance="ei9"/>
+<TLINK eventInstanceID="ei43" lid="l22" relType="IDENTITY" relatedToEventInstance="ei34"/>
+<TLINK eventInstanceID="ei21" lid="l23" relType="BEFORE" relatedToEventInstance="ei23"/>
+<TLINK eventInstanceID="ei34" lid="l24" relType="BEGINS" relatedToEventInstance="ei7"/>
+<TLINK eventInstanceID="ei8" lid="l25" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei24" lid="l26" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei20" lid="l27" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei20" lid="l28" relType="BEFORE" relatedToEventInstance="ei21"/>
+<TLINK eventInstanceID="ei41" lid="l29" relType="IS_INCLUDED" relatedToTime="t4"/>
+<TLINK eventInstanceID="ei35" lid="l30" relType="INCLUDES" relatedToEventInstance="ei8"/>
+<TLINK lid="l31" relType="BEFORE" relatedToTime="t5" timeID="t1"/>
+<TLINK eventInstanceID="ei30" lid="l32" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l33" relType="BEFORE" relatedToTime="t3" timeID="t4"/>
+<TLINK eventInstanceID="ei55" lid="l34" relType="IAFTER" relatedToEventInstance="ei38"/>
+<TLINK eventInstanceID="ei36" lid="l35" relType="IS_INCLUDED" relatedToTime="t7"/>
+<TLINK eventInstanceID="ei8" lid="l36" relType="BEFORE" relatedToEventInstance="ei6"/>
+<TLINK lid="l37" relType="BEFORE" relatedToTime="t1" timeID="t6"/>
+<TLINK eventInstanceID="ei34" lid="l38" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei27" lid="l39" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei20" lid="l40" relType="AFTER" relatedToEventInstance="ei43"/>
+<TLINK eventInstanceID="ei13" lid="l41" relType="SIMULTANEOUS" relatedToEventInstance="ei55"/>
+<TLINK eventInstanceID="ei1" lid="l42" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei8" lid="l43" relType="INCLUDES" relatedToEventInstance="ei9"/>
+<TLINK lid="l44" relType="BEFORE" relatedToTime="t6" timeID="t3"/>
+</TimeML>

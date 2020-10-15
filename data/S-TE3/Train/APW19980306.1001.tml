@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980306.1001</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-03-06T13:19:00">1998-03-06T13:19:00</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+BAGHDAD, Iraq (AP)_ An American leader of a U.N. weapons inspection team <EVENT class="ASPECTUAL" eid="e1">resumed</EVENT> <EVENT class="OCCURRENCE" eid="e2">work</EVENT> in Iraq <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t138" type="DATE" value="1998-03-06">Friday</TIMEX3>, <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t139" type="DURATION" value="P2M">nearly two months</TIMEX3> after his team was effectively <EVENT class="OCCURRENCE" eid="e4">blocked</EVENT>. Scott Ritter <EVENT class="OCCURRENCE" eid="e5">led</EVENT> his team on a <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t140" type="DURATION" value="PT10H">10-hour</TIMEX3> <EVENT class="OCCURRENCE" eid="e6">tour</EVENT> of three suspected weapons sites classified as ``sensitive'' by the Iraqi authorities, U.N. spokesman Alan Dacey <EVENT class="REPORTING" eid="e9">said</EVENT>. ``All sites were <EVENT class="OCCURRENCE" eid="e10">inspected</EVENT> to the satisfaction of the inspection team and with full cooperation of Iraqi authorities,'' Dacey <EVENT class="REPORTING" eid="e12">said</EVENT>. At least one of the sensitive sites was a barracks of the elite Republican Guard, a well-placed source told The Associated Press. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1191" type="DATE" value="PAST_REF">Previously</TIMEX3> the Iraqis have <EVENT class="I_ACTION" eid="e14">resisted</EVENT> <EVENT class="I_ACTION" eid="e15">attempts</EVENT> to <EVENT class="OCCURRENCE" eid="e17">inspect</EVENT> such quarters. The U.N. Security Council has <EVENT class="I_ACTION" eid="e18">charged</EVENT> the inspectors with <EVENT class="I_ACTION" eid="e19">verifying</EVENT> that Iraq has <EVENT class="OCCURRENCE" eid="e20">destroyed</EVENT> its long-range missiles and weapons of mass destruction. It was the first time that Ritter, who <EVENT class="OCCURRENCE" eid="e24">arrived</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t141" type="DATE" value="1998-03-05">Thursday</TIMEX3> with some 50 inspectors for a <EVENT class="OCCURRENCE" eid="e25">tour</EVENT> likely to <EVENT class="OCCURRENCE" eid="e27">last</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t143" type="DURATION" value="P1W">over a week</TIMEX3>, had been <EVENT class="I_STATE" eid="e28">allowed</EVENT> to <EVENT class="OCCURRENCE" eid="e30">carry</EVENT> out an <EVENT class="OCCURRENCE" eid="e31">inspection</EVENT> since <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1192" type="DATE" value="1998-01-13">Jan. 13</TIMEX3>. Then the Baghdad government <EVENT class="ASPECTUAL" eid="e32">stopped</EVENT> <EVENT class="OCCURRENCE" eid="e33">providing</EVENT> Ritter's team with escorts, <EVENT class="I_ACTION" eid="e35">making</EVENT> it impossible for him to <EVENT class="OCCURRENCE" eid="e37">enter</EVENT> any site. Iraq <EVENT class="I_ACTION" eid="e38">alleged</EVENT> Ritter was an American spy whose team had a disproportionately high number of Americans and Britons. The official Iraqi News Agency, which gives the <TIMEX3 tid="t1000" type="SET" value="XXXX-XX-XX">daily</TIMEX3> tally of inspections, did not <EVENT class="OCCURRENCE" eid="e42">mention</EVENT> Ritter by name, but <EVENT class="REPORTING" eid="e45">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t144" type="DATE" value="1998-03-06">Friday</TIMEX3> that team no. 225 _ which Ritter heads _ <EVENT class="OCCURRENCE" eid="e48">made</EVENT> surprise <EVENT class="OCCURRENCE" eid="e49">visits</EVENT> to a number of sites and was <EVENT class="OCCURRENCE" eid="e50">assisted</EVENT> by aerial surveillance. Five other U.N. inspection teams <EVENT class="OCCURRENCE" eid="e52">visited</EVENT> a total of nine other sites, the agency <EVENT class="REPORTING" eid="e53">reported</EVENT>. An Iraqi official, <EVENT class="OCCURRENCE" eid="e54">speaking</EVENT> on customary condition of anonymity, <EVENT class="REPORTING" eid="e56">said</EVENT> Ritter would not <EVENT class="I_ACTION" eid="e57">try</EVENT> to <EVENT class="OCCURRENCE" eid="e61">visit</EVENT> any of the eight presidential sites that Baghdad had <EVENT class="OCCURRENCE" eid="e62">placed</EVENT> off-limits to U.N. weapons inspectors. The official <EVENT class="REPORTING" eid="e63">said</EVENT> these sites could only be <EVENT class="OCCURRENCE" eid="e64">visited</EVENT> by a special team of U.N. monitors and diplomats as <EVENT class="OCCURRENCE" eid="e67">laid</EVENT> down by the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1193" type="DATE" value="1998-02-23">Feb. 23</TIMEX3> accord <EVENT class="OCCURRENCE" eid="e68">signed</EVENT> by U.N. Secretary-General Kofi Annan and Iraqi Deputy Prime Minister Tariq Aziz. Ritter's <EVENT class="OCCURRENCE" eid="e69">return</EVENT> is <EVENT class="I_STATE" eid="e70">seen</EVENT> as something of a <EVENT class="OCCURRENCE" eid="e71">test</EVENT> of that agreement, under which Iraq <EVENT class="I_ACTION" eid="e73">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e75">give</EVENT> inspectors full access to eight of Saddam Hussein's presidential palaces. The United States had <EVENT class="OCCURRENCE" eid="e76">moved</EVENT> additional troops and a naval armada into the Gulf and <EVENT class="REPORTING" eid="e77">said</EVENT> it would <EVENT class="OCCURRENCE" eid="e78">strike</EVENT> Iraq unless it gave the U.N. arms inspectors unfettered access to all potential weapons sites, including Saddam's palaces. Iraq had <EVENT class="I_ACTION" eid="e80">argued</EVENT> the presidential sites should be off limits as symbols of sovereignty. A Pentagon spokesman <EVENT class="REPORTING" eid="e83">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t146" type="DATE" value="1998-03-05">Thursday</TIMEX3> that the 38,000 U.S. troops in the Gulf will <EVENT class="STATE" eid="e84">remain</EVENT> until Iraq <EVENT class="OCCURRENCE" eid="e157">complies</EVENT> with the U.N. Security Council agreement over weapons inspections. ``We are going to <EVENT class="STATE" eid="e88">maintain</EVENT> our forces in the region for the foreseeable future,'' <EVENT class="REPORTING" eid="e89">said</EVENT> spokesman Kenneth Bacon. The U.N.-Iraq accord was <EVENT class="OCCURRENCE" eid="e90">worked</EVENT> out by U.N. Secretary-General Kofi Annan, who <EVENT class="OCCURRENCE" eid="e91">appointed</EVENT> a retired Indian diplomat on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1194" type="DATE" value="1998-03-05">Thursday</TIMEX3> as his special representative to Iraq. Prakash Shah, 58, a former Indian ambassador to the United Nations, is part of an <EVENT class="I_ACTION" eid="e159">effort</EVENT> by Annan to <EVENT class="OCCURRENCE" eid="e94">expand</EVENT> contacts with the Iraqi leadership. Palace <EVENT class="OCCURRENCE" eid="e97">inspections</EVENT> are not <EVENT class="I_STATE" eid="e98">expected</EVENT> to <EVENT class="ASPECTUAL" eid="e101">start</EVENT> until the new agreement's procedures are in place. U.N. officials in New York on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t148" type="DATE" value="1998-03-06">Friday</TIMEX3> <EVENT class="ASPECTUAL" eid="e106">finished</EVENT> <EVENT class="OCCURRENCE" eid="e107">drafting</EVENT> the rules, in consultation with Iraqi diplomats. The procedures are due to <EVENT class="OCCURRENCE" eid="e112">go</EVENT> before the Security Council <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t150" type="DATE" value="1998-W11">next week</TIMEX3>. The Security Council has <EVENT class="REPORTING" eid="e113">said</EVENT> it will not <EVENT class="OCCURRENCE" eid="e114">lift</EVENT> the sweeping sanctions <EVENT class="OCCURRENCE" eid="e117">imposed</EVENT> on Iraq after its <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t151" type="DATE" value="1990">1990</TIMEX3> <EVENT class="OCCURRENCE" eid="e118">invasion</EVENT> of Kuwait until the U.N. inspectors <EVENT class="OCCURRENCE" eid="e121">certify</EVENT> that Baghdad has <EVENT class="OCCURRENCE" eid="e122">eliminated</EVENT> its weapons of mass destruction.
+</TEXT>
+<LASTEXTRAINFO>APW19980306.1001</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei1264" eventID="e52"/>
+<MAKEINSTANCE eiid="ei1246" eventID="e19"/>
+<MAKEINSTANCE eiid="ei1275" eventID="e69"/>
+<MAKEINSTANCE eiid="ei1279" eventID="e75"/>
+<MAKEINSTANCE eiid="ei1257" eventID="e37"/>
+<MAKEINSTANCE eiid="ei1245" eventID="e18"/>
+<MAKEINSTANCE eiid="ei1256" eventID="e35"/>
+<MAKEINSTANCE eiid="ei1255" eventID="e33"/>
+<MAKEINSTANCE eiid="ei1254" eventID="e32"/>
+<MAKEINSTANCE eiid="ei1253" eventID="e31"/>
+<MAKEINSTANCE eiid="ei1252" eventID="e30"/>
+<MAKEINSTANCE eiid="ei1239" eventID="e10"/>
+<MAKEINSTANCE eiid="ei1241" eventID="e12"/>
+<MAKEINSTANCE eiid="ei1243" eventID="e15"/>
+<MAKEINSTANCE eiid="ei1242" eventID="e14"/>
+<MAKEINSTANCE eiid="ei1244" eventID="e17"/>
+<MAKEINSTANCE eiid="ei1258" eventID="e38"/>
+<MAKEINSTANCE eiid="ei1291" eventID="e91"/>
+<MAKEINSTANCE eiid="ei1290" eventID="e90"/>
+<MAKEINSTANCE eiid="ei1282" eventID="e78"/>
+<MAKEINSTANCE eiid="ei1293" eventID="e94"/>
+<MAKEINSTANCE eiid="ei1294" eventID="e97"/>
+<MAKEINSTANCE eiid="ei1278" eventID="e73"/>
+<MAKEINSTANCE eiid="ei1295" eventID="e98"/>
+<MAKEINSTANCE eiid="ei1268" eventID="e57"/>
+<MAKEINSTANCE eiid="ei1276" eventID="e70"/>
+<MAKEINSTANCE eiid="ei1281" eventID="e77"/>
+<MAKEINSTANCE eiid="ei1280" eventID="e76"/>
+<MAKEINSTANCE eiid="ei1265" eventID="e53"/>
+<MAKEINSTANCE eiid="ei1292" eventID="e159"/>
+<MAKEINSTANCE eiid="ei1248" eventID="e24"/>
+<MAKEINSTANCE eiid="ei1283" eventID="e80"/>
+<MAKEINSTANCE eiid="ei1304" eventID="e117"/>
+<MAKEINSTANCE eiid="ei1296" eventID="e101"/>
+<MAKEINSTANCE eiid="ei1298" eventID="e106"/>
+<MAKEINSTANCE eiid="ei1306" eventID="e121"/>
+<MAKEINSTANCE eiid="ei1307" eventID="e122"/>
+<MAKEINSTANCE eiid="ei1299" eventID="e107"/>
+<MAKEINSTANCE eiid="ei1250" eventID="e27"/>
+<MAKEINSTANCE eiid="ei1238" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1266" eventID="e54"/>
+<MAKEINSTANCE eiid="ei1236" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1235" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1289" eventID="e89"/>
+<MAKEINSTANCE eiid="ei1237" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1233" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1277" eventID="e71"/>
+<MAKEINSTANCE eiid="ei1234" eventID="e2"/>
+<MAKEINSTANCE eiid="ei1259" eventID="e42"/>
+<MAKEINSTANCE eiid="ei1249" eventID="e25"/>
+<MAKEINSTANCE eiid="ei1267" eventID="e56"/>
+<MAKEINSTANCE eiid="ei1247" eventID="e20"/>
+<MAKEINSTANCE eiid="ei1260" eventID="e45"/>
+<MAKEINSTANCE eiid="ei1261" eventID="e48"/>
+<MAKEINSTANCE eiid="ei1262" eventID="e49"/>
+<MAKEINSTANCE eiid="ei1251" eventID="e28"/>
+<MAKEINSTANCE eiid="ei1288" eventID="e88"/>
+<MAKEINSTANCE eiid="ei1263" eventID="e50"/>
+<MAKEINSTANCE eiid="ei1274" eventID="e68"/>
+<MAKEINSTANCE eiid="ei1303" eventID="e114"/>
+<MAKEINSTANCE eiid="ei1286" eventID="e84"/>
+<MAKEINSTANCE eiid="ei1285" eventID="e83"/>
+<MAKEINSTANCE eiid="ei1302" eventID="e113"/>
+<MAKEINSTANCE eiid="ei1301" eventID="e112"/>
+<MAKEINSTANCE eiid="ei1269" eventID="e61"/>
+<MAKEINSTANCE eiid="ei1270" eventID="e62"/>
+<MAKEINSTANCE eiid="ei1271" eventID="e63"/>
+<MAKEINSTANCE eiid="ei1272" eventID="e64"/>
+<MAKEINSTANCE eiid="ei1305" eventID="e118"/>
+<MAKEINSTANCE eiid="ei1287" eventID="e157"/>
+<MAKEINSTANCE eiid="ei1273" eventID="e67"/>
+<TLINK eventInstanceID="ei1290" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1280" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1250" lid="l3" relType="SIMULTANEOUS" relatedToTime="t143"/>
+<TLINK eventInstanceID="ei1273" lid="l4" relType="IS_INCLUDED" relatedToTime="t1193"/>
+<TLINK eventInstanceID="ei1276" lid="l5" relType="AFTER" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1234" lid="l6" relType="IS_INCLUDED" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1275" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1245" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1298" lid="l9" relType="IS_INCLUDED" relatedToTime="t148"/>
+<TLINK eventInstanceID="ei1259" lid="l10" relType="IDENTITY" relatedToEventInstance="ei1260"/>
+<TLINK eventInstanceID="ei1252" lid="l11" relType="IDENTITY" relatedToEventInstance="ei1253"/>
+<TLINK eventInstanceID="ei1235" lid="l12" relType="BEGINS" relatedToTime="t139"/>
+<TLINK eventInstanceID="ei1237" lid="l13" relType="SIMULTANEOUS" relatedToTime="t140"/>
+<TLINK eventInstanceID="ei1271" lid="l14" relType="BEFORE" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1298" lid="l15" relType="CULMINATES" relatedToEventInstance="ei1299"/>
+<TLINK eventInstanceID="ei1270" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1260" lid="l17" relType="IS_INCLUDED" relatedToTime="t144"/>
+<TLINK eventInstanceID="ei1233" lid="l18" relType="REINITIATES" relatedToEventInstance="ei1234"/>
+<TLINK eventInstanceID="ei1303" lid="l19" relType="AFTER" relatedToEventInstance="ei1306"/>
+<TLINK eventInstanceID="ei1251" lid="l20" relType="IS_INCLUDED" relatedToTime="t143"/>
+<TLINK eventInstanceID="ei1258" lid="l21" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1266" lid="l22" relType="INCLUDES" relatedToEventInstance="ei1267"/>
+<TLINK eventInstanceID="ei1296" lid="l23" relType="INITIATES" relatedToEventInstance="ei1294"/>
+<TLINK eventInstanceID="ei1255" lid="l24" relType="BEFORE" relatedToEventInstance="ei1254"/>
+<TLINK eventInstanceID="ei1261" lid="l25" relType="IDENTITY" relatedToEventInstance="ei1262"/>
+<TLINK eventInstanceID="ei1242" lid="l26" relType="IS_INCLUDED" relatedToTime="t1191"/>
+<TLINK eventInstanceID="ei1285" lid="l27" relType="IS_INCLUDED" relatedToTime="t146"/>
+<TLINK eventInstanceID="ei1236" lid="l28" relType="SIMULTANEOUS" relatedToEventInstance="ei1237"/>
+<TLINK eventInstanceID="ei1305" lid="l29" relType="IS_INCLUDED" relatedToTime="t151"/>
+<TLINK eventInstanceID="ei1254" lid="l30" relType="TERMINATES" relatedToEventInstance="ei1255"/>
+<TLINK eventInstanceID="ei1233" lid="l31" relType="IS_INCLUDED" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1304" lid="l32" relType="AFTER" relatedToEventInstance="ei1305"/>
+<TLINK eventInstanceID="ei1254" lid="l33" relType="AFTER" relatedToTime="t1192"/>
+<TLINK eventInstanceID="ei1291" lid="l34" relType="IS_INCLUDED" relatedToTime="t1194"/>
+<TLINK eventInstanceID="ei1295" lid="l35" relType="IS_INCLUDED" relatedToEventInstance="ei1294"/>
+<TLINK eventInstanceID="ei1233" lid="l36" relType="AFTER" relatedToEventInstance="ei1235"/>
+<TLINK eventInstanceID="ei1301" lid="l37" relType="IS_INCLUDED" relatedToTime="t150"/>
+<TLINK eventInstanceID="ei1283" lid="l38" relType="BEFORE" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1256" lid="l39" relType="AFTER" relatedToEventInstance="ei1254"/>
+<TLINK eventInstanceID="ei1274" lid="l40" relType="IS_INCLUDED" relatedToTime="t1193"/>
+<TLINK eventInstanceID="ei1248" lid="l41" relType="IS_INCLUDED" relatedToTime="t141"/>
+<TLINK eventInstanceID="ei1278" lid="l42" relType="IS_INCLUDED" relatedToEventInstance="ei1277"/>
+<TLINK eventInstanceID="ei1249" lid="l43" relType="IDENTITY" relatedToEventInstance="ei1250"/>
+<TLINK eventInstanceID="ei1265" lid="l44" relType="SIMULTANEOUS" relatedToEventInstance="ei1260"/>
+<TLINK eventInstanceID="ei1253" lid="l45" relType="AFTER" relatedToTime="t1192"/>
+<TLINK eventInstanceID="ei1302" lid="l46" relType="BEFORE" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1281" lid="l47" relType="BEFORE" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei1238" lid="l48" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1289" lid="l49" relType="IS_INCLUDED" relatedToTime="t146"/>
+<TLINK eventInstanceID="ei1292" lid="l50" relType="INCLUDES" relatedToEventInstance="ei1293"/>
+<TLINK eventInstanceID="ei1233" lid="l51" relType="ENDS" relatedToTime="t139"/>
+<TLINK eventInstanceID="ei1242" lid="l52" relType="IS_INCLUDED" relatedToEventInstance="ei1243"/>
+<TLINK eventInstanceID="ei1286" lid="l53" relType="ENDED_BY" relatedToEventInstance="ei1287"/>
+</TimeML>

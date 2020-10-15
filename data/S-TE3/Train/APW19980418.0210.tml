@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980418.0210</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-04-18T06:07:00">1998-04-18T06:07:00</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+BUDAPEST, Hungary (AP)_ Tired of being sidelined, Hungarian astronaut Bertalan Farkas is <EVENT class="OCCURRENCE" eid="e2">leaving</EVENT> for the United States to <EVENT class="OCCURRENCE" eid="e3">start</EVENT> a new career, he <EVENT class="REPORTING" eid="e4">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t31" type="DATE" value="1998-04-18">Saturday</TIMEX3>. ``Being 48 is too early to be retired,'' a fit-looking Farkas <EVENT class="REPORTING" eid="e7">said</EVENT> on state TV's morning talk show. With American astronaut Jon McBride, Farkas <EVENT class="OCCURRENCE" eid="e8">set</EVENT> up an American-Hungarian joint venture called Orion 1980, manufacturing space-travel related technology. Farkas will <EVENT class="OCCURRENCE" eid="e11">move</EVENT> to the company's U.S. headquarters. Farkas, an air force captain, was <EVENT class="OCCURRENCE" eid="e12">sent</EVENT> into space on board the Soyuz 36 on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t33" type="DATE" value="1980-05-26">May 26, 1980</TIMEX3>. He <EVENT class="OCCURRENCE" eid="e14">spent</EVENT> <TIMEX3 beginPoint="t33" functionInDocument="NONE" temporalFunction="true" tid="t34" type="DURATION" value="P6D">six days</TIMEX3> aboard the Salyut 6 spacecraft with three Soviet astronauts, Valery Kubasov, Leonid Popov and Valery Riumin. McBride, 54, of Lewisburg, West Virginia, was <EVENT class="STATE" eid="e2000">part</EVENT> of a seven-member crew aboard the Orbiter Challenger in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t35" type="DATE" value="1984-10">October 1984</TIMEX3> and later <EVENT class="I_ACTION" eid="e15">served</EVENT> as assistant administrator for congressional relations for NASA. Farkas <EVENT class="I_ACTION" eid="e16">expressed</EVENT> the hope he one day <EVENT class="ASPECTUAL" eid="e17">follow</EVENT> in the footsteps of fellow astronaut John Glenn, who at 77 is about to <EVENT class="OCCURRENCE" eid="e21">go</EVENT> into space again. On <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t37" type="DATE" value="1995-05-22">May 22, 1995</TIMEX3>, Farkas was <EVENT class="I_ACTION" eid="e22">made</EVENT> a brigadier general, and <TIMEX3 anchorTimeID="t37" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1996">the following year</TIMEX3> he was <EVENT class="I_ACTION" eid="e23">appointed</EVENT> military attache at the Hungarian embassy in Washington. However, <EVENT class="OCCURRENCE" eid="e24">cited</EVENT> by District of Columbia traffic police in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t39" type="DATE" value="1997-12">December</TIMEX3> for <EVENT class="OCCURRENCE" eid="e25">driving</EVENT> under the influence of alcohol, Farkas was <EVENT class="OCCURRENCE" eid="e26">ordered</EVENT> home and <EVENT class="OCCURRENCE" eid="e27">retired</EVENT>. (ab/dc)
+</TEXT>
+<LASTEXTRAINFO>APW19980418.0210</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2146" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2147" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2148" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2149" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2141" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2142" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2144" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2132" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2133" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2136" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2134" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2140" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2138" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2130" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2128" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2135" eventID="e2000"/>
+<MAKEINSTANCE eiid="ei2129" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2127" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2126" eventID="e2"/>
+<TLINK lid="l1" relType="BEFORE" relatedToEventInstance="ei2149" timeID="t37"/>
+<TLINK lid="l2" relType="BEFORE" relatedToEventInstance="ei2136" timeID="t34"/>
+<TLINK eventInstanceID="ei2141" lid="l3" relType="AFTER" relatedToEventInstance="ei2144"/>
+<TLINK eventInstanceID="ei2144" lid="l4" relType="BEFORE" relatedToEventInstance="ei2148"/>
+<TLINK eventInstanceID="ei2142" lid="l5" relType="BEFORE" relatedToTime="t38"/>
+<TLINK eventInstanceID="ei2144" lid="l6" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l7" relType="BEFORE" relatedToTime="t39" timeID="t37"/>
+<TLINK eventInstanceID="ei2138" lid="l8" relType="AFTER" relatedToEventInstance="ei2142"/>
+<TLINK eventInstanceID="ei2134" lid="l9" relType="SIMULTANEOUS" relatedToTime="t34"/>
+<TLINK eventInstanceID="ei2134" lid="l10" relType="DURING" relatedToTime="t34"/>
+<TLINK eventInstanceID="ei2142" lid="l11" relType="BEFORE" relatedToEventInstance="ei2148"/>
+<TLINK eventInstanceID="ei2140" lid="l12" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2147" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2129" lid="l14" relType="AFTER" relatedToEventInstance="ei2130"/>
+<TLINK eventInstanceID="ei2144" lid="l15" relType="BEFORE" relatedToEventInstance="ei2146"/>
+<TLINK lid="l16" relType="BEFORE" relatedToTime="t38" timeID="t37"/>
+<TLINK lid="l17" relType="BEFORE" relatedToEventInstance="ei2148" timeID="t37"/>
+<TLINK eventInstanceID="ei2141" lid="l18" relType="AFTER" relatedToEventInstance="ei2142"/>
+<TLINK lid="l19" relType="BEFORE" relatedToEventInstance="ei2144" timeID="t37"/>
+<TLINK lid="l20" relType="BEFORE" relatedToEventInstance="ei2138" timeID="t35"/>
+<TLINK lid="l21" relType="BEFORE" relatedToEventInstance="ei2136" timeID="t35"/>
+<TLINK eventInstanceID="ei2138" lid="l22" relType="AFTER" relatedToEventInstance="ei2144"/>
+<TLINK eventInstanceID="ei2136" lid="l23" relType="BEFORE" relatedToEventInstance="ei2140"/>
+<TLINK eventInstanceID="ei2142" lid="l24" relType="BEFORE" relatedToTime="t39"/>
+<TLINK eventInstanceID="ei2138" lid="l25" relType="AFTER" relatedToTime="t38"/>
+<TLINK lid="l26" relType="BEFORE" relatedToEventInstance="ei2141" timeID="t35"/>
+<TLINK lid="l27" relType="BEFORE" relatedToEventInstance="ei2147" timeID="t38"/>
+<TLINK eventInstanceID="ei2130" lid="l28" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2144" lid="l29" relType="BEFORE" relatedToEventInstance="ei2149"/>
+<TLINK eventInstanceID="ei2140" lid="l30" relType="AFTER" relatedToEventInstance="ei2144"/>
+<TLINK eventInstanceID="ei2135" lid="l31" relType="IS_INCLUDED" relatedToTime="t35"/>
+<TLINK eventInstanceID="ei2134" lid="l32" relType="BEFORE" relatedToEventInstance="ei2136"/>
+<TLINK eventInstanceID="ei2140" lid="l33" relType="AFTER" relatedToTime="t38"/>
+<TLINK eventInstanceID="ei2133" lid="l34" relType="BEFORE" relatedToTime="t34"/>
+<TLINK eventInstanceID="ei2148" lid="l35" relType="BEFORE" relatedToEventInstance="ei2149"/>
+<TLINK eventInstanceID="ei2148" lid="l36" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2142" lid="l37" relType="BEFORE" relatedToEventInstance="ei2147"/>
+<TLINK eventInstanceID="ei2144" lid="l38" relType="BEFORE" relatedToTime="t39"/>
+<TLINK eventInstanceID="ei2135" lid="l39" relType="BEFORE" relatedToEventInstance="ei2138"/>
+<TLINK lid="l40" relType="BEFORE" relatedToEventInstance="ei2146" timeID="t37"/>
+<TLINK eventInstanceID="ei2149" lid="l41" relType="SIMULTANEOUS" relatedToEventInstance="ei2148"/>
+<TLINK lid="l42" relType="BEFORE" relatedToEventInstance="ei2148" timeID="t38"/>
+<TLINK lid="l43" relType="BEFORE" relatedToTime="t0" timeID="t34"/>
+<TLINK lid="l44" relType="BEFORE" relatedToTime="t0" timeID="t37"/>
+<TLINK eventInstanceID="ei2126" lid="l45" relType="BEFORE" relatedToEventInstance="ei2127"/>
+<TLINK eventInstanceID="ei2133" lid="l46" relType="IS_INCLUDED" relatedToTime="t33"/>
+<TLINK eventInstanceID="ei2146" lid="l47" relType="AFTER" relatedToEventInstance="ei2147"/>
+<TLINK eventInstanceID="ei2136" lid="l48" relType="AFTER" relatedToEventInstance="ei2135"/>
+<TLINK eventInstanceID="ei2136" lid="l49" relType="BEFORE" relatedToEventInstance="ei2141"/>
+<TLINK eventInstanceID="ei2134" lid="l50" relType="BEFORE" relatedToTime="t35"/>
+<TLINK eventInstanceID="ei2140" lid="l51" relType="AFTER" relatedToEventInstance="ei2142"/>
+<TLINK eventInstanceID="ei2138" lid="l52" relType="AFTER" relatedToTime="t37"/>
+<TLINK eventInstanceID="ei2127" lid="l53" relType="AFTER" relatedToEventInstance="ei2129"/>
+<TLINK eventInstanceID="ei2135" lid="l54" relType="BEFORE" relatedToEventInstance="ei2141"/>
+<TLINK lid="l55" relType="BEFORE" relatedToEventInstance="ei2146" timeID="t38"/>
+<TLINK lid="l56" relType="BEFORE" relatedToEventInstance="ei2147" timeID="t37"/>
+<TLINK lid="l57" relType="BEFORE" relatedToEventInstance="ei2140" timeID="t35"/>
+<TLINK eventInstanceID="ei2147" lid="l58" relType="BEFORE" relatedToEventInstance="ei2149"/>
+<TLINK eventInstanceID="ei2149" lid="l59" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l60" relType="BEFORE" relatedToEventInstance="ei2135" timeID="t34"/>
+<TLINK eventInstanceID="ei2135" lid="l61" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2140" lid="l62" relType="AFTER" relatedToTime="t37"/>
+<TLINK lid="l63" relType="INCLUDES" relatedToEventInstance="ei2142" timeID="t37"/>
+<TLINK eventInstanceID="ei2147" lid="l64" relType="BEFORE" relatedToEventInstance="ei2146"/>
+<TLINK eventInstanceID="ei2133" lid="l65" relType="BEFORE" relatedToEventInstance="ei2134"/>
+<TLINK lid="l66" relType="BEFORE" relatedToTime="t0" timeID="t33"/>
+<TLINK eventInstanceID="ei2127" lid="l67" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l68" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t31"/>
+<TLINK eventInstanceID="ei2146" lid="l69" relType="BEFORE" relatedToEventInstance="ei2148"/>
+<TLINK eventInstanceID="ei2133" lid="l70" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l71" relType="BEFORE" relatedToTime="t0" timeID="t35"/>
+<TLINK eventInstanceID="ei2134" lid="l72" relType="BEFORE" relatedToEventInstance="ei2135"/>
+<TLINK eventInstanceID="ei2141" lid="l73" relType="AFTER" relatedToTime="t38"/>
+<TLINK eventInstanceID="ei2146" lid="l74" relType="IS_INCLUDED" relatedToTime="t39"/>
+<TLINK eventInstanceID="ei2136" lid="l75" relType="BEFORE" relatedToEventInstance="ei2138"/>
+<TLINK eventInstanceID="ei2129" lid="l76" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2129" lid="l77" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2132" lid="l78" relType="AFTER" relatedToTime="t33"/>
+<TLINK lid="l79" relType="BEFORE" relatedToTime="t35" timeID="t34"/>
+<TLINK eventInstanceID="ei2138" lid="l80" relType="BEFORE" relatedToEventInstance="ei2141"/>
+<TLINK eventInstanceID="ei2132" lid="l81" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2127" lid="l82" relType="AFTER" relatedToEventInstance="ei2128"/>
+<TLINK eventInstanceID="ei2148" lid="l83" relType="AFTER" relatedToEventInstance="ei2146"/>
+<TLINK eventInstanceID="ei2140" lid="l84" relType="AFTER" relatedToEventInstance="ei2141"/>
+<TLINK eventInstanceID="ei2134" lid="l85" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2128" lid="l86" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2126" lid="l87" relType="AFTER" relatedToEventInstance="ei2128"/>
+<TLINK eventInstanceID="ei2135" lid="l88" relType="BEFORE" relatedToEventInstance="ei2140"/>
+<TLINK eventInstanceID="ei2147" lid="l89" relType="BEFORE" relatedToEventInstance="ei2148"/>
+<TLINK lid="l90" relType="BEFORE" relatedToEventInstance="ei2149" timeID="t38"/>
+<TLINK eventInstanceID="ei2142" lid="l91" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2141" lid="l92" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l93" relType="INCLUDES" relatedToEventInstance="ei2129" timeID="t31"/>
+<TLINK lid="l94" relType="BEFORE" relatedToTime="t39" timeID="t38"/>
+<TLINK eventInstanceID="ei2127" lid="l95" relType="AFTER" relatedToTime="t31"/>
+<TLINK eventInstanceID="ei2142" lid="l96" relType="BEFORE" relatedToEventInstance="ei2144"/>
+<TLINK eventInstanceID="ei2142" lid="l97" relType="BEFORE" relatedToEventInstance="ei2149"/>
+<TLINK eventInstanceID="ei2130" lid="l98" relType="BEFORE" relatedToEventInstance="ei2132"/>
+<TLINK eventInstanceID="ei2141" lid="l99" relType="AFTER" relatedToTime="t37"/>
+<TLINK lid="l100" relType="BEFORE" relatedToTime="t0" timeID="t38"/>
+<TLINK eventInstanceID="ei2142" lid="l101" relType="BEFORE" relatedToEventInstance="ei2146"/>
+<TLINK lid="l102" relType="INCLUDES" relatedToEventInstance="ei2144" timeID="t38"/>
+<TLINK eventInstanceID="ei2135" lid="l103" relType="BEFORE" relatedToEventInstance="ei2136"/>
+<TLINK eventInstanceID="ei2138" lid="l104" relType="BEFORE" relatedToEventInstance="ei2140"/>
+<TLINK eventInstanceID="ei2138" lid="l105" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2138" lid="l106" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2128" lid="l107" relType="IS_INCLUDED" relatedToTime="t31"/>
+<TLINK eventInstanceID="ei2146" lid="l108" relType="BEFORE" relatedToEventInstance="ei2149"/>
+<TLINK eventInstanceID="ei2146" lid="l109" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2144" lid="l110" relType="BEFORE" relatedToEventInstance="ei2147"/>
+<TLINK eventInstanceID="ei2136" lid="l111" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l112" relType="BEFORE" relatedToTime="t0" timeID="t39"/>
+<TLINK eventInstanceID="ei2132" lid="l113" relType="AFTER" relatedToEventInstance="ei2133"/>
+</TimeML>

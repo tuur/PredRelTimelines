@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>CNN19980222.1130.0084</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-22">1998-02-22</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+CNN headline news, I'm Sachi Koto. Diplomacy <EVENT class="I_STATE" eid="e1">appears</EVENT> to be <EVENT class="I_ACTION" eid="e2">making</EVENT> headway in <EVENT class="I_ACTION" eid="e4">resolving</EVENT> the united nation's <EVENT class="OCCURRENCE" eid="e96">standoff</EVENT> with Iraq. A UN spokesman <EVENT class="REPORTING" eid="e5">says</EVENT> UN secretary general Kofi Annan is on the verge of a breakthrough, but <EVENT class="REPORTING" eid="e6">added</EVENT> it's not <EVENT class="OCCURRENCE" eid="e7">done</EVENT> yet. Annan <EVENT class="ASPECTUAL" eid="e8">wrapped</EVENT> up a <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t122" type="DURATION" value="PT3H">three hour</TIMEX3> <EVENT class="OCCURRENCE" eid="e35">meeting</EVENT> with Iraqi president Saddam Hussein in Baghdad <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t18" type="DATE" value="1998-02-22">today</TIMEX3>. He's <EVENT class="I_STATE" eid="e9">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e73">meet</EVENT> with Iraqi deputy prime minister Tariq Aziz <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t64" type="TIME" value="1998-02-22TAF">later this afternoon</TIMEX3>. One major sticking point has been Iraq's <EVENT class="I_ACTION" eid="e129">proposal</EVENT> to <EVENT class="OCCURRENCE" eid="e46">open</EVENT> it's presidential sites for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t70" type="DURATION" value="P60D">no more than sixty days</TIMEX3>. The UN security council <EVENT class="I_ACTION" eid="e13">insists</EVENT> any <EVENT class="I_ACTION" eid="e140">deal</EVENT> must <EVENT class="I_STATE" eid="e14">allow</EVENT> UN inspectors unrestricted access to all suspected weapons sites.
+</TEXT>
+<LASTEXTRAINFO>CNN19980222.1130.0084</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei165" eventID="e35"/>
+<MAKEINSTANCE eiid="ei169" eventID="e46"/>
+<MAKEINSTANCE eiid="ei168" eventID="e129"/>
+<MAKEINSTANCE eiid="ei170" eventID="e13"/>
+<MAKEINSTANCE eiid="ei172" eventID="e14"/>
+<MAKEINSTANCE eiid="ei160" eventID="e5"/>
+<MAKEINSTANCE eiid="ei166" eventID="e9"/>
+<MAKEINSTANCE eiid="ei164" eventID="e8"/>
+<MAKEINSTANCE eiid="ei159" eventID="e96"/>
+<MAKEINSTANCE eiid="ei167" eventID="e73"/>
+<MAKEINSTANCE eiid="ei158" eventID="e4"/>
+<MAKEINSTANCE eiid="ei163" eventID="e7"/>
+<MAKEINSTANCE eiid="ei162" eventID="e6"/>
+<MAKEINSTANCE eiid="ei156" eventID="e1"/>
+<MAKEINSTANCE eiid="ei171" eventID="e140"/>
+<MAKEINSTANCE eiid="ei157" eventID="e2"/>
+<TLINK eventInstanceID="ei164" lid="l1" relType="BEFORE" relatedToTime="t64"/>
+<TLINK eventInstanceID="ei170" lid="l2" relType="IS_INCLUDED" relatedToTime="t64"/>
+<TLINK eventInstanceID="ei159" lid="l3" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei157" lid="l4" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK eventInstanceID="ei157" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei158"/>
+<TLINK lid="l6" relType="IS_INCLUDED" relatedToTime="t18" timeID="t122"/>
+<TLINK eventInstanceID="ei158" lid="l7" relType="IS_INCLUDED" relatedToEventInstance="ei159"/>
+<TLINK eventInstanceID="ei158" lid="l8" relType="TERMINATES" relatedToEventInstance="ei159"/>
+<TLINK eventInstanceID="ei166" lid="l9" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei169" lid="l10" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei165" lid="l11" relType="DURING" relatedToTime="t122"/>
+<TLINK lid="l12" relType="IS_INCLUDED" relatedToTime="t0" timeID="t64"/>
+<TLINK eventInstanceID="ei172" lid="l13" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei166" lid="l14" relType="IS_INCLUDED" relatedToTime="t64"/>
+<TLINK eventInstanceID="ei166" lid="l15" relType="BEFORE" relatedToTime="t64"/>
+<TLINK lid="l16" relType="BEFORE" relatedToTime="t64" timeID="t122"/>
+<TLINK eventInstanceID="ei162" lid="l17" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei160" lid="l18" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei158" lid="l19" relType="INCLUDES" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei167" lid="l20" relType="BEFORE" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei156" lid="l21" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l22" relType="AFTER" relatedToTime="t0" timeID="t70"/>
+<TLINK eventInstanceID="ei171" lid="l23" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei169" lid="l24" relType="DURING" relatedToTime="t70"/>
+<TLINK lid="l25" relType="INCLUDES" relatedToTime="t64" timeID="t18"/>
+<TLINK lid="l26" relType="BEFORE" relatedToTime="t70" timeID="t64"/>
+<TLINK lid="l27" relType="BEFORE" relatedToEventInstance="ei167" timeID="t122"/>
+<TLINK eventInstanceID="ei157" lid="l28" relType="INCLUDES" relatedToEventInstance="ei162"/>
+<TLINK lid="l29" relType="BEFORE" relatedToEventInstance="ei169" timeID="t64"/>
+<TLINK eventInstanceID="ei168" lid="l30" relType="BEFORE" relatedToEventInstance="ei171"/>
+<TLINK eventInstanceID="ei168" lid="l31" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei164" lid="l32" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l33" relType="IS_INCLUDED" relatedToTime="t0" timeID="t122"/>
+<TLINK eventInstanceID="ei168" lid="l34" relType="BEFORE" relatedToEventInstance="ei172"/>
+<TLINK eventInstanceID="ei167" lid="l35" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei172" lid="l36" relType="IS_INCLUDED" relatedToEventInstance="ei171"/>
+<TLINK eventInstanceID="ei156" lid="l37" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK lid="l38" relType="SIMULTANEOUS" relatedToEventInstance="ei165" timeID="t122"/>
+<TLINK eventInstanceID="ei156" lid="l39" relType="IS_INCLUDED" relatedToEventInstance="ei159"/>
+<TLINK eventInstanceID="ei164" lid="l40" relType="IS_INCLUDED" relatedToTime="t18"/>
+<TLINK eventInstanceID="ei167" lid="l41" relType="IS_INCLUDED" relatedToTime="t64"/>
+<TLINK eventInstanceID="ei167" lid="l42" relType="BEFORE" relatedToTime="t70"/>
+<TLINK eventInstanceID="ei170" lid="l43" relType="BEFORE" relatedToEventInstance="ei171"/>
+<TLINK eventInstanceID="ei163" lid="l44" relType="AFTER" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei166" lid="l45" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei170" lid="l46" relType="BEFORE" relatedToEventInstance="ei172"/>
+<TLINK eventInstanceID="ei162" lid="l47" relType="BEFORE" relatedToEventInstance="ei163"/>
+<TLINK eventInstanceID="ei160" lid="l48" relType="BEFORE" relatedToEventInstance="ei163"/>
+<TLINK lid="l49" relType="INCLUDES" relatedToEventInstance="ei167" timeID="t18"/>
+<TLINK eventInstanceID="ei165" lid="l50" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei159" lid="l51" relType="INCLUDES" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei163" lid="l52" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei158" lid="l53" relType="INCLUDES" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei168" lid="l54" relType="BEFORE" relatedToTime="t70"/>
+<TLINK eventInstanceID="ei168" lid="l55" relType="BEFORE" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei165" lid="l56" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK lid="l57" relType="AFTER" relatedToEventInstance="ei168" timeID="t64"/>
+<TLINK eventInstanceID="ei165" lid="l58" relType="BEFORE" relatedToTime="t64"/>
+<TLINK eventInstanceID="ei165" lid="l59" relType="IS_INCLUDED" relatedToTime="t18"/>
+<TLINK eventInstanceID="ei163" lid="l60" relType="AFTER" relatedToEventInstance="ei164"/>
+<TLINK eventInstanceID="ei164" lid="l61" relType="CULMINATES" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei159" lid="l62" relType="INCLUDES" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei156" lid="l63" relType="IS_INCLUDED" relatedToEventInstance="ei157"/>
+<TLINK eventInstanceID="ei160" lid="l64" relType="SIMULTANEOUS" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei160" lid="l65" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei157" lid="l66" relType="IS_INCLUDED" relatedToEventInstance="ei159"/>
+<TLINK lid="l67" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t18"/>
+<TLINK eventInstanceID="ei163" lid="l68" relType="AFTER" relatedToTime="t122"/>
+<TLINK eventInstanceID="ei164" lid="l69" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei157" lid="l70" relType="INCLUDES" relatedToEventInstance="ei160"/>
+</TimeML>

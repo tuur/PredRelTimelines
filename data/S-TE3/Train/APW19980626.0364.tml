@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980626.0364</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-06-26T07:07:00">1998-06-26T07:07:00</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+BONN, Germany (AP)_ A phony address listed on disclosure forms for a French donor will <EVENT class="STATE" eid="e3">cost</EVENT> the far-right German People's Union about 549,000 marks (dlrs 305,000), parliament <EVENT class="REPORTING" eid="e5">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t40" type="DATE" value="1998-06-26">Friday</TIMEX3>. Parliamentary president Rita Suessmuth <EVENT class="REPORTING" eid="e6">said</EVENT> the People's Union correctly <EVENT class="OCCURRENCE" eid="e7">listed</EVENT> Jacques de Mathan as having <EVENT class="OCCURRENCE" eid="e8">donated</EVENT> about 274,500 marks in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t41" type="DATE" value="1995">1995</TIMEX3>, but <EVENT class="OCCURRENCE" eid="e9">gave</EVENT> a false address for him. German law <EVENT class="I_STATE" eid="e10">requires</EVENT> parties to <EVENT class="OCCURRENCE" eid="e11">publish</EVENT> the name and address of anyone who <EVENT class="OCCURRENCE" eid="e12">donates</EVENT> more than 20,000 marks (dlrs 11,000). The anti-foreigner party <EVENT class="REPORTING" eid="e14">said</EVENT> it <EVENT class="I_STATE" eid="e15">wanted</EVENT> to <EVENT class="OCCURRENCE" eid="e16">protect</EVENT> the donor from possible <EVENT class="OCCURRENCE" eid="e17">attacks</EVENT>. Suessmuth <EVENT class="REPORTING" eid="e36">said</EVENT>, however, that the law does not <EVENT class="I_STATE" eid="e20">allow</EVENT> for <EVENT class="OCCURRENCE" eid="e22">providing</EVENT> a false address for any reason. The fine is twice the donation, as provided for under German party financing laws. Party spokesman Bernd Droese <EVENT class="REPORTING" eid="e25">said</EVENT> the People's Union would <EVENT class="OCCURRENCE" eid="e26">challenge</EVENT> the fine in court. The extremist party <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="PAST_REF">recently</TIMEX3> <EVENT class="OCCURRENCE" eid="e28">took</EVENT> a surprising 13 percent of the vote in <EVENT class="OCCURRENCE" eid="e29">elections</EVENT> in a depressed eastern German state, and <EVENT class="I_STATE" eid="e32">hopes</EVENT> to <EVENT class="I_STATE" eid="e33">win</EVENT> its first seats in the federal parliament <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t43" type="DATE" value="1998-09">this September</TIMEX3>. UR (pfg-xx)
+</TEXT>
+<LASTEXTRAINFO>APW19980626.0364</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2126" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2135" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2134" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2120" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2119" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2121" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2123" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2122" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2125" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2124" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2118" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2117" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2114" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2116" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2115" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2113" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2129" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2130" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2127" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2128" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2131" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2132" eventID="e29"/>
+<TLINK eventInstanceID="ei2126" lid="l1" relType="IDENTITY" relatedToEventInstance="ei2115"/>
+<TLINK eventInstanceID="ei2134" lid="l2" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2120" lid="l3" relType="AFTER" relatedToEventInstance="ei2121"/>
+<TLINK eventInstanceID="ei2131" lid="l4" relType="IS_INCLUDED" relatedToEventInstance="ei2132"/>
+<TLINK eventInstanceID="ei2131" lid="l5" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2116" lid="l6" relType="AFTER" relatedToEventInstance="ei2117"/>
+<TLINK eventInstanceID="ei2135" lid="l7" relType="IS_INCLUDED" relatedToTime="t43"/>
+<TLINK eventInstanceID="ei2115" lid="l8" relType="IDENTITY" relatedToEventInstance="ei2114"/>
+<TLINK eventInstanceID="ei2117" lid="l9" relType="IS_INCLUDED" relatedToTime="t41"/>
+<TLINK eventInstanceID="ei2122" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2119" lid="l11" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2132" lid="l12" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2129" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2114" lid="l14" relType="IS_INCLUDED" relatedToTime="t40"/>
+</TimeML>

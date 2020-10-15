@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>NYT20000329.0359</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="2000-03-29">2000-03-29</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+
+MIAMI _
+
+Elected officials in and around Miami <EVENT class="I_ACTION" eid="e1">warned</EVENT> U.S. immigration officials <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1" type="DATE" value="2000-03-29">Wednesday</TIMEX3> that they should <EVENT class="I_STATE" eid="e2">expect</EVENT> little help from the police here when they <EVENT class="OCCURRENCE" eid="e3">come</EVENT> for 6-year-old Elian Gonzalez, and they <EVENT class="REPORTING" eid="e4">said</EVENT> this city could <EVENT class="OCCURRENCE" eid="e5">erupt</EVENT> in violence if federal agents <EVENT class="I_ACTION" eid="e6">tried</EVENT> to forcibly <EVENT class="OCCURRENCE" eid="e7">take</EVENT> the boy from his great-uncle's house in Little Havana and <EVENT class="OCCURRENCE" eid="e8">send</EVENT> him back to Cuba.
+
+``We will not <EVENT class="OCCURRENCE" eid="e9">lend</EVENT> our respective resources, whether they be in the form of police officers or any other resources, to <EVENT class="I_ACTION" eid="e10">assist</EVENT> the federal government in any way, shape or form to inappropriately <EVENT class="OCCURRENCE" eid="e11">repatriate</EVENT> Elian Gonzalez to Cuba,'' <EVENT class="REPORTING" eid="e12">said</EVENT> Alex Penelas, mayor of Miami-Dade County.
+
+As of <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t2" type="DATE" value="2000-03-29TEV">Wednesday evening</TIMEX3>, Lazaro Gonzalez, the boy's great-uncle and temporary guardian, still had not <EVENT class="OCCURRENCE" eid="e13">signed</EVENT> an agreement to <EVENT class="OCCURRENCE" eid="e14">hand</EVENT> the child over to immigration officials if the Miami relatives <EVENT class="OCCURRENCE" eid="e15">lose</EVENT> a <EVENT class="OCCURRENCE" eid="e62">fight</EVENT> to <EVENT class="OCCURRENCE" eid="e16">keep</EVENT> him when the case is <EVENT class="PERCEPTION" eid="e17">heard</EVENT> in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t3" type="DATE" value="2000-05">May</TIMEX3> in the 11th Circuit U.S. Court of Appeals.
+
+``I won't <EVENT class="OCCURRENCE" eid="e18">cooperate</EVENT> in anything,'' Gonzalez <EVENT class="REPORTING" eid="e19">told</EVENT> a Spanish-language television station. ``The boy lives in my house, and they'll have to <EVENT class="OCCURRENCE" eid="e20">go</EVENT> <EVENT class="OCCURRENCE" eid="e21">find</EVENT> him there.''
+
+As pressure <EVENT class="OCCURRENCE" eid="e22">built</EVENT> in this city, the home of a large number of Cuban exiles, officials of the Immigration and Naturalization Service <EVENT class="REPORTING" eid="e23">said</EVENT> they did not <EVENT class="OCCURRENCE" eid="e24">plan</EVENT> to <EVENT class="OCCURRENCE" eid="e25">remove</EVENT> Elian on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t4" type="DATE" value="2000-03-30">Thursday morning</TIMEX3> even if his Miami relatives <EVENT class="ASPECTUAL" eid="e26">continued</EVENT> to <EVENT class="OCCURRENCE" eid="e72">defy</EVENT> them. But an INS spokeswoman <EVENT class="REPORTING" eid="e27">said</EVENT> the agency would <EVENT class="OCCURRENCE" eid="e28">revoke</EVENT> Elian's permission to <EVENT class="STATE" eid="e29">stay</EVENT> in the United States, <EVENT class="OCCURRENCE" eid="e67">clearing</EVENT> the way for his <EVENT class="OCCURRENCE" eid="e68">return</EVENT> to Cuba.
+
+In Havana, Cuban President Fidel Castro <EVENT class="REPORTING" eid="e30">said</EVENT> that the boy's father, Juan Miguel Gonzalez, would <EVENT class="OCCURRENCE" eid="e31">travel</EVENT> to the United States to <EVENT class="OCCURRENCE" eid="e32">bring</EVENT> his son home after the custody <EVENT class="OCCURRENCE" eid="e70">battle</EVENT> has been <EVENT class="OCCURRENCE" eid="e73">decided</EVENT> in the courts. Elian's father would be <EVENT class="OCCURRENCE" eid="e33">accompanied</EVENT> by other family members from Cuba, some of the boy's former classmates and teachers, and psychiatric experts, Castro <EVENT class="REPORTING" eid="e34">said</EVENT> on Cuban television.
+
+``We have the perfect formula for <EVENT class="OCCURRENCE" eid="e35">reinserting</EVENT> Elian,'' Castro <EVENT class="REPORTING" eid="e36">said</EVENT>. He also <EVENT class="REPORTING" eid="e37">said</EVENT> that the group would be willing to <EVENT class="OCCURRENCE" eid="e38">wait</EVENT> as long as it takes to <EVENT class="OCCURRENCE" eid="e40">bring</EVENT> the boy back.
+
+Asked to <EVENT class="OCCURRENCE" eid="e41">comment</EVENT> on Castro's <EVENT class="REPORTING" eid="e71">announcement</EVENT>, a Justice Department spokesman <EVENT class="REPORTING" eid="e42">said</EVENT>:
+
+``Certainly it <EVENT class="OCCURRENCE" eid="e43">changes</EVENT> things. How it <EVENT class="OCCURRENCE" eid="e44">changes</EVENT> things is a little hard to <EVENT class="REPORTING" eid="e45">say</EVENT> at this point. If the father <EVENT class="OCCURRENCE" eid="e46">shows</EVENT> up in Miami and decides to <EVENT class="OCCURRENCE" eid="e47">go</EVENT> and <EVENT class="OCCURRENCE" eid="e48">ring</EVENT> the doorbell of his relatives and <EVENT class="OCCURRENCE" eid="e49">find</EVENT> his son, well, the family in Miami is on record as <EVENT class="REPORTING" eid="e50">saying</EVENT> they would <EVENT class="OCCURRENCE" eid="e51">turn</EVENT> over Elian to him. Whether they actually <EVENT class="OCCURRENCE" eid="e52">do</EVENT> this remains to be <EVENT class="PERCEPTION" eid="e74">seen</EVENT>.''
+
+</TEXT>
+<LASTEXTRAINFO>NYT20000329.0359</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei45" eventID="e45"/>
+<MAKEINSTANCE eiid="ei22" eventID="e22"/>
+<MAKEINSTANCE eiid="ei26" eventID="e26"/>
+<MAKEINSTANCE eiid="ei30" eventID="e30"/>
+<MAKEINSTANCE eiid="ei16" eventID="e16"/>
+<MAKEINSTANCE eiid="ei37" eventID="e37"/>
+<MAKEINSTANCE eiid="ei18" eventID="e18"/>
+<MAKEINSTANCE eiid="ei35" eventID="e35"/>
+<MAKEINSTANCE eiid="ei34" eventID="e34"/>
+<MAKEINSTANCE eiid="ei33" eventID="e33"/>
+<MAKEINSTANCE eiid="ei32" eventID="e32"/>
+<MAKEINSTANCE eiid="ei31" eventID="e31"/>
+<MAKEINSTANCE eiid="ei23" eventID="e23"/>
+<MAKEINSTANCE eiid="ei11" eventID="e11"/>
+<MAKEINSTANCE eiid="ei10" eventID="e10"/>
+<MAKEINSTANCE eiid="ei13" eventID="e13"/>
+<MAKEINSTANCE eiid="ei12" eventID="e12"/>
+<MAKEINSTANCE eiid="ei15" eventID="e15"/>
+<MAKEINSTANCE eiid="ei14" eventID="e14"/>
+<MAKEINSTANCE eiid="ei17" eventID="e17"/>
+<MAKEINSTANCE eiid="ei38" eventID="e38"/>
+<MAKEINSTANCE eiid="ei73" eventID="e73"/>
+<MAKEINSTANCE eiid="ei72" eventID="e72"/>
+<MAKEINSTANCE eiid="ei71" eventID="e71"/>
+<MAKEINSTANCE eiid="ei70" eventID="e70"/>
+<MAKEINSTANCE eiid="ei51" eventID="e51"/>
+<MAKEINSTANCE eiid="ei50" eventID="e50"/>
+<MAKEINSTANCE eiid="ei52" eventID="e52"/>
+<MAKEINSTANCE eiid="ei24" eventID="e24"/>
+<MAKEINSTANCE eiid="ei36" eventID="e36"/>
+<MAKEINSTANCE eiid="ei20" eventID="e20"/>
+<MAKEINSTANCE eiid="ei43" eventID="e43"/>
+<MAKEINSTANCE eiid="ei27" eventID="e27"/>
+<MAKEINSTANCE eiid="ei9" eventID="e9"/>
+<MAKEINSTANCE eiid="ei8" eventID="e8"/>
+<MAKEINSTANCE eiid="ei5" eventID="e5"/>
+<MAKEINSTANCE eiid="ei4" eventID="e4"/>
+<MAKEINSTANCE eiid="ei7" eventID="e7"/>
+<MAKEINSTANCE eiid="ei6" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1" eventID="e1"/>
+<MAKEINSTANCE eiid="ei3" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2" eventID="e2"/>
+<MAKEINSTANCE eiid="ei42" eventID="e42"/>
+<MAKEINSTANCE eiid="ei25" eventID="e25"/>
+<MAKEINSTANCE eiid="ei40" eventID="e40"/>
+<MAKEINSTANCE eiid="ei41" eventID="e41"/>
+<MAKEINSTANCE eiid="ei46" eventID="e46"/>
+<MAKEINSTANCE eiid="ei21" eventID="e21"/>
+<MAKEINSTANCE eiid="ei44" eventID="e44"/>
+<MAKEINSTANCE eiid="ei19" eventID="e19"/>
+<MAKEINSTANCE eiid="ei48" eventID="e48"/>
+<MAKEINSTANCE eiid="ei49" eventID="e49"/>
+<MAKEINSTANCE eiid="ei28" eventID="e28"/>
+<MAKEINSTANCE eiid="ei29" eventID="e29"/>
+<MAKEINSTANCE eiid="ei47" eventID="e47"/>
+<MAKEINSTANCE eiid="ei68" eventID="e68"/>
+<MAKEINSTANCE eiid="ei62" eventID="e62"/>
+<MAKEINSTANCE eiid="ei74" eventID="e74"/>
+<MAKEINSTANCE eiid="ei67" eventID="e67"/>
+<TLINK eventInstanceID="ei12" lid="l1" relType="BEFORE" relatedToEventInstance="ei18"/>
+<TLINK eventInstanceID="ei19" lid="l2" relType="BEFORE" relatedToEventInstance="ei18"/>
+<TLINK eventInstanceID="ei41" lid="l3" relType="INCLUDES" relatedToEventInstance="ei42"/>
+<TLINK eventInstanceID="ei4" lid="l4" relType="BEFORE" relatedToEventInstance="ei12"/>
+<TLINK eventInstanceID="ei41" lid="l5" relType="AFTER" relatedToEventInstance="ei71"/>
+<TLINK eventInstanceID="ei24" lid="l6" relType="BEFORE" relatedToEventInstance="ei23"/>
+<TLINK eventInstanceID="ei24" lid="l7" relType="IS_INCLUDED" relatedToTime="t4"/>
+<TLINK eventInstanceID="ei43" lid="l8" relType="BEFORE" relatedToEventInstance="ei45"/>
+<TLINK eventInstanceID="ei27" lid="l9" relType="BEFORE" relatedToEventInstance="ei30"/>
+<TLINK lid="l10" relType="IS_INCLUDED" relatedToTime="t1" timeID="t2"/>
+<TLINK eventInstanceID="ei24" lid="l11" relType="BEFORE" relatedToEventInstance="ei25"/>
+<TLINK eventInstanceID="ei31" lid="l12" relType="BEFORE" relatedToEventInstance="ei32"/>
+<TLINK eventInstanceID="ei12" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei46" lid="l14" relType="BEFORE" relatedToEventInstance="ei47"/>
+<TLINK eventInstanceID="ei9" lid="l15" relType="BEFORE" relatedToEventInstance="ei11"/>
+<TLINK eventInstanceID="ei27" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei23" lid="l17" relType="SIMULTANEOUS" relatedToEventInstance="ei22"/>
+<TLINK eventInstanceID="ei1" lid="l18" relType="BEFORE" relatedToEventInstance="ei2"/>
+<TLINK eventInstanceID="ei26" lid="l19" relType="CONTINUES" relatedToEventInstance="ei72"/>
+<TLINK eventInstanceID="ei26" lid="l20" relType="BEFORE" relatedToEventInstance="ei72"/>
+<TLINK eventInstanceID="ei36" lid="l21" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50" lid="l22" relType="BEFORE" relatedToEventInstance="ei45"/>
+<TLINK eventInstanceID="ei12" lid="l23" relType="BEFORE" relatedToEventInstance="ei9"/>
+<TLINK eventInstanceID="ei15" lid="l24" relType="AFTER" relatedToEventInstance="ei13"/>
+<TLINK eventInstanceID="ei36" lid="l25" relType="BEFORE" relatedToEventInstance="ei35"/>
+<TLINK eventInstanceID="ei67" lid="l26" relType="BEFORE" relatedToEventInstance="ei68"/>
+<TLINK eventInstanceID="ei19" lid="l27" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei34" lid="l28" relType="BEFORE" relatedToEventInstance="ei33"/>
+<TLINK eventInstanceID="ei15" lid="l29" relType="AFTER" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei1" lid="l30" relType="BEFORE" relatedToEventInstance="ei4"/>
+<TLINK lid="l31" relType="BEFORE" relatedToTime="t3" timeID="t4"/>
+<TLINK eventInstanceID="ei70" lid="l32" relType="BEFORE" relatedToEventInstance="ei31"/>
+<TLINK eventInstanceID="ei34" lid="l33" relType="BEFORE" relatedToEventInstance="ei36"/>
+<TLINK eventInstanceID="ei17" lid="l34" relType="IS_INCLUDED" relatedToTime="t3"/>
+<TLINK eventInstanceID="ei13" lid="l35" relType="BEFORE" relatedToTime="t2"/>
+<TLINK eventInstanceID="ei43" lid="l36" relType="IDENTITY" relatedToEventInstance="ei44"/>
+<TLINK eventInstanceID="ei45" lid="l37" relType="BEFORE" relatedToEventInstance="ei46"/>
+<TLINK eventInstanceID="ei50" lid="l38" relType="BEFORE" relatedToEventInstance="ei51"/>
+<TLINK eventInstanceID="ei5" lid="l39" relType="BEGUN_BY" relatedToEventInstance="ei6"/>
+<TLINK eventInstanceID="ei4" lid="l40" relType="BEFORE" relatedToEventInstance="ei5"/>
+<TLINK eventInstanceID="ei2" lid="l41" relType="BEFORE" relatedToEventInstance="ei3"/>
+<TLINK lid="l42" relType="BEFORE" relatedToTime="t4" timeID="t1"/>
+<TLINK eventInstanceID="ei1" lid="l43" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei42" lid="l44" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei37" lid="l45" relType="BEFORE" relatedToEventInstance="ei38"/>
+<TLINK eventInstanceID="ei27" lid="l46" relType="IS_INCLUDED" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei19" lid="l47" relType="BEFORE" relatedToEventInstance="ei20"/>
+<TLINK eventInstanceID="ei70" lid="l48" relType="ENDED_BY" relatedToEventInstance="ei73"/>
+<TLINK eventInstanceID="ei38" lid="l49" relType="BEFORE" relatedToEventInstance="ei40"/>
+<TLINK eventInstanceID="ei37" lid="l50" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei43" lid="l51" relType="IS_INCLUDED" relatedToEventInstance="ei42"/>
+<TLINK eventInstanceID="ei27" lid="l52" relType="BEFORE" relatedToEventInstance="ei28"/>
+<TLINK eventInstanceID="ei52" lid="l53" relType="BEFORE" relatedToEventInstance="ei74"/>
+<TLINK eventInstanceID="ei71" lid="l54" relType="INCLUDES" relatedToEventInstance="ei37"/>
+<TLINK eventInstanceID="ei4" lid="l55" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei9" lid="l56" relType="BEFORE" relatedToEventInstance="ei10"/>
+<TLINK eventInstanceID="ei6" lid="l57" relType="BEFORE" relatedToEventInstance="ei7"/>
+<TLINK eventInstanceID="ei47" lid="l58" relType="BEFORE" relatedToEventInstance="ei48"/>
+<TLINK eventInstanceID="ei28" lid="l59" relType="BEFORE" relatedToEventInstance="ei29"/>
+<TLINK eventInstanceID="ei15" lid="l60" relType="ENDS" relatedToEventInstance="ei62"/>
+<TLINK eventInstanceID="ei34" lid="l61" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei33" lid="l62" relType="IS_INCLUDED" relatedToEventInstance="ei31"/>
+<TLINK eventInstanceID="ei62" lid="l63" relType="BEFORE" relatedToEventInstance="ei16"/>
+<TLINK eventInstanceID="ei20" lid="l64" relType="BEFORE" relatedToEventInstance="ei21"/>
+<TLINK eventInstanceID="ei40" lid="l65" relType="IDENTITY" relatedToEventInstance="ei32"/>
+<TLINK eventInstanceID="ei71" lid="l66" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei30" lid="l67" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei48" lid="l68" relType="BEFORE" relatedToEventInstance="ei49"/>
+<TLINK eventInstanceID="ei26" lid="l69" relType="IS_INCLUDED" relatedToTime="t4"/>
+<TLINK eventInstanceID="ei30" lid="l70" relType="BEFORE" relatedToEventInstance="ei34"/>
+<TLINK eventInstanceID="ei7" lid="l71" relType="BEFORE" relatedToEventInstance="ei8"/>
+<TLINK eventInstanceID="ei50" lid="l72" relType="BEFORE" relatedToEventInstance="ei52"/>
+<TLINK eventInstanceID="ei23" lid="l73" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei29" lid="l74" relType="BEFORE" relatedToEventInstance="ei67"/>
+<TLINK eventInstanceID="ei30" lid="l75" relType="BEFORE" relatedToEventInstance="ei31"/>
+<TLINK eventInstanceID="ei36" lid="l76" relType="BEFORE" relatedToEventInstance="ei37"/>
+<TLINK eventInstanceID="ei22" lid="l77" relType="BEFORE" relatedToTime="t1"/>
+<TLINK eventInstanceID="ei13" lid="l78" relType="BEFORE" relatedToEventInstance="ei14"/>
+</TimeML>
