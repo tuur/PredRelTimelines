@@ -1,0 +1,66 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ea980120.1830.0456</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-01-20">1998-01-20</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The Pentagon <EVENT class="REPORTING" eid="e1">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t14" type="DATE" value="1998-01-20">today</TIMEX3> it will <EVENT class="I_ACTION" eid="e2">re-examine</EVENT> the question are the remains inside the Tomb of the Unknown from the Vietnam War, in fact, <EVENT class="OCCURRENCE" eid="e5">known</EVENT>?
+
+CBS News first <EVENT class="REPORTING" eid="e6">reported</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t15" type="TIME" value="1998-01-19TNI">last night</TIMEX3> that the tomb may <EVENT class="OCCURRENCE" eid="e7">contain</EVENT> the remains of Air Force pilot Michael Blassie.
+
+There was a suspicion the body <EVENT class="STATE" eid="e20">was</EVENT> Blassie because his uniform and ID card were <EVENT class="OCCURRENCE" eid="e9">found</EVENT> near the body in Vietnam. But subsequently, they were <EVENT class="OCCURRENCE" eid="e10">lost</EVENT>. Blassie's mother <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="I_STATE" eid="e11">wants</EVENT> the remains in the tomb <EVENT class="OCCURRENCE" eid="e12">tested</EVENT> for DNA.
+</TEXT>
+<LASTEXTRAINFO>ea980120.1830.0456</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei111" eventID="e20"/>
+<MAKEINSTANCE eiid="ei109" eventID="e11"/>
+<MAKEINSTANCE eiid="ei108" eventID="e10"/>
+<MAKEINSTANCE eiid="ei110" eventID="e12"/>
+<MAKEINSTANCE eiid="ei107" eventID="e9"/>
+<MAKEINSTANCE eiid="ei102" eventID="e5"/>
+<MAKEINSTANCE eiid="ei104" eventID="e7"/>
+<MAKEINSTANCE eiid="ei103" eventID="e6"/>
+<MAKEINSTANCE eiid="ei99" eventID="e1"/>
+<MAKEINSTANCE eiid="ei100" eventID="e2"/>
+<TLINK lid="l1" relType="IS_INCLUDED" relatedToEventInstance="ei104" timeID="t15"/>
+<TLINK lid="l2" relType="AFTER" relatedToEventInstance="ei103" timeID="t14"/>
+<TLINK eventInstanceID="ei99" lid="l3" relType="IS_INCLUDED" relatedToEventInstance="ei102"/>
+<TLINK eventInstanceID="ei110" lid="l4" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei102" lid="l5" relType="INCLUDES" relatedToEventInstance="ei103"/>
+<TLINK lid="l6" relType="AFTER" relatedToEventInstance="ei107" timeID="t15"/>
+<TLINK eventInstanceID="ei99" lid="l7" relType="AFTER" relatedToTime="t15"/>
+<TLINK eventInstanceID="ei111" lid="l8" relType="INCLUDES" relatedToEventInstance="ei108"/>
+<TLINK eventInstanceID="ei109" lid="l9" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei102" lid="l10" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei108" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei99" lid="l12" relType="IS_INCLUDED" relatedToEventInstance="ei104"/>
+<TLINK eventInstanceID="ei108" lid="l13" relType="BEFORE" relatedToTime="t16"/>
+<TLINK eventInstanceID="ei104" lid="l14" relType="AFTER" relatedToEventInstance="ei107"/>
+<TLINK lid="l15" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t14"/>
+<TLINK lid="l16" relType="IS_INCLUDED" relatedToEventInstance="ei102" timeID="t14"/>
+<TLINK lid="l17" relType="INCLUDES" relatedToTime="t0" timeID="t16"/>
+<TLINK eventInstanceID="ei111" lid="l18" relType="INCLUDES" relatedToEventInstance="ei107"/>
+<TLINK eventInstanceID="ei104" lid="l19" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei108" lid="l20" relType="BEFORE" relatedToEventInstance="ei110"/>
+<TLINK eventInstanceID="ei100" lid="l21" relType="IS_INCLUDED" relatedToEventInstance="ei102"/>
+<TLINK eventInstanceID="ei103" lid="l22" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l23" relType="IS_INCLUDED" relatedToEventInstance="ei104" timeID="t14"/>
+<TLINK eventInstanceID="ei107" lid="l24" relType="BEFORE" relatedToEventInstance="ei108"/>
+<TLINK eventInstanceID="ei99" lid="l25" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei107" lid="l26" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei103" lid="l27" relType="IS_INCLUDED" relatedToTime="t15"/>
+<TLINK eventInstanceID="ei108" lid="l28" relType="BEFORE" relatedToEventInstance="ei109"/>
+<TLINK eventInstanceID="ei99" lid="l29" relType="IS_INCLUDED" relatedToTime="t14"/>
+<TLINK eventInstanceID="ei100" lid="l30" relType="AFTER" relatedToTime="t15"/>
+<TLINK eventInstanceID="ei102" lid="l31" relType="INCLUDES" relatedToTime="t15"/>
+<TLINK lid="l32" relType="AFTER" relatedToTime="t15" timeID="t14"/>
+<TLINK lid="l33" relType="BEFORE" relatedToTime="t0" timeID="t15"/>
+<TLINK lid="l34" relType="BEFORE" relatedToEventInstance="ei110" timeID="t16"/>
+<TLINK eventInstanceID="ei100" lid="l35" relType="IS_INCLUDED" relatedToEventInstance="ei104"/>
+<TLINK eventInstanceID="ei99" lid="l36" relType="AFTER" relatedToEventInstance="ei103"/>
+<TLINK eventInstanceID="ei103" lid="l37" relType="AFTER" relatedToEventInstance="ei107"/>
+<TLINK eventInstanceID="ei100" lid="l38" relType="AFTER" relatedToEventInstance="ei103"/>
+<TLINK eventInstanceID="ei103" lid="l39" relType="IS_INCLUDED" relatedToEventInstance="ei104"/>
+<TLINK eventInstanceID="ei99" lid="l40" relType="BEFORE" relatedToEventInstance="ei100"/>
+</TimeML>

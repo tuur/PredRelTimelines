@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ed980111.1130.0089</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-01-11">1998-01-11</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The lights are <EVENT class="STATE" eid="e21">out</EVENT> and the heat is <EVENT class="STATE" eid="e22">off</EVENT> and those vital signs are not <EVENT class="STATE" eid="e25">likely</EVENT> to <EVENT class="OCCURRENCE" eid="e1">change</EVENT> much over <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t15" type="DURATION" value="PXD">the next several days</TIMEX3> for p- people in parts of the northeastern US and eastern Canada.
+
+A powerful ice storm <EVENT class="ASPECTUAL" eid="e2">continues</EVENT> to <EVENT class="STATE" eid="e3">maintain</EVENT> its <EVENT class="STATE" eid="e27">grip</EVENT>.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="1998-01-10">Yesterday</TIMEX3> New York governor George Pataki <EVENT class="OCCURRENCE" eid="e4">toured</EVENT> five counties that have been <EVENT class="I_ACTION" eid="e5">declared</EVENT> under a state of emergency. He <EVENT class="ASPECTUAL" eid="e6">added</EVENT> one more <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1998-01-11">today</TIMEX3>.
+
+Helicopters are <EVENT class="OCCURRENCE" eid="e7">flying</EVENT> over northern New York <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t18" type="DATE" value="1998-01-11">today</TIMEX3> <EVENT class="I_ACTION" eid="e8">trying</EVENT> to <EVENT class="OCCURRENCE" eid="e9">locate</EVENT> people <EVENT class="OCCURRENCE" eid="e10">stranded</EVENT> without food, heat or medicine.
+
+In Maine, about a half million people still don't <EVENT class="STATE" eid="e32">have</EVENT> power and they're going to have to <EVENT class="STATE" eid="e12">live</EVENT> without it for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t20" type="DURATION" value="PXX">a while</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>ed980111.1130.0089</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei154" eventID="e25"/>
+<MAKEINSTANCE eiid="ei158" eventID="e27"/>
+<MAKEINSTANCE eiid="ei152" eventID="e21"/>
+<MAKEINSTANCE eiid="ei167" eventID="e32"/>
+<MAKEINSTANCE eiid="ei153" eventID="e22"/>
+<MAKEINSTANCE eiid="ei166" eventID="e10"/>
+<MAKEINSTANCE eiid="ei169" eventID="e12"/>
+<MAKEINSTANCE eiid="ei165" eventID="e9"/>
+<MAKEINSTANCE eiid="ei164" eventID="e8"/>
+<MAKEINSTANCE eiid="ei160" eventID="e5"/>
+<MAKEINSTANCE eiid="ei159" eventID="e4"/>
+<MAKEINSTANCE eiid="ei163" eventID="e7"/>
+<MAKEINSTANCE eiid="ei162" eventID="e6"/>
+<MAKEINSTANCE eiid="ei155" eventID="e1"/>
+<MAKEINSTANCE eiid="ei157" eventID="e3"/>
+<MAKEINSTANCE eiid="ei156" eventID="e2"/>
+<TLINK eventInstanceID="ei159" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei158" lid="l2" relType="INCLUDES" relatedToTime="t16"/>
+<TLINK eventInstanceID="ei167" lid="l3" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei165" lid="l4" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei162" lid="l5" relType="IS_INCLUDED" relatedToTime="t18"/>
+<TLINK eventInstanceID="ei163" lid="l6" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l7" relType="INCLUDES" relatedToEventInstance="ei164" timeID="t17"/>
+<TLINK eventInstanceID="ei163" lid="l8" relType="IS_INCLUDED" relatedToEventInstance="ei166"/>
+<TLINK lid="l9" relType="INCLUDES" relatedToEventInstance="ei165" timeID="t17"/>
+<TLINK eventInstanceID="ei155" lid="l10" relType="IS_INCLUDED" relatedToTime="t15"/>
+<TLINK eventInstanceID="ei154" lid="l11" relType="BEFORE" relatedToEventInstance="ei155"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei159" timeID="t16"/>
+<TLINK eventInstanceID="ei162" lid="l13" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei158" lid="l14" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei156" lid="l15" relType="AFTER" relatedToEventInstance="ei159"/>
+<TLINK eventInstanceID="ei159" lid="l16" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei157" lid="l17" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK lid="l18" relType="BEFORE" relatedToTime="t17" timeID="t16"/>
+<TLINK eventInstanceID="ei164" lid="l19" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l20" relType="INCLUDES" relatedToEventInstance="ei163" timeID="t17"/>
+<TLINK eventInstanceID="ei155" lid="l21" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei163" lid="l22" relType="IS_INCLUDED" relatedToTime="t18"/>
+<TLINK eventInstanceID="ei154" lid="l23" relType="IS_INCLUDED" relatedToEventInstance="ei157"/>
+<TLINK eventInstanceID="ei162" lid="l24" relType="IS_INCLUDED" relatedToTime="t17"/>
+<TLINK eventInstanceID="ei169" lid="l25" relType="SIMULTANEOUS" relatedToTime="t20"/>
+<TLINK lid="l26" relType="INCLUDES" relatedToEventInstance="ei167" timeID="t18"/>
+<TLINK eventInstanceID="ei159" lid="l27" relType="BEFORE" relatedToTime="t17"/>
+<TLINK eventInstanceID="ei152" lid="l28" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK eventInstanceID="ei165" lid="l29" relType="IS_INCLUDED" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei165" lid="l30" relType="IS_INCLUDED" relatedToEventInstance="ei166"/>
+<TLINK eventInstanceID="ei164" lid="l31" relType="BEFORE" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei158" lid="l32" relType="INCLUDES" relatedToEventInstance="ei159"/>
+<TLINK lid="l33" relType="AFTER" relatedToTime="t0" timeID="t15"/>
+<TLINK eventInstanceID="ei163" lid="l34" relType="INCLUDES" relatedToEventInstance="ei167"/>
+<TLINK lid="l35" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t18"/>
+<TLINK lid="l36" relType="SIMULTANEOUS" relatedToTime="t18" timeID="t17"/>
+<TLINK lid="l37" relType="BEFORE" relatedToEventInstance="ei162" timeID="t16"/>
+<TLINK lid="l38" relType="BEFORE" relatedToTime="t0" timeID="t16"/>
+<TLINK eventInstanceID="ei153" lid="l39" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK eventInstanceID="ei163" lid="l40" relType="INCLUDES" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei164" lid="l41" relType="IS_INCLUDED" relatedToEventInstance="ei166"/>
+<TLINK eventInstanceID="ei154" lid="l42" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK lid="l43" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t17"/>
+<TLINK eventInstanceID="ei156" lid="l44" relType="AFTER" relatedToTime="t16"/>
+<TLINK lid="l45" relType="INCLUDES" relatedToEventInstance="ei165" timeID="t18"/>
+<TLINK eventInstanceID="ei156" lid="l46" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK lid="l47" relType="INCLUDES" relatedToEventInstance="ei164" timeID="t18"/>
+</TimeML>

@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>CNN19980223.1130.0960</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-23">1998-02-23</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Despite the recent possibility of military <EVENT class="OCCURRENCE" eid="e26">conflict</EVENT> with Iraq, oil prices have been <EVENT class="OCCURRENCE" eid="e1">falling</EVENT>, that's because of a worldwide <EVENT class="OCCURRENCE" eid="e27">glut</EVENT> of oil. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t21" type="DATE" value="PRESENT_REF">Now</TIMEX3> with a diplomatic <EVENT class="OCCURRENCE" eid="e28">solution</EVENT> to the <EVENT class="OCCURRENCE" eid="e29">crisis</EVENT> seemingly at hand, get <EVENT class="I_ACTION" eid="e34">set</EVENT> for oil prices from the Brent north sea variety to light swede crude to <EVENT class="OCCURRENCE" eid="e33">fall</EVENT> further.
+
+Oil prices have <EVENT class="OCCURRENCE" eid="e37">come</EVENT> down from <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" mod="MID" temporalFunction="true" tid="t22" type="DATE" value="1997-10">the middle of October</TIMEX3> from a twenty-two dollar barrel level down to the fourteen dollars we're <EVENT class="PERCEPTION" eid="e10">seeing</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="1998-02-23">today</TIMEX3>. That's <EVENT class="OCCURRENCE" eid="e11">built</EVENT> up a heck of a momentum and that momentum will <EVENT class="I_ACTION" eid="e12">look</EVENT> to <EVENT class="OCCURRENCE" eid="e13">increase</EVENT>. Ah next up is that thirteen dollar a barrel level we <EVENT class="PERCEPTION" eid="e14">saw</EVENT> in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t24" type="DATE" value="1994-WI">the winter of nineteen ninety-four</TIMEX3>.
+
+Weakened oil prices have already <EVENT class="I_ACTION" eid="e15">made</EVENT> life easier for motorists at the gas pump. Gas prices <EVENT class="OCCURRENCE" eid="e18">fell</EVENT> nearly two cents a gallon over <TIMEX3 endPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t25" type="DURATION" value="P2W">the last two weeks</TIMEX3>. That <EVENT class="REPORTING" eid="e39">according</EVENT> to the Lundberg survey of ten thousand gas stations nationwide.
+</TEXT>
+<LASTEXTRAINFO>CNN19980223.1130.0960</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei156" eventID="e37"/>
+<MAKEINSTANCE eiid="ei167" eventID="e18"/>
+<MAKEINSTANCE eiid="ei148" eventID="e26"/>
+<MAKEINSTANCE eiid="ei154" eventID="e34"/>
+<MAKEINSTANCE eiid="ei155" eventID="e33"/>
+<MAKEINSTANCE eiid="ei160" eventID="e11"/>
+<MAKEINSTANCE eiid="ei165" eventID="e15"/>
+<MAKEINSTANCE eiid="ei162" eventID="e13"/>
+<MAKEINSTANCE eiid="ei161" eventID="e12"/>
+<MAKEINSTANCE eiid="ei151" eventID="e28"/>
+<MAKEINSTANCE eiid="ei152" eventID="e29"/>
+<MAKEINSTANCE eiid="ei168" eventID="e39"/>
+<MAKEINSTANCE eiid="ei163" eventID="e14"/>
+<MAKEINSTANCE eiid="ei150" eventID="e27"/>
+<MAKEINSTANCE eiid="ei159" eventID="e10"/>
+<MAKEINSTANCE eiid="ei149" eventID="e1"/>
+<TLINK eventInstanceID="ei163" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei160" lid="l2" relType="AFTER" relatedToEventInstance="ei163"/>
+<TLINK eventInstanceID="ei155" lid="l3" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l4" relType="BEFORE" relatedToEventInstance="ei165" timeID="t24"/>
+<TLINK eventInstanceID="ei154" lid="l5" relType="AFTER" relatedToEventInstance="ei156"/>
+<TLINK eventInstanceID="ei154" lid="l6" relType="AFTER" relatedToTime="t22"/>
+<TLINK eventInstanceID="ei163" lid="l7" relType="IS_INCLUDED" relatedToTime="t24"/>
+<TLINK lid="l8" relType="BEFORE" relatedToEventInstance="ei159" timeID="t22"/>
+<TLINK eventInstanceID="ei159" lid="l9" relType="IS_INCLUDED" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei160" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei162" lid="l11" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l12" relType="BEFORE" relatedToEventInstance="ei162" timeID="t22"/>
+<TLINK eventInstanceID="ei151" lid="l13" relType="AFTER" relatedToEventInstance="ei156"/>
+<TLINK eventInstanceID="ei162" lid="l14" relType="AFTER" relatedToEventInstance="ei163"/>
+<TLINK eventInstanceID="ei159" lid="l15" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei163" lid="l16" relType="BEFORE" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei151" lid="l17" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei161" lid="l18" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei167" lid="l19" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l20" relType="AFTER" relatedToTime="t22" timeID="t21"/>
+<TLINK lid="l21" relType="BEFORE" relatedToEventInstance="ei162" timeID="t23"/>
+<TLINK lid="l22" relType="BEFORE" relatedToTime="t0" timeID="t24"/>
+<TLINK eventInstanceID="ei156" lid="l23" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei156" lid="l24" relType="AFTER" relatedToTime="t22"/>
+<TLINK lid="l25" relType="BEFORE" relatedToTime="t0" timeID="t25"/>
+<TLINK eventInstanceID="ei155" lid="l26" relType="AFTER" relatedToEventInstance="ei156"/>
+<TLINK eventInstanceID="ei160" lid="l27" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei162" lid="l28" relType="AFTER" relatedToTime="t24"/>
+<TLINK lid="l29" relType="BEFORE" relatedToTime="t0" timeID="t22"/>
+<TLINK lid="l30" relType="BEFORE" relatedToEventInstance="ei151" timeID="t21"/>
+<TLINK eventInstanceID="ei150" lid="l31" relType="BEFORE" relatedToEventInstance="ei155"/>
+<TLINK eventInstanceID="ei149" lid="l32" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l33" relType="BEFORE" relatedToTime="t23" timeID="t22"/>
+<TLINK lid="l34" relType="BEFORE" relatedToEventInstance="ei155" timeID="t21"/>
+<TLINK eventInstanceID="ei161" lid="l35" relType="AFTER" relatedToTime="t24"/>
+<TLINK eventInstanceID="ei156" lid="l36" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei152" lid="l37" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l38" relType="BEFORE" relatedToEventInstance="ei168" timeID="t25"/>
+<TLINK eventInstanceID="ei167" lid="l39" relType="BEFORE" relatedToEventInstance="ei168"/>
+<TLINK eventInstanceID="ei151" lid="l40" relType="AFTER" relatedToTime="t22"/>
+<TLINK lid="l41" relType="IS_INCLUDED" relatedToEventInstance="ei152" timeID="t21"/>
+<TLINK eventInstanceID="ei155" lid="l42" relType="AFTER" relatedToTime="t22"/>
+<TLINK lid="l43" relType="BEFORE" relatedToEventInstance="ei161" timeID="t22"/>
+<TLINK lid="l44" relType="BEFORE" relatedToEventInstance="ei160" timeID="t22"/>
+<TLINK eventInstanceID="ei161" lid="l45" relType="AFTER" relatedToEventInstance="ei163"/>
+<TLINK eventInstanceID="ei160" lid="l46" relType="BEFORE" relatedToEventInstance="ei161"/>
+</TimeML>

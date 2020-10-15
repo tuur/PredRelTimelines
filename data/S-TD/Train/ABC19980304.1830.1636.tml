@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ABC19980304.1830.1636</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-03-04">1998-03-04</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Finally <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t32" type="DATE" value="1998-03-04">today</TIMEX3>, we <EVENT class="REPORTING" eid="e1">learned</EVENT> that the space agency has finally <EVENT class="OCCURRENCE" eid="e2">taken</EVENT> a giant leap forward. Air Force Lieutenant Colonel Eileen Collins will be <EVENT class="I_ACTION" eid="e3">named</EVENT> <EVENT class="STATE" eid="e37">commander</EVENT> of the Space Shuttle Columbia for a <EVENT class="OCCURRENCE" eid="e38">mission</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t33" type="DATE" value="1998-12">December</TIMEX3>. Colonel Collins has been the <EVENT class="STATE" eid="e40">co-pilot</EVENT> before, but this time she's the <EVENT class="STATE" eid="e41">boss</EVENT>. Here's ABC's Ned Potter.
+
+Even two hundred miles up in space, there has been a glass ceiling. It wasn't until <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t34" type="DURATION" value="P20Y">twenty years</TIMEX3> after the first astronauts were <EVENT class="OCCURRENCE" eid="e6">chosen</EVENT> that NASA finally <EVENT class="OCCURRENCE" eid="e7">included</EVENT> six women, and they were all scientists, not pilots. No woman has actually been <EVENT class="STATE" eid="e254">in</EVENT> charge of a mission until <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t55" type="DATE" value="PRESENT_REF">now</TIMEX3>.
+
+Just the fact that we're <EVENT class="OCCURRENCE" eid="e68">doing</EVENT> the job that we're doing <EVENT class="OCCURRENCE" eid="e44">makes</EVENT> us role models.
+
+That was Eileen Collins, after she <EVENT class="OCCURRENCE" eid="e10">flew</EVENT> as the first ever co-pilot. Being commander is different. It means supervising the rest of the crew in training and leading them in flight. It is, in short, the kind of management job many American women say they've had to fight for. In space, some say female pilots were <EVENT class="OCCURRENCE" eid="e20">held</EVENT> up until <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t36" type="DATE" value="PRESENT_REF">now</TIMEX3> by the <EVENT class="STATE" eid="e51">lack</EVENT> of piloting opportunities for them in the military.
+
+Once Colonel Collins was <EVENT class="I_ACTION" eid="e22">picked</EVENT> as a NASA <EVENT class="STATE" eid="e52">astronaut</EVENT>, she <EVENT class="OCCURRENCE" eid="e23">followed</EVENT> a normal progression within NASA. Nobody <EVENT class="OCCURRENCE" eid="e24">hurried</EVENT> her up. No one <EVENT class="OCCURRENCE" eid="e25">held</EVENT> her back.
+
+Many NASA watchers <EVENT class="REPORTING" eid="e26">say</EVENT> female astronauts have <EVENT class="OCCURRENCE" eid="e27">become</EVENT> part of the agency's routine. But they still have <EVENT class="I_ACTION" eid="e28">catching</EVENT> up to do two hundred and thirty four Americans have <EVENT class="OCCURRENCE" eid="e30">flown</EVENT> in space, only twenty six of them women. Ned Potter, ABC News.
+</TEXT>
+<LASTEXTRAINFO>ABC19980304.1830.1636</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei289" eventID="e254"/>
+<MAKEINSTANCE eiid="ei261" eventID="e37"/>
+<MAKEINSTANCE eiid="ei288" eventID="e30"/>
+<MAKEINSTANCE eiid="ei272" eventID="e10"/>
+<MAKEINSTANCE eiid="ei262" eventID="e38"/>
+<MAKEINSTANCE eiid="ei275" eventID="e51"/>
+<MAKEINSTANCE eiid="ei277" eventID="e52"/>
+<MAKEINSTANCE eiid="ei263" eventID="e40"/>
+<MAKEINSTANCE eiid="ei264" eventID="e41"/>
+<MAKEINSTANCE eiid="ei266" eventID="e7"/>
+<MAKEINSTANCE eiid="ei265" eventID="e6"/>
+<MAKEINSTANCE eiid="ei258" eventID="e1"/>
+<MAKEINSTANCE eiid="ei260" eventID="e3"/>
+<MAKEINSTANCE eiid="ei259" eventID="e2"/>
+<MAKEINSTANCE eiid="ei280" eventID="e24"/>
+<MAKEINSTANCE eiid="ei281" eventID="e25"/>
+<MAKEINSTANCE eiid="ei282" eventID="e26"/>
+<MAKEINSTANCE eiid="ei283" eventID="e27"/>
+<MAKEINSTANCE eiid="ei274" eventID="e20"/>
+<MAKEINSTANCE eiid="ei269" eventID="e44"/>
+<MAKEINSTANCE eiid="ei276" eventID="e22"/>
+<MAKEINSTANCE eiid="ei278" eventID="e23"/>
+<MAKEINSTANCE eiid="ei285" eventID="e28"/>
+<MAKEINSTANCE eiid="ei268" eventID="e68"/>
+<TLINK eventInstanceID="ei262" lid="l1" relType="SIMULTANEOUS" relatedToEventInstance="ei264"/>
+<TLINK eventInstanceID="ei262" lid="l2" relType="AFTER" relatedToEventInstance="ei263"/>
+<TLINK eventInstanceID="ei274" lid="l3" relType="SIMULTANEOUS" relatedToEventInstance="ei275"/>
+<TLINK eventInstanceID="ei262" lid="l4" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l5" relType="AFTER" relatedToTime="t0" timeID="t33"/>
+<TLINK eventInstanceID="ei259" lid="l6" relType="BEFORE" relatedToTime="t33"/>
+<TLINK lid="l7" relType="INCLUDES" relatedToEventInstance="ei258" timeID="t32"/>
+<TLINK eventInstanceID="ei274" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l9" relType="BEFORE" relatedToTime="t0" timeID="t34"/>
+<TLINK eventInstanceID="ei275" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei281" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei277" lid="l12" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei258" lid="l13" relType="BEFORE" relatedToEventInstance="ei262"/>
+<TLINK eventInstanceID="ei261" lid="l14" relType="AFTER" relatedToEventInstance="ei263"/>
+<TLINK eventInstanceID="ei264" lid="l15" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei263" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei263" lid="l17" relType="BEFORE" relatedToEventInstance="ei264"/>
+<TLINK eventInstanceID="ei258" lid="l18" relType="AFTER" relatedToEventInstance="ei259"/>
+<TLINK lid="l19" relType="BEFORE" relatedToTime="t33" timeID="t32"/>
+<TLINK eventInstanceID="ei259" lid="l20" relType="BEFORE" relatedToEventInstance="ei261"/>
+<TLINK eventInstanceID="ei258" lid="l21" relType="BEFORE" relatedToEventInstance="ei261"/>
+<TLINK lid="l22" relType="BEFORE" relatedToTime="t55" timeID="t34"/>
+<TLINK eventInstanceID="ei260" lid="l23" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei285" lid="l24" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l25" relType="INCLUDES" relatedToEventInstance="ei264" timeID="t33"/>
+<TLINK lid="l26" relType="BEFORE" relatedToEventInstance="ei261" timeID="t32"/>
+<TLINK eventInstanceID="ei265" lid="l27" relType="BEFORE" relatedToTime="t55"/>
+<TLINK eventInstanceID="ei278" lid="l28" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei261" lid="l29" relType="SIMULTANEOUS" relatedToEventInstance="ei264"/>
+<TLINK eventInstanceID="ei280" lid="l30" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei266" lid="l31" relType="BEFORE" relatedToTime="t55"/>
+<TLINK lid="l32" relType="BEFORE" relatedToEventInstance="ei260" timeID="t32"/>
+<TLINK eventInstanceID="ei258" lid="l33" relType="BEFORE" relatedToTime="t33"/>
+<TLINK eventInstanceID="ei272" lid="l34" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei260" lid="l35" relType="AFTER" relatedToEventInstance="ei263"/>
+<TLINK lid="l36" relType="INCLUDES" relatedToTime="t0" timeID="t36"/>
+<TLINK eventInstanceID="ei282" lid="l37" relType="AFTER" relatedToEventInstance="ei283"/>
+<TLINK eventInstanceID="ei274" lid="l38" relType="BEFORE" relatedToTime="t36"/>
+<TLINK lid="l39" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t32"/>
+<TLINK lid="l40" relType="AFTER" relatedToEventInstance="ei263" timeID="t33"/>
+<TLINK eventInstanceID="ei259" lid="l41" relType="BEFORE" relatedToEventInstance="ei260"/>
+<TLINK eventInstanceID="ei265" lid="l42" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l43" relType="AFTER" relatedToEventInstance="ei276" timeID="t36"/>
+<TLINK eventInstanceID="ei258" lid="l44" relType="BEFORE" relatedToEventInstance="ei260"/>
+<TLINK eventInstanceID="ei266" lid="l45" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei283" lid="l46" relType="BEFORE" relatedToEventInstance="ei285"/>
+<TLINK eventInstanceID="ei258" lid="l47" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei285" lid="l48" relType="AFTER" relatedToEventInstance="ei288"/>
+<TLINK eventInstanceID="ei265" lid="l49" relType="BEFORE" relatedToEventInstance="ei266"/>
+<TLINK lid="l50" relType="AFTER" relatedToEventInstance="ei275" timeID="t36"/>
+<TLINK lid="l51" relType="AFTER" relatedToEventInstance="ei278" timeID="t36"/>
+<TLINK eventInstanceID="ei277" lid="l52" relType="INCLUDES" relatedToEventInstance="ei280"/>
+<TLINK eventInstanceID="ei261" lid="l53" relType="SIMULTANEOUS" relatedToEventInstance="ei262"/>
+<TLINK eventInstanceID="ei276" lid="l54" relType="BEFORE" relatedToEventInstance="ei278"/>
+<TLINK eventInstanceID="ei280" lid="l55" relType="SIMULTANEOUS" relatedToEventInstance="ei281"/>
+<TLINK eventInstanceID="ei276" lid="l56" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei283" lid="l57" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l58" relType="INCLUDES" relatedToTime="t0" timeID="t55"/>
+<TLINK eventInstanceID="ei276" lid="l59" relType="BEFORE" relatedToEventInstance="ei280"/>
+<TLINK eventInstanceID="ei261" lid="l60" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l61" relType="BEFORE" relatedToEventInstance="ei262" timeID="t32"/>
+<TLINK eventInstanceID="ei277" lid="l62" relType="INCLUDES" relatedToEventInstance="ei278"/>
+<TLINK eventInstanceID="ei259" lid="l63" relType="BEFORE" relatedToEventInstance="ei262"/>
+<TLINK eventInstanceID="ei288" lid="l64" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980205.2000.1890</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-05">1998-02-05</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The US is <EVENT class="OCCURRENCE" eid="e1">bolstering</EVENT> its military presence in the gulf, as President Clinton <EVENT class="I_ACTION" eid="e2">discussed</EVENT> the Iraq <EVENT class="OCCURRENCE" eid="e32">crisis</EVENT> with the one ally who has <EVENT class="I_ACTION" eid="e3">backed</EVENT> his <EVENT class="OCCURRENCE" eid="e4">threat</EVENT> of force, British prime minister Tony Blair. The World's Nancy Marshall reports on Mr. Blair's current visit to Washington and the special relationship between the two leaders.
+
+President Clinton <EVENT class="OCCURRENCE" eid="e6">rolled</EVENT> out the red carpet for prime minister Blair, <EVENT class="OCCURRENCE" eid="e7">welcoming</EVENT> him not only as a close ally, but a close friend.
+
+<EVENT class="OCCURRENCE" eid="e8">Posing</EVENT> for photographers with Clinton, Blair <EVENT class="I_ACTION" eid="e9">pledged</EVENT> to <EVENT class="I_STATE" eid="e11">stand</EVENT> united with the president against Iraq, <EVENT class="I_ACTION" eid="e13">warning</EVENT> Saddam Hussein that the <EVENT class="OCCURRENCE" eid="e14">threat</EVENT> of force is real. The British aircraft carrier invincible is <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t36" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="OCCURRENCE" eid="e34">patrolling</EVENT> the Persian Gulf alongside three US vessels. Washington and London are virtually alone in warning Iraq of military <EVENT class="OCCURRENCE" eid="e19">strikes</EVENT> if it doesn't <EVENT class="OCCURRENCE" eid="e21">back</EVENT> down on the weapons inspection issue. President Clinton <EVENT class="REPORTING" eid="e24">says</EVENT> he and Blair will <EVENT class="STATE" eid="e38">stand</EVENT> together not just on Iraq but also on <EVENT class="OCCURRENCE" eid="e27">arresting</EVENT> the terrorists <EVENT class="I_STATE" eid="e28">suspected</EVENT> of <EVENT class="OCCURRENCE" eid="e29">blowing</EVENT> up Pan Am flight one oh three over Scotland. For The World I'm Nancy Marshall in Washington.
+</TEXT>
+<LASTEXTRAINFO>PRI19980205.2000.1890</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei176" eventID="e24"/>
+<MAKEINSTANCE eiid="ei159" eventID="e2"/>
+<MAKEINSTANCE eiid="ei171" eventID="e34"/>
+<MAKEINSTANCE eiid="ei160" eventID="e32"/>
+<MAKEINSTANCE eiid="ei174" eventID="e19"/>
+<MAKEINSTANCE eiid="ei167" eventID="e11"/>
+<MAKEINSTANCE eiid="ei168" eventID="e13"/>
+<MAKEINSTANCE eiid="ei179" eventID="e28"/>
+<MAKEINSTANCE eiid="ei169" eventID="e14"/>
+<MAKEINSTANCE eiid="ei177" eventID="e38"/>
+<MAKEINSTANCE eiid="ei178" eventID="e27"/>
+<MAKEINSTANCE eiid="ei180" eventID="e29"/>
+<MAKEINSTANCE eiid="ei165" eventID="e8"/>
+<MAKEINSTANCE eiid="ei162" eventID="e4"/>
+<MAKEINSTANCE eiid="ei164" eventID="e7"/>
+<MAKEINSTANCE eiid="ei163" eventID="e6"/>
+<MAKEINSTANCE eiid="ei158" eventID="e1"/>
+<MAKEINSTANCE eiid="ei166" eventID="e9"/>
+<MAKEINSTANCE eiid="ei161" eventID="e3"/>
+<MAKEINSTANCE eiid="ei175" eventID="e21"/>
+<TLINK lid="l1" relType="INCLUDES" relatedToTime="t0" timeID="t36"/>
+<TLINK eventInstanceID="ei165" lid="l2" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei174" lid="l3" relType="AFTER" relatedToEventInstance="ei176"/>
+<TLINK eventInstanceID="ei179" lid="l4" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei161" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei168" lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei169" lid="l7" relType="INCLUDES" relatedToTime="t36"/>
+<TLINK eventInstanceID="ei175" lid="l8" relType="AFTER" relatedToEventInstance="ei176"/>
+<TLINK eventInstanceID="ei158" lid="l9" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei164" lid="l10" relType="IS_INCLUDED" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei176" lid="l11" relType="IS_INCLUDED" relatedToEventInstance="ei179"/>
+<TLINK eventInstanceID="ei165" lid="l12" relType="IS_INCLUDED" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei163" lid="l13" relType="IS_INCLUDED" relatedToEventInstance="ei164"/>
+<TLINK eventInstanceID="ei164" lid="l14" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei163" lid="l15" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei178" lid="l16" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei171" lid="l17" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei159" lid="l18" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei161" lid="l19" relType="IS_INCLUDED" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei158" lid="l20" relType="INCLUDES" relatedToEventInstance="ei159"/>
+<TLINK eventInstanceID="ei165" lid="l21" relType="INCLUDES" relatedToEventInstance="ei166"/>
+<TLINK eventInstanceID="ei163" lid="l22" relType="IS_INCLUDED" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei178" lid="l23" relType="IS_INCLUDED" relatedToEventInstance="ei179"/>
+<TLINK eventInstanceID="ei166" lid="l24" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei163" lid="l25" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei180" lid="l26" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei164" lid="l27" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei175" lid="l28" relType="AFTER" relatedToEventInstance="ei180"/>
+<TLINK eventInstanceID="ei160" lid="l29" relType="INCLUDES" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei167" lid="l30" relType="IS_INCLUDED" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei174" lid="l31" relType="AFTER" relatedToEventInstance="ei180"/>
+<TLINK eventInstanceID="ei174" lid="l32" relType="AFTER" relatedToEventInstance="ei175"/>
+<TLINK eventInstanceID="ei178" lid="l33" relType="AFTER" relatedToEventInstance="ei180"/>
+<TLINK eventInstanceID="ei160" lid="l34" relType="INCLUDES" relatedToEventInstance="ei161"/>
+<TLINK eventInstanceID="ei174" lid="l35" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei176" lid="l36" relType="AFTER" relatedToEventInstance="ei180"/>
+<TLINK eventInstanceID="ei165" lid="l37" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei166" lid="l38" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei169" lid="l39" relType="INCLUDES" relatedToEventInstance="ei171"/>
+<TLINK eventInstanceID="ei167" lid="l40" relType="AFTER" relatedToEventInstance="ei168"/>
+<TLINK eventInstanceID="ei159" lid="l41" relType="IS_INCLUDED" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei160" lid="l42" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei177" lid="l43" relType="AFTER" relatedToEventInstance="ei180"/>
+<TLINK eventInstanceID="ei166" lid="l44" relType="IS_INCLUDED" relatedToEventInstance="ei169"/>
+<TLINK eventInstanceID="ei168" lid="l45" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei175" lid="l46" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei176" lid="l47" relType="BEFORE" relatedToEventInstance="ei177"/>
+<TLINK eventInstanceID="ei179" lid="l48" relType="AFTER" relatedToEventInstance="ei180"/>
+</TimeML>

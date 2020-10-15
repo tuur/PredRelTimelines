@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980205.2000.1998</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-02-05">1998-02-05</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Thousands of people in Germany have been <EVENT class="OCCURRENCE" eid="e1">demonstrating</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1998-02-05">today</TIMEX3> against the high level of unemployment in the country. Latest figures show a sharp <EVENT class="OCCURRENCE" eid="e4">rise</EVENT>, with nearly five million Germans out of work. Caroline Wyatt reports.
+
+<EVENT class="OCCURRENCE" eid="e6">Chanting</EVENT> Helmut Kohl must <EVENT class="OCCURRENCE" eid="e7">go</EVENT> the unemployed <EVENT class="OCCURRENCE" eid="e9">took</EVENT> to the streets of the German capital, Berlin, mirroring <EVENT class="OCCURRENCE" eid="e10">protests</EVENT> around the country. Joblessness is <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="PRESENT_REF">now</TIMEX3> at its highest level in Germany since the second world <EVENT class="OCCURRENCE" eid="e12">war</EVENT>. With the general <EVENT class="OCCURRENCE" eid="e14">election</EVENT> due <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t44" type="DATE" value="1998-09">this September</TIMEX3>, record figures couldn't have <EVENT class="OCCURRENCE" eid="e19">come</EVENT> at a worst time for Chancellor Kohl. His <EVENT class="I_ACTION" eid="e22">promise</EVENT> to <EVENT class="OCCURRENCE" eid="e24">half</EVENT> unemployment by <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t45" type="DATE" value="2000">the year two thousand</TIMEX3> has <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t47" type="DATE" value="PRESENT_REF">now</TIMEX3> been <EVENT class="ASPECTUAL" eid="e25">abandoned</EVENT>. And the German electorate appears increasingly <EVENT class="I_STATE" eid="e49">eager</EVENT> to <EVENT class="OCCURRENCE" eid="e28">dispense</EVENT> with the services of Europe's longest serving leader. Caroline Wyatt, BBC news, Bonn.
+</TEXT>
+<LASTEXTRAINFO>PRI19980205.2000.1998</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2013" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e49"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e1"/>
+<TLINK lid="l1" relType="AFTER" relatedToTime="t0" timeID="t45"/>
+<TLINK eventInstanceID="ei2012" lid="l2" relType="BEFORE" relatedToTime="t45"/>
+<TLINK eventInstanceID="ei2017" lid="l3" relType="IS_INCLUDED" relatedToEventInstance="ei2018"/>
+<TLINK lid="l4" relType="BEFORE" relatedToTime="t44" timeID="t42"/>
+<TLINK eventInstanceID="ei2012" lid="l5" relType="AFTER" relatedToEventInstance="ei2015"/>
+<TLINK lid="l6" relType="BEFORE" relatedToEventInstance="ei2012" timeID="t42"/>
+<TLINK lid="l7" relType="BEFORE" relatedToTime="t45" timeID="t44"/>
+<TLINK eventInstanceID="ei2012" lid="l8" relType="AFTER" relatedToTime="t47"/>
+<TLINK eventInstanceID="ei2015" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2013" lid="l10" relType="BEFORE" relatedToTime="t45"/>
+<TLINK lid="l11" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t38"/>
+<TLINK eventInstanceID="ei2015" lid="l12" relType="BEFORE" relatedToEventInstance="ei2016"/>
+<TLINK eventInstanceID="ei2012" lid="l13" relType="AFTER" relatedToEventInstance="ei2017"/>
+<TLINK eventInstanceID="ei2001" lid="l14" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2001" lid="l15" relType="IS_INCLUDED" relatedToTime="t38"/>
+<TLINK eventInstanceID="ei2015" lid="l16" relType="BEFORE" relatedToTime="t45"/>
+<TLINK lid="l17" relType="AFTER" relatedToEventInstance="ei2013" timeID="t44"/>
+<TLINK eventInstanceID="ei2013" lid="l18" relType="AFTER" relatedToEventInstance="ei2015"/>
+<TLINK eventInstanceID="ei2019" lid="l19" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2005" lid="l20" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l21" relType="AFTER" relatedToEventInstance="ei2015" timeID="t44"/>
+<TLINK eventInstanceID="ei2017" lid="l22" relType="BEFORE" relatedToEventInstance="ei2019"/>
+<TLINK eventInstanceID="ei2006" lid="l23" relType="AFTER" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2018" lid="l24" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l25" relType="AFTER" relatedToTime="t0" timeID="t44"/>
+<TLINK eventInstanceID="ei2015" lid="l26" relType="BEFORE" relatedToEventInstance="ei2017"/>
+<TLINK eventInstanceID="ei2012" lid="l27" relType="IS_INCLUDED" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei2005" lid="l28" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2011" lid="l29" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2007" lid="l30" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2005" lid="l31" relType="AFTER" relatedToEventInstance="ei2011"/>
+<TLINK lid="l32" relType="AFTER" relatedToTime="t47" timeID="t45"/>
+<TLINK lid="l33" relType="AFTER" relatedToEventInstance="ei2017" timeID="t44"/>
+<TLINK eventInstanceID="ei2009" lid="l34" relType="AFTER" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2012" lid="l35" relType="AFTER" relatedToEventInstance="ei2013"/>
+<TLINK lid="l36" relType="AFTER" relatedToEventInstance="ei2011" timeID="t42"/>
+<TLINK eventInstanceID="ei2011" lid="l37" relType="BEFORE" relatedToEventInstance="ei2012"/>
+<TLINK lid="l38" relType="AFTER" relatedToTime="t47" timeID="t44"/>
+<TLINK eventInstanceID="ei2018" lid="l39" relType="BEFORE" relatedToEventInstance="ei2019"/>
+<TLINK lid="l40" relType="AFTER" relatedToEventInstance="ei2017" timeID="t45"/>
+<TLINK eventInstanceID="ei2011" lid="l41" relType="BEFORE" relatedToEventInstance="ei2013"/>
+<TLINK lid="l42" relType="BEFORE" relatedToEventInstance="ei2019" timeID="t47"/>
+<TLINK eventInstanceID="ei2007" lid="l43" relType="AFTER" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2005" lid="l44" relType="BEFORE" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei2012" lid="l45" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2007" lid="l46" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2006" lid="l47" relType="AFTER" relatedToEventInstance="ei2007"/>
+<TLINK eventInstanceID="ei2011" lid="l48" relType="BEFORE" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei2015" lid="l49" relType="BEFORE" relatedToTime="t47"/>
+<TLINK lid="l50" relType="IS_INCLUDED" relatedToEventInstance="ei2018" timeID="t47"/>
+</TimeML>

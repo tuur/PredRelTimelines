@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>ea980120.1830.0071</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-01-20">1998-01-20</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Good evening from the central park in downtown Havana. We are <EVENT class="STATE" eid="e116">here</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t53" type="DATE" value="1998-W04">this week</TIMEX3> to <EVENT class="PERCEPTION" eid="e61">witness</EVENT> the <EVENT class="OCCURRENCE" eid="e62">rendezvous</EVENT> that Fidel Castro and the Pope are having with history.
+
+We are <EVENT class="STATE" eid="e117">here</EVENT> because what <EVENT class="OCCURRENCE" eid="e3">happens</EVENT> on this island will also have an <EVENT class="OCCURRENCE" eid="e4">impact</EVENT> on the United States. Everything that happens in Cuba gets America's attention.
+
+Incidentally, we just show up to do the <EVENT class="OCCURRENCE" eid="e65">broadcast</EVENT>, and Cubans <EVENT class="I_STATE" eid="e8">want</EVENT> to <EVENT class="I_STATE" eid="e9">know</EVENT> what we're going to <EVENT class="REPORTING" eid="e11">tell</EVENT> Americans, in many cases, what their relatives in the United States are going to <EVENT class="PERCEPTION" eid="e15">hear</EVENT>.
+
+Well, this is the eve of the Pope's <EVENT class="OCCURRENCE" eid="e66">visit</EVENT> to one of the last bastions of Communism anywhere in the world, and it is already <EVENT class="OCCURRENCE" eid="e16">causing</EVENT> enormous expectations.
+
+In Revolution Square, they <EVENT class="OCCURRENCE" eid="e17">put</EVENT> up a giant cross <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t59" type="DATE" value="1998-01-20">today</TIMEX3>. And right across from the Cuban revolutionary icon Che Guevara, they <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t56" type="DATE" value="PRESENT_REF">now</TIMEX3> have a giant portrait of Jesus. Above it in Spanish, Jesus, in you we <EVENT class="I_STATE" eid="e3000">believe</EVENT>.
+
+Not all Cubans believe, but Castro has <EVENT class="I_ACTION" eid="e23">invited</EVENT> everyone to <EVENT class="OCCURRENCE" eid="e24">welcome</EVENT> the man who has been one of Communism's most effective adversaries, and that's why there is suspense.
+
+Everyone <EVENT class="I_STATE" eid="e25">appears</EVENT> to <EVENT class="I_STATE" eid="e26">believe</EVENT> that somehow Cuba is going to <EVENT class="OCCURRENCE" eid="e28">change</EVENT>. Castro has <EVENT class="REPORTING" eid="e29">said</EVENT> officially that it's okay to be <EVENT class="STATE" eid="e3001">enthusiastic</EVENT>. And so, people are increasingly enthusiastic by <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t68" type="DATE" value="1998-01-20">today</TIMEX3>, Cuban television, which clings to the Communist Party line, actually <EVENT class="ASPECTUAL" eid="e31">began</EVENT> to <EVENT class="OCCURRENCE" eid="e32">promote</EVENT> its papal <EVENT class="OCCURRENCE" eid="e70">coverage</EVENT>.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t57" type="DATE" value="1998-01-20">Today</TIMEX3>, hundreds of people from the US <EVENT class="ASPECTUAL" eid="e33">began</EVENT> to <EVENT class="OCCURRENCE" eid="e34">arrive</EVENT>, including some Cuban Americans who <EVENT class="OCCURRENCE" eid="e36">left</EVENT> here when Castro <EVENT class="OCCURRENCE" eid="e38">came</EVENT> to power and are <EVENT class="OCCURRENCE" eid="e40">returning</EVENT> to Havana for the first time. The Pope's <EVENT class="OCCURRENCE" eid="e72">visit</EVENT> is important, but they are also <EVENT class="I_ACTION" eid="e41">coming</EVENT> home.
+
+This is quite an extraordinary <EVENT class="OCCURRENCE" eid="e42">story</EVENT> <EVENT class="ASPECTUAL" eid="e43">unfolding</EVENT> here. We'll <EVENT class="OCCURRENCE" eid="e44">come</EVENT> back to Havana later in the <EVENT class="OCCURRENCE" eid="e46">broadcast</EVENT>.
+
+But <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t58" type="DATE" value="PRESENT_REF">now</TIMEX3> we're going to <EVENT class="OCCURRENCE" eid="e49">go</EVENT> back to New York, where Diane Sawyer has the rest of the news. Diane?
+</TEXT>
+<LASTEXTRAINFO>ea980120.1830.0071</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei232" eventID="e38"/>
+<MAKEINSTANCE eiid="ei231" eventID="e36"/>
+<MAKEINSTANCE eiid="ei230" eventID="e34"/>
+<MAKEINSTANCE eiid="ei229" eventID="e33"/>
+<MAKEINSTANCE eiid="ei227" eventID="e32"/>
+<MAKEINSTANCE eiid="ei226" eventID="e31"/>
+<MAKEINSTANCE eiid="ei208" eventID="e11"/>
+<MAKEINSTANCE eiid="ei209" eventID="e15"/>
+<MAKEINSTANCE eiid="ei216" eventID="e17"/>
+<MAKEINSTANCE eiid="ei214" eventID="e16"/>
+<MAKEINSTANCE eiid="ei235" eventID="e72"/>
+<MAKEINSTANCE eiid="ei228" eventID="e70"/>
+<MAKEINSTANCE eiid="ei237" eventID="e42"/>
+<MAKEINSTANCE eiid="ei221" eventID="e25"/>
+<MAKEINSTANCE eiid="ei234" eventID="e40"/>
+<MAKEINSTANCE eiid="ei207" eventID="e9"/>
+<MAKEINSTANCE eiid="ei206" eventID="e8"/>
+<MAKEINSTANCE eiid="ei203" eventID="e4"/>
+<MAKEINSTANCE eiid="ei202" eventID="e3"/>
+<MAKEINSTANCE eiid="ei220" eventID="e24"/>
+<MAKEINSTANCE eiid="ei238" eventID="e43"/>
+<MAKEINSTANCE eiid="ei222" eventID="e26"/>
+<MAKEINSTANCE eiid="ei236" eventID="e41"/>
+<MAKEINSTANCE eiid="ei240" eventID="e46"/>
+<MAKEINSTANCE eiid="ei239" eventID="e44"/>
+<MAKEINSTANCE eiid="ei219" eventID="e23"/>
+<MAKEINSTANCE eiid="ei241" eventID="e49"/>
+<MAKEINSTANCE eiid="ei223" eventID="e28"/>
+<MAKEINSTANCE eiid="ei224" eventID="e29"/>
+<MAKEINSTANCE eiid="ei243" eventID="e117"/>
+<MAKEINSTANCE eiid="ei242" eventID="e116"/>
+<MAKEINSTANCE eiid="ei199" eventID="e61"/>
+<MAKEINSTANCE eiid="ei200" eventID="e62"/>
+<MAKEINSTANCE eiid="ei205" eventID="e65"/>
+<MAKEINSTANCE eiid="ei212" eventID="e66"/>
+<TLINK eventInstanceID="ei239" lid="l1" relType="AFTER" relatedToTime="t58"/>
+<TLINK eventInstanceID="ei226" lid="l2" relType="IS_INCLUDED" relatedToTime="t57"/>
+<TLINK eventInstanceID="ei242" lid="l3" relType="INCLUDES" relatedToEventInstance="ei199"/>
+<TLINK lid="l4" relType="AFTER" relatedToEventInstance="ei231" timeID="t68"/>
+<TLINK eventInstanceID="ei220" lid="l5" relType="IS_INCLUDED" relatedToEventInstance="ei222"/>
+<TLINK eventInstanceID="ei235" lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei238"/>
+<TLINK eventInstanceID="ei206" lid="l7" relType="BEFORE" relatedToEventInstance="ei212"/>
+<TLINK eventInstanceID="ei242" lid="l8" relType="INCLUDES" relatedToEventInstance="ei200"/>
+<TLINK lid="l9" relType="IS_INCLUDED" relatedToTime="t0" timeID="t58"/>
+<TLINK lid="l10" relType="AFTER" relatedToEventInstance="ei232" timeID="t57"/>
+<TLINK eventInstanceID="ei237" lid="l11" relType="INCLUDES" relatedToEventInstance="ei239"/>
+<TLINK eventInstanceID="ei227" lid="l12" relType="AFTER" relatedToEventInstance="ei231"/>
+<TLINK lid="l13" relType="INCLUDES" relatedToTime="t56" timeID="t59"/>
+<TLINK eventInstanceID="ei229" lid="l14" relType="IS_INCLUDED" relatedToEventInstance="ei230"/>
+<TLINK eventInstanceID="ei224" lid="l15" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei219" lid="l16" relType="BEFORE" relatedToEventInstance="ei220"/>
+<TLINK eventInstanceID="ei220" lid="l17" relType="BEFORE" relatedToEventInstance="ei223"/>
+<TLINK lid="l18" relType="BEFORE" relatedToEventInstance="ei235" timeID="t57"/>
+<TLINK eventInstanceID="ei243" lid="l19" relType="INCLUDES" relatedToEventInstance="ei202"/>
+<TLINK eventInstanceID="ei230" lid="l20" relType="AFTER" relatedToEventInstance="ei232"/>
+<TLINK eventInstanceID="ei221" lid="l21" relType="IS_INCLUDED" relatedToEventInstance="ei222"/>
+<TLINK lid="l22" relType="INCLUDES" relatedToEventInstance="ei202" timeID="t53"/>
+<TLINK eventInstanceID="ei232" lid="l23" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l24" relType="INCLUDES" relatedToEventInstance="ei226" timeID="t68"/>
+<TLINK eventInstanceID="ei199" lid="l25" relType="IS_INCLUDED" relatedToEventInstance="ei243"/>
+<TLINK eventInstanceID="ei229" lid="l26" relType="AFTER" relatedToEventInstance="ei232"/>
+<TLINK lid="l27" relType="INCLUDES" relatedToEventInstance="ei229" timeID="t57"/>
+<TLINK lid="l28" relType="AFTER" relatedToEventInstance="ei232" timeID="t68"/>
+<TLINK eventInstanceID="ei200" lid="l29" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei228" lid="l30" relType="AFTER" relatedToEventInstance="ei232"/>
+<TLINK eventInstanceID="ei241" lid="l31" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei237" lid="l32" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei231" lid="l33" relType="BEFORE" relatedToEventInstance="ei236"/>
+<TLINK eventInstanceID="ei228" lid="l34" relType="AFTER" relatedToEventInstance="ei231"/>
+<TLINK eventInstanceID="ei206" lid="l35" relType="BEFORE" relatedToEventInstance="ei209"/>
+<TLINK eventInstanceID="ei226" lid="l36" relType="AFTER" relatedToEventInstance="ei231"/>
+<TLINK eventInstanceID="ei232" lid="l37" relType="BEFORE" relatedToEventInstance="ei236"/>
+<TLINK eventInstanceID="ei216" lid="l38" relType="BEFORE" relatedToTime="t56"/>
+<TLINK eventInstanceID="ei226" lid="l39" relType="AFTER" relatedToEventInstance="ei232"/>
+<TLINK eventInstanceID="ei242" lid="l40" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei226" lid="l41" relType="IS_INCLUDED" relatedToEventInstance="ei227"/>
+<TLINK lid="l42" relType="AFTER" relatedToEventInstance="ei231" timeID="t57"/>
+<TLINK eventInstanceID="ei239" lid="l43" relType="IS_INCLUDED" relatedToEventInstance="ei240"/>
+<TLINK eventInstanceID="ei242" lid="l44" relType="SIMULTANEOUS" relatedToEventInstance="ei243"/>
+<TLINK eventInstanceID="ei216" lid="l45" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei235" lid="l46" relType="IS_INCLUDED" relatedToEventInstance="ei237"/>
+<TLINK eventInstanceID="ei239" lid="l47" relType="AFTER" relatedToEventInstance="ei241"/>
+<TLINK lid="l48" relType="INCLUDES" relatedToEventInstance="ei200" timeID="t53"/>
+<TLINK eventInstanceID="ei229" lid="l49" relType="BEFORE" relatedToEventInstance="ei235"/>
+<TLINK eventInstanceID="ei206" lid="l50" relType="BEFORE" relatedToEventInstance="ei207"/>
+<TLINK eventInstanceID="ei219" lid="l51" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei212" lid="l52" relType="AFTER" relatedToTime="t59"/>
+<TLINK eventInstanceID="ei200" lid="l53" relType="BEFORE" relatedToEventInstance="ei203"/>
+<TLINK eventInstanceID="ei212" lid="l54" relType="AFTER" relatedToEventInstance="ei216"/>
+<TLINK eventInstanceID="ei220" lid="l55" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l56" relType="INCLUDES" relatedToTime="t0" timeID="t53"/>
+<TLINK lid="l57" relType="INCLUDES" relatedToEventInstance="ei229" timeID="t68"/>
+<TLINK lid="l58" relType="INCLUDES" relatedToEventInstance="ei243" timeID="t53"/>
+<TLINK lid="l59" relType="IS_INCLUDED" relatedToTime="t0" timeID="t56"/>
+<TLINK eventInstanceID="ei231" lid="l60" relType="BEFORE" relatedToEventInstance="ei235"/>
+<TLINK eventInstanceID="ei227" lid="l61" relType="AFTER" relatedToEventInstance="ei232"/>
+<TLINK eventInstanceID="ei235" lid="l62" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei199" lid="l63" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei232" lid="l64" relType="BEFORE" relatedToEventInstance="ei235"/>
+<TLINK eventInstanceID="ei242" lid="l65" relType="INCLUDES" relatedToEventInstance="ei202"/>
+<TLINK eventInstanceID="ei238" lid="l66" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l67" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t57"/>
+<TLINK eventInstanceID="ei206" lid="l68" relType="BEFORE" relatedToEventInstance="ei208"/>
+<TLINK eventInstanceID="ei203" lid="l69" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l70" relType="SIMULTANEOUS" relatedToEventInstance="ei241" timeID="t58"/>
+<TLINK eventInstanceID="ei223" lid="l71" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei200" lid="l72" relType="IS_INCLUDED" relatedToEventInstance="ei243"/>
+<TLINK eventInstanceID="ei202" lid="l73" relType="BEFORE" relatedToEventInstance="ei203"/>
+<TLINK eventInstanceID="ei216" lid="l74" relType="IS_INCLUDED" relatedToTime="t59"/>
+<TLINK eventInstanceID="ei202" lid="l75" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei199" lid="l76" relType="BEFORE" relatedToEventInstance="ei203"/>
+<TLINK eventInstanceID="ei234" lid="l77" relType="SIMULTANEOUS" relatedToEventInstance="ei236"/>
+<TLINK eventInstanceID="ei223" lid="l78" relType="AFTER" relatedToEventInstance="ei224"/>
+<TLINK eventInstanceID="ei221" lid="l79" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei222" lid="l80" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei229" lid="l81" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei243" lid="l82" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei231" lid="l83" relType="BEFORE" relatedToEventInstance="ei234"/>
+<TLINK eventInstanceID="ei231" lid="l84" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei230" lid="l85" relType="AFTER" relatedToEventInstance="ei231"/>
+<TLINK eventInstanceID="ei208" lid="l86" relType="SIMULTANEOUS" relatedToEventInstance="ei209"/>
+<TLINK eventInstanceID="ei229" lid="l87" relType="AFTER" relatedToEventInstance="ei231"/>
+<TLINK eventInstanceID="ei232" lid="l88" relType="BEFORE" relatedToEventInstance="ei234"/>
+<TLINK lid="l89" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t68"/>
+<TLINK eventInstanceID="ei219" lid="l90" relType="BEFORE" relatedToEventInstance="ei223"/>
+<TLINK eventInstanceID="ei237" lid="l91" relType="INCLUDES" relatedToEventInstance="ei240"/>
+<TLINK eventInstanceID="ei222" lid="l92" relType="INCLUDES" relatedToEventInstance="ei224"/>
+<TLINK eventInstanceID="ei226" lid="l93" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l94" relType="SIMULTANEOUS" relatedToTime="t57" timeID="t68"/>
+<TLINK lid="l95" relType="INCLUDES" relatedToEventInstance="ei199" timeID="t53"/>
+</TimeML>

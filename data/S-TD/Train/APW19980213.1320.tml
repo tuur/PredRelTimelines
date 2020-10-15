@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>APW19980213.1320</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="TIME" value="1998-02-13T14:35:00">1998-02-13T14:35:00</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+CANBERRA, Australia (AP)_ Qantas will almost <EVENT class="OCCURRENCE" eid="e1" stem="double">double</EVENT> its flights between Australia and India by <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t43" type="DATE" value="1998-08">August</TIMEX3> in the <EVENT class="OCCURRENCE" eid="e2" stem="search">search</EVENT> for new markets untouched by the crippling Asian financial <EVENT class="OCCURRENCE" eid="e26" stem="crisis">crisis</EVENT>. This <EVENT class="OCCURRENCE" eid="e28" stem="move">move</EVENT> comes barely <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t44" type="DURATION" value="P1M">a month</TIMEX3> after Qantas <EVENT class="ASPECTUAL" eid="e5" stem="suspend">suspended</EVENT> a number of services between Australia, Indonesia, Thailand and Malaysia in the wake of the Asian economic <EVENT class="OCCURRENCE" eid="e30" stem="crisis">crisis</EVENT>. The airline has also <EVENT class="ASPECTUAL" eid="e7" stem="cut">cut</EVENT> all flights to South Korea. Qantas <EVENT class="I_ACTION" eid="e8" stem="plan">plans</EVENT> daily flights between Sydney and Bombay, up from the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t46" type="DATE" value="PRESENT_REF">current</TIMEX3> four flights a week, to <EVENT class="I_ACTION" eid="e9" stem="boost">boost</EVENT> business and tourism ties with India, the airline <EVENT class="REPORTING" eid="e10" stem="announce">announced</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t47" type="DATE" value="1998-02-13">Friday</TIMEX3>. In a joint statement with Tourism Minister Andrew Thomson, it <EVENT class="REPORTING" eid="e11" stem="say">said</EVENT> two new flights would <EVENT class="OCCURRENCE" eid="e12" stem="leave">leave</EVENT> Bombay on <TIMEX3 anchorTimeID="t189" freq="7D" functionInDocument="NONE" quant="" temporalFunction="true" tid="t190" type="SET" value="XXXX-WXX-1TNI">Monday</TIMEX3> and <TIMEX3 freq="7D" functionInDocument="NONE" quant="" temporalFunction="false" tid="t189" type="SET" value="XXXX-WXX-2TNI">Tuesday nights</TIMEX3> from <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t56" type="DATE" value="1998-03-30">March 30</TIMEX3>, with the third <EVENT class="OCCURRENCE" eid="e65" stem="depart">departing</EVENT> <TIMEX3 freq="1W" functionInDocument="NONE" quant="each" temporalFunction="false" tid="t54" type="SET" value="XXXX-WXX-4">each Thursday</TIMEX3> from <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t55" type="DATE" value="1998-08-06">August 6</TIMEX3>. This will <EVENT class="OCCURRENCE" eid="e14" stem="add">add</EVENT> nearly 700 seats a week on the route. Thomson, in India to <EVENT class="OCCURRENCE" eid="e16" stem="talk">talk</EVENT> to tourism leaders, <EVENT class="REPORTING" eid="e17" stem="say">said</EVENT> the flights would <EVENT class="I_STATE" eid="e18" stem="provide">provide</EVENT> extra support to the growing tourism market. Qantas' India manager Khursheed Lam <EVENT class="REPORTING" eid="e20" stem="say">said</EVENT> the airline was <EVENT class="OCCURRENCE" eid="e21" stem="work">working</EVENT> closely with the Australian Tourist Commission to <EVENT class="I_ACTION" eid="e22" stem="develop">develop</EVENT> greater awareness of Australia in the Indian market. Qantas will also <EVENT class="OCCURRENCE" eid="e25" stem="appoint">appoint</EVENT> a Bombay-based public relations consultant.
+</TEXT>
+<LASTEXTRAINFO>APW19980213.1320</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei352" eventID="e25"/>
+<MAKEINSTANCE eiid="ei324" eventID="e26"/>
+<MAKEINSTANCE eiid="ei348" eventID="e20"/>
+<MAKEINSTANCE eiid="ei349" eventID="e21"/>
+<MAKEINSTANCE eiid="ei350" eventID="e22"/>
+<MAKEINSTANCE eiid="ei346" eventID="e18"/>
+<MAKEINSTANCE eiid="ei338" eventID="e11"/>
+<MAKEINSTANCE eiid="ei336" eventID="e10"/>
+<MAKEINSTANCE eiid="ei354" eventID="e12"/>
+<MAKEINSTANCE eiid="ei325" eventID="e28"/>
+<MAKEINSTANCE eiid="ei342" eventID="e14"/>
+<MAKEINSTANCE eiid="ei345" eventID="e17"/>
+<MAKEINSTANCE eiid="ei344" eventID="e16"/>
+<MAKEINSTANCE eiid="ei334" eventID="e9"/>
+<MAKEINSTANCE eiid="ei328" eventID="e30"/>
+<MAKEINSTANCE eiid="ei326" eventID="e5"/>
+<MAKEINSTANCE eiid="ei329" eventID="e7"/>
+<MAKEINSTANCE eiid="ei322" eventID="e2"/>
+<MAKEINSTANCE eiid="ei321" eventID="e1"/>
+<MAKEINSTANCE eiid="ei341" eventID="e65"/>
+<MAKEINSTANCE eiid="ei331" eventID="e8"/>
+<TLINK lid="l1" relType="BEFORE" relatedToEventInstance="ei354" timeID="t47"/>
+<TLINK eventInstanceID="ei349" lid="l2" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei336" lid="l3" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l4" relType="AFTER" relatedToEventInstance="ei326" timeID="t43"/>
+<TLINK eventInstanceID="ei336" lid="l5" relType="IS_INCLUDED" relatedToTime="t47"/>
+<TLINK lid="l6" relType="AFTER" relatedToEventInstance="ei326" timeID="t44"/>
+<TLINK eventInstanceID="ei352" lid="l7" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l8" relType="AFTER" relatedToTime="t0" timeID="t56"/>
+<TLINK eventInstanceID="ei336" lid="l9" relType="BEFORE" relatedToTime="t190"/>
+<TLINK eventInstanceID="ei334" lid="l10" relType="AFTER" relatedToEventInstance="ei336"/>
+<TLINK eventInstanceID="ei346" lid="l11" relType="AFTER" relatedToEventInstance="ei348"/>
+<TLINK eventInstanceID="ei331" lid="l12" relType="BEFORE" relatedToEventInstance="ei334"/>
+<TLINK eventInstanceID="ei328" lid="l13" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei325" lid="l14" relType="IS_INCLUDED" relatedToEventInstance="ei328"/>
+<TLINK eventInstanceID="ei338" lid="l15" relType="BEFORE" relatedToTime="t54"/>
+<TLINK eventInstanceID="ei338" lid="l16" relType="BEFORE" relatedToEventInstance="ei354"/>
+<TLINK eventInstanceID="ei334" lid="l17" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei338" lid="l18" relType="BEFORE" relatedToTime="t55"/>
+<TLINK eventInstanceID="ei345" lid="l19" relType="IS_INCLUDED" relatedToEventInstance="ei349"/>
+<TLINK lid="l20" relType="AFTER" relatedToTime="t56" timeID="t189"/>
+<TLINK eventInstanceID="ei344" lid="l21" relType="BEFORE" relatedToEventInstance="ei346"/>
+<TLINK eventInstanceID="ei334" lid="l22" relType="AFTER" relatedToTime="t47"/>
+<TLINK eventInstanceID="ei338" lid="l23" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l24" relType="AFTER" relatedToTime="t0" timeID="t43"/>
+<TLINK eventInstanceID="ei348" lid="l25" relType="BEFORE" relatedToEventInstance="ei352"/>
+<TLINK eventInstanceID="ei338" lid="l26" relType="BEFORE" relatedToEventInstance="ei341"/>
+<TLINK eventInstanceID="ei336" lid="l27" relType="BEFORE" relatedToTime="t189"/>
+<TLINK lid="l28" relType="BEFORE" relatedToTime="t190" timeID="t47"/>
+<TLINK lid="l29" relType="AFTER" relatedToTime="t44" timeID="t43"/>
+<TLINK eventInstanceID="ei338" lid="l30" relType="BEFORE" relatedToEventInstance="ei342"/>
+<TLINK eventInstanceID="ei354" lid="l31" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei348" lid="l32" relType="IS_INCLUDED" relatedToEventInstance="ei349"/>
+<TLINK lid="l33" relType="AFTER" relatedToTime="t0" timeID="t190"/>
+<TLINK eventInstanceID="ei342" lid="l34" relType="AFTER" relatedToEventInstance="ei344"/>
+<TLINK eventInstanceID="ei321" lid="l35" relType="AFTER" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei336" lid="l36" relType="BEFORE" relatedToEventInstance="ei354"/>
+<TLINK eventInstanceID="ei326" lid="l37" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei321" lid="l38" relType="BEFORE" relatedToTime="t43"/>
+<TLINK eventInstanceID="ei321" lid="l39" relType="IS_INCLUDED" relatedToEventInstance="ei322"/>
+<TLINK eventInstanceID="ei336" lid="l40" relType="BEFORE" relatedToTime="t56"/>
+<TLINK eventInstanceID="ei324" lid="l41" relType="INCLUDES" relatedToTime="t44"/>
+<TLINK lid="l42" relType="BEFORE" relatedToTime="t189" timeID="t46"/>
+<TLINK lid="l43" relType="INCLUDES" relatedToEventInstance="ei336" timeID="t46"/>
+<TLINK eventInstanceID="ei334" lid="l44" relType="AFTER" relatedToEventInstance="ei338"/>
+<TLINK eventInstanceID="ei329" lid="l45" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l46" relType="BEFORE" relatedToEventInstance="ei334" timeID="t46"/>
+<TLINK eventInstanceID="ei329" lid="l47" relType="BEFORE" relatedToEventInstance="ei334"/>
+<TLINK eventInstanceID="ei326" lid="l48" relType="IS_INCLUDED" relatedToEventInstance="ei328"/>
+<TLINK lid="l49" relType="BEFORE" relatedToTime="t54" timeID="t46"/>
+<TLINK eventInstanceID="ei344" lid="l50" relType="IS_INCLUDED" relatedToEventInstance="ei349"/>
+<TLINK lid="l51" relType="INCLUDES" relatedToTime="t47" timeID="t46"/>
+<TLINK lid="l52" relType="INCLUDES" relatedToEventInstance="ei338" timeID="t46"/>
+<TLINK eventInstanceID="ei336" lid="l53" relType="BEFORE" relatedToEventInstance="ei341"/>
+<TLINK eventInstanceID="ei342" lid="l54" relType="AFTER" relatedToEventInstance="ei345"/>
+<TLINK eventInstanceID="ei348" lid="l55" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l56" relType="BEFORE" relatedToEventInstance="ei341" timeID="t47"/>
+<TLINK eventInstanceID="ei324" lid="l57" relType="INCLUDES" relatedToEventInstance="ei325"/>
+<TLINK lid="l58" relType="BEFORE" relatedToTime="t54" timeID="t47"/>
+<TLINK lid="l59" relType="BEFORE" relatedToTime="t56" timeID="t47"/>
+<TLINK eventInstanceID="ei325" lid="l60" relType="AFTER" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei338" lid="l61" relType="BEFORE" relatedToTime="t56"/>
+<TLINK lid="l62" relType="BEFORE" relatedToTime="t56" timeID="t46"/>
+<TLINK eventInstanceID="ei338" lid="l63" relType="BEFORE" relatedToTime="t190"/>
+<TLINK eventInstanceID="ei341" lid="l64" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei324" lid="l65" relType="INCLUDES" relatedToEventInstance="ei326"/>
+<TLINK eventInstanceID="ei345" lid="l66" relType="BEFORE" relatedToEventInstance="ei346"/>
+<TLINK eventInstanceID="ei324" lid="l67" relType="SIMULTANEOUS" relatedToEventInstance="ei328"/>
+<TLINK eventInstanceID="ei341" lid="l68" relType="AFTER" relatedToTime="t55"/>
+<TLINK lid="l69" relType="AFTER" relatedToTime="t0" timeID="t189"/>
+<TLINK eventInstanceID="ei342" lid="l70" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei325" lid="l71" relType="AFTER" relatedToEventInstance="ei326"/>
+<TLINK lid="l72" relType="AFTER" relatedToTime="t0" timeID="t54"/>
+<TLINK eventInstanceID="ei321" lid="l73" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l74" relType="IS_INCLUDED" relatedToEventInstance="ei328" timeID="t44"/>
+<TLINK eventInstanceID="ei321" lid="l75" relType="AFTER" relatedToEventInstance="ei326"/>
+<TLINK eventInstanceID="ei338" lid="l76" relType="BEFORE" relatedToTime="t189"/>
+<TLINK lid="l77" relType="BEFORE" relatedToTime="t190" timeID="t46"/>
+<TLINK lid="l78" relType="SIMULTANEOUS" relatedToTime="t0" timeID="t47"/>
+<TLINK eventInstanceID="ei324" lid="l79" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l80" relType="BEFORE" relatedToTime="t189" timeID="t47"/>
+<TLINK eventInstanceID="ei328" lid="l81" relType="INCLUDES" relatedToEventInstance="ei329"/>
+<TLINK lid="l82" relType="BEFORE" relatedToTime="t54" timeID="t56"/>
+<TLINK lid="l83" relType="BEFORE" relatedToTime="t55" timeID="t47"/>
+<TLINK lid="l84" relType="AFTER" relatedToTime="t55" timeID="t54"/>
+<TLINK lid="l85" relType="INCLUDES" relatedToTime="t0" timeID="t46"/>
+<TLINK eventInstanceID="ei336" lid="l86" relType="BEFORE" relatedToTime="t55"/>
+<TLINK eventInstanceID="ei331" lid="l87" relType="IS_INCLUDED" relatedToTime="t46"/>
+<TLINK eventInstanceID="ei345" lid="l88" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l89" relType="AFTER" relatedToTime="t0" timeID="t55"/>
+<TLINK eventInstanceID="ei336" lid="l90" relType="BEFORE" relatedToTime="t54"/>
+<TLINK lid="l91" relType="BEFORE" relatedToTime="t55" timeID="t46"/>
+<TLINK lid="l92" relType="BEFORE" relatedToTime="t55" timeID="t56"/>
+<TLINK lid="l93" relType="BEFORE" relatedToEventInstance="ei354" timeID="t46"/>
+<TLINK lid="l94" relType="INCLUDES" relatedToEventInstance="ei338" timeID="t47"/>
+<TLINK lid="l95" relType="BEFORE" relatedToEventInstance="ei341" timeID="t56"/>
+<TLINK lid="l96" relType="BEFORE" relatedToEventInstance="ei341" timeID="t46"/>
+<TLINK eventInstanceID="ei346" lid="l97" relType="AFTER" relatedToTime="t0"/>
+</TimeML>
