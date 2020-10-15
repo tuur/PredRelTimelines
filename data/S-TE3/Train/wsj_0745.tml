@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0745</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+General Motors Corp. <EVENT class="I_STATE" eid="e1">wants</EVENT> to <EVENT class="OCCURRENCE" eid="e3">buy</EVENT> as much as 15% of Jaguar PLC, <EVENT class="OCCURRENCE" eid="e4">marking</EVENT> its first salvo in a possible full-scale <EVENT class="OCCURRENCE" eid="e6">battle</EVENT> against Ford Motor Co. for <EVENT class="STATE" eid="e147">control</EVENT> of the British car maker.
+
+GM <EVENT class="I_ACTION" eid="e8">sought</EVENT> U.S. antitrust <EVENT class="I_STATE" eid="e159">clearance</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t158" type="DATE" value="1989-W42">last week</TIMEX3> to <EVENT class="OCCURRENCE" eid="e10">purchase</EVENT> more than $15 million worth of Jaguar shares but doesn't <EVENT class="STATE" eid="e11">own</EVENT> any <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t161" type="DATE" value="PRESENT_REF">yet</TIMEX3>, <EVENT class="REPORTING" eid="e149">according</EVENT> to GM officials here and at the company's Detroit headquarters. The No. 1 U.S. auto maker then <EVENT class="REPORTING" eid="e13">wrote</EVENT> Jaguar that it <EVENT class="I_STATE" eid="e14">intends</EVENT> "to <EVENT class="OCCURRENCE" eid="e16">go</EVENT> to that 15%" level once it <EVENT class="OCCURRENCE" eid="e17">wins</EVENT> the U.S. <EVENT class="I_STATE" eid="e152">clearance</EVENT> to <EVENT class="OCCURRENCE" eid="e19">go</EVENT> beyond $15 million, a Jaguar spokesman <EVENT class="REPORTING" eid="e20">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t163" type="DATE" value="1989-10-26">yesterday</TIMEX3>.
+
+The GM <EVENT class="OCCURRENCE" eid="e154">move</EVENT> follows <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t164" type="DATE" value="1989-10-24">Tuesday</TIMEX3>'s <EVENT class="REPORTING" eid="e22">declaration</EVENT> by Ford, which holds an unwelcome 12.45% stake in Jaguar, that it is <EVENT class="I_STATE" eid="e25">prepared</EVENT> to <EVENT class="OCCURRENCE" eid="e27">bid</EVENT> for the entire company. GM is close to <EVENT class="ASPECTUAL" eid="e29">completing</EVENT> a friendly <EVENT class="OCCURRENCE" eid="e30">deal</EVENT> with Jaguar that is likely to <EVENT class="I_STATE" eid="e2073">involve</EVENT> an eventual 30% stake and joint manufacturing ventures. Speculative investors, <EVENT class="OCCURRENCE" eid="e35">betting</EVENT> on an imminent <EVENT class="OCCURRENCE" eid="e36">clash</EVENT> between Ford and GM, <EVENT class="OCCURRENCE" eid="e38">pushed</EVENT> up Jaguar's share price five pence (eight U.S. cents) to a near-record 720 pence ($11.60) in late <EVENT class="OCCURRENCE" eid="e39">trading</EVENT> on London's stock exchange <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t313" type="DATE" value="1989-10-26">yesterday</TIMEX3>. Since <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t314" type="DATE" value="1989-10-24">Tuesday</TIMEX3>, the shares have <EVENT class="OCCURRENCE" eid="e42">gained</EVENT> nearly 4%.
+
+But an all-out bidding <EVENT class="OCCURRENCE" eid="e2091">war</EVENT> between the world's top auto giants for Britain's leading luxury-car maker seems unlikely. "We will not <EVENT class="OCCURRENCE" eid="e46">go</EVENT> over a certain level," <EVENT class="REPORTING" eid="e48">said</EVENT> David N. McCammon, Ford's vice president for finance, at a news <EVENT class="OCCURRENCE" eid="e316">conference</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t315" type="DATE" value="1989-10-26">yesterday</TIMEX3> in Dearborn, Mich. "There's some price at which we'd <EVENT class="ASPECTUAL" eid="e50">stop</EVENT> <EVENT class="OCCURRENCE" eid="e52">bidding</EVENT>." He wouldn't <EVENT class="OCCURRENCE" eid="e53">specify</EVENT> what it was.
+
+And powerful political <EVENT class="STATE" eid="e318">pressures</EVENT> may <EVENT class="I_ACTION" eid="e56">convince</EVENT> the Conservative government to <EVENT class="OCCURRENCE" eid="e59">keep</EVENT> its so-called golden share, which limits any individual holding to 15%, until the restriction <EVENT class="ASPECTUAL" eid="e63">expires</EVENT> on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t325" type="DATE" value="1990-12-31">Dec. 31, 1990</TIMEX3>.
+
+"I really don't <EVENT class="I_STATE" eid="e64">see</EVENT> the government <EVENT class="OCCURRENCE" eid="e66">doing</EVENT> something that Jaguar doesn't <EVENT class="I_STATE" eid="e67">want</EVENT> over <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t327" type="DURATION" value="P14M">the next 14 months</TIMEX3>," <EVENT class="REPORTING" eid="e69">said</EVENT> Kenneth Warren, a Conservative member of Parliament and chairman of the Select Committee on Trade and Industry in Britain's House of Commons. "The golden share is a single share, but it is the magic share."
+
+The government <EVENT class="OCCURRENCE" eid="e70">retained</EVENT> the single share after <EVENT class="OCCURRENCE" eid="e72">selling</EVENT> its stake in Jaguar in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t330" type="DATE" value="1984">1984</TIMEX3> -- part of a nationalistic practice of protecting former government-owned enterprises to deflect criticism of privatization. The 15% restriction covers any would-be suitor, British or foreign.
+
+Ford is <EVENT class="I_STATE" eid="e1988">willing</EVENT> to <EVENT class="OCCURRENCE" eid="e82">bid</EVENT> for 100% of Jaguar's shares if both the government and Jaguar shareholders <EVENT class="I_ACTION" eid="e84">agree</EVENT> to <EVENT class="OCCURRENCE" eid="e86">relax</EVENT> the anti-takeover barrier prematurely. As Jaguar's biggest holder and Britain's biggest car maker, Ford could <EVENT class="OCCURRENCE" eid="e87">turn</EVENT> up the heat by <EVENT class="I_ACTION" eid="e89">convening</EVENT> a special shareholders' <EVENT class="OCCURRENCE" eid="e90">meeting</EVENT> and <EVENT class="I_ACTION" eid="e91">urging</EVENT> holders to <EVENT class="OCCURRENCE" eid="e1985">drop</EVENT> the limits early. Ford might <EVENT class="OCCURRENCE" eid="e92">succeed</EVENT> because many shareholders are speculators <EVENT class="I_STATE" eid="e1986">keen</EVENT> for a full <EVENT class="OCCURRENCE" eid="e94">bid</EVENT> or institutional investors <EVENT class="I_STATE" eid="e1987">unhappy</EVENT> over Jaguar management's <EVENT class="I_ACTION" eid="e95">handling</EVENT> of its <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1992" type="DATE" value="PRESENT_REF">current</TIMEX3> financial <EVENT class="STATE" eid="e1994">difficulties</EVENT>.
+
+The government probably wouldn't <EVENT class="OCCURRENCE" eid="e97">give</EVENT> in readily to a hostile foray by Ford, however. It has <EVENT class="OCCURRENCE" eid="e101">relinquished</EVENT> a golden share only once before -- during British Petroleum Co.'s #2.5 billion ( $4 billion ) <EVENT class="OCCURRENCE" eid="e103">takeover</EVENT> of Britoil PLC in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t1998" type="DATE" value="1988">1988</TIMEX3>.
+
+In <EVENT class="OCCURRENCE" eid="e104">wooing</EVENT> British lawmakers, GM has <EVENT class="I_ACTION" eid="e105">pointed</EVENT> out that its willingness to <EVENT class="OCCURRENCE" eid="e107">settle</EVENT> for a minority stake would <EVENT class="ASPECTUAL" eid="e109">keep</EVENT> Jaguar <EVENT class="STATE" eid="e2000">British-owned</EVENT> and <EVENT class="STATE" eid="e2001">independent</EVENT>. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2007" type="DATE" value="1989-WXX">This week</TIMEX3>, the U.S. auto giant <EVENT class="OCCURRENCE" eid="e111">paid</EVENT> for 10 House of Commons members and two House of Lords members to <EVENT class="OCCURRENCE" eid="e113">fly</EVENT> to Detroit and <EVENT class="OCCURRENCE" eid="e114">tour</EVENT> its operations there. While the <EVENT class="OCCURRENCE" eid="e116">visit</EVENT> was unrelated to Jaguar, GM Chairman Roger Smith <EVENT class="OCCURRENCE" eid="e117">answered</EVENT> the legislators' <EVENT class="OCCURRENCE" eid="e118">questions</EVENT> about it over <EVENT class="OCCURRENCE" eid="e2385">lunch</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2386" type="DATE" value="1989-10-24">Tuesday</TIMEX3>. He <EVENT class="REPORTING" eid="e119">said</EVENT> Jaguar "shouldn't be <EVENT class="OCCURRENCE" eid="e120">smothered</EVENT> by anyone else, " <EVENT class="REPORTING" eid="e123">recalled</EVENT> one participant.
+
+Politics also influences the government's thinking on the anti-takeover restriction. The Conservatives don't dare jeopardize marginal Tory seats in Coventry, where Jaguar has headquarters, nor can the government easily back down on promised protection for a privatized company while it proceeds with controversial plans to privatize most of Britain's water and electricity industries.
+
+Prime Minister Margaret Thatcher might, however, be <EVENT class="I_STATE" eid="e2011">receptive</EVENT> to any <EVENT class="I_ACTION" eid="e138">request</EVENT> by Jaguar Chairman Sir John Egan for the restriction's early <EVENT class="OCCURRENCE" eid="e139">removal</EVENT> to let GM <EVENT class="OCCURRENCE" eid="e142">amass</EVENT> more than 15% or <EVENT class="I_ACTION" eid="e143">mount</EVENT> a friendly suitor <EVENT class="OCCURRENCE" eid="e2012">bid</EVENT> against Ford. In the end, Sir John -- rather than the government or Jaguar shareholders -- may hold the key that unlocks the golden share.
+</TEXT>
+<LASTEXTRAINFO>wsj_0745</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2493" eventID="e318"/>
+<MAKEINSTANCE eiid="ei2489" eventID="e316"/>
+<MAKEINSTANCE eiid="ei2468" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2460" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2459" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2462" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2463" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2466" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2464" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2511" eventID="e91"/>
+<MAKEINSTANCE eiid="ei2510" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2513" eventID="e92"/>
+<MAKEINSTANCE eiid="ei2517" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2515" eventID="e94"/>
+<MAKEINSTANCE eiid="ei2519" eventID="e97"/>
+<MAKEINSTANCE eiid="ei2461" eventID="e149"/>
+<MAKEINSTANCE eiid="ei2456" eventID="e147"/>
+<MAKEINSTANCE eiid="ei2543" eventID="e142"/>
+<MAKEINSTANCE eiid="ei2544" eventID="e143"/>
+<MAKEINSTANCE eiid="ei2537" eventID="e120"/>
+<MAKEINSTANCE eiid="ei2538" eventID="e123"/>
+<MAKEINSTANCE eiid="ei2477" eventID="e2073"/>
+<MAKEINSTANCE eiid="ei2508" eventID="e87"/>
+<MAKEINSTANCE eiid="ei2506" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2505" eventID="e82"/>
+<MAKEINSTANCE eiid="ei2467" eventID="e152"/>
+<MAKEINSTANCE eiid="ei2471" eventID="e154"/>
+<MAKEINSTANCE eiid="ei2509" eventID="e89"/>
+<MAKEINSTANCE eiid="ei2541" eventID="e139"/>
+<MAKEINSTANCE eiid="ei2540" eventID="e138"/>
+<MAKEINSTANCE eiid="ei2535" eventID="e2385"/>
+<MAKEINSTANCE eiid="ei2507" eventID="e86"/>
+<MAKEINSTANCE eiid="ei2503" eventID="e72"/>
+<MAKEINSTANCE eiid="ei2502" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2526" eventID="e109"/>
+<MAKEINSTANCE eiid="ei2521" eventID="e103"/>
+<MAKEINSTANCE eiid="ei2520" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2525" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2522" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2523" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2486" eventID="e2091"/>
+<MAKEINSTANCE eiid="ei2457" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2453" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2455" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2451" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2452" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2501" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2539" eventID="e2011"/>
+<MAKEINSTANCE eiid="ei2545" eventID="e2012"/>
+<MAKEINSTANCE eiid="ei2498" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2499" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2500" eventID="e67"/>
+<MAKEINSTANCE eiid="ei2518" eventID="e1994"/>
+<MAKEINSTANCE eiid="ei2495" eventID="e59"/>
+<MAKEINSTANCE eiid="ei2527" eventID="e2000"/>
+<MAKEINSTANCE eiid="ei2528" eventID="e2001"/>
+<MAKEINSTANCE eiid="ei2490" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2492" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2491" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2514" eventID="e1986"/>
+<MAKEINSTANCE eiid="ei2516" eventID="e1987"/>
+<MAKEINSTANCE eiid="ei2512" eventID="e1985"/>
+<MAKEINSTANCE eiid="ei2504" eventID="e1988"/>
+<MAKEINSTANCE eiid="ei2474" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2458" eventID="e159"/>
+<MAKEINSTANCE eiid="ei2485" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2494" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2487" eventID="e46"/>
+<MAKEINSTANCE eiid="ei2488" eventID="e48"/>
+<MAKEINSTANCE eiid="ei2531" eventID="e114"/>
+<MAKEINSTANCE eiid="ei2533" eventID="e117"/>
+<MAKEINSTANCE eiid="ei2532" eventID="e116"/>
+<MAKEINSTANCE eiid="ei2529" eventID="e111"/>
+<MAKEINSTANCE eiid="ei2530" eventID="e113"/>
+<MAKEINSTANCE eiid="ei2536" eventID="e119"/>
+<MAKEINSTANCE eiid="ei2534" eventID="e118"/>
+<MAKEINSTANCE eiid="ei2480" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2479" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2476" eventID="e30"/>
+<MAKEINSTANCE eiid="ei2484" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2481" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2473" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2497" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2470" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2472" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2475" eventID="e29"/>
+<TLINK eventInstanceID="ei2514" lid="l1" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2520" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2486" lid="l3" relType="AFTER" relatedToTime="t314"/>
+<TLINK eventInstanceID="ei2499" lid="l4" relType="IS_INCLUDED" relatedToTime="t327"/>
+<TLINK eventInstanceID="ei2511" lid="l5" relType="IS_INCLUDED" relatedToEventInstance="ei2510"/>
+<TLINK eventInstanceID="ei2539" lid="l6" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2503" lid="l7" relType="IS_INCLUDED" relatedToTime="t330"/>
+<TLINK eventInstanceID="ei2451" lid="l8" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2461" lid="l9" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2462" lid="l10" relType="AFTER" relatedToEventInstance="ei2457"/>
+<TLINK eventInstanceID="ei2494" lid="l11" relType="OVERLAP" relatedToEventInstance="ei2495"/>
+<TLINK lid="l12" relType="IS_INCLUDED" relatedToEventInstance="ei2529" timeID="t2007"/>
+<TLINK eventInstanceID="ei2479" lid="l13" relType="INCLUDES" relatedToEventInstance="ei2481"/>
+<TLINK eventInstanceID="ei2472" lid="l14" relType="IS_INCLUDED" relatedToTime="t164"/>
+<TLINK eventInstanceID="ei2538" lid="l15" relType="AFTER" relatedToEventInstance="ei2533"/>
+<TLINK eventInstanceID="ei2457" lid="l16" relType="IS_INCLUDED" relatedToTime="t158"/>
+<TLINK eventInstanceID="ei2506" lid="l17" relType="BEFORE" relatedToEventInstance="ei2507"/>
+<TLINK eventInstanceID="ei2529" lid="l18" relType="BEFORE" relatedToEventInstance="ei2530"/>
+<TLINK eventInstanceID="ei2500" lid="l19" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2533" lid="l20" relType="IS_INCLUDED" relatedToEventInstance="ei2535"/>
+<TLINK eventInstanceID="ei2489" lid="l21" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2481" lid="l22" relType="IS_INCLUDED" relatedToEventInstance="ei2484"/>
+<TLINK eventInstanceID="ei2488" lid="l23" relType="IS_INCLUDED" relatedToEventInstance="ei2489"/>
+<TLINK eventInstanceID="ei2484" lid="l24" relType="IS_INCLUDED" relatedToTime="t313"/>
+<TLINK eventInstanceID="ei2522" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei2523"/>
+<TLINK eventInstanceID="ei2527" lid="l26" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2492" lid="l27" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2451" lid="l28" relType="BEFORE" relatedToEventInstance="ei2452"/>
+<TLINK eventInstanceID="ei2497" lid="l29" relType="IS_INCLUDED" relatedToTime="t325"/>
+<TLINK eventInstanceID="ei2532" lid="l30" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2508" lid="l31" relType="AFTER" relatedToEventInstance="ei2511"/>
+<TLINK eventInstanceID="ei2508" lid="l32" relType="AFTER" relatedToEventInstance="ei2509"/>
+<TLINK eventInstanceID="ei2532" lid="l33" relType="INCLUDES" relatedToEventInstance="ei2530"/>
+<TLINK eventInstanceID="ei2462" lid="l34" relType="OVERLAP" relatedToEventInstance="ei2463"/>
+<TLINK eventInstanceID="ei2467" lid="l35" relType="IDENTITY" relatedToEventInstance="ei2458"/>
+<TLINK eventInstanceID="ei2514" lid="l36" relType="SIMULTANEOUS" relatedToEventInstance="ei2516"/>
+<TLINK eventInstanceID="ei2526" lid="l37" relType="CONTINUES" relatedToEventInstance="ei2527"/>
+<TLINK eventInstanceID="ei2493" lid="l38" relType="BEFORE" relatedToEventInstance="ei2494"/>
+<TLINK eventInstanceID="ei2514" lid="l39" relType="BEFORE" relatedToEventInstance="ei2513"/>
+<TLINK eventInstanceID="ei2475" lid="l40" relType="CULMINATES" relatedToEventInstance="ei2476"/>
+<TLINK eventInstanceID="ei2495" lid="l41" relType="ENDED_BY" relatedToEventInstance="ei2497"/>
+<TLINK eventInstanceID="ei2519" lid="l42" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2463" lid="l43" relType="BEFORE" relatedToEventInstance="ei2464"/>
+<TLINK eventInstanceID="ei2475" lid="l44" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2463" lid="l45" relType="AFTER" relatedToEventInstance="ei2466"/>
+<TLINK eventInstanceID="ei2536" lid="l46" relType="IS_INCLUDED" relatedToEventInstance="ei2533"/>
+<TLINK eventInstanceID="ei2491" lid="l47" relType="IDENTITY" relatedToEventInstance="ei2486"/>
+<TLINK eventInstanceID="ei2536" lid="l48" relType="BEFORE" relatedToEventInstance="ei2537"/>
+<TLINK eventInstanceID="ei2523" lid="l49" relType="BEFORE" relatedToEventInstance="ei2526"/>
+<TLINK eventInstanceID="ei2457" lid="l50" relType="BEFORE" relatedToEventInstance="ei2459"/>
+<TLINK eventInstanceID="ei2489" lid="l51" relType="IS_INCLUDED" relatedToTime="t315"/>
+<TLINK eventInstanceID="ei2470" lid="l52" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2502" lid="l53" relType="AFTER" relatedToEventInstance="ei2503"/>
+<TLINK eventInstanceID="ei2520" lid="l54" relType="IS_INCLUDED" relatedToEventInstance="ei2521"/>
+<TLINK eventInstanceID="ei2532" lid="l55" relType="INCLUDES" relatedToEventInstance="ei2531"/>
+<TLINK eventInstanceID="ei2511" lid="l56" relType="BEFORE" relatedToEventInstance="ei2512"/>
+<TLINK eventInstanceID="ei2521" lid="l57" relType="IS_INCLUDED" relatedToTime="t1998"/>
+<TLINK eventInstanceID="ei2476" lid="l58" relType="INCLUDES" relatedToEventInstance="ei2477"/>
+<TLINK eventInstanceID="ei2460" lid="l59" relType="IS_INCLUDED" relatedToTime="t161"/>
+<TLINK eventInstanceID="ei2471" lid="l60" relType="AFTER" relatedToEventInstance="ei2472"/>
+<TLINK eventInstanceID="ei2504" lid="l61" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2526" lid="l62" relType="CONTINUES" relatedToEventInstance="ei2528"/>
+<TLINK eventInstanceID="ei2535" lid="l63" relType="IS_INCLUDED" relatedToTime="t2386"/>
+<TLINK lid="l64" relType="INCLUDES" relatedToEventInstance="ei2518" timeID="t1992"/>
+<TLINK eventInstanceID="ei2464" lid="l65" relType="AFTER" relatedToEventInstance="ei2466"/>
+<TLINK eventInstanceID="ei2544" lid="l66" relType="BEGINS" relatedToEventInstance="ei2545"/>
+<TLINK eventInstanceID="ei2533" lid="l67" relType="AFTER" relatedToEventInstance="ei2534"/>
+<TLINK eventInstanceID="ei2481" lid="l68" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2490" lid="l69" relType="ENDS" relatedToEventInstance="ei2491"/>
+<TLINK eventInstanceID="ei2490" lid="l70" relType="TERMINATES" relatedToEventInstance="ei2491"/>
+<TLINK eventInstanceID="ei2451" lid="l71" relType="SIMULTANEOUS" relatedToEventInstance="ei2453"/>
+<TLINK lid="l72" relType="BEGINS" relatedToEventInstance="ei2485" timeID="t314"/>
+<TLINK eventInstanceID="ei2498" lid="l73" relType="BEFORE" relatedToEventInstance="ei2499"/>
+<TLINK eventInstanceID="ei2471" lid="l74" relType="INCLUDES" relatedToEventInstance="ei2451"/>
+<TLINK eventInstanceID="ei2501" lid="l75" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2506" lid="l76" relType="BEFORE" relatedToEventInstance="ei2505"/>
+<TLINK eventInstanceID="ei2534" lid="l77" relType="AFTER" relatedToEventInstance="ei2532"/>
+</TimeML>

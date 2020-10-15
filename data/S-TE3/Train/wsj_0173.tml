@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0173</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Coleco Industries Inc., a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t30" type="DATE" value="PAST_REF">once</TIMEX3> high-flying toy maker whose stock <EVENT class="OCCURRENCE" eid="e1">peaked</EVENT> at $65 a share in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t26" type="DATE" value="198">the early 1980s</TIMEX3>, <EVENT class="OCCURRENCE" eid="e2">filed</EVENT> a Chapter 11 reorganization plan that <EVENT class="OCCURRENCE" eid="e3">provides</EVENT> just 1.125 cents a share for common stockholders.
+
+Under the plan, unsecured creditors, who are <EVENT class="STATE" eid="e4">owed</EVENT> about $430 million, would <EVENT class="OCCURRENCE" eid="e5">receive</EVENT> about $92 million, or 21 cents for each dollar they are <EVENT class="STATE" eid="e7">owed</EVENT>. In addition, they will <EVENT class="OCCURRENCE" eid="e8">receive</EVENT> stock in the reorganized company, which will be <EVENT class="OCCURRENCE" eid="e9">named</EVENT> Ranger Industries Inc. After these <EVENT class="OCCURRENCE" eid="e1990">payments</EVENT>, about $225,000 will be <EVENT class="STATE" eid="e1991">available</EVENT> for the 20 million common shares outstanding.
+
+The Avon, Conn., company's stock <EVENT class="OCCURRENCE" eid="e10">hit</EVENT> a high in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t27" type="DATE" value="1983">1983</TIMEX3> after it <EVENT class="OCCURRENCE" eid="e11">unveiled</EVENT> its Adam home computer, but the product was <EVENT class="STATE" eid="e12">plagued</EVENT> with glitches and the company's fortunes <EVENT class="OCCURRENCE" eid="e13">plunged</EVENT>. But Coleco <EVENT class="OCCURRENCE" eid="e14">bounced</EVENT> back with the <EVENT class="OCCURRENCE" eid="e1993">introduction</EVENT> of the Cabbage Patch dolls, whose sales <EVENT class="OCCURRENCE" eid="e15">hit</EVENT> $600 million in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t28" type="DATE" value="1985">1985</TIMEX3>. But as the craze <EVENT class="OCCURRENCE" eid="e16">died</EVENT>, Coleco <EVENT class="OCCURRENCE" eid="e17">failed</EVENT> to <EVENT class="OCCURRENCE" eid="e18">come</EVENT> up with another winner and <EVENT class="OCCURRENCE" eid="e19">filed</EVENT> for bankruptcy-law protection in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t29" type="DATE" value="1988-07">July 1988</TIMEX3>.
+
+The plan was <EVENT class="OCCURRENCE" eid="e20">filed</EVENT> jointly with unsecured creditors in federal bankruptcy court in New York and must be <EVENT class="OCCURRENCE" eid="e22">approved</EVENT> by the court.
+</TEXT>
+<LASTEXTRAINFO>wsj_0173</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2156" eventID="e1991"/>
+<MAKEINSTANCE eiid="ei2155" eventID="e1990"/>
+<MAKEINSTANCE eiid="ei2163" eventID="e1993"/>
+<MAKEINSTANCE eiid="ei2168" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2167" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2159" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2158" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2161" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2160" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2164" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2162" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2166" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2165" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2154" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2153" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2151" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2150" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2152" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2147" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2149" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2148" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2170" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2171" eventID="e22"/>
+<TLINK eventInstanceID="ei2170" lid="l1" relType="IDENTITY" relatedToEventInstance="ei2168"/>
+<TLINK eventInstanceID="ei2155" lid="l2" relType="INCLUDES" relatedToEventInstance="ei2153"/>
+<TLINK eventInstanceID="ei2147" lid="l3" relType="IS_INCLUDED" relatedToTime="t26"/>
+<TLINK eventInstanceID="ei2160" lid="l4" relType="AFTER" relatedToEventInstance="ei2159"/>
+<TLINK eventInstanceID="ei2165" lid="l5" relType="AFTER" relatedToEventInstance="ei2164"/>
+<TLINK eventInstanceID="ei2148" lid="l6" relType="BEFORE" relatedToEventInstance="ei2154"/>
+<TLINK eventInstanceID="ei2150" lid="l7" relType="BEFORE" relatedToEventInstance="ei2151"/>
+<TLINK eventInstanceID="ei2149" lid="l8" relType="DURING" relatedToEventInstance="ei2148"/>
+<TLINK eventInstanceID="ei2166" lid="l9" relType="OVERLAP" relatedToEventInstance="ei2167"/>
+<TLINK eventInstanceID="ei2170" lid="l10" relType="BEFORE" relatedToEventInstance="ei2171"/>
+<TLINK eventInstanceID="ei2168" lid="l11" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2162" lid="l12" relType="AFTER" relatedToEventInstance="ei2161"/>
+<TLINK eventInstanceID="ei2164" lid="l13" relType="IS_INCLUDED" relatedToTime="t28"/>
+<TLINK eventInstanceID="ei2166" lid="l14" relType="AFTER" relatedToEventInstance="ei2165"/>
+<TLINK eventInstanceID="ei2155" lid="l15" relType="INCLUDES" relatedToEventInstance="ei2151"/>
+<TLINK eventInstanceID="ei2158" lid="l16" relType="IS_INCLUDED" relatedToTime="t27"/>
+<TLINK lid="l17" relType="BEFORE" relatedToTime="t0" timeID="t30"/>
+<TLINK eventInstanceID="ei2164" lid="l18" relType="AFTER" relatedToEventInstance="ei2163"/>
+<TLINK eventInstanceID="ei2148" lid="l19" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2162" lid="l20" relType="AFTER" relatedToEventInstance="ei2163"/>
+<TLINK eventInstanceID="ei2152" lid="l21" relType="IDENTITY" relatedToEventInstance="ei2150"/>
+<TLINK eventInstanceID="ei2153" lid="l22" relType="AFTER" relatedToEventInstance="ei2154"/>
+<TLINK eventInstanceID="ei2150" lid="l23" relType="BEFORE" relatedToEventInstance="ei2153"/>
+<TLINK eventInstanceID="ei2156" lid="l24" relType="AFTER" relatedToEventInstance="ei2155"/>
+<TLINK eventInstanceID="ei2161" lid="l25" relType="AFTER" relatedToEventInstance="ei2160"/>
+<TLINK eventInstanceID="ei2158" lid="l26" relType="AFTER" relatedToEventInstance="ei2159"/>
+</TimeML>

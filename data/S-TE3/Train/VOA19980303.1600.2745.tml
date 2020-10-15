@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>VOA19980303.1600.2745</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-03-03">1998-03-03</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+While the <EVENT class="OCCURRENCE" eid="e1">expansion</EVENT> of the Internet has been a <EVENT class="OCCURRENCE" eid="e2">blessing</EVENT> for researchers, students and the just plain curious, the new opportunities <EVENT class="REPORTING" eid="e3">mentioned</EVENT> by Mr. Gates are also being <EVENT class="OCCURRENCE" eid="e4">used</EVENT> by some rather unsavory characters. A new report <EVENT class="REPORTING" eid="e6">says</EVENT> there has been a dramatic <EVENT class="OCCURRENCE" eid="e7">rise</EVENT> in the <EVENT class="OCCURRENCE" eid="e102">growth</EVENT> of hate groups in the United States over <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t168" type="DATE" value="1997">the past year</TIMEX3>. And many of them are <EVENT class="OCCURRENCE" eid="e10">using</EVENT> the Internet to <EVENT class="OCCURRENCE" eid="e12">spread</EVENT> their messages of racial superiority. VOA's Jim Teple has details from our southeast news bureau.
+
+The Southern Poverty Law Center, a civil rights monitoring group based in Montgomery, Alabama, has long <EVENT class="OCCURRENCE" eid="e107">monitored</EVENT> such groups as the Ku Klux Klan. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t109" type="DATE" value="PAST_REF">More recently</TIMEX3> it has <EVENT class="I_ACTION" eid="e18">followed</EVENT> the <EVENT class="OCCURRENCE" eid="e110">growth</EVENT> of the militia movement and church groups that preach a message of white supremacy and anti-semitism. The new study written by Mark Potach, who edits the Southern Poverty Law Center's Intelligence Report, <EVENT class="I_ACTION" eid="e25">warns</EVENT> that such groups <EVENT class="OCCURRENCE" eid="e26">grew</EVENT> rapidly <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t111" type="DATE" value="1997">last year</TIMEX3>, mostly by <EVENT class="OCCURRENCE" eid="e27">recruiting</EVENT> younger members. Mr. Potach <EVENT class="REPORTING" eid="e28">says</EVENT> the <EVENT class="OCCURRENCE" eid="e113">growth</EVENT> is <EVENT class="STATE" eid="e112">surprising</EVENT> since membership in hate groups usually declines during periods of economic prosperity.
+
+We in fact have <EVENT class="PERCEPTION" eid="e34">seen</EVENT> hate group numbers <EVENT class="OCCURRENCE" eid="e37">dropping</EVENT> through <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t115" type="DATE" value="199">the nineties</TIMEX3>, uh but <TIMEX3 anchorTimeID="t111" functionInDocument="NONE" temporalFunction="true" tid="t116" type="DATE" value="1998">this year</TIMEX3> they <EVENT class="OCCURRENCE" eid="e38">jumped</EVENT> up uh twenty percent, quite a dramatic <EVENT class="OCCURRENCE" eid="e39">rise</EVENT>.
+
+Mark Potach <EVENT class="REPORTING" eid="e40">says</EVENT> over four hundred hate groups have been <EVENT class="OCCURRENCE" eid="e42">identified</EVENT> and many are <EVENT class="I_STATE" eid="e43">becoming</EVENT> increasingly <EVENT class="I_STATE" eid="e118">successful</EVENT> at recruiting younger members through the <EVENT class="OCCURRENCE" eid="e46">use</EVENT> of Internet web pages and the promotion of racist rock music.
+
+The Internet has certainly <EVENT class="I_STATE" eid="e49">helped</EVENT> uh hate mongers to <EVENT class="OCCURRENCE" eid="e52">organize</EVENT> and uh to <EVENT class="STATE" eid="e54">feel</EVENT> that they are part of a larger community, even if uh they are essentially uh, you know, angry people sitting in their bedrooms uh all alone. Uh, in addition, white power racist music has <EVENT class="I_STATE" eid="e60">become</EVENT> uh quite popular in certain sectors. Uh, there are over fifty thousand CDs <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t120" type="SET" value="P1Y">a year</TIMEX3> <EVENT class="OCCURRENCE" eid="e61">sold</EVENT> with uh lyrics that are quite uh unbelievable.
+
+Many of these new members are <EVENT class="OCCURRENCE" eid="e63">joining</EVENT> chapters of the so called Christian Identity Movement which cites Biblical scripture as a foundation for a belief in white supremacy and anti-semitism. Mark Potach <EVENT class="REPORTING" eid="e67">says</EVENT> such members are also intensely <EVENT class="OCCURRENCE" eid="e68">attracted</EVENT> to apocalyptical fantasies.
+
+The <EVENT class="I_STATE" eid="e72">approach</EVENT> of <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t121" type="DATE" value="2000">the year two thousand</TIMEX3> has many of these groups in a kind of millennial frenzy. Uh, uh a- they <EVENT class="I_STATE" eid="e74">believe</EVENT>, or at least many of them <EVENT class="I_STATE" eid="e75">believe</EVENT>, uh that they are <EVENT class="I_STATE" eid="e76">approaching</EVENT> the Battle of Armageddon in which they will be pitted against the uh kind of Satanic forces <EVENT class="I_ACTION" eid="e77">trying</EVENT> to <EVENT class="OCCURRENCE" eid="e80">take</EVENT> over the world.
+
+Mr. Potach <EVENT class="REPORTING" eid="e81">notes</EVENT> older, more traditional groups like the Ku Klux Klan are also <EVENT class="OCCURRENCE" eid="e82">opening</EVENT> new chapters, thanks in part to their <EVENT class="I_STATE" eid="e124">ability</EVENT> to <EVENT class="OCCURRENCE" eid="e87">use</EVENT> new technologies like the Internet. The Federal Bureau of Investigation <EVENT class="REPORTING" eid="e89">says</EVENT> it <EVENT class="OCCURRENCE" eid="e90">received</EVENT> more than eight thousand <EVENT class="REPORTING" eid="e125">reports</EVENT> of hate group <EVENT class="OCCURRENCE" eid="e93">crimes</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t126" type="DATE" value="1997">last year</TIMEX3>. Law enforcement authorities <EVENT class="REPORTING" eid="e94">say</EVENT> such reports are likely to <EVENT class="OCCURRENCE" eid="e97">increase</EVENT> as police departments are <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t129" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="ASPECTUAL" eid="e98">beginning</EVENT> to more accurately <EVENT class="REPORTING" eid="e130">report</EVENT> hate <EVENT class="OCCURRENCE" eid="e100">crimes</EVENT> than they <EVENT class="REPORTING" eid="e101">have</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t133" type="DATE" value="PAST_REF">the past</TIMEX3>. Jim Teple, VOA News, Miami.
+</TEXT>
+<LASTEXTRAINFO>VOA19980303.1600.2745</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei50032" eventID="e54"/>
+<MAKEINSTANCE eiid="ei50058" eventID="e130"/>
+<MAKEINSTANCE eiid="ei50047" eventID="e81"/>
+<MAKEINSTANCE eiid="ei50020" eventID="e37"/>
+<MAKEINSTANCE eiid="ei50011" eventID="e18"/>
+<MAKEINSTANCE eiid="ei50019" eventID="e34"/>
+<MAKEINSTANCE eiid="ei50049" eventID="e124"/>
+<MAKEINSTANCE eiid="ei50008" eventID="e10"/>
+<MAKEINSTANCE eiid="ei50009" eventID="e12"/>
+<MAKEINSTANCE eiid="ei50022" eventID="e39"/>
+<MAKEINSTANCE eiid="ei50021" eventID="e38"/>
+<MAKEINSTANCE eiid="ei50052" eventID="e90"/>
+<MAKEINSTANCE eiid="ei50054" eventID="e93"/>
+<MAKEINSTANCE eiid="ei50055" eventID="e94"/>
+<MAKEINSTANCE eiid="ei50056" eventID="e97"/>
+<MAKEINSTANCE eiid="ei50036" eventID="e63"/>
+<MAKEINSTANCE eiid="ei50057" eventID="e98"/>
+<MAKEINSTANCE eiid="ei50045" eventID="e77"/>
+<MAKEINSTANCE eiid="ei50043" eventID="e76"/>
+<MAKEINSTANCE eiid="ei50042" eventID="e75"/>
+<MAKEINSTANCE eiid="ei50041" eventID="e74"/>
+<MAKEINSTANCE eiid="ei50031" eventID="e52"/>
+<MAKEINSTANCE eiid="ei50017" eventID="e113"/>
+<MAKEINSTANCE eiid="ei50025" eventID="e43"/>
+<MAKEINSTANCE eiid="ei50007" eventID="e102"/>
+<MAKEINSTANCE eiid="ei50053" eventID="e125"/>
+<MAKEINSTANCE eiid="ei50059" eventID="e100"/>
+<MAKEINSTANCE eiid="ei50060" eventID="e101"/>
+<MAKEINSTANCE eiid="ei50023" eventID="e40"/>
+<MAKEINSTANCE eiid="ei50010" eventID="e107"/>
+<MAKEINSTANCE eiid="ei50039" eventID="e72"/>
+<MAKEINSTANCE eiid="ei50004" eventID="e4"/>
+<MAKEINSTANCE eiid="ei50006" eventID="e7"/>
+<MAKEINSTANCE eiid="ei50005" eventID="e6"/>
+<MAKEINSTANCE eiid="ei50001" eventID="e1"/>
+<MAKEINSTANCE eiid="ei50003" eventID="e3"/>
+<MAKEINSTANCE eiid="ei50002" eventID="e2"/>
+<MAKEINSTANCE eiid="ei50024" eventID="e42"/>
+<MAKEINSTANCE eiid="ei50013" eventID="e25"/>
+<MAKEINSTANCE eiid="ei50014" eventID="e26"/>
+<MAKEINSTANCE eiid="ei50015" eventID="e27"/>
+<MAKEINSTANCE eiid="ei50028" eventID="e46"/>
+<MAKEINSTANCE eiid="ei50030" eventID="e49"/>
+<MAKEINSTANCE eiid="ei50016" eventID="e28"/>
+<MAKEINSTANCE eiid="ei50038" eventID="e68"/>
+<MAKEINSTANCE eiid="ei50050" eventID="e87"/>
+<MAKEINSTANCE eiid="ei50048" eventID="e82"/>
+<MAKEINSTANCE eiid="ei50012" eventID="e110"/>
+<MAKEINSTANCE eiid="ei50046" eventID="e80"/>
+<MAKEINSTANCE eiid="ei50018" eventID="e112"/>
+<MAKEINSTANCE eiid="ei50033" eventID="e60"/>
+<MAKEINSTANCE eiid="ei50035" eventID="e61"/>
+<MAKEINSTANCE eiid="ei50051" eventID="e89"/>
+<MAKEINSTANCE eiid="ei50026" eventID="e118"/>
+<MAKEINSTANCE eiid="ei50037" eventID="e67"/>
+<TLINK eventInstanceID="ei50015" lid="l1" relType="BEFORE" relatedToEventInstance="ei50014"/>
+<TLINK eventInstanceID="ei50002" lid="l2" relType="IDENTITY" relatedToEventInstance="ei50001"/>
+<TLINK eventInstanceID="ei50006" lid="l3" relType="IS_INCLUDED" relatedToEventInstance="ei50007"/>
+<TLINK eventInstanceID="ei50017" lid="l4" relType="IDENTITY" relatedToEventInstance="ei50014"/>
+<TLINK eventInstanceID="ei50030" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50014" lid="l6" relType="IS_INCLUDED" relatedToTime="t111"/>
+<TLINK eventInstanceID="ei50060" lid="l7" relType="BEFORE" relatedToEventInstance="ei50058"/>
+<TLINK eventInstanceID="ei50035" lid="l8" relType="IS_INCLUDED" relatedToTime="t120"/>
+<TLINK eventInstanceID="ei50001" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l10" relType="INCLUDES" relatedToEventInstance="ei50011" timeID="t109"/>
+<TLINK eventInstanceID="ei50041" lid="l11" relType="INCLUDES" relatedToEventInstance="ei50042"/>
+<TLINK eventInstanceID="ei50060" lid="l12" relType="IS_INCLUDED" relatedToTime="t133"/>
+<TLINK eventInstanceID="ei50005" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50054" lid="l14" relType="IS_INCLUDED" relatedToTime="t126"/>
+<TLINK eventInstanceID="ei50006" lid="l15" relType="DURING" relatedToTime="t168"/>
+<TLINK eventInstanceID="ei50060" lid="l16" relType="BEFORE" relatedToTime="t129"/>
+<TLINK eventInstanceID="ei50036" lid="l17" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50053" lid="l18" relType="BEFORE" relatedToEventInstance="ei50052"/>
+<TLINK eventInstanceID="ei50057" lid="l19" relType="IS_INCLUDED" relatedToTime="t129"/>
+<TLINK eventInstanceID="ei50051" lid="l20" relType="SIMULTANEOUS" relatedToEventInstance="ei50037"/>
+<TLINK lid="l21" relType="DURING" relatedToEventInstance="ei50021" timeID="t116"/>
+<TLINK eventInstanceID="ei50037" lid="l22" relType="IDENTITY" relatedToEventInstance="ei50023"/>
+<TLINK eventInstanceID="ei50013" lid="l23" relType="SIMULTANEOUS" relatedToEventInstance="ei50005"/>
+<TLINK eventInstanceID="ei50016" lid="l24" relType="IDENTITY" relatedToEventInstance="ei50005"/>
+<TLINK eventInstanceID="ei50025" lid="l25" relType="ENDED_BY" relatedToEventInstance="ei50026"/>
+<TLINK eventInstanceID="ei50045" lid="l26" relType="SIMULTANEOUS" relatedToEventInstance="ei50046"/>
+<TLINK eventInstanceID="ei50004" lid="l27" relType="IDENTITY" relatedToEventInstance="ei50008"/>
+<TLINK eventInstanceID="ei50020" lid="l28" relType="DURING" relatedToTime="t115"/>
+<TLINK eventInstanceID="ei50047" lid="l29" relType="IS_INCLUDED" relatedToEventInstance="ei50037"/>
+<TLINK eventInstanceID="ei50003" lid="l30" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50052" lid="l31" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50039" lid="l32" relType="BEFORE" relatedToEventInstance="ei50041"/>
+<TLINK eventInstanceID="ei50010" lid="l33" relType="BEFORE" relatedToEventInstance="ei50005"/>
+<TLINK eventInstanceID="ei50049" lid="l34" relType="BEFORE" relatedToEventInstance="ei50048"/>
+<TLINK eventInstanceID="ei50057" lid="l35" relType="INITIATES" relatedToEventInstance="ei50058"/>
+<TLINK eventInstanceID="ei50010" lid="l36" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50023" lid="l37" relType="IDENTITY" relatedToEventInstance="ei50016"/>
+<TLINK eventInstanceID="ei50033" lid="l38" relType="SIMULTANEOUS" relatedToEventInstance="ei50030"/>
+<TLINK eventInstanceID="ei50004" lid="l39" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei50055" lid="l40" relType="SIMULTANEOUS" relatedToEventInstance="ei50051"/>
+<TLINK eventInstanceID="ei50057" lid="l41" relType="BEFORE" relatedToEventInstance="ei50056"/>
+<TLINK eventInstanceID="ei50022" lid="l42" relType="IDENTITY" relatedToEventInstance="ei50021"/>
+</TimeML>

@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0160</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Savin Corp. <EVENT class="REPORTING" eid="e1">reported</EVENT> a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t30" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net <EVENT class="OCCURRENCE" eid="e2">loss</EVENT> of $35.2 million, or 31 cents a share, compared with <TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t31" type="DATE" value="1988-Q3">year-earlier</TIMEX3> <EVENT class="OCCURRENCE" eid="e32">profit</EVENT> of $3.8 million, or one cent a share.
+
+A spokesman for the Stamford, Conn.based company <EVENT class="REPORTING" eid="e4">said</EVENT> operations had a <EVENT class="OCCURRENCE" eid="e6">loss</EVENT> of $5.5 million for <TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t33" type="DATE" value="1989-Q3">the quarter</TIMEX3>; in addition, the <EVENT class="OCCURRENCE" eid="e9">loss</EVENT> was <EVENT class="OCCURRENCE" eid="e10">magnified</EVENT> by nonrecurring charges totaling $23.5 million and $8.2 million in asset-valuation adjustments that he described as "unusual." The charges were partly <EVENT class="OCCURRENCE" eid="e18">offset</EVENT> by a $2 million <EVENT class="OCCURRENCE" eid="e40">gain</EVENT> on the <EVENT class="OCCURRENCE" eid="e19">sale</EVENT> of investments of two joint ventures, he <EVENT class="REPORTING" eid="e23">said</EVENT>.
+
+Revenue <EVENT class="OCCURRENCE" eid="e24">declined</EVENT> 8% to $85.7 million, from $93.3 million <TIMEX3 anchorTimeID="t30" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1988-Q3">a year earlier</TIMEX3>. Savin <EVENT class="REPORTING" eid="e25">cited</EVENT> "a general <EVENT class="OCCURRENCE" eid="e137">softening</EVENT> in the demand for office products in the market segments in which Savin competes."
+</TEXT>
+<LASTEXTRAINFO>wsj_0160</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei159" eventID="e24"/>
+<MAKEINSTANCE eiid="ei155" eventID="e18"/>
+<MAKEINSTANCE eiid="ei156" eventID="e40"/>
+<MAKEINSTANCE eiid="ei150" eventID="e32"/>
+<MAKEINSTANCE eiid="ei161" eventID="e25"/>
+<MAKEINSTANCE eiid="ei162" eventID="e137"/>
+<MAKEINSTANCE eiid="ei154" eventID="e10"/>
+<MAKEINSTANCE eiid="ei158" eventID="e23"/>
+<MAKEINSTANCE eiid="ei157" eventID="e19"/>
+<MAKEINSTANCE eiid="ei153" eventID="e9"/>
+<MAKEINSTANCE eiid="ei151" eventID="e4"/>
+<MAKEINSTANCE eiid="ei152" eventID="e6"/>
+<MAKEINSTANCE eiid="ei148" eventID="e1"/>
+<MAKEINSTANCE eiid="ei149" eventID="e2"/>
+<TLINK eventInstanceID="ei162" lid="l1" relType="BEFORE" relatedToEventInstance="ei148"/>
+<TLINK lid="l2" relType="IDENTITY" relatedToTime="t30" timeID="t33"/>
+<TLINK eventInstanceID="ei161" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei155" lid="l4" relType="SIMULTANEOUS" relatedToEventInstance="ei153"/>
+<TLINK eventInstanceID="ei153" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei154"/>
+<TLINK eventInstanceID="ei152" lid="l6" relType="SIMULTANEOUS" relatedToTime="t33"/>
+<TLINK eventInstanceID="ei151" lid="l7" relType="AFTER" relatedToEventInstance="ei152"/>
+<TLINK eventInstanceID="ei159" lid="l8" relType="SIMULTANEOUS" relatedToTime="t30"/>
+<TLINK eventInstanceID="ei151" lid="l9" relType="SIMULTANEOUS" relatedToEventInstance="ei148"/>
+<TLINK eventInstanceID="ei158" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei151"/>
+<TLINK lid="l11" relType="SIMULTANEOUS" relatedToTime="t38" timeID="t38"/>
+<TLINK eventInstanceID="ei156" lid="l12" relType="SIMULTANEOUS" relatedToEventInstance="ei157"/>
+<TLINK eventInstanceID="ei151" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei153" lid="l14" relType="IDENTITY" relatedToEventInstance="ei149"/>
+<TLINK eventInstanceID="ei149" lid="l15" relType="SIMULTANEOUS" relatedToTime="t30"/>
+<TLINK eventInstanceID="ei150" lid="l16" relType="SIMULTANEOUS" relatedToTime="t31"/>
+<TLINK lid="l17" relType="AFTER" relatedToEventInstance="ei148" timeID="t0"/>
+<TLINK eventInstanceID="ei149" lid="l18" relType="INCLUDES" relatedToEventInstance="ei152"/>
+<TLINK eventInstanceID="ei155" lid="l19" relType="SIMULTANEOUS" relatedToEventInstance="ei156"/>
+</TimeML>

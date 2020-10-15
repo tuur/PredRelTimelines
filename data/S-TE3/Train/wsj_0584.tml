@@ -1,0 +1,243 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0584</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The bolstered cellular agreement between BellSouth Corp. and LIN Broadcasting Corp. carries heightened risks and could <EVENT class="I_STATE" eid="e4">fail</EVENT> to <EVENT class="OCCURRENCE" eid="e7">fend</EVENT> off McCaw Cellular Communications Inc., the rival suitor for LIN.
+
+Moreover, the amended pact shows how McCaw's persistence has <EVENT class="OCCURRENCE" eid="e10">pushed</EVENT> LIN and BellSouth into a corner, <EVENT class="OCCURRENCE" eid="e12">forcing</EVENT> huge debt on the proposed new company. The debt, <EVENT class="I_STATE" eid="e13">estimated</EVENT> at $4.7 billion, could <EVENT class="OCCURRENCE" eid="e14">mortgage</EVENT> the cellular company's future earning power in order to <EVENT class="OCCURRENCE" eid="e19">placate</EVENT> some LIN holders in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t287" type="DATE" value="FUTURE_REF">the short term</TIMEX3>.
+
+The plan still <EVENT class="I_STATE" eid="e21">calls</EVENT> for LIN to <EVENT class="OCCURRENCE" eid="e23">combine</EVENT> its cellular telephone properties with BellSouth's and to <EVENT class="OCCURRENCE" eid="e25">spin</EVENT> off its broadcasting operations. But under new terms of the agreement, <EVENT class="I_ACTION" eid="e28">announced</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t288" type="DATE" value="1989-10-27">Friday</TIMEX3>, LIN holders would <EVENT class="OCCURRENCE" eid="e29">receive</EVENT> a special cash dividend of $42 a share, representing a payout of about $2.23 billion, shortly before the proposed <EVENT class="OCCURRENCE" eid="e32">merger</EVENT>. LIN <EVENT class="REPORTING" eid="e34">said</EVENT> it <EVENT class="I_STATE" eid="e35">expects</EVENT> to <EVENT class="OCCURRENCE" eid="e37">borrow</EVENT> the money to <EVENT class="OCCURRENCE" eid="e40">pay</EVENT> the dividend, but <EVENT class="STATE" eid="e41">commitments</EVENT> from banks still haven't been <EVENT class="I_STATE" eid="e43">obtained</EVENT>. Under previous terms, holders would have <EVENT class="OCCURRENCE" eid="e45">received</EVENT> a dividend of only $20 a share.
+
+In addition, New York-based LIN would <EVENT class="OCCURRENCE" eid="e48">exercise</EVENT> its right to <EVENT class="OCCURRENCE" eid="e51">buy</EVENT> out for $1.9 billion the 55% equity interest of its partner, Metromedia Co., in a New York cellular franchise. That money also would have to be <EVENT class="OCCURRENCE" eid="e56">borrowed</EVENT>. In effect, McCaw has <EVENT class="OCCURRENCE" eid="e57">forced</EVENT> LIN's hand by <EVENT class="OCCURRENCE" eid="e58">bidding</EVENT> $1.9 billion for the stake <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t292" type="DATE" value="1989-10">earlier this month</TIMEX3>.
+
+"We're <EVENT class="OCCURRENCE" eid="e60">taking</EVENT> on more debt than we would have <EVENT class="I_STATE" eid="e61">liked</EVENT> to," <EVENT class="I_ACTION" eid="e63">acknowledged</EVENT> Michael Plouf, LIN's vice president and treasurer. Although he <EVENT class="REPORTING" eid="e65">expressed</EVENT> confidence that the proposed new company's cash flow would be <EVENT class="I_STATE" eid="e294">sufficient</EVENT> to <EVENT class="OCCURRENCE" eid="e69">cover</EVENT> interest payments on the debt, he <EVENT class="I_STATE" eid="e71">estimated</EVENT> that the company wouldn't be <EVENT class="STATE" eid="e295">profitable</EVENT> until <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t299" type="DATE" value="1994">1994 or later</TIMEX3>.
+
+Analyst <EVENT class="I_STATE" eid="e74">estimate</EVENT> the value of the BellSouth proposal at about $115 to $125 a share. They <EVENT class="STATE" eid="e301">value</EVENT> McCaw's <EVENT class="OCCURRENCE" eid="e76">bid</EVENT> at $112 to $118 a share. The previous BellSouth pact was <EVENT class="I_STATE" eid="e77">valued</EVENT> at about $98 to $110 a share.
+
+McCaw, the largest provider of cellular telephone service in the U.S., already owns about 9.4% of LIN's stock. In response to BellSouth's amended pact, the Kirkland, Wash., company <EVENT class="I_ACTION" eid="e81">extended</EVENT> its own <EVENT class="OCCURRENCE" eid="e82">offer</EVENT> to <EVENT class="OCCURRENCE" eid="e84">buy</EVENT> 22 million LIN shares for $125 apiece, which would <EVENT class="OCCURRENCE" eid="e85">give</EVENT> McCaw a 50.3% controlling interest. Over <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t307" type="DATE" value="1989-W43-WE">the weekend</TIMEX3>, McCaw <EVENT class="OCCURRENCE" eid="e88">continued</EVENT> to <EVENT class="OCCURRENCE" eid="e90">call</EVENT> for an auction of LIN. Analysts <EVENT class="REPORTING" eid="e91">said</EVENT> they <EVENT class="I_STATE" eid="e92">expect</EVENT> McCaw to <EVENT class="OCCURRENCE" eid="e94">escalate</EVENT> the bidding again.
+
+"This game isn't over yet, " <EVENT class="REPORTING" eid="e98">said</EVENT> Joel D. Gross, a vice president at Donaldson, Lufkin amp Jenrette Securities Corp. "At some point, it will <EVENT class="I_STATE" eid="e100">become</EVENT> non-economical for one company. But I don't <EVENT class="I_STATE" eid="e101">think</EVENT> we're at that point yet."
+
+Under its revised <EVENT class="OCCURRENCE" eid="e104">proposal</EVENT>, Atlanta-based BellSouth would <EVENT class="STATE" eid="e316">have</EVENT> a 50% interest in the new cellular company and would be <EVENT class="STATE" eid="e317">responsible</EVENT> for half of its debt. To <EVENT class="OCCURRENCE" eid="e107">sweeten</EVENT> the pact further -- and to <EVENT class="I_STATE" eid="e110">ease</EVENT> concerns of institutional investors -- BellSouth <EVENT class="REPORTING" eid="e111">added</EVENT> a provision designed to <EVENT class="OCCURRENCE" eid="e115">give</EVENT> extra protection to holders if the regional Bell company ever <EVENT class="I_ACTION" eid="e118">decides</EVENT> to <EVENT class="OCCURRENCE" eid="e120">buy</EVENT> the rest of the new cellular company. The provision, described as "back-end" protection, would <EVENT class="I_ACTION" eid="e125">require</EVENT> BellSouth to <EVENT class="OCCURRENCE" eid="e128">pay</EVENT> a price equivalent to what an outside party might have to pay.
+
+McCaw's bid also has a similar clause. Only McCaw's proposal <EVENT class="I_STATE" eid="e138">requires</EVENT> the company to <EVENT class="ASPECTUAL" eid="e140">begin</EVENT> an auction <EVENT class="OCCURRENCE" eid="e141">process</EVENT> in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t322" type="DATE" value="1994-06">June 1994</TIMEX3> for remaining shares at third-party prices.
+
+To <EVENT class="OCCURRENCE" eid="e144">mollify</EVENT> shareholders <EVENT class="OCCURRENCE" eid="e145">concerned</EVENT> about the long-term value of the company under the BellSouth-LIN agreement, BellSouth also <EVENT class="I_ACTION" eid="e147">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e149">pay</EVENT> as much as $10 a share, or $540 million, if, after <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t326" type="DURATION" value="P5Y">five years</TIMEX3>, the trading value of the new cellular company isn't as high as the value that shareholders would have realized from the McCaw offer.
+
+"We're very <EVENT class="STATE" eid="e329">pleased</EVENT> with the new deal. We didn't <EVENT class="I_STATE" eid="e154">expect</EVENT> BellSouth to be so <EVENT class="STATE" eid="e330">responsive</EVENT>," <EVENT class="REPORTING" eid="e157">said</EVENT> Frederick A. Moran, president of Moran Asset Management Inc., which holds 500,000 LIN shares. BellSouth's "back-end protection was flawed previously. We <EVENT class="I_STATE" eid="e161">think</EVENT> this is a superior deal to McCaw's. We're surprised. We didn't <EVENT class="I_STATE" eid="e164">think</EVENT> a sleeping {Bell} mentality would be <EVENT class="I_STATE" eid="e332">willing</EVENT> to <EVENT class="OCCURRENCE" eid="e168">take</EVENT> on dilution."
+
+But Kenneth Leon, a telecommunications analyst with Bear, Stearns amp Co., <EVENT class="I_STATE" eid="e170">finds</EVENT> the BellSouth proposal still <EVENT class="STATE" eid="e171">flawed</EVENT> because the company doesn't have to <EVENT class="STATE" eid="e2025">wait</EVENT> five years to begin buying more LIN shares. "How many shares will be around in 1995?" he asked. "There's nothing preventing BellSouth from buying up shares in the meanwhile."
+
+BellSouth's revised <EVENT class="OCCURRENCE" eid="e183">proposal</EVENT> <EVENT class="OCCURRENCE" eid="e184">surprised</EVENT> many industry analysts, especially because of the company's willingness to <EVENT class="I_ACTION" eid="e187">accept</EVENT> some dilution of future earnings. William O. McCoy, president of the company's BellSouth Enterprises Inc. unit, <EVENT class="REPORTING" eid="e189">said</EVENT> the revised <EVENT class="OCCURRENCE" eid="e190">agreement</EVENT> with LIN would <EVENT class="OCCURRENCE" eid="e191">dilute</EVENT> BellSouth earnings by about 9% in both <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t351" type="DATE" value="1990">1990</TIMEX3> and <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t352" type="DATE" value="1991">1991</TIMEX3> and by significantly less thereafter. Indeed, BellSouth's cellular operations were among the first in the country to become profitable.
+
+For <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t358" type="DATE" value="1988">1988</TIMEX3>, BellSouth <EVENT class="OCCURRENCE" eid="e196">earned</EVENT> $1.7 billion, or $3.51 a share, on revenue of $13.6 billion. Analysts were <EVENT class="I_ACTION" eid="e197">predicting</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t359" type="DATE" value="1990">1990</TIMEX3> BellSouth earnings in the range of $3.90 a share, or $1.9 billion, but <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t361" type="DATE" value="PRESENT_REF">now</TIMEX3> those <EVENT class="STATE" eid="e362">estimates</EVENT> are being <EVENT class="OCCURRENCE" eid="e200">scaled</EVENT> back.
+
+In composite <EVENT class="OCCURRENCE" eid="e363">trading</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t364" type="DATE" value="1989-10-27">Friday</TIMEX3> on the New York Stock Exchange, BellSouth shares <EVENT class="OCCURRENCE" eid="e201">fell</EVENT> 87.5 cents to $52.125.
+
+In national over-the-counter <EVENT class="OCCURRENCE" eid="e202">trading</EVENT>, LIN shares <EVENT class="OCCURRENCE" eid="e203">soared</EVENT> $4.625 to closed at $112.625, while McCaw <EVENT class="OCCURRENCE" eid="e206">fell</EVENT> $2.50 a share to $37.75.
+
+The proposed BellSouth-LIN cellular company, including the newly acquired Metromedia stake, would <EVENT class="OCCURRENCE" eid="e207">give</EVENT> the new entity 55 million potential customers, including about 35 million in the nation's top 10 markets.
+
+Mr. Leon of Bear Stearns <EVENT class="I_STATE" eid="e211">speculated</EVENT> that McCaw, in an <EVENT class="I_STATE" eid="e212">attempt</EVENT> to <EVENT class="OCCURRENCE" eid="e215">buy</EVENT> time, might <EVENT class="I_STATE" eid="e217">consider</EVENT> <EVENT class="OCCURRENCE" eid="e219">filing</EVENT> an antitrust suit against BellSouth with the Justice Department and U.S. District Judge Harold Greene, who oversees enforcement of the consent decree that <EVENT class="OCCURRENCE" eid="e224">broke</EVENT> up the Bell system in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t370" type="DATE" value="1984">1984</TIMEX3>.
+
+Indeed, McCaw <EVENT class="I_STATE" eid="e225">seemed</EVENT> to <EVENT class="OCCURRENCE" eid="e227">hint</EVENT> at that option in a brief <EVENT class="OCCURRENCE" eid="e230">statement</EVENT>. Urging LIN directors to conduct "a fair auction on a level playing field," McCaw asked how well the public interest would be served "with the Bell operating companies controlling over 94% of all cellular {potential customers} in the nation's top 10 markets."
+</TEXT>
+<LASTEXTRAINFO>wsj_0584</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2639" eventID="e317"/>
+<MAKEINSTANCE eiid="ei2638" eventID="e316"/>
+<MAKEINSTANCE eiid="ei2583" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2578" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2580" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2579" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2582" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2627" eventID="e91"/>
+<MAKEINSTANCE eiid="ei2626" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2628" eventID="e92"/>
+<MAKEINSTANCE eiid="ei2629" eventID="e94"/>
+<MAKEINSTANCE eiid="ei2658" eventID="e149"/>
+<MAKEINSTANCE eiid="ei2657" eventID="e147"/>
+<MAKEINSTANCE eiid="ei2653" eventID="e144"/>
+<MAKEINSTANCE eiid="ei2654" eventID="e145"/>
+<MAKEINSTANCE eiid="ei2651" eventID="e140"/>
+<MAKEINSTANCE eiid="ei2652" eventID="e141"/>
+<MAKEINSTANCE eiid="ei2649" eventID="e128"/>
+<MAKEINSTANCE eiid="ei2648" eventID="e125"/>
+<MAKEINSTANCE eiid="ei2647" eventID="e120"/>
+<MAKEINSTANCE eiid="ei2660" eventID="e329"/>
+<MAKEINSTANCE eiid="ei2623" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2624" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2622" eventID="e82"/>
+<MAKEINSTANCE eiid="ei2621" eventID="e81"/>
+<MAKEINSTANCE eiid="ei2662" eventID="e154"/>
+<MAKEINSTANCE eiid="ei2625" eventID="e88"/>
+<MAKEINSTANCE eiid="ei2663" eventID="e330"/>
+<MAKEINSTANCE eiid="ei2668" eventID="e332"/>
+<MAKEINSTANCE eiid="ei2650" eventID="e138"/>
+<MAKEINSTANCE eiid="ei2701" eventID="e230"/>
+<MAKEINSTANCE eiid="ei2612" eventID="e71"/>
+<MAKEINSTANCE eiid="ei2619" eventID="e77"/>
+<MAKEINSTANCE eiid="ei2617" eventID="e76"/>
+<MAKEINSTANCE eiid="ei2614" eventID="e74"/>
+<MAKEINSTANCE eiid="ei2632" eventID="e100"/>
+<MAKEINSTANCE eiid="ei2634" eventID="e101"/>
+<MAKEINSTANCE eiid="ei2640" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2637" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2672" eventID="e183"/>
+<MAKEINSTANCE eiid="ei2675" eventID="e187"/>
+<MAKEINSTANCE eiid="ei2673" eventID="e184"/>
+<MAKEINSTANCE eiid="ei2575" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2576" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2677" eventID="e189"/>
+<MAKEINSTANCE eiid="ei2700" eventID="e227"/>
+<MAKEINSTANCE eiid="ei2699" eventID="e225"/>
+<MAKEINSTANCE eiid="ei2698" eventID="e224"/>
+<MAKEINSTANCE eiid="ei2611" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2664" eventID="e157"/>
+<MAKEINSTANCE eiid="ei2605" eventID="e60"/>
+<MAKEINSTANCE eiid="ei2606" eventID="e61"/>
+<MAKEINSTANCE eiid="ei2607" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2608" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2696" eventID="e217"/>
+<MAKEINSTANCE eiid="ei2695" eventID="e215"/>
+<MAKEINSTANCE eiid="ei2694" eventID="e212"/>
+<MAKEINSTANCE eiid="ei2693" eventID="e211"/>
+<MAKEINSTANCE eiid="ei2697" eventID="e219"/>
+<MAKEINSTANCE eiid="ei2681" eventID="e197"/>
+<MAKEINSTANCE eiid="ei2680" eventID="e196"/>
+<MAKEINSTANCE eiid="ei2679" eventID="e191"/>
+<MAKEINSTANCE eiid="ei2678" eventID="e190"/>
+<MAKEINSTANCE eiid="ei2604" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2603" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2602" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2600" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2686" eventID="e201"/>
+<MAKEINSTANCE eiid="ei2684" eventID="e200"/>
+<MAKEINSTANCE eiid="ei2689" eventID="e203"/>
+<MAKEINSTANCE eiid="ei2688" eventID="e202"/>
+<MAKEINSTANCE eiid="ei2692" eventID="e207"/>
+<MAKEINSTANCE eiid="ei2690" eventID="e206"/>
+<MAKEINSTANCE eiid="ei2683" eventID="e362"/>
+<MAKEINSTANCE eiid="ei2685" eventID="e363"/>
+<MAKEINSTANCE eiid="ei2631" eventID="e98"/>
+<MAKEINSTANCE eiid="ei2597" eventID="e43"/>
+<MAKEINSTANCE eiid="ei2595" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2596" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2598" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2599" eventID="e48"/>
+<MAKEINSTANCE eiid="ei2644" eventID="e115"/>
+<MAKEINSTANCE eiid="ei2643" eventID="e111"/>
+<MAKEINSTANCE eiid="ei2641" eventID="e110"/>
+<MAKEINSTANCE eiid="ei2610" eventID="e294"/>
+<MAKEINSTANCE eiid="ei2613" eventID="e295"/>
+<MAKEINSTANCE eiid="ei2646" eventID="e118"/>
+<MAKEINSTANCE eiid="ei2594" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2593" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2592" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2703" eventID="e2025"/>
+<MAKEINSTANCE eiid="ei2665" eventID="e161"/>
+<MAKEINSTANCE eiid="ei2667" eventID="e164"/>
+<MAKEINSTANCE eiid="ei2669" eventID="e168"/>
+<MAKEINSTANCE eiid="ei2616" eventID="e301"/>
+<MAKEINSTANCE eiid="ei2591" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2586" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2584" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2585" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2588" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2589" eventID="e29"/>
+<MAKEINSTANCE eiid="ei2671" eventID="e171"/>
+<MAKEINSTANCE eiid="ei2670" eventID="e170"/>
+<TLINK eventInstanceID="ei2685" lid="l1" relType="IS_INCLUDED" relatedToTime="t364"/>
+<TLINK eventInstanceID="ei2594" lid="l2" relType="AFTER" relatedToEventInstance="ei2596"/>
+<TLINK eventInstanceID="ei2607" lid="l3" relType="SIMULTANEOUS" relatedToEventInstance="ei2608"/>
+<TLINK eventInstanceID="ei2578" lid="l4" relType="OVERLAP" relatedToEventInstance="ei2579"/>
+<TLINK eventInstanceID="ei2689" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei2690"/>
+<TLINK eventInstanceID="ei2628" lid="l6" relType="BEFORE" relatedToEventInstance="ei2629"/>
+<TLINK eventInstanceID="ei2703" lid="l7" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2627" lid="l8" relType="OVERLAP" relatedToEventInstance="ei2628"/>
+<TLINK eventInstanceID="ei2626" lid="l9" relType="IS_INCLUDED" relatedToEventInstance="ei2625"/>
+<TLINK eventInstanceID="ei2575" lid="l10" relType="OVERLAP" relatedToEventInstance="ei2576"/>
+<TLINK eventInstanceID="ei2692" lid="l11" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2614" lid="l12" relType="SIMULTANEOUS" relatedToEventInstance="ei2616"/>
+<TLINK lid="l13" relType="AFTER" relatedToEventInstance="ei2607" timeID="t0"/>
+<TLINK eventInstanceID="ei2667" lid="l14" relType="BEFORE" relatedToEventInstance="ei2668"/>
+<TLINK lid="l15" relType="BEFORE" relatedToEventInstance="ei2591" timeID="t0"/>
+<TLINK eventInstanceID="ei2672" lid="l16" relType="BEFORE" relatedToEventInstance="ei2673"/>
+<TLINK eventInstanceID="ei2673" lid="l17" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l18" relType="AFTER" relatedToEventInstance="ei2612" timeID="t0"/>
+<TLINK eventInstanceID="ei2699" lid="l19" relType="IS_INCLUDED" relatedToEventInstance="ei2701"/>
+<TLINK eventInstanceID="ei2648" lid="l20" relType="BEFORE" relatedToEventInstance="ei2649"/>
+<TLINK eventInstanceID="ei2591" lid="l21" relType="IAFTER" relatedToEventInstance="ei2589"/>
+<TLINK eventInstanceID="ei2696" lid="l22" relType="BEFORE" relatedToEventInstance="ei2697"/>
+<TLINK lid="l23" relType="AFTER" relatedToEventInstance="ei2592" timeID="t0"/>
+<TLINK eventInstanceID="ei2679" lid="l24" relType="IS_INCLUDED" relatedToTime="t351"/>
+<TLINK eventInstanceID="ei2582" lid="l25" relType="BEFORE" relatedToEventInstance="ei2583"/>
+<TLINK eventInstanceID="ei2657" lid="l26" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2607" lid="l27" relType="AFTER" relatedToEventInstance="ei2606"/>
+<TLINK eventInstanceID="ei2698" lid="l28" relType="IS_INCLUDED" relatedToTime="t370"/>
+<TLINK eventInstanceID="ei2670" lid="l29" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2616" lid="l30" relType="AFTER" relatedToEventInstance="ei2619"/>
+<TLINK eventInstanceID="ei2648" lid="l31" relType="AFTER" relatedToEventInstance="ei2643"/>
+<TLINK eventInstanceID="ei2646" lid="l32" relType="BEFORE" relatedToEventInstance="ei2647"/>
+<TLINK eventInstanceID="ei2662" lid="l33" relType="BEFORE" relatedToEventInstance="ei2663"/>
+<TLINK eventInstanceID="ei2664" lid="l34" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2612" lid="l35" relType="SIMULTANEOUS" relatedToEventInstance="ei2608"/>
+<TLINK lid="l36" relType="IS_INCLUDED" relatedToEventInstance="ei2671" timeID="t0"/>
+<TLINK lid="l37" relType="IS_INCLUDED" relatedToEventInstance="ei2583" timeID="t287"/>
+<TLINK eventInstanceID="ei2657" lid="l38" relType="BEGINS" relatedToTime="t326"/>
+<TLINK eventInstanceID="ei2678" lid="l39" relType="BEFORE" relatedToEventInstance="ei2677"/>
+<TLINK eventInstanceID="ei2617" lid="l40" relType="IDENTITY" relatedToEventInstance="ei2604"/>
+<TLINK lid="l41" relType="IS_INCLUDED" relatedToEventInstance="ei2614" timeID="t0"/>
+<TLINK eventInstanceID="ei2699" lid="l42" relType="OVERLAP" relatedToEventInstance="ei2700"/>
+<TLINK eventInstanceID="ei2693" lid="l43" relType="BEFORE" relatedToEventInstance="ei2696"/>
+<TLINK eventInstanceID="ei2625" lid="l44" relType="DURING" relatedToTime="t307"/>
+<TLINK eventInstanceID="ei2667" lid="l45" relType="BEFORE" relatedToEventInstance="ei2664"/>
+<TLINK eventInstanceID="ei2579" lid="l46" relType="AFTER" relatedToEventInstance="ei2578"/>
+<TLINK eventInstanceID="ei2644" lid="l47" relType="IAFTER" relatedToEventInstance="ei2646"/>
+<TLINK lid="l48" relType="IS_INCLUDED" relatedToEventInstance="ei2584" timeID="t0"/>
+<TLINK lid="l49" relType="BEGINS" relatedToEventInstance="ei2613" timeID="t299"/>
+<TLINK eventInstanceID="ei2683" lid="l50" relType="IDENTITY" relatedToEventInstance="ei2681"/>
+<TLINK eventInstanceID="ei2677" lid="l51" relType="BEFORE" relatedToEventInstance="ei2679"/>
+<TLINK eventInstanceID="ei2693" lid="l52" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2631" lid="l53" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2677" lid="l54" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2696" lid="l55" relType="SIMULTANEOUS" relatedToEventInstance="ei2694"/>
+<TLINK eventInstanceID="ei2592" lid="l56" relType="OVERLAP" relatedToEventInstance="ei2593"/>
+<TLINK eventInstanceID="ei2679" lid="l57" relType="IS_INCLUDED" relatedToTime="t352"/>
+<TLINK eventInstanceID="ei2688" lid="l58" relType="IS_INCLUDED" relatedToTime="t364"/>
+<TLINK eventInstanceID="ei2681" lid="l59" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l60" relType="INCLUDES" relatedToEventInstance="ei2684" timeID="t361"/>
+<TLINK lid="l61" relType="INCLUDES" relatedToEventInstance="ei2588" timeID="t288"/>
+<TLINK eventInstanceID="ei2624" lid="l62" relType="AFTER" relatedToEventInstance="ei2623"/>
+<TLINK eventInstanceID="ei2604" lid="l63" relType="SIMULTANEOUS" relatedToEventInstance="ei2603"/>
+<TLINK lid="l64" relType="INCLUDES" relatedToEventInstance="ei2604" timeID="t292"/>
+<TLINK eventInstanceID="ei2612" lid="l65" relType="BEFORE" relatedToEventInstance="ei2613"/>
+<TLINK eventInstanceID="ei2651" lid="l66" relType="IS_INCLUDED" relatedToTime="t322"/>
+<TLINK eventInstanceID="ei2678" lid="l67" relType="BEFORE" relatedToEventInstance="ei2679"/>
+<TLINK eventInstanceID="ei2650" lid="l68" relType="BEFORE" relatedToEventInstance="ei2651"/>
+<TLINK lid="l69" relType="AFTER" relatedToEventInstance="ei2603" timeID="t0"/>
+<TLINK eventInstanceID="ei2653" lid="l70" relType="AFTER" relatedToEventInstance="ei2654"/>
+<TLINK eventInstanceID="ei2671" lid="l71" relType="BEFORE" relatedToEventInstance="ei2703"/>
+<TLINK eventInstanceID="ei2686" lid="l72" relType="IS_INCLUDED" relatedToEventInstance="ei2685"/>
+<TLINK eventInstanceID="ei2637" lid="l73" relType="BEFORE" relatedToEventInstance="ei2638"/>
+<TLINK eventInstanceID="ei2688" lid="l74" relType="INCLUDES" relatedToEventInstance="ei2689"/>
+<TLINK eventInstanceID="ei2652" lid="l75" relType="IS_INCLUDED" relatedToTime="t322"/>
+<TLINK eventInstanceID="ei2593" lid="l76" relType="BEFORE" relatedToEventInstance="ei2594"/>
+<TLINK eventInstanceID="ei2579" lid="l77" relType="BEFORE" relatedToEventInstance="ei2582"/>
+<TLINK lid="l78" relType="INCLUDES" relatedToEventInstance="ei2597" timeID="t0"/>
+<TLINK lid="l79" relType="BEFORE" relatedToEventInstance="ei2580" timeID="t0"/>
+<TLINK eventInstanceID="ei2657" lid="l80" relType="BEFORE" relatedToEventInstance="ei2658"/>
+<TLINK eventInstanceID="ei2623" lid="l81" relType="OVERLAP" relatedToEventInstance="ei2624"/>
+<TLINK eventInstanceID="ei2625" lid="l82" relType="CONTINUES" relatedToEventInstance="ei2626"/>
+<TLINK eventInstanceID="ei2627" lid="l83" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2584" lid="l84" relType="BEFORE" relatedToEventInstance="ei2585"/>
+<TLINK eventInstanceID="ei2637" lid="l85" relType="BEFORE" relatedToEventInstance="ei2639"/>
+<TLINK eventInstanceID="ei2651" lid="l86" relType="INITIATES" relatedToEventInstance="ei2652"/>
+<TLINK eventInstanceID="ei2670" lid="l87" relType="OVERLAP" relatedToEventInstance="ei2671"/>
+<TLINK eventInstanceID="ei2650" lid="l88" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2680" lid="l89" relType="IS_INCLUDED" relatedToTime="t358"/>
+<TLINK eventInstanceID="ei2599" lid="l90" relType="AFTER" relatedToEventInstance="ei2602"/>
+</TimeML>

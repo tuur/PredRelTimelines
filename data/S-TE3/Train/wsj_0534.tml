@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0534</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Conseco Inc. <EVENT class="REPORTING" eid="e1">said</EVENT> it is <EVENT class="I_ACTION" eid="e2">calling</EVENT> for the <EVENT class="OCCURRENCE" eid="e3">redemption</EVENT> on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t15" type="DATE" value="1989-12-07">Dec. 7</TIMEX3> of all the 800,000 remaining shares outstanding of its $1.875 Series A convertible preferred stock at $26.805 a share.
+
+The insurance concern <EVENT class="REPORTING" eid="e5">said</EVENT> all conversion rights on the stock will <EVENT class="ASPECTUAL" eid="e7">terminate</EVENT> on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t18" type="DATE" value="1989-11-30">Nov. 30</TIMEX3>. Until <TIMEX3 anchorTimeID="t18" functionInDocument="NONE" temporalFunction="true" tid="t22" type="DATE" value="1989-11-30">then</TIMEX3>, Conseco <EVENT class="REPORTING" eid="e8">said</EVENT> the stock <EVENT class="STATE" eid="e9">remains</EVENT> convertible into common stock at the rate of 1.439 shares of common stock for each share of preferred stock, which is equivalent to a conversion price of $17.50 a common share. In New York Stock Exchange trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t19" type="DATE" value="1989-10-27">Friday</TIMEX3>, Conseco <EVENT class="OCCURRENCE" eid="e12">closed</EVENT> at $19.50, down 25 cents.
+</TEXT>
+<LASTEXTRAINFO>wsj_0534</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei95" eventID="e12"/>
+<MAKEINSTANCE eiid="ei94" eventID="e9"/>
+<MAKEINSTANCE eiid="ei93" eventID="e8"/>
+<MAKEINSTANCE eiid="ei90" eventID="e5"/>
+<MAKEINSTANCE eiid="ei92" eventID="e7"/>
+<MAKEINSTANCE eiid="ei87" eventID="e1"/>
+<MAKEINSTANCE eiid="ei89" eventID="e3"/>
+<MAKEINSTANCE eiid="ei88" eventID="e2"/>
+<TLINK eventInstanceID="ei90" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei94" lid="l2" relType="ENDED_BY" relatedToTime="t22"/>
+<TLINK eventInstanceID="ei93" lid="l3" relType="OVERLAP" relatedToEventInstance="ei94"/>
+<TLINK eventInstanceID="ei95" lid="l4" relType="IS_INCLUDED" relatedToTime="t19"/>
+<TLINK eventInstanceID="ei87" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei87" lid="l6" relType="IDENTITY" relatedToEventInstance="ei90"/>
+<TLINK eventInstanceID="ei89" lid="l7" relType="IS_INCLUDED" relatedToTime="t15"/>
+<TLINK eventInstanceID="ei92" lid="l8" relType="IS_INCLUDED" relatedToTime="t18"/>
+<TLINK eventInstanceID="ei87" lid="l9" relType="OVERLAP" relatedToEventInstance="ei88"/>
+<TLINK eventInstanceID="ei90" lid="l10" relType="BEFORE" relatedToEventInstance="ei92"/>
+<TLINK eventInstanceID="ei93" lid="l11" relType="IDENTITY" relatedToEventInstance="ei90"/>
+</TimeML>

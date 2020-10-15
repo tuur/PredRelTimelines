@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0132</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+N.V. DSM <EVENT class="REPORTING" eid="e1">said</EVENT> net income in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t36" type="DATE" value="1989-Q3">the third quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e2">jumped</EVENT> 63% as the company <EVENT class="OCCURRENCE" eid="e73">had</EVENT> substantially lower extraordinary <EVENT class="OCCURRENCE" eid="e3">charges</EVENT> to <EVENT class="OCCURRENCE" eid="e5">account</EVENT> for a restructuring program.
+
+The Dutch chemical group <EVENT class="REPORTING" eid="e6">said</EVENT> net income <EVENT class="OCCURRENCE" eid="e7">gained</EVENT> to 235 million guilders ($113.2 million), or 6.70 guilders a share, from 144 million guilders, or 4.10 guilders a share, <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t43" type="DATE" value="1988">a year ago</TIMEX3>.
+
+The 32% state-owned DSM <EVENT class="OCCURRENCE" eid="e8">had</EVENT> eight million guilders of extraordinary <EVENT class="OCCURRENCE" eid="e9">charges</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t45" type="DATE" value="1989-Q3">the latest quarter</TIMEX3>, mainly to <EVENT class="REPORTING" eid="e10">reflect</EVENT> one-time <EVENT class="OCCURRENCE" eid="e47">losses</EVENT> in connection with the <EVENT class="OCCURRENCE" eid="e12">disposal</EVENT> of some operations. The charges were <EVENT class="OCCURRENCE" eid="e15">offset</EVENT> in part by a <EVENT class="OCCURRENCE" eid="e48">gain</EVENT> from the <EVENT class="OCCURRENCE" eid="e17">sale</EVENT> of the company's construction division.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t49" type="DATE" value="1988">Last year</TIMEX3>, DSM <EVENT class="OCCURRENCE" eid="e19">had</EVENT> 71 million guilders of extraordinary <EVENT class="OCCURRENCE" eid="e20">charges</EVENT> for the restructuring program and other transactions.
+
+The earnings <EVENT class="OCCURRENCE" eid="e51">growth</EVENT> also was <EVENT class="OCCURRENCE" eid="e22">fueled</EVENT> by the company's ability to <EVENT class="OCCURRENCE" eid="e24">cut</EVENT> net financing spending by half to around 15 million guilders. Also, substantially lower Dutch corporate tax rates <EVENT class="OCCURRENCE" eid="e26">helped</EVENT> the company <EVENT class="ASPECTUAL" eid="e27">keep</EVENT> its tax outlay flat relative to earnings growth, the company <EVENT class="REPORTING" eid="e29">added</EVENT>.
+
+Sales, however, were little <EVENT class="OCCURRENCE" eid="e31">changed</EVENT> at 2.46 billion guilders, compared with 2.42 billion guilders.
+</TEXT>
+<LASTEXTRAINFO>wsj_0132</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2007" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e17"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e51"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e8"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e6"/>
+<MAKEINSTANCE eiid="ei1989" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e3"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e48"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e29"/>
+<TLINK eventInstanceID="ei1992" lid="l1" relType="OVERLAP" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei2013" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei2014"/>
+<TLINK lid="l3" relType="BEFORE" relatedToTime="t0" timeID="t49"/>
+<TLINK eventInstanceID="ei2011" lid="l4" relType="BEFORE" relatedToEventInstance="ei2010"/>
+<TLINK lid="l5" relType="BEFORE" relatedToTime="t0" timeID="t43"/>
+<TLINK eventInstanceID="ei2005" lid="l6" relType="IAFTER" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei2015" lid="l7" relType="IAFTER" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei1989" lid="l8" relType="AFTER" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2016" lid="l9" relType="BEFORE" relatedToEventInstance="ei1989"/>
+<TLINK lid="l10" relType="AFTER" relatedToEventInstance="ei1989" timeID="t0"/>
+<TLINK lid="l11" relType="IDENTITY" relatedToTime="t36" timeID="t45"/>
+<TLINK eventInstanceID="ei1992" lid="l12" relType="OVERLAP" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei1999" lid="l13" relType="IS_INCLUDED" relatedToTime="t45"/>
+<TLINK eventInstanceID="ei1999" lid="l14" relType="IDENTITY" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei1994" lid="l15" relType="AFTER" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei1995" lid="l16" relType="IDENTITY" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2009" lid="l17" relType="IDENTITY" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2010" lid="l18" relType="SIMULTANEOUS" relatedToEventInstance="ei2009"/>
+<TLINK eventInstanceID="ei2001" lid="l19" relType="IAFTER" relatedToEventInstance="ei2002"/>
+<TLINK lid="l20" relType="BEFORE" relatedToTime="t0" timeID="t36"/>
+<TLINK eventInstanceID="ei1994" lid="l21" relType="SIMULTANEOUS" relatedToEventInstance="ei1989"/>
+<TLINK eventInstanceID="ei1990" lid="l22" relType="ENDED_BY" relatedToTime="t36"/>
+</TimeML>

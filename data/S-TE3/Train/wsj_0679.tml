@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0679</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Hewlett-Packard Co. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2">raised</EVENT> its stake in Octel Communications Corp. to 8.5% of the common shares outstanding.
+
+In a Securities and Exchange Commission filing, Hewlett-Packard <EVENT class="REPORTING" eid="e4">said</EVENT> it now <EVENT class="STATE" eid="e5">holds</EVENT> 1,384,119 Octel common shares, including 100,000 shares <EVENT class="OCCURRENCE" eid="e6">bought</EVENT> from <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t94" type="DATE" value="1989-08-26">Aug. 26</TIMEX3> to <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t51" type="DATE" value="1989-10-20">Oct. 20</TIMEX3> for $23.31 to $24.25 a share.
+
+Hewlett-Packard, a Palo Alto, Calif., computer company, <EVENT class="REPORTING" eid="e7">said</EVENT> it <EVENT class="OCCURRENCE" eid="e8">acquired</EVENT> the stock "to <EVENT class="OCCURRENCE" eid="e10">develop</EVENT> and <EVENT class="STATE" eid="e11">maintain</EVENT> a strategic partnership in which each company <EVENT class="STATE" eid="e13">remains</EVENT> independent while <EVENT class="OCCURRENCE" eid="e15">working</EVENT> together to <EVENT class="OCCURRENCE" eid="e16">market</EVENT> and <EVENT class="OCCURRENCE" eid="e17">sell</EVENT> their products."
+
+Octel <EVENT class="REPORTING" eid="e18">said</EVENT> the <EVENT class="OCCURRENCE" eid="e19">purchase</EVENT> was <EVENT class="I_STATE" eid="e20">expected</EVENT>. Hewlett-Packard <EVENT class="REPORTING" eid="e21">affirmed</EVENT> it doesn't <EVENT class="I_STATE" eid="e22">plan</EVENT> to <EVENT class="OCCURRENCE" eid="e25">obtain</EVENT> control of Octel, a Milpitas, Calif., maker of voice-processing systems.
+
+<EVENT class="REPORTING" eid="e59">According</EVENT> to the filing, Hewlett-Packard <EVENT class="OCCURRENCE" eid="e27">acquired</EVENT> 730,070 common shares from Octel as a result of an <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t57" type="DATE" value="1988-08-10">Aug. 10, 1988</TIMEX3>, stock purchase <EVENT class="I_ACTION" eid="e29">agreement</EVENT>. That <EVENT class="I_ACTION" eid="e58">accord</EVENT> also <EVENT class="I_ACTION" eid="e30">called</EVENT> for Hewlett-Packard to <EVENT class="OCCURRENCE" eid="e32">buy</EVENT> 730,070 Octel shares in the open market within <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t60" type="DURATION" value="P18M">18 months</TIMEX3>. In addition, Hewlett-Packard <EVENT class="OCCURRENCE" eid="e36">acquired</EVENT> a <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t61" type="DURATION" value="P2Y">two-year</TIMEX3> option to <EVENT class="OCCURRENCE" eid="e39">buy</EVENT> an extra 10%, of which half may be <EVENT class="OCCURRENCE" eid="e40">sold</EVENT> directly to Hewlett-Packard by Octel.
+</TEXT>
+<LASTEXTRAINFO>wsj_0679</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei319" eventID="e17"/>
+<MAKEINSTANCE eiid="ei321" eventID="e19"/>
+<MAKEINSTANCE eiid="ei333" eventID="e36"/>
+<MAKEINSTANCE eiid="ei332" eventID="e32"/>
+<MAKEINSTANCE eiid="ei331" eventID="e30"/>
+<MAKEINSTANCE eiid="ei315" eventID="e11"/>
+<MAKEINSTANCE eiid="ei314" eventID="e10"/>
+<MAKEINSTANCE eiid="ei316" eventID="e13"/>
+<MAKEINSTANCE eiid="ei317" eventID="e15"/>
+<MAKEINSTANCE eiid="ei335" eventID="e39"/>
+<MAKEINSTANCE eiid="ei318" eventID="e16"/>
+<MAKEINSTANCE eiid="ei337" eventID="e59"/>
+<MAKEINSTANCE eiid="ei330" eventID="e58"/>
+<MAKEINSTANCE eiid="ei320" eventID="e18"/>
+<MAKEINSTANCE eiid="ei313" eventID="e8"/>
+<MAKEINSTANCE eiid="ei310" eventID="e5"/>
+<MAKEINSTANCE eiid="ei309" eventID="e4"/>
+<MAKEINSTANCE eiid="ei312" eventID="e7"/>
+<MAKEINSTANCE eiid="ei311" eventID="e6"/>
+<MAKEINSTANCE eiid="ei306" eventID="e1"/>
+<MAKEINSTANCE eiid="ei307" eventID="e2"/>
+<MAKEINSTANCE eiid="ei325" eventID="e25"/>
+<MAKEINSTANCE eiid="ei336" eventID="e40"/>
+<MAKEINSTANCE eiid="ei327" eventID="e27"/>
+<MAKEINSTANCE eiid="ei322" eventID="e20"/>
+<MAKEINSTANCE eiid="ei323" eventID="e21"/>
+<MAKEINSTANCE eiid="ei324" eventID="e22"/>
+<MAKEINSTANCE eiid="ei329" eventID="e29"/>
+<TLINK eventInstanceID="ei311" lid="l1" relType="BEFORE" relatedToTime="t51"/>
+<TLINK eventInstanceID="ei335" lid="l2" relType="BEFORE" relatedToEventInstance="ei336"/>
+<TLINK eventInstanceID="ei315" lid="l3" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei327" lid="l4" relType="AFTER" relatedToEventInstance="ei329"/>
+<TLINK eventInstanceID="ei314" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei315"/>
+<TLINK eventInstanceID="ei331" lid="l6" relType="BEFORE" relatedToEventInstance="ei332"/>
+<TLINK eventInstanceID="ei323" lid="l7" relType="OVERLAP" relatedToEventInstance="ei324"/>
+<TLINK eventInstanceID="ei329" lid="l8" relType="SIMULTANEOUS" relatedToTime="t57"/>
+<TLINK eventInstanceID="ei337" lid="l9" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei324" lid="l10" relType="BEFORE" relatedToEventInstance="ei325"/>
+<TLINK eventInstanceID="ei330" lid="l11" relType="IDENTITY" relatedToEventInstance="ei329"/>
+<TLINK eventInstanceID="ei320" lid="l12" relType="AFTER" relatedToEventInstance="ei322"/>
+<TLINK eventInstanceID="ei306" lid="l13" relType="AFTER" relatedToEventInstance="ei307"/>
+<TLINK lid="l14" relType="AFTER" relatedToEventInstance="ei311" timeID="t0"/>
+<TLINK lid="l15" relType="AFTER" relatedToTime="t57" timeID="t60"/>
+<TLINK eventInstanceID="ei323" lid="l16" relType="SIMULTANEOUS" relatedToEventInstance="ei320"/>
+<TLINK eventInstanceID="ei315" lid="l17" relType="SIMULTANEOUS" relatedToEventInstance="ei316"/>
+<TLINK eventInstanceID="ei313" lid="l18" relType="BEFORE" relatedToEventInstance="ei314"/>
+<TLINK eventInstanceID="ei335" lid="l19" relType="IAFTER" relatedToEventInstance="ei333"/>
+<TLINK eventInstanceID="ei314" lid="l20" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei309" lid="l21" relType="OVERLAP" relatedToEventInstance="ei310"/>
+<TLINK eventInstanceID="ei311" lid="l22" relType="BEFORE" relatedToEventInstance="ei310"/>
+<TLINK eventInstanceID="ei333" lid="l23" relType="SIMULTANEOUS" relatedToEventInstance="ei327"/>
+<TLINK eventInstanceID="ei330" lid="l24" relType="INCLUDES" relatedToEventInstance="ei331"/>
+<TLINK eventInstanceID="ei312" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei306"/>
+<TLINK eventInstanceID="ei311" lid="l26" relType="AFTER" relatedToTime="t94"/>
+<TLINK eventInstanceID="ei320" lid="l27" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei316" lid="l28" relType="SIMULTANEOUS" relatedToEventInstance="ei317"/>
+<TLINK eventInstanceID="ei317" lid="l29" relType="OVERLAP" relatedToEventInstance="ei318"/>
+<TLINK eventInstanceID="ei311" lid="l30" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei320" lid="l31" relType="SIMULTANEOUS" relatedToEventInstance="ei306"/>
+<TLINK eventInstanceID="ei312" lid="l32" relType="AFTER" relatedToEventInstance="ei313"/>
+<TLINK lid="l33" relType="DURING" relatedToEventInstance="ei332" timeID="t60"/>
+</TimeML>

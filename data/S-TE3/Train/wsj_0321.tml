@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0321</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+StatesWest Airlines, Phoenix, Ariz., <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2">withdrew</EVENT> its <EVENT class="I_ACTION" eid="e3">offer</EVENT> to <EVENT class="OCCURRENCE" eid="e5">acquire</EVENT> Mesa Airlines because the Farmington, N.M., carrier didn't <EVENT class="OCCURRENCE" eid="e6">respond</EVENT> to its <EVENT class="OCCURRENCE" eid="e8">offer</EVENT> by the <EVENT class="OCCURRENCE" eid="e9">close</EVENT> of business <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1989-10-31">yesterday</TIMEX3>, a deadline StatesWest had <EVENT class="OCCURRENCE" eid="e11">set</EVENT> for a response.
+
+However, StatesWest isn't <EVENT class="ASPECTUAL" eid="e12">abandoning</EVENT> its <EVENT class="OCCURRENCE" eid="e14">pursuit</EVENT> of the much-larger Mesa. StatesWest, which has a 7.25% stake in Mesa, <EVENT class="REPORTING" eid="e17">said</EVENT> it may <EVENT class="OCCURRENCE" eid="e18">purchase</EVENT> more Mesa stock or <EVENT class="OCCURRENCE" eid="e20">make</EVENT> a tender <EVENT class="OCCURRENCE" eid="e21">offer</EVENT> directly to Mesa shareholders.
+
+StatesWest had <EVENT class="I_ACTION" eid="e22">proposed</EVENT> <EVENT class="OCCURRENCE" eid="e23">acquiring</EVENT> Mesa for $7 a share and one share of a new series of StatesWest 6% convertible preferred stock it values at $3 a share. Earlier, Mesa had <EVENT class="I_STATE" eid="e26">rejected</EVENT> a general <EVENT class="I_ACTION" eid="e27">proposal</EVENT> from StatesWest to <EVENT class="OCCURRENCE" eid="e29">combine</EVENT> the two carriers in some way.
+
+StatesWest serves 10 cities in California, Arizona and Nevada. Mesa flies to 42 cities in New Mexico, Arizona, Wyoming, Colorado and Texas.
+</TEXT>
+<LASTEXTRAINFO>wsj_0321</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei162" eventID="e18"/>
+<MAKEINSTANCE eiid="ei167" eventID="e26"/>
+<MAKEINSTANCE eiid="ei168" eventID="e27"/>
+<MAKEINSTANCE eiid="ei163" eventID="e20"/>
+<MAKEINSTANCE eiid="ei164" eventID="e21"/>
+<MAKEINSTANCE eiid="ei165" eventID="e22"/>
+<MAKEINSTANCE eiid="ei166" eventID="e23"/>
+<MAKEINSTANCE eiid="ei158" eventID="e11"/>
+<MAKEINSTANCE eiid="ei159" eventID="e12"/>
+<MAKEINSTANCE eiid="ei160" eventID="e14"/>
+<MAKEINSTANCE eiid="ei161" eventID="e17"/>
+<MAKEINSTANCE eiid="ei169" eventID="e29"/>
+<MAKEINSTANCE eiid="ei156" eventID="e9"/>
+<MAKEINSTANCE eiid="ei155" eventID="e8"/>
+<MAKEINSTANCE eiid="ei153" eventID="e5"/>
+<MAKEINSTANCE eiid="ei154" eventID="e6"/>
+<MAKEINSTANCE eiid="ei150" eventID="e1"/>
+<MAKEINSTANCE eiid="ei152" eventID="e3"/>
+<MAKEINSTANCE eiid="ei151" eventID="e2"/>
+<TLINK eventInstanceID="ei158" lid="l1" relType="BEFORE" relatedToEventInstance="ei151"/>
+<TLINK eventInstanceID="ei154" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei156"/>
+<TLINK eventInstanceID="ei167" lid="l3" relType="BEFORE" relatedToEventInstance="ei165"/>
+<TLINK eventInstanceID="ei151" lid="l4" relType="AFTER" relatedToEventInstance="ei154"/>
+<TLINK eventInstanceID="ei154" lid="l5" relType="BEFORE" relatedToEventInstance="ei151"/>
+<TLINK eventInstanceID="ei150" lid="l6" relType="AFTER" relatedToEventInstance="ei151"/>
+<TLINK eventInstanceID="ei155" lid="l7" relType="IDENTITY" relatedToEventInstance="ei152"/>
+<TLINK eventInstanceID="ei150" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei161" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei165" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei163" lid="l11" relType="IDENTITY" relatedToEventInstance="ei164"/>
+<TLINK eventInstanceID="ei159" lid="l12" relType="TERMINATES" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei158" lid="l13" relType="BEFORE" relatedToTime="t41"/>
+<TLINK eventInstanceID="ei161" lid="l14" relType="BEFORE" relatedToEventInstance="ei162"/>
+<TLINK eventInstanceID="ei165" lid="l15" relType="BEFORE" relatedToEventInstance="ei166"/>
+<TLINK eventInstanceID="ei167" lid="l16" relType="AFTER" relatedToEventInstance="ei168"/>
+<TLINK eventInstanceID="ei159" lid="l17" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei160" lid="l18" relType="IDENTITY" relatedToEventInstance="ei152"/>
+</TimeML>

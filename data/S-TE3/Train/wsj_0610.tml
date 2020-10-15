@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0610</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+This hasn't been Kellogg Co.'s year. The oat-bran <EVENT class="OCCURRENCE" eid="e190">craze</EVENT> has <EVENT class="OCCURRENCE" eid="e189">cost</EVENT> the world's largest cereal maker market share. The company's president <EVENT class="OCCURRENCE" eid="e3">quit</EVENT> suddenly. And <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t296" type="DATE" value="PRESENT_REF">now</TIMEX3> Kellogg is indefinitely <EVENT class="ASPECTUAL" eid="e4">suspending</EVENT> <EVENT class="OCCURRENCE" eid="e5">work</EVENT> on what was to be a $1 billion cereal plant.
+
+The company <EVENT class="REPORTING" eid="e7">said</EVENT> it was <EVENT class="I_ACTION" eid="e8">delaying</EVENT> <EVENT class="OCCURRENCE" eid="e9">construction</EVENT> because of <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t193" type="DATE" value="PRESENT_REF">current</TIMEX3> market <EVENT class="STATE" eid="e191">conditions</EVENT>. But the Memphis, Tenn., facility wasn't to <EVENT class="ASPECTUAL" eid="e10">begin</EVENT> <EVENT class="OCCURRENCE" eid="e11">turning</EVENT> out product until <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t196" type="DATE" value="1993">1993</TIMEX3>, so the <EVENT class="OCCURRENCE" eid="e12">decision</EVENT> may reveal a more pessimistic long-term outlook as well.
+
+Kellogg, which hasn't been as <EVENT class="STATE" eid="e198">successful</EVENT> in <EVENT class="OCCURRENCE" eid="e17">capitalizing</EVENT> on the public's health-oriented desire for oat bran as rival General Mills Inc., has been <EVENT class="OCCURRENCE" eid="e18">losing</EVENT> share in the $6 billion ready-to-eat cereal market. Kellogg's <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t200" type="DATE" value="PRESENT_REF">current</TIMEX3> share is <EVENT class="I_STATE" eid="e19">believed</EVENT> to be slightly under 40% while General Mills' share is about 27%.
+
+<EVENT class="STATE" eid="e22">Led</EVENT> by its oat-based Cheerios line, General Mills has <EVENT class="OCCURRENCE" eid="e24">gained</EVENT> an estimated 2% share so far <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t419" type="DATE" value="1989">this year</TIMEX3>, mostly at the expense of Kellogg. Each share point is worth about $60 million in sales.
+
+Analysts <EVENT class="REPORTING" eid="e28">say</EVENT> much of Kellogg's <EVENT class="OCCURRENCE" eid="e204">erosion</EVENT> has been in such core brands as Corn Flakes, Rice Krispies and Frosted Flakes, which represent nearly one-third of its sales volume. Kellogg is so <EVENT class="I_STATE" eid="e206">anxious</EVENT> to <EVENT class="OCCURRENCE" eid="e32">turn</EVENT> around Corn Flakes sales that it <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t207" type="DATE" value="FUTURE_REF">soon</TIMEX3> will <EVENT class="ASPECTUAL" eid="e33">begin</EVENT> <EVENT class="OCCURRENCE" eid="e34">selling</EVENT> boxes for as little as 99 cents, trade sources <EVENT class="REPORTING" eid="e35">say</EVENT>.
+
+"Cheerios and Honey Nut Cheerios have <EVENT class="OCCURRENCE" eid="e36">eaten</EVENT> away sales normally <EVENT class="OCCURRENCE" eid="e38">going</EVENT> to Kellogg's corn-based lines simply because they are <EVENT class="STATE" eid="e40">made</EVENT> of oats," <EVENT class="REPORTING" eid="e41">says</EVENT> Merrill Lynch food analyst William Maguire. "They are not a <EVENT class="STATE" eid="e1051">happy</EVENT> group of people at Battle Creek <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t209" type="DATE" value="PRESENT_REF">right now</TIMEX3>." Kellogg is based in Battle Creek, Mich., a city that calls itself the breakfast capital of the world.
+
+Another analyst, John C. Maxwell Jr. of Wheat, First Securities in Richmond, Va., <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t210" type="DATE" value="PAST_REF">recently</TIMEX3> <EVENT class="OCCURRENCE" eid="e1061">went</EVENT> to a "sell" recommendation on Kellogg stock, which <EVENT class="OCCURRENCE" eid="e48">closed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t211" type="DATE" value="1989-10-27">Friday</TIMEX3> at $71.75, down 75 cents, in New York Stock Exchange composite trading. "I don't <EVENT class="I_STATE" eid="e49">think</EVENT> Kellogg can <EVENT class="I_STATE" eid="e51">get</EVENT> back to 40% <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t214" type="DATE" value="1989">this year</TIMEX3>," he <EVENT class="REPORTING" eid="e53">said</EVENT>. "Kellogg's main problem is life style. People are <EVENT class="OCCURRENCE" eid="e215">reading</EVENT> the boxes and <EVENT class="I_ACTION" eid="e55">deciding</EVENT> they <EVENT class="I_STATE" eid="e56">want</EVENT> something that's `healthy' for you -- oats, bran." Mr. Maxwell <EVENT class="REPORTING" eid="e57">said</EVENT> he wouldn't be <EVENT class="OCCURRENCE" eid="e58">surprised</EVENT> if, over <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t220" type="DURATION" value="P2Y">the next two years or so</TIMEX3>, General Mills' share <EVENT class="OCCURRENCE" eid="e62">increased</EVENT> to 30% or more.
+
+In <EVENT class="I_ACTION" eid="e63">announcing</EVENT> the plant <EVENT class="OCCURRENCE" eid="e64">delay</EVENT>, Kellogg Chairman William E. LaMothe <EVENT class="REPORTING" eid="e65">said</EVENT>, "Cereal volume <EVENT class="OCCURRENCE" eid="e224">growth</EVENT> in the U.S. has not <EVENT class="OCCURRENCE" eid="e66">met</EVENT> our <EVENT class="I_STATE" eid="e223">expectations</EVENT> for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t226" type="DATE" value="1989">1989</TIMEX3>". He <EVENT class="REPORTING" eid="e68">said</EVENT> <EVENT class="OCCURRENCE" eid="e69">construction</EVENT> wouldn't <EVENT class="ASPECTUAL" eid="e70">resume</EVENT> until market conditions <EVENT class="OCCURRENCE" eid="e73">warrant</EVENT> it.
+
+Kellogg <EVENT class="REPORTING" eid="e74">indicated</EVENT> that it <EVENT class="STATE" eid="e75">has</EVENT> room to <EVENT class="OCCURRENCE" eid="e77">grow</EVENT> without <EVENT class="OCCURRENCE" eid="e229">adding</EVENT> facilities. The company <EVENT class="STATE" eid="e78">has</EVENT> five other U.S. plants, including a modern facility at its Battle Creek headquarters known as Building 100, which is to <EVENT class="OCCURRENCE" eid="e81">add</EVENT> bran-processing and rice-processing capacity <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t230" type="DATE" value="1990">next year</TIMEX3>.
+
+General Mills, meanwhile, finds itself <EVENT class="I_STATE" eid="e83">constrained</EVENT> from <EVENT class="OCCURRENCE" eid="e85">boosting</EVENT> sales further because its plants are <EVENT class="OCCURRENCE" eid="e86">operating</EVENT> at capacity. A large plant in Covington, Ga., is to <EVENT class="OCCURRENCE" eid="e88">come</EVENT> on line <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t233" type="DATE" value="1990">next year</TIMEX3>.
+
+A Kellogg officer, who asked not to be named, <EVENT class="REPORTING" eid="e91">said</EVENT> the Memphis project was " <EVENT class="OCCURRENCE" eid="e235">pulled</EVENT> in for a <EVENT class="OCCURRENCE" eid="e93">reconsideration</EVENT> of costs," an indication that the ambitious plans might be <EVENT class="OCCURRENCE" eid="e95">scaled</EVENT> back in any future <EVENT class="OCCURRENCE" eid="e97">construction</EVENT>. Initial cost estimates for the plant, which was to have been built in phases, <EVENT class="OCCURRENCE" eid="e103">ranged</EVENT> from $1 billion to $1.2 billion.
+
+A company spokesman <EVENT class="REPORTING" eid="e104">said</EVENT> it was "possible, but highly unlikely," that the plant might never be <EVENT class="OCCURRENCE" eid="e105">built</EVENT>. "As we <EVENT class="I_ACTION" eid="e107">regain</EVENT> our leadership level where we have been, and as we <EVENT class="ASPECTUAL" eid="e108">continue</EVENT> to <EVENT class="OCCURRENCE" eid="e110">put</EVENT> new products into the marketplace and <EVENT class="I_STATE" eid="e113">need</EVENT> additional capacity, we will <EVENT class="I_ACTION" eid="e114">look</EVENT> at <EVENT class="ASPECTUAL" eid="e116">resuming</EVENT> our <EVENT class="OCCURRENCE" eid="e117">involvement</EVENT> with our plan," he <EVENT class="REPORTING" eid="e118">said</EVENT>.
+
+The new facility was to have been the world's most advanced cereal manufacturing plant, and Kellogg's largest construction project. The company had <EVENT class="OCCURRENCE" eid="e121">retained</EVENT> the Fluor Daniel unit of Fluor Corp. as general contractor.
+
+But in <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t248" type="DURATION" value="PXW">recent weeks</TIMEX3>, construction-industry sources <EVENT class="REPORTING" eid="e122">reported</EVENT> that early preparation work was <EVENT class="OCCURRENCE" eid="e124">slowing</EVENT> at the 185-acre site. Subcontractors <EVENT class="REPORTING" eid="e125">said</EVENT> they were <EVENT class="REPORTING" eid="e126">told</EVENT> that equipment <EVENT class="OCCURRENCE" eid="e249">orders</EVENT> would be <EVENT class="I_ACTION" eid="e128">delayed</EVENT>. Fluor Daniel already has <EVENT class="OCCURRENCE" eid="e130">reassigned</EVENT> most of its work crew, the sources <EVENT class="REPORTING" eid="e131">said</EVENT>.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t251" type="DATE" value="1989-10-27">Last Friday</TIMEX3>'s <EVENT class="OCCURRENCE" eid="e132">announcement</EVENT> was the first official word that the project was <EVENT class="STATE" eid="e1053">in</EVENT> trouble and that the company's plans for a surge in market share may have been overly <EVENT class="STATE" eid="e1054">optimistic</EVENT>. Until <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t257" type="DATE" value="PAST_REF">recently</TIMEX3>, Kellogg had been <EVENT class="REPORTING" eid="e140">telling</EVENT> its sales force and Wall Street that by <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t258" type="DATE" value="1992">1992</TIMEX3> it <EVENT class="I_ACTION" eid="e141">intended</EVENT> to <EVENT class="I_STATE" eid="e143">achieve</EVENT> a 50% share of market, measured in dollar volume.
+
+Although he <EVENT class="I_ACTION" eid="e261">called</EVENT> current market conditions "highly competitive," Mr. LaMothe, Kellogg's chairman and chief executive officer, <EVENT class="I_STATE" eid="e146">forecast</EVENT> an earnings <EVENT class="OCCURRENCE" eid="e147">increase</EVENT> for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t264" type="DATE" value="1989">the full year</TIMEX3>. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t265" type="DATE" value="1988">Last year</TIMEX3>, the company <EVENT class="OCCURRENCE" eid="e148">earned</EVENT> $480.4 million, or $3.90 a share, on sales of $4.3 billion.
+
+As <EVENT class="I_STATE" eid="e266">expected</EVENT>, Kellogg <EVENT class="REPORTING" eid="e150">reported</EVENT> lower <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t268" type="DATE" value="1989-Q3">third-quarter</TIMEX3> earnings. Net <EVENT class="OCCURRENCE" eid="e151">fell</EVENT> 16% to $123.1 million, or $1.02 a share, from $145.7 million, or $1.18 a share. Sales <EVENT class="OCCURRENCE" eid="e153">rose</EVENT> 4.8% to $1.20 billion from $1.14 billion.
+
+The company <EVENT class="OCCURRENCE" eid="e154">had</EVENT> a one-time <EVENT class="OCCURRENCE" eid="e278">charge</EVENT> of $14.8 million in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t279" type="DATE" value="1989-Q3">the latest quarter</TIMEX3> covering the <EVENT class="OCCURRENCE" eid="e156">disposition</EVENT> of certain assets. The company wouldn't <EVENT class="OCCURRENCE" eid="e157">elaborate</EVENT>, <EVENT class="REPORTING" eid="e160">citing</EVENT> competitive reasons.
+</TEXT>
+<LASTEXTRAINFO>wsj_0610</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2011" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2066" eventID="e91"/>
+<MAKEINSTANCE eiid="ei2068" eventID="e93"/>
+<MAKEINSTANCE eiid="ei2069" eventID="e95"/>
+<MAKEINSTANCE eiid="ei2070" eventID="e97"/>
+<MAKEINSTANCE eiid="ei2104" eventID="e146"/>
+<MAKEINSTANCE eiid="ei2105" eventID="e147"/>
+<MAKEINSTANCE eiid="ei2100" eventID="e143"/>
+<MAKEINSTANCE eiid="ei2098" eventID="e140"/>
+<MAKEINSTANCE eiid="ei2099" eventID="e141"/>
+<MAKEINSTANCE eiid="ei2092" eventID="e128"/>
+<MAKEINSTANCE eiid="ei2088" eventID="e124"/>
+<MAKEINSTANCE eiid="ei2089" eventID="e125"/>
+<MAKEINSTANCE eiid="ei2090" eventID="e126"/>
+<MAKEINSTANCE eiid="ei2086" eventID="e121"/>
+<MAKEINSTANCE eiid="ei2087" eventID="e122"/>
+<MAKEINSTANCE eiid="ei2091" eventID="e249"/>
+<MAKEINSTANCE eiid="ei2137" eventID="e1061"/>
+<MAKEINSTANCE eiid="ei2064" eventID="e86"/>
+<MAKEINSTANCE eiid="ei2063" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2062" eventID="e83"/>
+<MAKEINSTANCE eiid="ei2060" eventID="e81"/>
+<MAKEINSTANCE eiid="ei2110" eventID="e151"/>
+<MAKEINSTANCE eiid="ei2108" eventID="e150"/>
+<MAKEINSTANCE eiid="ei2113" eventID="e153"/>
+<MAKEINSTANCE eiid="ei2106" eventID="e148"/>
+<MAKEINSTANCE eiid="ei2116" eventID="e154"/>
+<MAKEINSTANCE eiid="ei2065" eventID="e88"/>
+<MAKEINSTANCE eiid="ei2127" eventID="e1051"/>
+<MAKEINSTANCE eiid="ei2095" eventID="e132"/>
+<MAKEINSTANCE eiid="ei2094" eventID="e131"/>
+<MAKEINSTANCE eiid="ei2093" eventID="e130"/>
+<MAKEINSTANCE eiid="ei2067" eventID="e235"/>
+<MAKEINSTANCE eiid="ei2059" eventID="e78"/>
+<MAKEINSTANCE eiid="ei2054" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2053" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2057" eventID="e77"/>
+<MAKEINSTANCE eiid="ei2056" eventID="e75"/>
+<MAKEINSTANCE eiid="ei2055" eventID="e74"/>
+<MAKEINSTANCE eiid="ei2076" eventID="e108"/>
+<MAKEINSTANCE eiid="ei2071" eventID="e103"/>
+<MAKEINSTANCE eiid="ei2074" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2072" eventID="e104"/>
+<MAKEINSTANCE eiid="ei2073" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2058" eventID="e229"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2050" eventID="e223"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e189"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2048" eventID="e224"/>
+<MAKEINSTANCE eiid="ei2051" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2052" eventID="e69"/>
+<MAKEINSTANCE eiid="ei2119" eventID="e157"/>
+<MAKEINSTANCE eiid="ei2044" eventID="e62"/>
+<MAKEINSTANCE eiid="ei2118" eventID="e156"/>
+<MAKEINSTANCE eiid="ei2046" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2047" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2049" eventID="e66"/>
+<MAKEINSTANCE eiid="ei2038" eventID="e215"/>
+<MAKEINSTANCE eiid="ei2130" eventID="e1054"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e198"/>
+<MAKEINSTANCE eiid="ei2129" eventID="e1053"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e191"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e190"/>
+<MAKEINSTANCE eiid="ei2043" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2039" eventID="e55"/>
+<MAKEINSTANCE eiid="ei2042" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2040" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2035" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2037" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e204"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e206"/>
+<MAKEINSTANCE eiid="ei2026" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2031" eventID="e48"/>
+<MAKEINSTANCE eiid="ei2034" eventID="e49"/>
+<MAKEINSTANCE eiid="ei2080" eventID="e114"/>
+<MAKEINSTANCE eiid="ei2082" eventID="e117"/>
+<MAKEINSTANCE eiid="ei2081" eventID="e116"/>
+<MAKEINSTANCE eiid="ei2077" eventID="e110"/>
+<MAKEINSTANCE eiid="ei2078" eventID="e113"/>
+<MAKEINSTANCE eiid="ei2083" eventID="e118"/>
+<MAKEINSTANCE eiid="ei2117" eventID="e278"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2120" eventID="e160"/>
+<MAKEINSTANCE eiid="ei2107" eventID="e266"/>
+<MAKEINSTANCE eiid="ei2102" eventID="e261"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2045" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e28"/>
+<TLINK eventInstanceID="ei2089" lid="l1" relType="IS_INCLUDED" relatedToTime="t248"/>
+<TLINK eventInstanceID="ei2008" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2047" lid="l3" relType="IS_INCLUDED" relatedToEventInstance="ei2045"/>
+<TLINK eventInstanceID="ei2129" lid="l4" relType="IS_INCLUDED" relatedToTime="t251"/>
+<TLINK eventInstanceID="ei2065" lid="l5" relType="ENDS" relatedToEventInstance="ei2062"/>
+<TLINK eventInstanceID="ei2051" lid="l6" relType="BEFORE" relatedToEventInstance="ei2053"/>
+<TLINK eventInstanceID="ei1995" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1994" lid="l8" relType="BEFORE" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2094" lid="l9" relType="IDENTITY" relatedToEventInstance="ei2089"/>
+<TLINK eventInstanceID="ei2003" lid="l10" relType="IS_INCLUDED" relatedToTime="t193"/>
+<TLINK eventInstanceID="ei2000" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2065" lid="l12" relType="IS_INCLUDED" relatedToTime="t233"/>
+<TLINK eventInstanceID="ei2011" lid="l13" relType="IS_INCLUDED" relatedToTime="t200"/>
+<TLINK eventInstanceID="ei2001" lid="l14" relType="AFTER" relatedToEventInstance="ei2003"/>
+<TLINK eventInstanceID="ei2015" lid="l15" relType="IS_INCLUDED" relatedToTime="t419"/>
+<TLINK eventInstanceID="ei2089" lid="l16" relType="AFTER" relatedToEventInstance="ei2090"/>
+<TLINK eventInstanceID="ei2080" lid="l17" relType="AFTER" relatedToEventInstance="ei2074"/>
+<TLINK eventInstanceID="ei2039" lid="l18" relType="OVERLAP" relatedToEventInstance="ei2040"/>
+<TLINK eventInstanceID="ei2090" lid="l19" relType="BEFORE" relatedToEventInstance="ei2092"/>
+<TLINK eventInstanceID="ei2019" lid="l20" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2017" lid="l21" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2093" lid="l22" relType="IS_INCLUDED" relatedToTime="t248"/>
+<TLINK eventInstanceID="ei2069" lid="l23" relType="IS_INCLUDED" relatedToEventInstance="ei2070"/>
+<TLINK eventInstanceID="ei2052" lid="l24" relType="AFTER" relatedToTime="t296"/>
+<TLINK eventInstanceID="ei2113" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei2110"/>
+<TLINK eventInstanceID="ei2062" lid="l26" relType="OVERLAP" relatedToEventInstance="ei2064"/>
+<TLINK eventInstanceID="ei2066" lid="l27" relType="AFTER" relatedToEventInstance="ei2067"/>
+<TLINK eventInstanceID="ei2015" lid="l28" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2117" lid="l29" relType="INCLUDES" relatedToEventInstance="ei2118"/>
+<TLINK eventInstanceID="ei2043" lid="l30" relType="AFTER" relatedToEventInstance="ei2044"/>
+<TLINK eventInstanceID="ei2023" lid="l31" relType="IS_INCLUDED" relatedToTime="t296"/>
+<TLINK eventInstanceID="ei2108" lid="l32" relType="SIMULTANEOUS" relatedToEventInstance="ei2055"/>
+<TLINK eventInstanceID="ei1997" lid="l33" relType="TERMINATES" relatedToEventInstance="ei1998"/>
+<TLINK eventInstanceID="ei2053" lid="l34" relType="REINITIATES" relatedToEventInstance="ei2052"/>
+<TLINK eventInstanceID="ei2055" lid="l35" relType="INCLUDES" relatedToEventInstance="ei2066"/>
+<TLINK eventInstanceID="ei2006" lid="l36" relType="INCLUDES" relatedToEventInstance="ei2001"/>
+<TLINK eventInstanceID="ei2034" lid="l37" relType="BEFORE" relatedToEventInstance="ei2035"/>
+<TLINK eventInstanceID="ei2116" lid="l38" relType="IDENTITY" relatedToEventInstance="ei2117"/>
+<TLINK eventInstanceID="ei2004" lid="l39" relType="BEFORE" relatedToTime="t196"/>
+<TLINK eventInstanceID="ei2130" lid="l40" relType="SIMULTANEOUS" relatedToTime="t251"/>
+<TLINK eventInstanceID="ei2137" lid="l41" relType="IS_INCLUDED" relatedToTime="t210"/>
+<TLINK eventInstanceID="ei2024" lid="l42" relType="OVERLAP" relatedToEventInstance="ei2026"/>
+<TLINK eventInstanceID="ei2086" lid="l43" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1996" lid="l44" relType="IS_INCLUDED" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2055" lid="l45" relType="IDENTITY" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei2019" lid="l46" relType="BEFORE" relatedToEventInstance="ei2021"/>
+<TLINK eventInstanceID="ei2064" lid="l47" relType="BEFORE" relatedToEventInstance="ei2062"/>
+<TLINK eventInstanceID="ei2035" lid="l48" relType="IS_INCLUDED" relatedToTime="t214"/>
+<TLINK eventInstanceID="ei2067" lid="l49" relType="BEFORE" relatedToEventInstance="ei2069"/>
+<TLINK lid="l50" relType="INCLUDES" relatedToEventInstance="ei2060" timeID="t230"/>
+<TLINK eventInstanceID="ei2024" lid="l51" relType="AFTER" relatedToEventInstance="ei2025"/>
+<TLINK eventInstanceID="ei2042" lid="l52" relType="BEFORE" relatedToEventInstance="ei2043"/>
+<TLINK eventInstanceID="ei2105" lid="l53" relType="IS_INCLUDED" relatedToTime="t264"/>
+<TLINK eventInstanceID="ei2049" lid="l54" relType="IDENTITY" relatedToEventInstance="ei2050"/>
+<TLINK eventInstanceID="ei2098" lid="l55" relType="BEFORE" relatedToEventInstance="ei2095"/>
+<TLINK eventInstanceID="ei2047" lid="l56" relType="AFTER" relatedToEventInstance="ei2049"/>
+<TLINK eventInstanceID="ei2010" lid="l57" relType="SIMULTANEOUS" relatedToEventInstance="ei2008"/>
+<TLINK eventInstanceID="ei2098" lid="l58" relType="ENDED_BY" relatedToTime="t257"/>
+<TLINK eventInstanceID="ei2044" lid="l59" relType="BEFORE" relatedToEventInstance="ei2043"/>
+<TLINK eventInstanceID="ei2082" lid="l60" relType="IS_INCLUDED" relatedToEventInstance="ei2081"/>
+<TLINK eventInstanceID="ei2071" lid="l61" relType="BEFORE" relatedToEventInstance="ei1997"/>
+<TLINK eventInstanceID="ei2106" lid="l62" relType="IS_INCLUDED" relatedToTime="t265"/>
+<TLINK eventInstanceID="ei2031" lid="l63" relType="IS_INCLUDED" relatedToTime="t211"/>
+<TLINK eventInstanceID="ei2099" lid="l64" relType="BEFORE" relatedToEventInstance="ei2100"/>
+<TLINK eventInstanceID="ei2038" lid="l65" relType="SIMULTANEOUS" relatedToEventInstance="ei2039"/>
+<TLINK eventInstanceID="ei2087" lid="l66" relType="OVERLAP" relatedToEventInstance="ei2088"/>
+<TLINK eventInstanceID="ei2083" lid="l67" relType="IDENTITY" relatedToEventInstance="ei2072"/>
+<TLINK eventInstanceID="ei2057" lid="l68" relType="AFTER" relatedToEventInstance="ei2058"/>
+<TLINK eventInstanceID="ei2072" lid="l69" relType="IS_INCLUDED" relatedToEventInstance="ei2055"/>
+<TLINK eventInstanceID="ei2045" lid="l70" relType="IS_INCLUDED" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei1998" lid="l71" relType="IS_INCLUDED" relatedToTime="t296"/>
+<TLINK eventInstanceID="ei2021" lid="l72" relType="INITIATES" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei2080" lid="l73" relType="AFTER" relatedToEventInstance="ei2076"/>
+<TLINK eventInstanceID="ei2104" lid="l74" relType="SIMULTANEOUS" relatedToEventInstance="ei2102"/>
+<TLINK eventInstanceID="ei2004" lid="l75" relType="INITIATES" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei2027" lid="l76" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2021" lid="l77" relType="IS_INCLUDED" relatedToTime="t207"/>
+<TLINK eventInstanceID="ei2102" lid="l78" relType="IS_INCLUDED" relatedToEventInstance="ei2072"/>
+<TLINK lid="l79" relType="ENDED_BY" relatedToTime="t0" timeID="t419"/>
+<TLINK eventInstanceID="ei1997" lid="l80" relType="IS_INCLUDED" relatedToTime="t296"/>
+<TLINK eventInstanceID="ei2022" lid="l81" relType="IS_INCLUDED" relatedToTime="t207"/>
+<TLINK eventInstanceID="ei2044" lid="l82" relType="IS_INCLUDED" relatedToTime="t220"/>
+<TLINK eventInstanceID="ei2015" lid="l83" relType="SIMULTANEOUS" relatedToEventInstance="ei2014"/>
+<TLINK eventInstanceID="ei2120" lid="l84" relType="SIMULTANEOUS" relatedToEventInstance="ei2119"/>
+<TLINK eventInstanceID="ei2087" lid="l85" relType="IS_INCLUDED" relatedToTime="t248"/>
+<TLINK eventInstanceID="ei2127" lid="l86" relType="SIMULTANEOUS" relatedToTime="t209"/>
+<TLINK lid="l87" relType="INCLUDES" relatedToEventInstance="ei2095" timeID="t251"/>
+<TLINK eventInstanceID="ei2005" lid="l88" relType="IS_INCLUDED" relatedToTime="t196"/>
+<TLINK eventInstanceID="ei2059" lid="l89" relType="BEFORE" relatedToTime="t230"/>
+<TLINK eventInstanceID="ei2026" lid="l90" relType="INCLUDES" relatedToEventInstance="ei2024"/>
+<TLINK eventInstanceID="ei2021" lid="l91" relType="INITIATES" relatedToEventInstance="ei2022"/>
+<TLINK eventInstanceID="ei2053" lid="l92" relType="AFTER" relatedToEventInstance="ei2054"/>
+<TLINK eventInstanceID="ei2077" lid="l93" relType="INCLUDES" relatedToEventInstance="ei2076"/>
+<TLINK eventInstanceID="ei2051" lid="l94" relType="IDENTITY" relatedToEventInstance="ei2047"/>
+<TLINK eventInstanceID="ei2080" lid="l95" relType="AFTER" relatedToEventInstance="ei2078"/>
+<TLINK eventInstanceID="ei2076" lid="l96" relType="CONTINUES" relatedToEventInstance="ei2077"/>
+<TLINK eventInstanceID="ei2042" lid="l97" relType="IDENTITY" relatedToEventInstance="ei2037"/>
+<TLINK eventInstanceID="ei1996" lid="l98" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2081" lid="l99" relType="REINITIATES" relatedToEventInstance="ei2082"/>
+<TLINK eventInstanceID="ei2048" lid="l100" relType="IS_INCLUDED" relatedToTime="t226"/>
+<TLINK eventInstanceID="ei2108" lid="l101" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2095" lid="l102" relType="IDENTITY" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei2021" lid="l103" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2110" lid="l104" relType="IS_INCLUDED" relatedToTime="t268"/>
+<TLINK eventInstanceID="ei2107" lid="l105" relType="BEFORE" relatedToEventInstance="ei2108"/>
+<TLINK eventInstanceID="ei2117" lid="l106" relType="IS_INCLUDED" relatedToTime="t279"/>
+<TLINK eventInstanceID="ei2000" lid="l107" relType="OVERLAP" relatedToEventInstance="ei2001"/>
+<TLINK eventInstanceID="ei2119" lid="l108" relType="OVERLAP" relatedToEventInstance="ei2120"/>
+<TLINK eventInstanceID="ei2098" lid="l109" relType="OVERLAP" relatedToEventInstance="ei2099"/>
+</TimeML>

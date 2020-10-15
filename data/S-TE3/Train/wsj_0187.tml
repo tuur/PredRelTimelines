@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0187</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The Finnish government and major creditors of bankrupt shipyard Waertsilae Marine Industries Oy <EVENT class="I_ACTION" eid="e1">agreed</EVENT> in principle to <EVENT class="OCCURRENCE" eid="e2">form</EVENT> a new company to <EVENT class="OCCURRENCE" eid="e3">complete</EVENT> most of the troubled shipyard's backlog of 15 ships.
+
+The new company will <EVENT class="I_ACTION" eid="e4">attempt</EVENT> to <EVENT class="OCCURRENCE" eid="e5">limit</EVENT> the shipyard's losses, participants <EVENT class="REPORTING" eid="e6">said</EVENT>. "The situation is that the bankruptcy court will <EVENT class="OCCURRENCE" eid="e7">get</EVENT> out of the shipbuilding business. Everything will be taken over by the new company," <EVENT class="REPORTING" eid="e9">said</EVENT> Christian Andersson, executive vice president of Oy Waertsilae, former parent of Waertsilae Marine.
+
+Once its ownership is <EVENT class="OCCURRENCE" eid="e10">finalized</EVENT>, the new company will <EVENT class="ASPECTUAL" eid="e40">open</EVENT> <EVENT class="OCCURRENCE" eid="e41">talks</EVENT> with state-appointed receivers to <EVENT class="OCCURRENCE" eid="e12">buy</EVENT> or <EVENT class="OCCURRENCE" eid="e43">lease</EVENT> Waertsilae Marine's shipyard facilities. Subcontractors will be <EVENT class="I_ACTION" eid="e13">offered</EVENT> a <EVENT class="OCCURRENCE" eid="e44">settlement</EVENT> and a swift <EVENT class="OCCURRENCE" eid="e45">transition</EVENT> to new management is <EVENT class="I_STATE" eid="e14">expected</EVENT> to <EVENT class="I_ACTION" eid="e15">avert</EVENT> an <EVENT class="OCCURRENCE" eid="e46">exodus</EVENT> of skilled workers from Waertsilae Marine's two big shipyards, government officials <EVENT class="REPORTING" eid="e16">said</EVENT>.
+
+Under an accord <EVENT class="OCCURRENCE" eid="e17">signed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t35" type="DATE" value="1989-11-01">yesterday</TIMEX3>, the government and Union Bank of Finland would <EVENT class="OCCURRENCE" eid="e18">become</EVENT> major shareholders in the new company, each <EVENT class="OCCURRENCE" eid="e20">injecting</EVENT> 100 million Finnish markkaa ($23.5 million). Oy Waertsilae is to <EVENT class="OCCURRENCE" eid="e21">contribute</EVENT> 200 million markkaa, most of it as subordinated debt, and <EVENT class="OCCURRENCE" eid="e22">take</EVENT> a minority stake in the new company.
+
+Customers <EVENT class="STATE" eid="e23">holding</EVENT> contracts for Waertsilae Marine's undelivered ships are <EVENT class="I_STATE" eid="e24">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e25">subscribe</EVENT> most of the remaining 170 million markkaa in share capital, government officials <EVENT class="REPORTING" eid="e27">said</EVENT>.
+
+Waertsilae Marine's biggest creditor is Miami-based Carnival Cruise Lines Inc. Carnival, which <EVENT class="STATE" eid="e28">has</EVENT> three ships on order from Waertsilae Marine, <EVENT class="OCCURRENCE" eid="e232">presented</EVENT> claims for $1.5 billion damages in the bankruptcy court <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t37" type="DATE" value="1989-W44">this week</TIMEX3>.
+
+Waertsilae Marine's bankruptcy <EVENT class="OCCURRENCE" eid="e50">proceedings</EVENT> <EVENT class="ASPECTUAL" eid="e32">began</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t36" type="DATE" value="1989-10-31">Tuesday</TIMEX3> in a Helsinki court.
+</TEXT>
+<LASTEXTRAINFO>wsj_0187</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei252" eventID="e4"/>
+<MAKEINSTANCE eiid="ei281" eventID="e232"/>
+<MAKEINSTANCE eiid="ei271" eventID="e18"/>
+<MAKEINSTANCE eiid="ei283" eventID="e32"/>
+<MAKEINSTANCE eiid="ei258" eventID="e10"/>
+<MAKEINSTANCE eiid="ei263" eventID="e13"/>
+<MAKEINSTANCE eiid="ei261" eventID="e12"/>
+<MAKEINSTANCE eiid="ei267" eventID="e15"/>
+<MAKEINSTANCE eiid="ei266" eventID="e14"/>
+<MAKEINSTANCE eiid="ei270" eventID="e17"/>
+<MAKEINSTANCE eiid="ei269" eventID="e16"/>
+<MAKEINSTANCE eiid="ei282" eventID="e50"/>
+<MAKEINSTANCE eiid="ei273" eventID="e21"/>
+<MAKEINSTANCE eiid="ei262" eventID="e43"/>
+<MAKEINSTANCE eiid="ei278" eventID="e27"/>
+<MAKEINSTANCE eiid="ei257" eventID="e9"/>
+<MAKEINSTANCE eiid="ei253" eventID="e5"/>
+<MAKEINSTANCE eiid="ei268" eventID="e46"/>
+<MAKEINSTANCE eiid="ei255" eventID="e7"/>
+<MAKEINSTANCE eiid="ei254" eventID="e6"/>
+<MAKEINSTANCE eiid="ei249" eventID="e1"/>
+<MAKEINSTANCE eiid="ei251" eventID="e3"/>
+<MAKEINSTANCE eiid="ei250" eventID="e2"/>
+<MAKEINSTANCE eiid="ei276" eventID="e24"/>
+<MAKEINSTANCE eiid="ei277" eventID="e25"/>
+<MAKEINSTANCE eiid="ei259" eventID="e40"/>
+<MAKEINSTANCE eiid="ei260" eventID="e41"/>
+<MAKEINSTANCE eiid="ei272" eventID="e20"/>
+<MAKEINSTANCE eiid="ei274" eventID="e22"/>
+<MAKEINSTANCE eiid="ei264" eventID="e44"/>
+<MAKEINSTANCE eiid="ei275" eventID="e23"/>
+<MAKEINSTANCE eiid="ei265" eventID="e45"/>
+<MAKEINSTANCE eiid="ei279" eventID="e28"/>
+<TLINK eventInstanceID="ei263" lid="l1" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei283" lid="l2" relType="INITIATES" relatedToEventInstance="ei282"/>
+<TLINK eventInstanceID="ei273" lid="l3" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei275" lid="l4" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei274" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei273"/>
+<TLINK eventInstanceID="ei266" lid="l6" relType="BEFORE" relatedToEventInstance="ei267"/>
+<TLINK eventInstanceID="ei283" lid="l7" relType="IS_INCLUDED" relatedToTime="t36"/>
+<TLINK eventInstanceID="ei279" lid="l8" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei278" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei269" lid="l10" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei261" lid="l11" relType="AFTER" relatedToEventInstance="ei259"/>
+<TLINK eventInstanceID="ei257" lid="l12" relType="IS_INCLUDED" relatedToEventInstance="ei254"/>
+<TLINK eventInstanceID="ei264" lid="l13" relType="DURING" relatedToEventInstance="ei260"/>
+<TLINK eventInstanceID="ei281" lid="l14" relType="IS_INCLUDED" relatedToTime="t37"/>
+<TLINK eventInstanceID="ei249" lid="l15" relType="BEFORE" relatedToEventInstance="ei250"/>
+<TLINK eventInstanceID="ei271" lid="l16" relType="OVERLAP" relatedToEventInstance="ei272"/>
+<TLINK eventInstanceID="ei258" lid="l17" relType="BEFORE" relatedToEventInstance="ei259"/>
+<TLINK eventInstanceID="ei252" lid="l18" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei250" lid="l19" relType="BEFORE" relatedToEventInstance="ei251"/>
+<TLINK eventInstanceID="ei259" lid="l20" relType="INITIATES" relatedToEventInstance="ei260"/>
+<TLINK eventInstanceID="ei272" lid="l21" relType="AFTER" relatedToEventInstance="ei271"/>
+<TLINK eventInstanceID="ei276" lid="l22" relType="BEFORE" relatedToEventInstance="ei277"/>
+<TLINK eventInstanceID="ei260" lid="l23" relType="AFTER" relatedToEventInstance="ei258"/>
+<TLINK eventInstanceID="ei270" lid="l24" relType="IS_INCLUDED" relatedToTime="t35"/>
+<TLINK eventInstanceID="ei249" lid="l25" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei282" lid="l26" relType="BEGUN_BY" relatedToTime="t36"/>
+<TLINK eventInstanceID="ei253" lid="l27" relType="OVERLAP" relatedToEventInstance="ei252"/>
+<TLINK eventInstanceID="ei254" lid="l28" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

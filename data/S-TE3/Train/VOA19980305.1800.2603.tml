@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>VOA19980305.1800.2603</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-03-05">1998-03-05</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+International Women's Day is <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t66" type="DATE" value="1998-03-08">this coming Sunday, March eighth</TIMEX3>. A major focus of International Women's Day is the plight of Afghan women. Special <EVENT class="OCCURRENCE" eid="e67">events</EVENT> are being <EVENT class="I_ACTION" eid="e3">organized</EVENT> by the European Commission and individual nations in Europe, North America, and other parts of the world. Lisa Schlein reports from Geneva.
+
+Afghanistan has been at war for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t70" type="DURATION" value="P20Y">twenty years</TIMEX3>, <EVENT class="I_ACTION" eid="e6">leaving</EVENT> a large part of the country's male population dead or in exile. The United Nations <EVENT class="REPORTING" eid="e7">says</EVENT> women and children <EVENT class="STATE" eid="e8">make</EVENT> up about seventy-five percent of the Afghan population. An Afghan refugee in Switzerland, Homira Atimadi, is a senior official of a group called the International Working Group on Afghan Women. The group has branches in Pakistan, Iran, Europe, Australia, and North America. Ms. Atimadi <EVENT class="REPORTING" eid="e10">says</EVENT> Afghan women have been victims of severe <EVENT class="OCCURRENCE" eid="e75">violations</EVENT> of human rights for <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t77" type="DURATION" value="P20Y">the past twenty years</TIMEX3> and she <EVENT class="REPORTING" eid="e12">says</EVENT> she <EVENT class="I_STATE" eid="e13">sees</EVENT> no <EVENT class="ASPECTUAL" eid="e78">end</EVENT> to the misery. She <EVENT class="REPORTING" eid="e15">says</EVENT> security under the fundamentalist Taleban government is <EVENT class="STATE" eid="e80">better</EVENT>, but everything else is <EVENT class="STATE" eid="e81">worse</EVENT>.
+
+Women do not <EVENT class="I_STATE" eid="e18">become</EVENT> victims of armed <EVENT class="OCCURRENCE" eid="e20">attack</EVENT>, but they do not have the right to <EVENT class="OCCURRENCE" eid="e21">work</EVENT>. And <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t87" type="DATE" value="PRESENT_REF">today</TIMEX3>, the right to work is <EVENT class="STATE" eid="e90">equal</EVENT> to r- the right to survival.
+
+Ms. Atimadi <EVENT class="REPORTING" eid="e23">says</EVENT> the <EVENT class="OCCURRENCE" eid="e24">war</EVENT> has <EVENT class="I_ACTION" eid="e25">created</EVENT> a nation of widows. Women have <EVENT class="I_STATE" eid="e26">become</EVENT> the sole <EVENT class="STATE" eid="e27">support</EVENT> of their families. Yet, the Taliban have <EVENT class="I_ACTION" eid="e28">forbidden</EVENT> them to <EVENT class="OCCURRENCE" eid="e29">work</EVENT>. She <EVENT class="REPORTING" eid="e30">says</EVENT> this <EVENT class="OCCURRENCE" eid="e31">puts</EVENT> the very existence of women's families at risk. She <EVENT class="REPORTING" eid="e34">says</EVENT> the plight of women in urban areas is <EVENT class="STATE" eid="e94">greater</EVENT> than that which exists in rural parts of the country. In cities, such as the capital Kabul, women are totally <EVENT class="I_STATE" eid="e95">dependent</EVENT> on international aid for survival. Ms. Atimadi <EVENT class="REPORTING" eid="e40">says</EVENT> the women of Kabul <EVENT class="STATE" eid="e351">symbolize</EVENT> the suffering of all the women in Afghanistan.
+
+The aim is to <EVENT class="OCCURRENCE" eid="e97">bring</EVENT> in not only the focus on women's right to education, access to work, but <EVENT class="OCCURRENCE" eid="e45">look</EVENT> beyond that and <EVENT class="OCCURRENCE" eid="e46">look</EVENT> at the roots of, uh of these problems. These are only the symptoms of the problems that are <EVENT class="I_ACTION" eid="e48">facing</EVENT> Afghanistan. For women in Afghanistan to be <EVENT class="I_STATE" eid="e352">able</EVENT> to <EVENT class="OCCURRENCE" eid="e51">realize</EVENT> their rights, there have to be conditions of peace and justice.
+
+Ms. Atimadi <EVENT class="REPORTING" eid="e55">says</EVENT> that is the primary focus of her group, peace and justice. She <EVENT class="REPORTING" eid="e57">says</EVENT> her group is <EVENT class="I_ACTION" eid="e104">appealing</EVENT> to individuals, to the international community, and to the combatants and people of Afghanistan to <EVENT class="ASPECTUAL" eid="e60">stop</EVENT> the <EVENT class="OCCURRENCE" eid="e105">bloodletting</EVENT> which has <EVENT class="I_ACTION" eid="e61">torn</EVENT> the country apart. Lisa Schlein for VOA News, Geneva.
+</TEXT>
+<LASTEXTRAINFO>VOA19980305.1800.2603</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei490" eventID="e352"/>
+<MAKEINSTANCE eiid="ei473" eventID="e351"/>
+<MAKEINSTANCE eiid="ei449" eventID="e18"/>
+<MAKEINSTANCE eiid="ei467" eventID="e34"/>
+<MAKEINSTANCE eiid="ei465" eventID="e31"/>
+<MAKEINSTANCE eiid="ei464" eventID="e30"/>
+<MAKEINSTANCE eiid="ei438" eventID="e10"/>
+<MAKEINSTANCE eiid="ei442" eventID="e13"/>
+<MAKEINSTANCE eiid="ei441" eventID="e12"/>
+<MAKEINSTANCE eiid="ei445" eventID="e15"/>
+<MAKEINSTANCE eiid="ei455" eventID="e90"/>
+<MAKEINSTANCE eiid="ei443" eventID="e78"/>
+<MAKEINSTANCE eiid="ei470" eventID="e95"/>
+<MAKEINSTANCE eiid="ei469" eventID="e94"/>
+<MAKEINSTANCE eiid="ei475" eventID="e97"/>
+<MAKEINSTANCE eiid="ei482" eventID="e55"/>
+<MAKEINSTANCE eiid="ei484" eventID="e57"/>
+<MAKEINSTANCE eiid="ei480" eventID="e51"/>
+<MAKEINSTANCE eiid="ei440" eventID="e75"/>
+<MAKEINSTANCE eiid="ei460" eventID="e26"/>
+<MAKEINSTANCE eiid="ei485" eventID="e104"/>
+<MAKEINSTANCE eiid="ei487" eventID="e105"/>
+<MAKEINSTANCE eiid="ei437" eventID="e8"/>
+<MAKEINSTANCE eiid="ei477" eventID="e46"/>
+<MAKEINSTANCE eiid="ei436" eventID="e7"/>
+<MAKEINSTANCE eiid="ei433" eventID="e6"/>
+<MAKEINSTANCE eiid="ei431" eventID="e3"/>
+<MAKEINSTANCE eiid="ei457" eventID="e24"/>
+<MAKEINSTANCE eiid="ei458" eventID="e25"/>
+<MAKEINSTANCE eiid="ei472" eventID="e40"/>
+<MAKEINSTANCE eiid="ei461" eventID="e27"/>
+<MAKEINSTANCE eiid="ei451" eventID="e20"/>
+<MAKEINSTANCE eiid="ei454" eventID="e21"/>
+<MAKEINSTANCE eiid="ei476" eventID="e45"/>
+<MAKEINSTANCE eiid="ei478" eventID="e48"/>
+<MAKEINSTANCE eiid="ei456" eventID="e23"/>
+<MAKEINSTANCE eiid="ei462" eventID="e28"/>
+<MAKEINSTANCE eiid="ei463" eventID="e29"/>
+<MAKEINSTANCE eiid="ei447" eventID="e80"/>
+<MAKEINSTANCE eiid="ei448" eventID="e81"/>
+<MAKEINSTANCE eiid="ei486" eventID="e60"/>
+<MAKEINSTANCE eiid="ei488" eventID="e61"/>
+<MAKEINSTANCE eiid="ei430" eventID="e67"/>
+<TLINK eventInstanceID="ei455" lid="l1" relType="IS_INCLUDED" relatedToTime="t87"/>
+<TLINK eventInstanceID="ei431" lid="l2" relType="ENDED_BY" relatedToEventInstance="ei430"/>
+<TLINK eventInstanceID="ei436" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei486" lid="l4" relType="AFTER" relatedToEventInstance="ei485"/>
+<TLINK eventInstanceID="ei472" lid="l5" relType="IDENTITY" relatedToEventInstance="ei456"/>
+<TLINK eventInstanceID="ei487" lid="l6" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei460" lid="l7" relType="AFTER" relatedToEventInstance="ei457"/>
+<TLINK eventInstanceID="ei478" lid="l8" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei441" lid="l9" relType="IDENTITY" relatedToEventInstance="ei438"/>
+<TLINK eventInstanceID="ei440" lid="l10" relType="IS_INCLUDED" relatedToTime="t77"/>
+<TLINK eventInstanceID="ei486" lid="l11" relType="TERMINATES" relatedToEventInstance="ei487"/>
+<TLINK eventInstanceID="ei484" lid="l12" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei485" lid="l13" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei445" lid="l14" relType="IDENTITY" relatedToEventInstance="ei438"/>
+<TLINK eventInstanceID="ei457" lid="l15" relType="IDENTITY" relatedToEventInstance="ei458"/>
+<TLINK eventInstanceID="ei467" lid="l16" relType="IDENTITY" relatedToEventInstance="ei456"/>
+<TLINK eventInstanceID="ei431" lid="l17" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei437" lid="l18" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei462" lid="l19" relType="IDENTITY" relatedToEventInstance="ei465"/>
+<TLINK eventInstanceID="ei438" lid="l20" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei482" lid="l21" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei470" lid="l22" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei464" lid="l23" relType="IDENTITY" relatedToEventInstance="ei456"/>
+<TLINK eventInstanceID="ei460" lid="l24" relType="ENDED_BY" relatedToEventInstance="ei461"/>
+<TLINK eventInstanceID="ei488" lid="l25" relType="IS_INCLUDED" relatedToEventInstance="ei487"/>
+</TimeML>

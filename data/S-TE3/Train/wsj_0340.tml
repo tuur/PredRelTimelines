@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0340</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The portfolio unit of the French bank group Credit Lyonnais <EVENT class="REPORTING" eid="e1">told</EVENT> stock market regulators that it <EVENT class="OCCURRENCE" eid="e2">bought</EVENT> 43,000 shares of Cie. de Navigation Mixte, apparently to <EVENT class="I_ACTION" eid="e3">help</EVENT> <EVENT class="OCCURRENCE" eid="e4">fend</EVENT> off an unwelcome takeover bid for the company.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="1989-10-31">Earlier yesterday</TIMEX3>, the Societe de Bourses Francaises was <EVENT class="REPORTING" eid="e6">told</EVENT> that a unit of Framatome S.A. also <EVENT class="OCCURRENCE" eid="e7">bought</EVENT> Navigation Mixte shares, this <EVENT class="OCCURRENCE" eid="e8">purchase</EVENT> covering more than 160,000 shares.
+
+Both companies are allies of Navigation Mixte in its <EVENT class="STATE" eid="e24">fight</EVENT> against a hostile takeover bid <EVENT class="ASPECTUAL" eid="e13">launched</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t61" type="DATE" value="1989-WXX">last week</TIMEX3> by Cie. Financiere de Paribas at 1,850 French francs ($297) a share. Navigation Mixte's chairman had <EVENT class="I_STATE" eid="e14">suggested</EVENT> that friendly institutions were likely to <EVENT class="OCCURRENCE" eid="e16">buy</EVENT> its stock as soon as <EVENT class="OCCURRENCE" eid="e17">trading</EVENT> <EVENT class="ASPECTUAL" eid="e18">opened</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t26" type="DATE" value="1989-11-06">Monday</TIMEX3>.
+
+The Credit Lyonnais purchase, for 33,000 regular common shares and 10,000 newly created shares, is valued at about slightly more than 80 million French francs.
+</TEXT>
+<LASTEXTRAINFO>wsj_0340</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei106" eventID="e24"/>
+<MAKEINSTANCE eiid="ei111" eventID="e18"/>
+<MAKEINSTANCE eiid="ei107" eventID="e13"/>
+<MAKEINSTANCE eiid="ei108" eventID="e14"/>
+<MAKEINSTANCE eiid="ei110" eventID="e17"/>
+<MAKEINSTANCE eiid="ei109" eventID="e16"/>
+<MAKEINSTANCE eiid="ei105" eventID="e8"/>
+<MAKEINSTANCE eiid="ei102" eventID="e4"/>
+<MAKEINSTANCE eiid="ei104" eventID="e7"/>
+<MAKEINSTANCE eiid="ei103" eventID="e6"/>
+<MAKEINSTANCE eiid="ei99" eventID="e1"/>
+<MAKEINSTANCE eiid="ei101" eventID="e3"/>
+<MAKEINSTANCE eiid="ei100" eventID="e2"/>
+<TLINK eventInstanceID="ei110" lid="l1" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei101" lid="l2" relType="OVERLAP" relatedToEventInstance="ei102"/>
+<TLINK eventInstanceID="ei110" lid="l3" relType="IS_INCLUDED" relatedToTime="t26"/>
+<TLINK eventInstanceID="ei99" lid="l4" relType="AFTER" relatedToEventInstance="ei100"/>
+<TLINK eventInstanceID="ei103" lid="l5" relType="AFTER" relatedToEventInstance="ei104"/>
+<TLINK eventInstanceID="ei100" lid="l6" relType="OVERLAP" relatedToEventInstance="ei101"/>
+<TLINK eventInstanceID="ei108" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei99" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei104" lid="l9" relType="IS_INCLUDED" relatedToEventInstance="ei105"/>
+<TLINK eventInstanceID="ei106" lid="l10" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK lid="l11" relType="INCLUDES" relatedToEventInstance="ei103" timeID="t23"/>
+<TLINK eventInstanceID="ei107" lid="l12" relType="IS_INCLUDED" relatedToTime="t61"/>
+<TLINK eventInstanceID="ei111" lid="l13" relType="INITIATES" relatedToEventInstance="ei110"/>
+<TLINK eventInstanceID="ei109" lid="l14" relType="IBEFORE" relatedToEventInstance="ei111"/>
+</TimeML>

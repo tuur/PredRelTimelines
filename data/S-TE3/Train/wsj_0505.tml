@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0505</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-31">1989-10-31</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Ratners Group PLC's U.S. subsidiary has <EVENT class="I_ACTION" eid="e1">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e3">acquire</EVENT> jewelry retailer Weisfield's Inc. for $50 a share, or about $55 million.
+
+Weisfield's shares <EVENT class="OCCURRENCE" eid="e4">soared</EVENT> on the <EVENT class="OCCURRENCE" eid="e5">announcement</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="1989-10-30">yesterday</TIMEX3>, closing up $11 to <EVENT class="OCCURRENCE" eid="e9">close</EVENT> at $50 in national over-the-counter <EVENT class="OCCURRENCE" eid="e10">trading</EVENT>.
+
+Ratners and Weisfield's <EVENT class="REPORTING" eid="e12">said</EVENT> they <EVENT class="ASPECTUAL" eid="e13">reached</EVENT> an <EVENT class="I_STATE" eid="e14">agreement</EVENT> in principle for the <EVENT class="OCCURRENCE" eid="e15">acquisition</EVENT> of Weisfield's by Sterling Inc.
+
+The companies <EVENT class="REPORTING" eid="e16">said</EVENT> the <EVENT class="OCCURRENCE" eid="e17">acquisition</EVENT> is <EVENT class="I_STATE" eid="e134">subject</EVENT> to a definitive <EVENT class="I_STATE" eid="e18">agreement</EVENT>. They <EVENT class="REPORTING" eid="e19">said</EVENT> they <EVENT class="I_STATE" eid="e20">expect</EVENT> the <EVENT class="OCCURRENCE" eid="e21">transaction</EVENT> to be <EVENT class="ASPECTUAL" eid="e23">completed</EVENT> by <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t45" type="DATE" value="1989-12-15">Dec. 15</TIMEX3>.
+
+Weisfield's, based in Seattle, Wash., currently operates 87 specialty jewelry stores in nine states. In <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t47" type="DURATION" value="P1Y">the fiscal year</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t48" type="DATE" value="1989-01-31">Jan. 31</TIMEX3>, the company <EVENT class="REPORTING" eid="e28">reported</EVENT> <EVENT class="OCCURRENCE" eid="e53">sales</EVENT> of $59.5 million and pretax <EVENT class="STATE" eid="e51">profit</EVENT> of $2.9 million.
+
+Ratners, which controls 25% of the British jewelry market, would <EVENT class="OCCURRENCE" eid="e31">increase</EVENT> the number of its U.S. stores to about 450 stores from 360. It has <EVENT class="REPORTING" eid="e33">said</EVENT> it <EVENT class="I_STATE" eid="e34">hopes</EVENT> to <EVENT class="I_STATE" eid="e36">control</EVENT> 5% of jewelry business in the U.S. by <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t60" type="DATE" value="1992">1992</TIMEX3>; <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t62" type="DATE" value="PRESENT_REF">currently</TIMEX3> it <EVENT class="I_STATE" eid="e38">controls</EVENT> about 2%.
+</TEXT>
+<LASTEXTRAINFO>wsj_0505</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2006" eventID="e134"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e31"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e51"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e18"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e9"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e28"/>
+<TLINK eventInstanceID="ei1995" lid="l1" relType="AFTER" relatedToEventInstance="ei1996"/>
+<TLINK eventInstanceID="ei2020" lid="l2" relType="IS_INCLUDED" relatedToTime="t60"/>
+<TLINK eventInstanceID="ei2009" lid="l3" relType="BEFORE" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2008" lid="l4" relType="IDENTITY" relatedToEventInstance="ei2004"/>
+<TLINK eventInstanceID="ei2000" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1995" lid="l6" relType="ENDED_BY" relatedToEventInstance="ei1997"/>
+<TLINK eventInstanceID="ei2002" lid="l7" relType="BEFORE" relatedToEventInstance="ei2007"/>
+<TLINK eventInstanceID="ei2004" lid="l8" relType="OVERLAP" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei2011" lid="l9" relType="ENDED_BY" relatedToTime="t45"/>
+<TLINK eventInstanceID="ei2007" lid="l10" relType="BEFORE" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei2014" lid="l11" relType="ENDED_BY" relatedToTime="t48"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei2022" timeID="t62"/>
+<TLINK eventInstanceID="ei1999" lid="l13" relType="ENDED_BY" relatedToEventInstance="ei1997"/>
+<TLINK eventInstanceID="ei2018" lid="l14" relType="OVERLAP" relatedToEventInstance="ei2019"/>
+<TLINK eventInstanceID="ei2013" lid="l15" relType="ENDED_BY" relatedToTime="t48"/>
+<TLINK eventInstanceID="ei1996" lid="l16" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2004" lid="l17" relType="IDENTITY" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei2014" lid="l18" relType="DURING" relatedToTime="t47"/>
+<TLINK eventInstanceID="ei2012" lid="l19" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2013" lid="l20" relType="DURING" relatedToTime="t47"/>
+<TLINK eventInstanceID="ei2008" lid="l21" relType="OVERLAP" relatedToEventInstance="ei2009"/>
+<TLINK eventInstanceID="ei2011" lid="l22" relType="CULMINATES" relatedToEventInstance="ei2010"/>
+<TLINK eventInstanceID="ei2018" lid="l23" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2019" lid="l24" relType="BEFORE" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei1993" lid="l25" relType="BEFORE" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2005" lid="l26" relType="IDENTITY" relatedToEventInstance="ei2003"/>
+<TLINK eventInstanceID="ei1993" lid="l27" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2012" lid="l28" relType="AFTER" relatedToTime="t48"/>
+<TLINK eventInstanceID="ei2000" lid="l29" relType="AFTER" relatedToEventInstance="ei2001"/>
+<TLINK eventInstanceID="ei1999" lid="l30" relType="INCLUDES" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2010" lid="l31" relType="IDENTITY" relatedToEventInstance="ei2005"/>
+</TimeML>

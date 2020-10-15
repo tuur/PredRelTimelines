@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0674</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Jim Pattison Industries Ltd., one of a group of closely held companies owned by entrepreneur James Pattison, <EVENT class="REPORTING" eid="e2">said</EVENT> it "<EVENT class="I_STATE" eid="e3">intends</EVENT> to <EVENT class="I_ACTION" eid="e5">seek</EVENT> control" of 30%-owned Innopac Inc., a Toronto packaging concern.
+
+Jim Pattison Industries, a holding company with annual sales of about C$1.9 billion, largely from car dealerships and grocery stores, didn't <EVENT class="REPORTING" eid="e7">elaborate</EVENT> on the statement, and a company official <EVENT class="I_ACTION" eid="e11">declined</EVENT> further <EVENT class="OCCURRENCE" eid="e12">comment</EVENT>.
+
+The company <EVENT class="REPORTING" eid="e13">said</EVENT> it <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="PRESENT_REF">currently</TIMEX3> <EVENT class="STATE" eid="e14">holds</EVENT> about 4.2 million of Innopac's 13.8 million common shares outstanding, which <EVENT class="STATE" eid="e43">have</EVENT> an aggregate market value of about 137.8 million Canadian dollars (US$117.3 million).
+
+Separately, Innopac <EVENT class="REPORTING" eid="e15">reported</EVENT> a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t44" type="DATE" value="1989-Q4">fourth-quarter</TIMEX3> <EVENT class="STATE" eid="e16">loss</EVENT> of about C$2.6 million, or 18 Canadian cents a share, reflecting inventory <EVENT class="OCCURRENCE" eid="e45">write-downs</EVENT>. The <EVENT class="STATE" eid="e18">results</EVENT> <EVENT class="OCCURRENCE" eid="e19">made</EVENT> net income for <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t49" type="DURATION" value="P1Y">the year</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t50" type="DATE" value="1989-08-31">Aug. 31</TIMEX3> C$2.7 million, or 20 Canadian cents a share, down from C$9.7 million, or 70 Canadian cents a share <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t52" type="DATE" value="1988">last year</TIMEX3>. <EVENT class="STATE" eid="e56">Revenue</EVENT> was C$291.6 million, up from C$252 million in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t58" type="DATE" value="1988">1988</TIMEX3>.
+
+Martin Fabi, Innopac's president and chief executive, <EVENT class="REPORTING" eid="e21">said</EVENT> Innopac <EVENT class="I_STATE" eid="e22">viewed</EVENT> Mr. Pattison's <EVENT class="OCCURRENCE" eid="e23">decision</EVENT> to <EVENT class="I_ACTION" eid="e25">seek</EVENT> control as a "very positive" <EVENT class="OCCURRENCE" eid="e26">move</EVENT>. "I'm <EVENT class="I_STATE" eid="e63">happy</EVENT> that he <EVENT class="STATE" eid="e64">feels</EVENT> positively about our company," he <EVENT class="REPORTING" eid="e28">said</EVENT>. Mr. Fabi wouldn't <EVENT class="REPORTING" eid="e29">say</EVENT> directly whether Mr. Pattison has <EVENT class="REPORTING" eid="e30">disclosed</EVENT> potential terms for his planned <EVENT class="OCCURRENCE" eid="e31">bid</EVENT> for control.
+
+Among other things, Innopac is involved in recycling polystyrene foam products that are often used by fast food chains, such as McDonald's Corp., for food packaging. A joint venture involving units of Innopac and Mobil Corp. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t69" type="DATE" value="1989">earlier this year</TIMEX3> <EVENT class="OCCURRENCE" eid="e37">opened</EVENT> the first U.S. polystyrene recycling plant, in Leominster, Mass.
+</TEXT>
+<LASTEXTRAINFO>wsj_0674</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2023" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e30"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e11"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e13"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e15"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e43"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e3"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e29"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e63"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e64"/>
+<TLINK eventInstanceID="ei1999" lid="l1" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2004" lid="l2" relType="IDENTITY" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei1990" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1996" lid="l4" relType="AFTER" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2013" lid="l5" relType="IDENTITY" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei2010" lid="l6" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2000" lid="l7" relType="IS_INCLUDED" relatedToTime="t42"/>
+<TLINK eventInstanceID="ei2023" lid="l8" relType="IS_INCLUDED" relatedToTime="t69"/>
+<TLINK eventInstanceID="ei1991" lid="l9" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1998" lid="l10" relType="OVERLAP" relatedToEventInstance="ei1999"/>
+<TLINK eventInstanceID="ei1991" lid="l11" relType="BEFORE" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei2010" lid="l12" relType="OVERLAP" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2019" lid="l13" relType="AFTER" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei2019" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1990" lid="l15" relType="OVERLAP" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei2001" lid="l16" relType="IS_INCLUDED" relatedToTime="t44"/>
+<TLINK lid="l17" relType="ENDED_BY" relatedToTime="t50" timeID="t49"/>
+<TLINK eventInstanceID="ei2002" lid="l18" relType="IS_INCLUDED" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei2018" lid="l19" relType="IDENTITY" relatedToEventInstance="ei2010"/>
+<TLINK eventInstanceID="ei1998" lid="l20" relType="IDENTITY" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei1991" lid="l21" relType="INCLUDES" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2015" lid="l22" relType="IDENTITY" relatedToEventInstance="ei2012"/>
+<TLINK eventInstanceID="ei2003" lid="l23" relType="BEFORE" relatedToEventInstance="ei2002"/>
+</TimeML>

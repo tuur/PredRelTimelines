@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0332</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Orkem S.A., a French state-controlled chemical manufacturer, is <EVENT class="OCCURRENCE" eid="e1">making</EVENT> a friendly <EVENT class="OCCURRENCE" eid="e2">bid</EVENT> of 470 pence ($7.43) a share for the 59.2% of U.K. specialty chemical group Coates Brothers PLC which it doesn't already <EVENT class="STATE" eid="e3">own</EVENT>, the two sides <EVENT class="REPORTING" eid="e5">said</EVENT>.
+
+The offer, which values the whole of Coates at #301 million, has already been <EVENT class="I_ACTION" eid="e8">accepted</EVENT> by Coates executives and other shareholders owning 12.4% of the company. The acceptances <EVENT class="OCCURRENCE" eid="e11">give</EVENT> Orkem a controlling 53.2% stake in the company.
+
+Orkem and Coates <EVENT class="REPORTING" eid="e12">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t50" type="DATE" value="1989-10-25">last Wednesday</TIMEX3> that the two were <EVENT class="I_STATE" eid="e13">considering</EVENT> a <EVENT class="OCCURRENCE" eid="e14">merger</EVENT>, through Orkem's British subsidiary, Orkem Coatings U.K. Ltd.
+
+Orkem, France's third-largest chemical group, <EVENT class="REPORTING" eid="e15">said</EVENT> it would <EVENT class="OCCURRENCE" eid="e16">fund</EVENT> the <EVENT class="OCCURRENCE" eid="e18">acquisition</EVENT> through internal resources. The <EVENT class="OCCURRENCE" eid="e19">takeover</EVENT> would be followed by a <EVENT class="OCCURRENCE" eid="e45">restructuring</EVENT> of Orkem's U.K. unit, including the <EVENT class="OCCURRENCE" eid="e22">addition</EVENT> of related Orkem businesses and possibly further <EVENT class="OCCURRENCE" eid="e24">acquisitions</EVENT>. Orkem <EVENT class="REPORTING" eid="e25">said</EVENT> it eventually would <EVENT class="I_ACTION" eid="e26">seek</EVENT> to <EVENT class="OCCURRENCE" eid="e29">make</EVENT> a public share offering in its U.K. business.
+</TEXT>
+<LASTEXTRAINFO>wsj_0332</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei169" eventID="e19"/>
+<MAKEINSTANCE eiid="ei173" eventID="e25"/>
+<MAKEINSTANCE eiid="ei174" eventID="e26"/>
+<MAKEINSTANCE eiid="ei168" eventID="e18"/>
+<MAKEINSTANCE eiid="ei171" eventID="e22"/>
+<MAKEINSTANCE eiid="ei170" eventID="e45"/>
+<MAKEINSTANCE eiid="ei161" eventID="e11"/>
+<MAKEINSTANCE eiid="ei164" eventID="e13"/>
+<MAKEINSTANCE eiid="ei163" eventID="e12"/>
+<MAKEINSTANCE eiid="ei166" eventID="e15"/>
+<MAKEINSTANCE eiid="ei165" eventID="e14"/>
+<MAKEINSTANCE eiid="ei167" eventID="e16"/>
+<MAKEINSTANCE eiid="ei159" eventID="e8"/>
+<MAKEINSTANCE eiid="ei172" eventID="e24"/>
+<MAKEINSTANCE eiid="ei157" eventID="e5"/>
+<MAKEINSTANCE eiid="ei175" eventID="e29"/>
+<MAKEINSTANCE eiid="ei154" eventID="e1"/>
+<MAKEINSTANCE eiid="ei156" eventID="e3"/>
+<MAKEINSTANCE eiid="ei155" eventID="e2"/>
+<TLINK eventInstanceID="ei174" lid="l1" relType="BEFORE" relatedToEventInstance="ei175"/>
+<TLINK eventInstanceID="ei170" lid="l2" relType="INCLUDES" relatedToEventInstance="ei172"/>
+<TLINK eventInstanceID="ei169" lid="l3" relType="BEFORE" relatedToEventInstance="ei170"/>
+<TLINK eventInstanceID="ei166" lid="l4" relType="BEFORE" relatedToEventInstance="ei167"/>
+<TLINK eventInstanceID="ei173" lid="l5" relType="IDENTITY" relatedToEventInstance="ei163"/>
+<TLINK eventInstanceID="ei167" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei168"/>
+<TLINK eventInstanceID="ei154" lid="l7" relType="IDENTITY" relatedToEventInstance="ei155"/>
+<TLINK eventInstanceID="ei156" lid="l8" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei166" lid="l9" relType="IDENTITY" relatedToEventInstance="ei163"/>
+<TLINK eventInstanceID="ei159" lid="l10" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei154" lid="l11" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei170" lid="l12" relType="INCLUDES" relatedToEventInstance="ei171"/>
+<TLINK eventInstanceID="ei173" lid="l13" relType="BEFORE" relatedToEventInstance="ei174"/>
+<TLINK eventInstanceID="ei157" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei163" lid="l15" relType="OVERLAP" relatedToEventInstance="ei164"/>
+<TLINK eventInstanceID="ei163" lid="l16" relType="IS_INCLUDED" relatedToTime="t50"/>
+</TimeML>

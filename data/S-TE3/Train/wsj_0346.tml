@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0346</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Cilcorp Inc., Peoria, Ill., <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_ACTION" eid="e2">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e3">acquire</EVENT> the environmental consulting and analytical service businesses of Hunter Environmental Services Inc. of Southport, Conn. The utility holding company <EVENT class="REPORTING" eid="e6">said</EVENT> Hunter will <EVENT class="OCCURRENCE" eid="e7">receive</EVENT> 390,000 shares of a new series of Cilcorp convertible preferred stock with a face value of $39 million for the businesses. Cilcorp will also <EVENT class="I_ACTION" eid="e8">assume</EVENT> $22 million of Hunter's existing debt. As part of the agreement, Cilcorp <EVENT class="REPORTING" eid="e10">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e11">pay</EVENT> Hunter $4 million in exchange for agreements not to compete.
+
+Cilcorp <EVENT class="REPORTING" eid="e15">said</EVENT> the businesses to be <EVENT class="OCCURRENCE" eid="e16">acquired</EVENT> <EVENT class="OCCURRENCE" eid="e38">had</EVENT> revenue of $76 million for <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t33" type="DURATION" value="P1Y">the year</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t32" type="DATE" value="1989-03-31">March 31</TIMEX3>.
+
+Separately, Cilcorp <EVENT class="REPORTING" eid="e18">said</EVENT> it <EVENT class="I_STATE" eid="e19">plans</EVENT> to <EVENT class="OCCURRENCE" eid="e20">purchase</EVENT> as many as 1.4 million shares, or 10% of its common stock outstanding from time to time on the open market and through privately negotiated transactions.
+
+The company, which <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t34" type="DATE" value="PRESENT_REF">currently</TIMEX3> <EVENT class="OCCURRENCE" eid="e26">has</EVENT> 13.5 million common shares outstanding, <EVENT class="REPORTING" eid="e27">said</EVENT> it <EVENT class="OCCURRENCE" eid="e28">has</EVENT> no specific plans for the shares.
+</TEXT>
+<LASTEXTRAINFO>wsj_0346</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei227" eventID="e19"/>
+<MAKEINSTANCE eiid="ei226" eventID="e18"/>
+<MAKEINSTANCE eiid="ei229" eventID="e26"/>
+<MAKEINSTANCE eiid="ei215" eventID="e6"/>
+<MAKEINSTANCE eiid="ei228" eventID="e20"/>
+<MAKEINSTANCE eiid="ei221" eventID="e11"/>
+<MAKEINSTANCE eiid="ei220" eventID="e10"/>
+<MAKEINSTANCE eiid="ei222" eventID="e15"/>
+<MAKEINSTANCE eiid="ei224" eventID="e38"/>
+<MAKEINSTANCE eiid="ei230" eventID="e27"/>
+<MAKEINSTANCE eiid="ei217" eventID="e8"/>
+<MAKEINSTANCE eiid="ei216" eventID="e7"/>
+<MAKEINSTANCE eiid="ei223" eventID="e16"/>
+<MAKEINSTANCE eiid="ei211" eventID="e1"/>
+<MAKEINSTANCE eiid="ei231" eventID="e28"/>
+<MAKEINSTANCE eiid="ei213" eventID="e3"/>
+<MAKEINSTANCE eiid="ei212" eventID="e2"/>
+<TLINK eventInstanceID="ei226" lid="l1" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei213" lid="l2" relType="IDENTITY" relatedToEventInstance="ei223"/>
+<TLINK eventInstanceID="ei220" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei220" lid="l4" relType="BEFORE" relatedToEventInstance="ei221"/>
+<TLINK eventInstanceID="ei211" lid="l5" relType="AFTER" relatedToEventInstance="ei212"/>
+<TLINK eventInstanceID="ei215" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei211"/>
+<TLINK eventInstanceID="ei222" lid="l7" relType="SIMULTANEOUS" relatedToEventInstance="ei211"/>
+<TLINK lid="l8" relType="INCLUDES" relatedToTime="t0" timeID="t34"/>
+<TLINK eventInstanceID="ei211" lid="l9" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei212" lid="l10" relType="BEFORE" relatedToEventInstance="ei213"/>
+<TLINK eventInstanceID="ei215" lid="l11" relType="BEFORE" relatedToEventInstance="ei216"/>
+<TLINK lid="l12" relType="ENDED_BY" relatedToTime="t32" timeID="t33"/>
+<TLINK lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei229" timeID="t34"/>
+<TLINK eventInstanceID="ei227" lid="l14" relType="BEFORE" relatedToEventInstance="ei228"/>
+<TLINK eventInstanceID="ei230" lid="l15" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei226" lid="l16" relType="OVERLAP" relatedToEventInstance="ei227"/>
+</TimeML>

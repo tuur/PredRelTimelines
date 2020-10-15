@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0106</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+ROGERS COMMUNICATIONS Inc. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_STATE" eid="e2">plans</EVENT> to <EVENT class="OCCURRENCE" eid="e4">raise</EVENT> 175 million to 180 million Canadian dollars (US$148.9 million to $153.3 million) through a private <EVENT class="OCCURRENCE" eid="e5">placement</EVENT> of perpetual preferred shares. Perpetual preferred shares aren't retractable by the holders, the company <EVENT class="REPORTING" eid="e7">said</EVENT>. Rogers <EVENT class="REPORTING" eid="e8">said</EVENT> the shares will be <EVENT class="OCCURRENCE" eid="e27">convertible</EVENT> into Class B shares, but that the company <EVENT class="STATE" eid="e29">has</EVENT> the option to <EVENT class="OCCURRENCE" eid="e13">redeem</EVENT> the shares before a <EVENT class="OCCURRENCE" eid="e14">conversion</EVENT> <EVENT class="OCCURRENCE" eid="e16">takes</EVENT> place. A spokesman for the Toronto cable television and telecommunications concern <EVENT class="REPORTING" eid="e17">said</EVENT> the coupon rate hasn't yet been <EVENT class="OCCURRENCE" eid="e18">fixed</EVENT>, but will probably be <EVENT class="OCCURRENCE" eid="e20">set</EVENT> at around 8%. He <EVENT class="I_ACTION" eid="e21">declined</EVENT> to <EVENT class="OCCURRENCE" eid="e23">discuss</EVENT> other terms of the issue.
+</TEXT>
+<LASTEXTRAINFO>wsj_0106</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei141" eventID="e18"/>
+<MAKEINSTANCE eiid="ei134" eventID="e27"/>
+<MAKEINSTANCE eiid="ei142" eventID="e20"/>
+<MAKEINSTANCE eiid="ei143" eventID="e21"/>
+<MAKEINSTANCE eiid="ei144" eventID="e23"/>
+<MAKEINSTANCE eiid="ei137" eventID="e13"/>
+<MAKEINSTANCE eiid="ei135" eventID="e29"/>
+<MAKEINSTANCE eiid="ei140" eventID="e17"/>
+<MAKEINSTANCE eiid="ei139" eventID="e16"/>
+<MAKEINSTANCE eiid="ei131" eventID="e5"/>
+<MAKEINSTANCE eiid="ei133" eventID="e8"/>
+<MAKEINSTANCE eiid="ei138" eventID="e14"/>
+<MAKEINSTANCE eiid="ei130" eventID="e4"/>
+<MAKEINSTANCE eiid="ei132" eventID="e7"/>
+<MAKEINSTANCE eiid="ei128" eventID="e1"/>
+<MAKEINSTANCE eiid="ei129" eventID="e2"/>
+<TLINK eventInstanceID="ei128" lid="l1" relType="OVERLAP" relatedToEventInstance="ei129"/>
+<TLINK eventInstanceID="ei129" lid="l2" relType="BEFORE" relatedToEventInstance="ei130"/>
+<TLINK eventInstanceID="ei132" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei138" lid="l4" relType="IDENTITY" relatedToEventInstance="ei139"/>
+<TLINK eventInstanceID="ei143" lid="l5" relType="BEFORE" relatedToEventInstance="ei144"/>
+<TLINK eventInstanceID="ei132" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei128"/>
+<TLINK eventInstanceID="ei140" lid="l7" relType="BEFORE" relatedToEventInstance="ei141"/>
+<TLINK eventInstanceID="ei140" lid="l8" relType="SIMULTANEOUS" relatedToEventInstance="ei128"/>
+<TLINK eventInstanceID="ei128" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei133" lid="l10" relType="BEFORE" relatedToEventInstance="ei134"/>
+<TLINK eventInstanceID="ei133" lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei128"/>
+<TLINK eventInstanceID="ei131" lid="l12" relType="SIMULTANEOUS" relatedToEventInstance="ei130"/>
+<TLINK eventInstanceID="ei135" lid="l13" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei137" lid="l14" relType="BEFORE" relatedToEventInstance="ei139"/>
+<TLINK eventInstanceID="ei143" lid="l15" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei142" lid="l16" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei137" lid="l17" relType="BEFORE" relatedToEventInstance="ei138"/>
+</TimeML>

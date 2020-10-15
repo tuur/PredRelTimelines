@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0073</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Integra-A Hotel amp Restaurant Co. <EVENT class="REPORTING" eid="e1">said</EVENT> its planned rights offering to <EVENT class="OCCURRENCE" eid="e2">raise</EVENT> about $9 million was <EVENT class="I_ACTION" eid="e3">declared</EVENT> effective and the company will <EVENT class="ASPECTUAL" eid="e4">begin</EVENT> <EVENT class="OCCURRENCE" eid="e1996">mailing</EVENT> materials to shareholders at <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="1989-W44">the end of this week</TIMEX3>.
+
+Under the offer, shareholders will <EVENT class="OCCURRENCE" eid="e5">receive</EVENT> one right for each 105 common shares <EVENT class="STATE" eid="e6">owned</EVENT>. Each right <EVENT class="I_STATE" eid="e7">entitles</EVENT> the shareholder to <EVENT class="OCCURRENCE" eid="e8">buy</EVENT> $100 face amount of 13.5% bonds due <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t24" type="DATE" value="1993">1993</TIMEX3> and warrants to <EVENT class="OCCURRENCE" eid="e9">buy</EVENT> 23.5 common shares at 30 cents a share. The rights, which <EVENT class="OCCURRENCE" eid="e10">expire</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t25" type="DATE" value="1989-11-21">Nov. 21</TIMEX3>, can be exercised for $100 each.
+
+Integra, which owns and operates hotels, <EVENT class="REPORTING" eid="e15">said</EVENT> that Hallwood Group Inc. has <EVENT class="I_ACTION" eid="e16">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e17">exercise</EVENT> any rights that aren't <EVENT class="OCCURRENCE" eid="e18">exercised</EVENT> by other shareholders. Hallwood, a Cleveland merchant bank, <EVENT class="STATE" eid="e2002">owns</EVENT> about 11% of Integra.
+</TEXT>
+<LASTEXTRAINFO>wsj_0073</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2171" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2157" eventID="e1996"/>
+<MAKEINSTANCE eiid="ei2167" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2168" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2170" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2169" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2172" eventID="e2002"/>
+<MAKEINSTANCE eiid="ei2165" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2163" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2159" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2156" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2162" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2160" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2150" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2154" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2153" eventID="e2"/>
+<TLINK eventInstanceID="ei2168" lid="l1" relType="SIMULTANEOUS" relatedToEventInstance="ei2150"/>
+<TLINK eventInstanceID="ei2150" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2156" lid="l3" relType="IS_INCLUDED" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei2169" lid="l4" relType="BEFORE" relatedToEventInstance="ei2170"/>
+<TLINK eventInstanceID="ei2172" lid="l5" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2157" lid="l6" relType="IS_INCLUDED" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei2150" lid="l7" relType="AFTER" relatedToEventInstance="ei2154"/>
+<TLINK eventInstanceID="ei2156" lid="l8" relType="AFTER" relatedToEventInstance="ei2154"/>
+<TLINK eventInstanceID="ei2156" lid="l9" relType="INITIATES" relatedToEventInstance="ei2157"/>
+<TLINK eventInstanceID="ei2168" lid="l10" relType="AFTER" relatedToEventInstance="ei2169"/>
+<TLINK eventInstanceID="ei2167" lid="l11" relType="SIMULTANEOUS" relatedToTime="t25"/>
+<TLINK eventInstanceID="ei2162" lid="l12" relType="BEFORE" relatedToEventInstance="ei2163"/>
+<TLINK eventInstanceID="ei2160" lid="l13" relType="INCLUDES" relatedToEventInstance="ei2159"/>
+</TimeML>

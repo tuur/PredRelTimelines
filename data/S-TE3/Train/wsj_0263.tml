@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0263</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+UNIFIRST Corp. <EVENT class="I_ACTION" eid="e1">declared</EVENT> a 2-for-1 stock <EVENT class="OCCURRENCE" eid="e1989">split</EVENT>. The Wilmington, Mass., garment service company also <EVENT class="OCCURRENCE" eid="e2">boosted</EVENT> its quarterly dividend 20% to three cents a share adjusted for the <EVENT class="OCCURRENCE" eid="e1990">split</EVENT>. The dividend had been five cents a share. The split and quarterly dividend will be <EVENT class="STATE" eid="e1995">payable</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1990-01-03">Jan. 3</TIMEX3> to stock of record <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t18" type="DATE" value="1989-11-16">Nov. 16</TIMEX3>, the company <EVENT class="REPORTING" eid="e4">said</EVENT>. The <EVENT class="OCCURRENCE" eid="e2044">split</EVENT> will <EVENT class="OCCURRENCE" eid="e5">raise</EVENT> the number of shares outstanding to about 10.2 million. Separately, UniFirst <EVENT class="REPORTING" eid="e6">reported</EVENT> that net income <EVENT class="OCCURRENCE" eid="e7">rose</EVENT> 21% to $3 million, or 29 cents a share adjusted for the <EVENT class="OCCURRENCE" eid="e2065">split</EVENT>, for <TIMEX3 anchorTimeID="t19" functionInDocument="NONE" temporalFunction="true" tid="t20" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3> <EVENT class="ASPECTUAL" eid="e9">ended</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t19" type="DATE" value="1989-08-26">Aug. 26</TIMEX3>. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2096" type="DATE" value="1988-11-01">A year earlier</TIMEX3> UniFirst <EVENT class="OCCURRENCE" eid="e10">earned</EVENT> $2.4 million, or 24 cents a share adjusted for the <EVENT class="OCCURRENCE" eid="e1994">split</EVENT>. Sales <EVENT class="OCCURRENCE" eid="e12">rose</EVENT> to $52.4 million from $50.1 million.
+</TEXT>
+<LASTEXTRAINFO>wsj_0263</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2112" eventID="e1995"/>
+<MAKEINSTANCE eiid="ei2122" eventID="e1994"/>
+<MAKEINSTANCE eiid="ei2110" eventID="e1990"/>
+<MAKEINSTANCE eiid="ei2121" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2123" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2108" eventID="e1989"/>
+<MAKEINSTANCE eiid="ei2114" eventID="e2044"/>
+<MAKEINSTANCE eiid="ei2120" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2113" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2115" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2119" eventID="e2065"/>
+<MAKEINSTANCE eiid="ei2118" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2117" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2107" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2109" eventID="e2"/>
+<TLINK eventInstanceID="ei2112" lid="l1" relType="IS_INCLUDED" relatedToTime="t17"/>
+<TLINK eventInstanceID="ei2109" lid="l2" relType="SIMULTANEOUS" relatedToEventInstance="ei2107"/>
+<TLINK eventInstanceID="ei2114" lid="l3" relType="IDENTITY" relatedToEventInstance="ei2108"/>
+<TLINK eventInstanceID="ei2108" lid="l4" relType="IDENTITY" relatedToEventInstance="ei2110"/>
+<TLINK lid="l5" relType="ENDED_BY" relatedToEventInstance="ei2120" timeID="t20"/>
+<TLINK lid="l6" relType="INCLUDES" relatedToEventInstance="ei2121" timeID="t2096"/>
+<TLINK eventInstanceID="ei2107" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2113" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2123" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2118" lid="l10" relType="IS_INCLUDED" relatedToTime="t20"/>
+<TLINK eventInstanceID="ei2107" lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei2108"/>
+<TLINK eventInstanceID="ei2120" lid="l12" relType="IS_INCLUDED" relatedToTime="t19"/>
+<TLINK eventInstanceID="ei2114" lid="l13" relType="BEFORE" relatedToEventInstance="ei2115"/>
+<TLINK eventInstanceID="ei2119" lid="l14" relType="IDENTITY" relatedToEventInstance="ei2114"/>
+<TLINK eventInstanceID="ei2117" lid="l15" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2117" lid="l16" relType="AFTER" relatedToEventInstance="ei2118"/>
+<TLINK eventInstanceID="ei2122" lid="l17" relType="IDENTITY" relatedToEventInstance="ei2114"/>
+</TimeML>

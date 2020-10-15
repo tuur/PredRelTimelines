@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0324</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+QVC Network Inc. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2">completed</EVENT> its <EVENT class="OCCURRENCE" eid="e10">acquisition</EVENT> of CVN Cos. for about $423 million.
+
+QVC <EVENT class="I_ACTION" eid="e3">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e4">pay</EVENT> $19 and one-eighth QVC share for each of CVN's 20 million fully diluted shares.
+
+The <EVENT class="OCCURRENCE" eid="e11">acquisition</EVENT> <EVENT class="OCCURRENCE" eid="e5">brings</EVENT> together the two largest competitors to Home Shopping Network Inc., which <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t49" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="STATE" eid="e59">reaches</EVENT> more viewers than any other company in the video shopping industry. Among them, Home Shopping, QVC and CVN already <EVENT class="STATE" eid="e12">control</EVENT> most of that young and fast-growing market, which <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t64" type="DATE" value="1988">last year</TIMEX3> <EVENT class="OCCURRENCE" eid="e13">had</EVENT> <EVENT class="OCCURRENCE" eid="e14">sales</EVENT> of about $1.4 billion.
+</TEXT>
+<LASTEXTRAINFO>wsj_0324</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei1995" eventID="e11"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e10"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e13"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e14"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e59"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e5"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e3"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e2"/>
+<TLINK eventInstanceID="ei1994" lid="l1" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1990" lid="l2" relType="AFTER" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei1990" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1993" lid="l4" relType="BEFORE" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei1997" lid="l5" relType="IS_INCLUDED" relatedToTime="t49"/>
+<TLINK eventInstanceID="ei1991" lid="l6" relType="CULMINATES" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei1992" lid="l7" relType="IDENTITY" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei1996" lid="l8" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1999" lid="l9" relType="IDENTITY" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei1998" lid="l10" relType="IS_INCLUDED" relatedToTime="t49"/>
+<TLINK lid="l11" relType="IDENTITY" relatedToEventInstance="ei1990" timeID="t49"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei1999" timeID="t64"/>
+</TimeML>

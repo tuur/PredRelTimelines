@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0348</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Ogden Projects Inc. <EVENT class="REPORTING" eid="e1">said</EVENT> net income <EVENT class="OCCURRENCE" eid="e2">jumped</EVENT> to $6.6 million, or 18 cents a share, in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t29" type="DATE" value="1989-Q3">the third quarter</TIMEX3>.
+
+The Fairfield, N.J., company, which is 92%-owned by Ogden Corp., New York, <EVENT class="STATE" eid="e30">had</EVENT> net of $1.1 million, or four cents a share, <TIMEX3 anchorTimeID="t29" functionInDocument="NONE" temporalFunction="true" tid="t89" type="DATE" value="1988-Q3">a year ago</TIMEX3>. Revenue <EVENT class="OCCURRENCE" eid="e5">soared</EVENT> to $101.7 million from $39.5 million.
+
+Ogden Projects, whose shares <EVENT class="ASPECTUAL" eid="e6">began</EVENT> <EVENT class="OCCURRENCE" eid="e7">trading</EVENT> on the New York Stock Exchange in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t37" type="DATE" value="1989-08">August</TIMEX3>, <EVENT class="OCCURRENCE" eid="e8">closed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DATE" value="1989-10-31">yesterday</TIMEX3> at $26.875, down 75 cents. The stock <EVENT class="ASPECTUAL" eid="e9">began</EVENT> <EVENT class="OCCURRENCE" eid="e10">trading</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1989-SU">this summer</TIMEX3> at $14 apiece.
+
+Ogden Projects, which has interests in solid-waste recovery and hazardous-waste cleanup, <EVENT class="REPORTING" eid="e15">said</EVENT> it <EVENT class="STATE" eid="e16">has</EVENT> 13 facilities in operation, up from seven <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t158" type="DATE" value="1988-11">a year ago</TIMEX3>.
+
+Meanwhile, Ogden Corp., which also has interests in building maintenance and management, <EVENT class="REPORTING" eid="e23">reported</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t52" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net <EVENT class="OCCURRENCE" eid="e145">income</EVENT> of $27.1 million, or 67 cents a share, more than twice the $13.5 million, or 34 cents a share, <TIMEX3 anchorTimeID="t52" functionInDocument="NONE" temporalFunction="true" tid="t55" type="DATE" value="1988-Q3">a year</TIMEX3> earlier. Revenue <EVENT class="OCCURRENCE" eid="e24">rose</EVENT> 33% to $378.1 million from $283.8 million.
+</TEXT>
+<LASTEXTRAINFO>wsj_0348</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei219" eventID="e24"/>
+<MAKEINSTANCE eiid="ei226" eventID="e145"/>
+<MAKEINSTANCE eiid="ei200" eventID="e30"/>
+<MAKEINSTANCE eiid="ei210" eventID="e10"/>
+<MAKEINSTANCE eiid="ei216" eventID="e23"/>
+<MAKEINSTANCE eiid="ei212" eventID="e15"/>
+<MAKEINSTANCE eiid="ei213" eventID="e16"/>
+<MAKEINSTANCE eiid="ei209" eventID="e9"/>
+<MAKEINSTANCE eiid="ei207" eventID="e8"/>
+<MAKEINSTANCE eiid="ei202" eventID="e5"/>
+<MAKEINSTANCE eiid="ei206" eventID="e7"/>
+<MAKEINSTANCE eiid="ei205" eventID="e6"/>
+<MAKEINSTANCE eiid="ei197" eventID="e1"/>
+<MAKEINSTANCE eiid="ei198" eventID="e2"/>
+<TLINK eventInstanceID="ei219" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei226" lid="l2" relType="IS_INCLUDED" relatedToTime="t52"/>
+<TLINK eventInstanceID="ei212" lid="l3" relType="IDENTITY" relatedToEventInstance="ei197"/>
+<TLINK eventInstanceID="ei209" lid="l4" relType="INITIATES" relatedToEventInstance="ei210"/>
+<TLINK eventInstanceID="ei210" lid="l5" relType="IS_INCLUDED" relatedToTime="t41"/>
+<TLINK eventInstanceID="ei216" lid="l6" relType="AFTER" relatedToTime="t52"/>
+<TLINK eventInstanceID="ei209" lid="l7" relType="IS_INCLUDED" relatedToTime="t41"/>
+<TLINK eventInstanceID="ei200" lid="l8" relType="DURING" relatedToTime="t89"/>
+<TLINK eventInstanceID="ei197" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei206" lid="l10" relType="IS_INCLUDED" relatedToTime="t37"/>
+<TLINK eventInstanceID="ei202" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei197" lid="l12" relType="AFTER" relatedToEventInstance="ei198"/>
+<TLINK eventInstanceID="ei207" lid="l13" relType="AFTER" relatedToEventInstance="ei205"/>
+<TLINK eventInstanceID="ei207" lid="l14" relType="IS_INCLUDED" relatedToTime="t38"/>
+<TLINK eventInstanceID="ei205" lid="l15" relType="IS_INCLUDED" relatedToTime="t37"/>
+<TLINK eventInstanceID="ei205" lid="l16" relType="INITIATES" relatedToEventInstance="ei206"/>
+</TimeML>

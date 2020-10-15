@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0570</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Crane Co. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="STATE" eid="e2">holds</EVENT> an 8.9% stake in Milton Roy Corp., an analytical-instruments maker, and may <EVENT class="I_STATE" eid="e4">seek</EVENT> control of the company.
+
+Crane, a maker of engineered products for aerospace, construction, defense and other uses, <EVENT class="OCCURRENCE" eid="e8">made</EVENT> the <EVENT class="REPORTING" eid="e9">disclosure</EVENT> in a Securities and Exchange Commission <EVENT class="OCCURRENCE" eid="e81">filing</EVENT>.
+
+In the <EVENT class="OCCURRENCE" eid="e10">filing</EVENT>, Crane <EVENT class="REPORTING" eid="e11">said</EVENT> that in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t84" type="DATE" value="PAST_REF">the past</TIMEX3> it <EVENT class="I_STATE" eid="e12">considered</EVENT> <EVENT class="I_ACTION" eid="e13">seeking</EVENT> control of Milton Roy, of St. Petersburg, Fla., through a <EVENT class="OCCURRENCE" eid="e14">merger</EVENT> or tender <EVENT class="OCCURRENCE" eid="e15">offer</EVENT> and that it <EVENT class="I_STATE" eid="e16">expects</EVENT> to <EVENT class="ASPECTUAL" eid="e18">continue</EVENT> to <EVENT class="I_ACTION" eid="e20">evaluate</EVENT> an <EVENT class="OCCURRENCE" eid="e21">acquisition</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t88" type="DATE" value="FUTURE_REF">from time to time</TIMEX3>. Crane officials didn't <EVENT class="OCCURRENCE" eid="e25">return</EVENT> phone <EVENT class="OCCURRENCE" eid="e89">calls</EVENT> seeking comment.
+
+Crane holds 504,200 Milton Roy shares, including 254,200 <EVENT class="OCCURRENCE" eid="e30">bought</EVENT> from <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t91" type="DATE" value="1989-09-14">Sept. 14</TIMEX3> to <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t92" type="DATE" value="1989-10-26">Thursday</TIMEX3> for $15.50 to $16.75 each. In New York Stock Exchange composite trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t94" type="DATE" value="1989-10-27">Friday</TIMEX3>, Milton Roy shares <EVENT class="OCCURRENCE" eid="e31">leaped</EVENT> $2, to $18.375 each, while Crane <EVENT class="OCCURRENCE" eid="e33">sank</EVENT> $1.125, to $21.125 a share.
+
+John M. McNamara, chief financial officer of Milton Roy, <EVENT class="REPORTING" eid="e34">said</EVENT> the company <EVENT class="STATE" eid="e35">has</EVENT> no <EVENT class="I_STATE" eid="e36">comment</EVENT> on Crane's <EVENT class="OCCURRENCE" eid="e37">filing</EVENT>.
+
+Milton Roy <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t100" type="DATE" value="PAST_REF">recently</TIMEX3> <EVENT class="OCCURRENCE" eid="e38">fended</EVENT> off unsolicited overtures from Thermo Electron Corp., a Waltham, Mass., maker of biomedical products. Milton Roy <EVENT class="REPORTING" eid="e40">disclosed</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t101" type="DATE" value="1989-05">May</TIMEX3> that it was <EVENT class="I_ACTION" eid="e41">approached</EVENT> for a possible <EVENT class="OCCURRENCE" eid="e42">acquisition</EVENT> by Thermo Electron, which <EVENT class="I_ACTION" eid="e43">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e45">purchase</EVENT> Milton Roy's liquid-chromatography line for $22 million in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t104" type="DATE" value="1990-02">February</TIMEX3>. Thermo Electron <EVENT class="OCCURRENCE" eid="e47">acquired</EVENT> some 6% of Milton Roy's common stock before <EVENT class="OCCURRENCE" eid="e49">throwing</EVENT> in the towel and <EVENT class="OCCURRENCE" eid="e50">reducing</EVENT> its stake in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t105" type="DATE" value="1989-09">early September</TIMEX3>.
+
+Gabelli Group <EVENT class="ASPECTUAL" eid="e52">began</EVENT> <EVENT class="OCCURRENCE" eid="e53">raising</EVENT> its Milton Roy stake in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t108" type="DATE" value="1989-07">July</TIMEX3>, and <EVENT class="STATE" eid="e54">holds</EVENT> 14.6%, <EVENT class="REPORTING" eid="e109">according</EVENT> to a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t110" type="DATE" value="PAST_REF">recent</TIMEX3> SEC filing. It hasn't <EVENT class="OCCURRENCE" eid="e56">made</EVENT> merger <EVENT class="I_ACTION" eid="e58">overtures</EVENT> to the board.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t113" type="DATE" value="1989-10">Earlier this month</TIMEX3>, Milton Roy <EVENT class="OCCURRENCE" eid="e59">signed</EVENT> a letter of intent to <EVENT class="OCCURRENCE" eid="e63">acquire</EVENT> Automated Custom Systems Inc., Orange, Calif., and its sister operation, Environmental Testing Co., in Aurora, Colo.
+
+The companies are automotive-emissions-testing concerns.
+
+Under the terms, Milton Roy will <EVENT class="OCCURRENCE" eid="e65">pay</EVENT> an initial $4 million for the <EVENT class="OCCURRENCE" eid="e66">operations</EVENT> and additional <EVENT class="OCCURRENCE" eid="e67">payments</EVENT> during <TIMEX3 beginPoint="t0" functionInDocument="NONE" temporalFunction="true" tid="t114" type="DURATION" value="P4Y">the next four years</TIMEX3> based on the earnings performance of the businesses.
+
+In <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t115" type="DURATION" value="P9M">the nine months</TIMEX3>, Milton Roy <EVENT class="OCCURRENCE" eid="e72">earned</EVENT> $6.6 million, or $1.18 a share, on <EVENT class="OCCURRENCE" eid="e118">sales</EVENT> of $94.3 million.
+</TEXT>
+<LASTEXTRAINFO>wsj_0570</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei423" eventID="e2"/>
+<MAKEINSTANCE eiid="ei436" eventID="e16"/>
+<MAKEINSTANCE eiid="ei452" eventID="e37"/>
+<MAKEINSTANCE eiid="ei437" eventID="e18"/>
+<MAKEINSTANCE eiid="ei450" eventID="e35"/>
+<MAKEINSTANCE eiid="ei449" eventID="e34"/>
+<MAKEINSTANCE eiid="ei447" eventID="e33"/>
+<MAKEINSTANCE eiid="ei445" eventID="e31"/>
+<MAKEINSTANCE eiid="ei444" eventID="e30"/>
+<MAKEINSTANCE eiid="ei430" eventID="e11"/>
+<MAKEINSTANCE eiid="ei429" eventID="e10"/>
+<MAKEINSTANCE eiid="ei432" eventID="e13"/>
+<MAKEINSTANCE eiid="ei431" eventID="e12"/>
+<MAKEINSTANCE eiid="ei435" eventID="e15"/>
+<MAKEINSTANCE eiid="ei434" eventID="e14"/>
+<MAKEINSTANCE eiid="ei453" eventID="e38"/>
+<MAKEINSTANCE eiid="ei469" eventID="e59"/>
+<MAKEINSTANCE eiid="ei468" eventID="e58"/>
+<MAKEINSTANCE eiid="ei471" eventID="e63"/>
+<MAKEINSTANCE eiid="ei464" eventID="e54"/>
+<MAKEINSTANCE eiid="ei466" eventID="e56"/>
+<MAKEINSTANCE eiid="ei461" eventID="e50"/>
+<MAKEINSTANCE eiid="ei463" eventID="e53"/>
+<MAKEINSTANCE eiid="ei462" eventID="e52"/>
+<MAKEINSTANCE eiid="ei451" eventID="e36"/>
+<MAKEINSTANCE eiid="ei465" eventID="e109"/>
+<MAKEINSTANCE eiid="ei440" eventID="e25"/>
+<MAKEINSTANCE eiid="ei427" eventID="e9"/>
+<MAKEINSTANCE eiid="ei426" eventID="e8"/>
+<MAKEINSTANCE eiid="ei475" eventID="e72"/>
+<MAKEINSTANCE eiid="ei424" eventID="e4"/>
+<MAKEINSTANCE eiid="ei422" eventID="e1"/>
+<MAKEINSTANCE eiid="ei459" eventID="e47"/>
+<MAKEINSTANCE eiid="ei456" eventID="e42"/>
+<MAKEINSTANCE eiid="ei457" eventID="e43"/>
+<MAKEINSTANCE eiid="ei454" eventID="e40"/>
+<MAKEINSTANCE eiid="ei455" eventID="e41"/>
+<MAKEINSTANCE eiid="ei438" eventID="e20"/>
+<MAKEINSTANCE eiid="ei439" eventID="e21"/>
+<MAKEINSTANCE eiid="ei458" eventID="e45"/>
+<MAKEINSTANCE eiid="ei460" eventID="e49"/>
+<MAKEINSTANCE eiid="ei472" eventID="e65"/>
+<MAKEINSTANCE eiid="ei428" eventID="e81"/>
+<MAKEINSTANCE eiid="ei474" eventID="e67"/>
+<MAKEINSTANCE eiid="ei476" eventID="e118"/>
+<MAKEINSTANCE eiid="ei473" eventID="e66"/>
+<MAKEINSTANCE eiid="ei441" eventID="e89"/>
+<TLINK eventInstanceID="ei472" lid="l1" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei422" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei474" lid="l3" relType="DURING" relatedToTime="t114"/>
+<TLINK eventInstanceID="ei445" lid="l4" relType="IS_INCLUDED" relatedToTime="t94"/>
+<TLINK eventInstanceID="ei454" lid="l5" relType="AFTER" relatedToEventInstance="ei455"/>
+<TLINK eventInstanceID="ei431" lid="l6" relType="IS_INCLUDED" relatedToTime="t84"/>
+<TLINK eventInstanceID="ei444" lid="l7" relType="BEGUN_BY" relatedToTime="t91"/>
+<TLINK eventInstanceID="ei474" lid="l8" relType="AFTER" relatedToEventInstance="ei472"/>
+<TLINK eventInstanceID="ei430" lid="l9" relType="IDENTITY" relatedToEventInstance="ei427"/>
+<TLINK eventInstanceID="ei472" lid="l10" relType="BEFORE" relatedToEventInstance="ei473"/>
+<TLINK eventInstanceID="ei441" lid="l11" relType="BEFORE" relatedToEventInstance="ei440"/>
+<TLINK eventInstanceID="ei422" lid="l12" relType="OVERLAP" relatedToEventInstance="ei423"/>
+<TLINK eventInstanceID="ei469" lid="l13" relType="IS_INCLUDED" relatedToTime="t113"/>
+<TLINK eventInstanceID="ei457" lid="l14" relType="BEFORE" relatedToEventInstance="ei458"/>
+<TLINK eventInstanceID="ei444" lid="l15" relType="ENDED_BY" relatedToTime="t92"/>
+<TLINK eventInstanceID="ei429" lid="l16" relType="IDENTITY" relatedToEventInstance="ei428"/>
+<TLINK eventInstanceID="ei449" lid="l17" relType="OVERLAP" relatedToEventInstance="ei451"/>
+<TLINK eventInstanceID="ei462" lid="l18" relType="INITIATES" relatedToEventInstance="ei463"/>
+<TLINK eventInstanceID="ei430" lid="l19" relType="AFTER" relatedToEventInstance="ei431"/>
+<TLINK eventInstanceID="ei475" lid="l20" relType="AFTER" relatedToEventInstance="ei476"/>
+<TLINK eventInstanceID="ei437" lid="l21" relType="CONTINUES" relatedToEventInstance="ei438"/>
+<TLINK eventInstanceID="ei453" lid="l22" relType="IS_INCLUDED" relatedToTime="t100"/>
+<TLINK eventInstanceID="ei431" lid="l23" relType="BEFORE" relatedToEventInstance="ei432"/>
+<TLINK eventInstanceID="ei450" lid="l24" relType="IDENTITY" relatedToEventInstance="ei451"/>
+<TLINK eventInstanceID="ei466" lid="l25" relType="IDENTITY" relatedToEventInstance="ei468"/>
+<TLINK eventInstanceID="ei459" lid="l26" relType="BEFORE" relatedToEventInstance="ei461"/>
+<TLINK eventInstanceID="ei454" lid="l27" relType="IS_INCLUDED" relatedToTime="t101"/>
+<TLINK eventInstanceID="ei459" lid="l28" relType="BEFORE" relatedToEventInstance="ei460"/>
+<TLINK eventInstanceID="ei438" lid="l29" relType="IS_INCLUDED" relatedToTime="t88"/>
+<TLINK eventInstanceID="ei464" lid="l30" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei463" lid="l31" relType="BEGUN_BY" relatedToTime="t108"/>
+<TLINK eventInstanceID="ei475" lid="l32" relType="DURING" relatedToTime="t115"/>
+<TLINK eventInstanceID="ei432" lid="l33" relType="BEGUN_BY" relatedToEventInstance="ei435"/>
+<TLINK lid="l34" relType="AFTER" relatedToEventInstance="ei430" timeID="t88"/>
+<TLINK eventInstanceID="ei445" lid="l35" relType="SIMULTANEOUS" relatedToEventInstance="ei447"/>
+<TLINK eventInstanceID="ei436" lid="l36" relType="OVERLAP" relatedToEventInstance="ei437"/>
+<TLINK eventInstanceID="ei457" lid="l37" relType="SIMULTANEOUS" relatedToEventInstance="ei455"/>
+<TLINK eventInstanceID="ei432" lid="l38" relType="BEGUN_BY" relatedToEventInstance="ei434"/>
+<TLINK eventInstanceID="ei449" lid="l39" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei427" lid="l40" relType="IS_INCLUDED" relatedToEventInstance="ei428"/>
+<TLINK eventInstanceID="ei465" lid="l41" relType="IS_INCLUDED" relatedToTime="t110"/>
+<TLINK eventInstanceID="ei426" lid="l42" relType="IDENTITY" relatedToEventInstance="ei427"/>
+<TLINK eventInstanceID="ei461" lid="l43" relType="IS_INCLUDED" relatedToTime="t105"/>
+<TLINK eventInstanceID="ei466" lid="l44" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei460" lid="l45" relType="SIMULTANEOUS" relatedToEventInstance="ei461"/>
+<TLINK eventInstanceID="ei427" lid="l46" relType="IDENTITY" relatedToEventInstance="ei422"/>
+<TLINK eventInstanceID="ei458" lid="l47" relType="IS_INCLUDED" relatedToTime="t104"/>
+<TLINK eventInstanceID="ei462" lid="l48" relType="IS_INCLUDED" relatedToTime="t108"/>
+<TLINK eventInstanceID="ei430" lid="l49" relType="IS_INCLUDED" relatedToEventInstance="ei429"/>
+</TimeML>

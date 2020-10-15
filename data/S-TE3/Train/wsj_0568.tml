@@ -1,0 +1,256 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0568</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Unisys Corp.'s <EVENT class="I_ACTION" eid="e1">announcement</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t209" type="DATE" value="1989-10-27">Friday</TIMEX3> of a $648.2 million <EVENT class="STATE" eid="e2">loss</EVENT> for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t211" type="DATE" value="1989-Q3">the third quarter</TIMEX3> showed that the company is <EVENT class="OCCURRENCE" eid="e212">moving</EVENT> even faster than <EVENT class="I_STATE" eid="e5">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e7">take</EVENT> <EVENT class="OCCURRENCE" eid="e2065">write-offs</EVENT> on its various problems and <EVENT class="I_ACTION" eid="e9">prepare</EVENT> for a <EVENT class="OCCURRENCE" eid="e213">turnaround</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t214" type="DATE" value="1990">next year</TIMEX3>.
+
+At the same time, the sheer size of the <EVENT class="STATE" eid="e11">loss</EVENT>, coupled with a slowing of <EVENT class="OCCURRENCE" eid="e13">orders</EVENT>, <EVENT class="OCCURRENCE" eid="e14">made</EVENT> some securities analysts <EVENT class="I_STATE" eid="e16">wonder</EVENT> just how strong that turnaround will be at the computer maker and defense-electronics concern.
+
+"Unisys is <EVENT class="I_STATE" eid="e17">getting</EVENT> <EVENT class="STATE" eid="e18">clobbered</EVENT>. Just clobbered," <EVENT class="REPORTING" eid="e20">said</EVENT> Ulric Weil, an analyst at Weil amp Associates who had once been <EVENT class="STATE" eid="e2785">high</EVENT> on the company. "The quarter was terrible, and the future looks anything but encouraging."
+
+Unisys, whose revenue <EVENT class="OCCURRENCE" eid="e22">inched</EVENT> up 3.7% in <TIMEX3 anchorTimeID="t211" functionInDocument="NONE" temporalFunction="true" tid="t2135" type="DATE" value="1989-Q3">the quarter</TIMEX3> to $2.35 billion from $2.27 billion in <TIMEX3 anchorTimeID="t211" functionInDocument="NONE" temporalFunction="true" tid="t225" type="DATE" value="1988-Q3">the year-earlier quarter</TIMEX3>, <EVENT class="STATE" eid="e226">had</EVENT> an operating <EVENT class="STATE" eid="e23">loss</EVENT> of about $30 million. On top of that, the Blue Bell, Pa., concern <EVENT class="OCCURRENCE" eid="e24">took</EVENT> a $230 million <EVENT class="OCCURRENCE" eid="e227">charge</EVENT> related to the <EVENT class="OCCURRENCE" eid="e26">layoffs</EVENT> of 8,000 employees. That is at the high end of the range of 7,000 to 8,000 employees that Unisys <EVENT class="REPORTING" eid="e28">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t228" type="DATE" value="1989-09">a month ago</TIMEX3> would be <EVENT class="STATE" eid="e29">laid</EVENT> off. Unisys <EVENT class="REPORTING" eid="e31">said</EVENT> that should <EVENT class="I_STATE" eid="e32">help</EVENT> it <EVENT class="OCCURRENCE" eid="e34">save</EVENT> $500 million a year in costs, again at the high end of the previously reported range of $400 million to $500 million.
+
+The company also <EVENT class="OCCURRENCE" eid="e37">took</EVENT> a <EVENT class="OCCURRENCE" eid="e38">write-off</EVENT> of $150 million to <EVENT class="OCCURRENCE" eid="e40">cover</EVENT> <EVENT class="STATE" eid="e229">losses</EVENT> on some fixed-price defense contracts, as some new managers <EVENT class="OCCURRENCE" eid="e43">took</EVENT> a hard <EVENT class="OCCURRENCE" eid="e44">look</EVENT> at the prospects for that slow-growing business. In addition, Unisys <EVENT class="OCCURRENCE" eid="e47">set</EVENT> up an unspecified reserve -- apparently $60 million to $70 million -- to <EVENT class="OCCURRENCE" eid="e49">cover</EVENT> the minimum amount it will have to <EVENT class="OCCURRENCE" eid="e52">pay</EVENT> the government because of its <EVENT class="OCCURRENCE" eid="e53">involvement</EVENT> in the defense-procurement <EVENT class="OCCURRENCE" eid="e54">scandal</EVENT>. Unisys also <EVENT class="REPORTING" eid="e56">noted</EVENT> that it <EVENT class="OCCURRENCE" eid="e57">paid</EVENT> $78.8 million in taxes during <TIMEX3 anchorTimeID="t211" functionInDocument="NONE" temporalFunction="true" tid="t235" type="DATE" value="1989-Q3">the quarter</TIMEX3>, even though tax <EVENT class="OCCURRENCE" eid="e3000">payments</EVENT> normally would be minimal in a quarter that produced such a big loss.
+
+The tax payments will <EVENT class="OCCURRENCE" eid="e64">leave</EVENT> Unisys with $225 million in loss carry-forwards that will <EVENT class="ASPECTUAL" eid="e67">cut</EVENT> tax <EVENT class="OCCURRENCE" eid="e68">payments</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t237" type="DATE" value="FUTURE_REF">future quarters</TIMEX3>. In addition, Unisys <EVENT class="REPORTING" eid="e70">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2328">reduced</EVENT> computer inventories a further $100 million during <TIMEX3 anchorTimeID="t211" functionInDocument="NONE" temporalFunction="true" tid="t239" type="DATE" value="1989-Q3">the quarter</TIMEX3>, <EVENT class="OCCURRENCE" eid="e73">leaving</EVENT> it within $100 million of its goal of a <EVENT class="STATE" eid="e241">reduction</EVENT> of $500 million by <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t243" type="DATE" value="1989">the end of the year</TIMEX3>.
+
+Still, Unisys <EVENT class="REPORTING" eid="e76">said</EVENT> its European business was <EVENT class="STATE" eid="e244">weak</EVENT> during <TIMEX3 anchorTimeID="t211" functionInDocument="NONE" temporalFunction="true" tid="t246" type="DATE" value="1989-Q3">the quarter</TIMEX3>, a worrisome sign given that the company has <EVENT class="I_STATE" eid="e80">relied</EVENT> on solid results overseas to <EVENT class="I_ACTION" eid="e84">overcome</EVENT> weakness in the U.S. over <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t249" type="DATE" value="PAST_REF">the past several quarters</TIMEX3>.
+
+The company also <EVENT class="REPORTING" eid="e85">reported</EVENT> slower <EVENT class="STATE" eid="e250">growth</EVENT> in another important business: systems that use the Unix operating system. That would be a huge <EVENT class="STATE" eid="e2410">problem</EVENT> if it were to <EVENT class="ASPECTUAL" eid="e2409">continue</EVENT>, because Unisys is <EVENT class="OCCURRENCE" eid="e2405">betting</EVENT> its business on the assumption that customers <EVENT class="I_STATE" eid="e2407">want</EVENT> to <EVENT class="OCCURRENCE" eid="e2408">move</EVENT> away from using operating systems that run on only one manufacturer's equipment and toward systems -- mainly Unix -- that work on almost anyone's machines.
+
+In addition, Unisys must <EVENT class="I_ACTION" eid="e105">deal</EVENT> with its increasingly oppressive debt load. Debt has <EVENT class="OCCURRENCE" eid="e107">risen</EVENT> to around $4 billion, or about 50% of total capitalization. That means Unisys must <EVENT class="OCCURRENCE" eid="e110">pay</EVENT> about $100 million in interest <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t256" type="SET" value="P1Q">every quarter</TIMEX3>, on top of $27 million in dividends on preferred stock.
+
+Jim Unruh, Unisys's president, <EVENT class="REPORTING" eid="e115">said</EVENT> he is <EVENT class="OCCURRENCE" eid="e116">approaching</EVENT> next year with caution. He <EVENT class="REPORTING" eid="e118">said</EVENT> the strength of the world-wide economy is <EVENT class="STATE" eid="e1991">suspect</EVENT>, and doesn't see much revenue growth in the cards.
+
+He also <EVENT class="REPORTING" eid="e124">said</EVENT> that the price wars <EVENT class="OCCURRENCE" eid="e126">flaring</EVENT> up in parts of the computer industry will <EVENT class="ASPECTUAL" eid="e128">continue</EVENT> through <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t259" type="DATE" value="1990">next year</TIMEX3>. He <EVENT class="REPORTING" eid="e129">said</EVENT> the <EVENT class="OCCURRENCE" eid="e1992">move</EVENT> toward standard operating systems means customers aren't <EVENT class="OCCURRENCE" eid="e1993">locked</EVENT> into buying from their traditional computer supplier and can force prices down. That, he <EVENT class="REPORTING" eid="e138">said</EVENT>, is why Unisys is <EVENT class="OCCURRENCE" eid="e139">overhauling</EVENT> its whole business: It <EVENT class="I_STATE" eid="e141">needs</EVENT> to <EVENT class="OCCURRENCE" eid="e143">prepare</EVENT> for a world in which profit margins will be <EVENT class="STATE" eid="e1995">lower</EVENT> than computer companies have been <EVENT class="OCCURRENCE" eid="e145">used</EVENT> to.
+
+"We've <EVENT class="OCCURRENCE" eid="e146">approached</EVENT> this not as a response to a temporary condition in the industry but as a fundamental change the industry is going through," Mr. Unruh <EVENT class="REPORTING" eid="e152">said</EVENT>. "The information-systems industry is still going to be a high-growth <EVENT class="STATE" eid="e1997">business</EVENT>, and we're <EVENT class="I_STATE" eid="e1996">confident</EVENT> that we <EVENT class="STATE" eid="e157">have</EVENT> tremendous assets as a company. But we don't <EVENT class="I_STATE" eid="e158">minimize</EVENT> the <EVENT class="OCCURRENCE" eid="e160">challenges</EVENT> of <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t1998" type="DATE" value="FUTURE_REF">the near term</TIMEX3>."
+
+Securities analysts were even more <EVENT class="STATE" eid="e1999">cautious</EVENT>, having been <EVENT class="OCCURRENCE" eid="e162">burned</EVENT> repeatedly on Unisys <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2000" type="DATE" value="1989">this year</TIMEX3>. Some had <EVENT class="I_ACTION" eid="e163">predicted</EVENT> <EVENT class="OCCURRENCE" eid="e2784">earnings</EVENT> of more than $4 a share for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2003" type="DATE" value="1989">this year</TIMEX3>, up from <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2008" type="DATE" value="1988">last year</TIMEX3>'s fully diluted $3.27 a share on earnings of $680.6 million. But the company <EVENT class="REPORTING" eid="e165">said</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2009" type="DATE" value="1989-10-27">Friday</TIMEX3> that it <EVENT class="OCCURRENCE" eid="e166">had</EVENT> <EVENT class="STATE" eid="e2010">losses</EVENT> of $673.3 million through <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t2012" type="DURATION" value="P9M">the first nine months</TIMEX3>, compared with <EVENT class="STATE" eid="e2015">earnings</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2013" type="DATE" value="1988">a year</TIMEX3> earlier of $382.2 million, or $2.22 a share fully diluted, as revenue <EVENT class="OCCURRENCE" eid="e169">inched</EVENT> up 1.4% to $7.13 billion from $7.03 billion. And Unisys is <EVENT class="I_STATE" eid="e170">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e172">do</EVENT> little better than break even in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2021" type="DATE" value="1989-Q4">the fourth quarter</TIMEX3>.
+
+So Steve Milunovich at First Boston <EVENT class="REPORTING" eid="e174">said</EVENT> he is <EVENT class="OCCURRENCE" eid="e175">cutting</EVENT> his earnings <EVENT class="I_STATE" eid="e2709">estimate</EVENT> for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2022" type="DATE" value="1990">next year</TIMEX3> to $2 a share from $3. "I was feeling like I was too high to begin with," he <EVENT class="REPORTING" eid="e3001">said</EVENT>.
+
+Mr. Weil of Weil amp Associates said he will <EVENT class="STATE" eid="e181">remain</EVENT> at $1 a share for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2029" type="DATE" value="1990">next year</TIMEX3> but <EVENT class="REPORTING" eid="e182">said</EVENT> he <EVENT class="I_STATE" eid="e183">wonders</EVENT> whether even that low target is <EVENT class="STATE" eid="e2794">at</EVENT> risk. "The break-even point for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2034" type="DATE" value="1990">next year</TIMEX3> is much <EVENT class="STATE" eid="e2032">lower</EVENT>, but is it <EVENT class="STATE" eid="e2795">low</EVENT> enough?" he <EVENT class="I_ACTION" eid="e187">asked</EVENT>.
+
+Reflecting the concern, Unisys stock <EVENT class="OCCURRENCE" eid="e189">fell</EVENT> a further 75 cents to $16.25 in composite trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2038" type="DATE" value="1989-10-27">Friday</TIMEX3> on the New York Stock Exchange.
+</TEXT>
+<LASTEXTRAINFO>wsj_0568</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2866" eventID="e250"/>
+<MAKEINSTANCE eiid="ei2808" eventID="e212"/>
+<MAKEINSTANCE eiid="ei2820" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2814" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2815" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2816" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2819" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2817" eventID="e16"/>
+<MAKEINSTANCE eiid="ei2894" eventID="e146"/>
+<MAKEINSTANCE eiid="ei2893" eventID="e145"/>
+<MAKEINSTANCE eiid="ei2891" eventID="e143"/>
+<MAKEINSTANCE eiid="ei2890" eventID="e141"/>
+<MAKEINSTANCE eiid="ei2884" eventID="e128"/>
+<MAKEINSTANCE eiid="ei2885" eventID="e129"/>
+<MAKEINSTANCE eiid="ei2882" eventID="e124"/>
+<MAKEINSTANCE eiid="ei2883" eventID="e126"/>
+<MAKEINSTANCE eiid="ei2861" eventID="e244"/>
+<MAKEINSTANCE eiid="ei2859" eventID="e241"/>
+<MAKEINSTANCE eiid="ei2926" eventID="e2032"/>
+<MAKEINSTANCE eiid="ei2899" eventID="e158"/>
+<MAKEINSTANCE eiid="ei2863" eventID="e84"/>
+<MAKEINSTANCE eiid="ei2865" eventID="e85"/>
+<MAKEINSTANCE eiid="ei2862" eventID="e80"/>
+<MAKEINSTANCE eiid="ei2895" eventID="e152"/>
+<MAKEINSTANCE eiid="ei2898" eventID="e157"/>
+<MAKEINSTANCE eiid="ei2889" eventID="e139"/>
+<MAKEINSTANCE eiid="ei2888" eventID="e138"/>
+<MAKEINSTANCE eiid="ei2918" eventID="e2709"/>
+<MAKEINSTANCE eiid="ei2857" eventID="e73"/>
+<MAKEINSTANCE eiid="ei2811" eventID="e2065"/>
+<MAKEINSTANCE eiid="ei2855" eventID="e70"/>
+<MAKEINSTANCE eiid="ei2860" eventID="e76"/>
+<MAKEINSTANCE eiid="ei2875" eventID="e107"/>
+<MAKEINSTANCE eiid="ei2873" eventID="e105"/>
+<MAKEINSTANCE eiid="ei2923" eventID="e182"/>
+<MAKEINSTANCE eiid="ei2924" eventID="e183"/>
+<MAKEINSTANCE eiid="ei2840" eventID="e229"/>
+<MAKEINSTANCE eiid="ei2922" eventID="e181"/>
+<MAKEINSTANCE eiid="ei2812" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2928" eventID="e187"/>
+<MAKEINSTANCE eiid="ei2809" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2810" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2930" eventID="e189"/>
+<MAKEINSTANCE eiid="ei2829" eventID="e227"/>
+<MAKEINSTANCE eiid="ei2826" eventID="e226"/>
+<MAKEINSTANCE eiid="ei2807" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2854" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2933" eventID="e2785"/>
+<MAKEINSTANCE eiid="ei2932" eventID="e2784"/>
+<MAKEINSTANCE eiid="ei2909" eventID="e2015"/>
+<MAKEINSTANCE eiid="ei2853" eventID="e67"/>
+<MAKEINSTANCE eiid="ei2892" eventID="e1995"/>
+<MAKEINSTANCE eiid="ei2896" eventID="e1997"/>
+<MAKEINSTANCE eiid="ei2897" eventID="e1996"/>
+<MAKEINSTANCE eiid="ei2881" eventID="e1991"/>
+<MAKEINSTANCE eiid="ei2813" eventID="e213"/>
+<MAKEINSTANCE eiid="ei2887" eventID="e1993"/>
+<MAKEINSTANCE eiid="ei2886" eventID="e1992"/>
+<MAKEINSTANCE eiid="ei2901" eventID="e1999"/>
+<MAKEINSTANCE eiid="ei2806" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2848" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2850" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2943" eventID="e2795"/>
+<MAKEINSTANCE eiid="ei2867" eventID="e2410"/>
+<MAKEINSTANCE eiid="ei2847" eventID="e53"/>
+<MAKEINSTANCE eiid="ei2846" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2942" eventID="e2794"/>
+<MAKEINSTANCE eiid="ei2841" eventID="e43"/>
+<MAKEINSTANCE eiid="ei2839" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2849" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2844" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2842" eventID="e44"/>
+<MAKEINSTANCE eiid="ei2856" eventID="e2328"/>
+<MAKEINSTANCE eiid="ei2845" eventID="e49"/>
+<MAKEINSTANCE eiid="ei2878" eventID="e115"/>
+<MAKEINSTANCE eiid="ei2879" eventID="e116"/>
+<MAKEINSTANCE eiid="ei2877" eventID="e110"/>
+<MAKEINSTANCE eiid="ei2872" eventID="e2408"/>
+<MAKEINSTANCE eiid="ei2868" eventID="e2409"/>
+<MAKEINSTANCE eiid="ei2871" eventID="e2407"/>
+<MAKEINSTANCE eiid="ei2869" eventID="e2405"/>
+<MAKEINSTANCE eiid="ei2880" eventID="e118"/>
+<MAKEINSTANCE eiid="ei2837" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2835" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2834" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2833" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2838" eventID="e38"/>
+<MAKEINSTANCE eiid="ei2900" eventID="e160"/>
+<MAKEINSTANCE eiid="ei2902" eventID="e162"/>
+<MAKEINSTANCE eiid="ei2903" eventID="e163"/>
+<MAKEINSTANCE eiid="ei2906" eventID="e165"/>
+<MAKEINSTANCE eiid="ei2907" eventID="e166"/>
+<MAKEINSTANCE eiid="ei2910" eventID="e169"/>
+<MAKEINSTANCE eiid="ei2908" eventID="e2010"/>
+<MAKEINSTANCE eiid="ei2828" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2830" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2821" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2823" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2827" eventID="e23"/>
+<MAKEINSTANCE eiid="ei2852" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2831" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2832" eventID="e29"/>
+<MAKEINSTANCE eiid="ei2914" eventID="e172"/>
+<MAKEINSTANCE eiid="ei2913" eventID="e170"/>
+<MAKEINSTANCE eiid="ei2916" eventID="e175"/>
+<MAKEINSTANCE eiid="ei2915" eventID="e174"/>
+<TLINK eventInstanceID="ei2810" lid="l1" relType="BEFORE" relatedToEventInstance="ei2808"/>
+<TLINK eventInstanceID="ei2806" lid="l2" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2861" lid="l3" relType="IS_INCLUDED" relatedToTime="t246"/>
+<TLINK eventInstanceID="ei2880" lid="l4" relType="OVERLAP" relatedToEventInstance="ei2881"/>
+<TLINK eventInstanceID="ei2814" lid="l5" relType="IDENTITY" relatedToEventInstance="ei2816"/>
+<TLINK eventInstanceID="ei2868" lid="l6" relType="BEFORE" relatedToEventInstance="ei2867"/>
+<TLINK eventInstanceID="ei2915" lid="l7" relType="OVERLAP" relatedToEventInstance="ei2916"/>
+<TLINK eventInstanceID="ei2882" lid="l8" relType="IDENTITY" relatedToEventInstance="ei2880"/>
+<TLINK eventInstanceID="ei2887" lid="l9" relType="BEFORE" relatedToEventInstance="ei2890"/>
+<TLINK eventInstanceID="ei2806" lid="l10" relType="IS_INCLUDED" relatedToTime="t209"/>
+<TLINK eventInstanceID="ei2837" lid="l11" relType="BEFORE" relatedToEventInstance="ei2839"/>
+<TLINK eventInstanceID="ei2933" lid="l12" relType="BEFORE" relatedToEventInstance="ei2806"/>
+<TLINK eventInstanceID="ei2882" lid="l13" relType="OVERLAP" relatedToEventInstance="ei2884"/>
+<TLINK eventInstanceID="ei2880" lid="l14" relType="IDENTITY" relatedToEventInstance="ei2878"/>
+<TLINK eventInstanceID="ei2815" lid="l15" relType="IDENTITY" relatedToEventInstance="ei2816"/>
+<TLINK eventInstanceID="ei2903" lid="l16" relType="BEFORE" relatedToEventInstance="ei2901"/>
+<TLINK eventInstanceID="ei2808" lid="l17" relType="BEFORE" relatedToEventInstance="ei2807"/>
+<TLINK eventInstanceID="ei2942" lid="l18" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2884" lid="l19" relType="DURING" relatedToTime="t259"/>
+<TLINK eventInstanceID="ei2833" lid="l20" relType="IDENTITY" relatedToEventInstance="ei2806"/>
+<TLINK eventInstanceID="ei2908" lid="l21" relType="ENDS" relatedToTime="t2013"/>
+<TLINK eventInstanceID="ei2810" lid="l22" relType="IDENTITY" relatedToEventInstance="ei2811"/>
+<TLINK eventInstanceID="ei2888" lid="l23" relType="IDENTITY" relatedToEventInstance="ei2885"/>
+<TLINK eventInstanceID="ei2871" lid="l24" relType="BEFORE" relatedToEventInstance="ei2872"/>
+<TLINK eventInstanceID="ei2855" lid="l25" relType="IDENTITY" relatedToEventInstance="ei2849"/>
+<TLINK eventInstanceID="ei2875" lid="l26" relType="BEFORE" relatedToEventInstance="ei2877"/>
+<TLINK eventInstanceID="ei2890" lid="l27" relType="BEFORE" relatedToEventInstance="ei2891"/>
+<TLINK eventInstanceID="ei2909" lid="l28" relType="BEFORE" relatedToEventInstance="ei2908"/>
+<TLINK eventInstanceID="ei2841" lid="l29" relType="IDENTITY" relatedToEventInstance="ei2842"/>
+<TLINK eventInstanceID="ei2860" lid="l30" relType="IDENTITY" relatedToEventInstance="ei2855"/>
+<TLINK eventInstanceID="ei2862" lid="l31" relType="BEFORE" relatedToEventInstance="ei2861"/>
+<TLINK eventInstanceID="ei2847" lid="l32" relType="IS_INCLUDED" relatedToEventInstance="ei2848"/>
+<TLINK eventInstanceID="ei2837" lid="l33" relType="IDENTITY" relatedToEventInstance="ei2838"/>
+<TLINK eventInstanceID="ei2913" lid="l34" relType="BEFORE" relatedToEventInstance="ei2914"/>
+<TLINK eventInstanceID="ei2828" lid="l35" relType="IS_INCLUDED" relatedToTime="t2135"/>
+<TLINK eventInstanceID="ei2856" lid="l36" relType="IS_INCLUDED" relatedToTime="t239"/>
+<TLINK eventInstanceID="ei2813" lid="l37" relType="IS_INCLUDED" relatedToTime="t214"/>
+<TLINK eventInstanceID="ei2883" lid="l38" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2819" lid="l39" relType="ENDED_BY" relatedToEventInstance="ei2820"/>
+<TLINK eventInstanceID="ei2900" lid="l40" relType="IS_INCLUDED" relatedToTime="t1998"/>
+<TLINK eventInstanceID="ei2809" lid="l41" relType="BEFORE" relatedToEventInstance="ei2808"/>
+<TLINK eventInstanceID="ei2830" lid="l42" relType="BEFORE" relatedToEventInstance="ei2828"/>
+<TLINK eventInstanceID="ei2909" lid="l43" relType="BEGINS" relatedToTime="t2013"/>
+<TLINK eventInstanceID="ei2913" lid="l44" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2826" lid="l45" relType="IDENTITY" relatedToEventInstance="ei2827"/>
+<TLINK eventInstanceID="ei2869" lid="l46" relType="BEFORE" relatedToEventInstance="ei2867"/>
+<TLINK eventInstanceID="ei2833" lid="l47" relType="BEFORE" relatedToEventInstance="ei2834"/>
+<TLINK eventInstanceID="ei2895" lid="l48" relType="IDENTITY" relatedToEventInstance="ei2882"/>
+<TLINK eventInstanceID="ei2914" lid="l49" relType="IS_INCLUDED" relatedToTime="t2021"/>
+<TLINK eventInstanceID="ei2901" lid="l50" relType="SIMULTANEOUS" relatedToEventInstance="ei2897"/>
+<TLINK eventInstanceID="ei2821" lid="l51" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2877" lid="l52" relType="IS_INCLUDED" relatedToTime="t256"/>
+<TLINK eventInstanceID="ei2841" lid="l53" relType="BEFORE" relatedToEventInstance="ei2837"/>
+<TLINK eventInstanceID="ei2892" lid="l54" relType="AFTER" relatedToEventInstance="ei2893"/>
+<TLINK eventInstanceID="ei2837" lid="l55" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2828" lid="l56" relType="IDENTITY" relatedToEventInstance="ei2829"/>
+<TLINK eventInstanceID="ei2855" lid="l57" relType="AFTER" relatedToEventInstance="ei2856"/>
+<TLINK eventInstanceID="ei2856" lid="l58" relType="BEFORE" relatedToEventInstance="ei2859"/>
+<TLINK eventInstanceID="ei2889" lid="l59" relType="ENDED_BY" relatedToEventInstance="ei2891"/>
+<TLINK eventInstanceID="ei2826" lid="l60" relType="SIMULTANEOUS" relatedToEventInstance="ei2823"/>
+<TLINK eventInstanceID="ei2869" lid="l61" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2884" lid="l62" relType="CONTINUES" relatedToEventInstance="ei2883"/>
+<TLINK eventInstanceID="ei2834" lid="l63" relType="OVERLAP" relatedToEventInstance="ei2835"/>
+<TLINK eventInstanceID="ei2926" lid="l64" relType="IS_INCLUDED" relatedToTime="t2034"/>
+<TLINK eventInstanceID="ei2846" lid="l65" relType="AFTER" relatedToEventInstance="ei2847"/>
+<TLINK eventInstanceID="ei2865" lid="l66" relType="IDENTITY" relatedToEventInstance="ei2860"/>
+<TLINK eventInstanceID="ei2816" lid="l67" relType="BEFORE" relatedToEventInstance="ei2817"/>
+<TLINK eventInstanceID="ei2922" lid="l68" relType="IS_INCLUDED" relatedToTime="t2029"/>
+<TLINK eventInstanceID="ei2908" lid="l69" relType="DURING" relatedToTime="t2012"/>
+<TLINK eventInstanceID="ei2882" lid="l70" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2902" lid="l71" relType="IS_INCLUDED" relatedToTime="t2000"/>
+<TLINK eventInstanceID="ei2885" lid="l72" relType="IDENTITY" relatedToEventInstance="ei2882"/>
+<TLINK eventInstanceID="ei2831" lid="l73" relType="IS_INCLUDED" relatedToTime="t228"/>
+<TLINK eventInstanceID="ei2943" lid="l74" relType="IS_INCLUDED" relatedToTime="t2034"/>
+<TLINK eventInstanceID="ei2853" lid="l75" relType="TERMINATES" relatedToEventInstance="ei2854"/>
+<TLINK eventInstanceID="ei2859" lid="l76" relType="ENDED_BY" relatedToTime="t243"/>
+<TLINK eventInstanceID="ei2849" lid="l77" relType="AFTER" relatedToEventInstance="ei2850"/>
+<TLINK eventInstanceID="ei2886" lid="l78" relType="SIMULTANEOUS" relatedToEventInstance="ei2887"/>
+<TLINK eventInstanceID="ei2910" lid="l79" relType="BEFORE" relatedToEventInstance="ei2908"/>
+<TLINK eventInstanceID="ei2850" lid="l80" relType="DURING" relatedToTime="t235"/>
+<TLINK eventInstanceID="ei2915" lid="l81" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2875" lid="l82" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2910" lid="l83" relType="IS_INCLUDED" relatedToTime="t2013"/>
+<TLINK eventInstanceID="ei2862" lid="l84" relType="OVERLAP" relatedToEventInstance="ei2863"/>
+<TLINK eventInstanceID="ei2831" lid="l85" relType="BEFORE" relatedToEventInstance="ei2832"/>
+<TLINK eventInstanceID="ei2923" lid="l86" relType="OVERLAP" relatedToEventInstance="ei2924"/>
+<TLINK eventInstanceID="ei2814" lid="l87" relType="SIMULTANEOUS" relatedToEventInstance="ei2815"/>
+<TLINK eventInstanceID="ei2907" lid="l88" relType="IDENTITY" relatedToEventInstance="ei2908"/>
+<TLINK eventInstanceID="ei2854" lid="l89" relType="IDENTITY" relatedToEventInstance="ei2850"/>
+<TLINK eventInstanceID="ei2856" lid="l90" relType="IDENTITY" relatedToEventInstance="ei2857"/>
+<TLINK eventInstanceID="ei2845" lid="l91" relType="AFTER" relatedToEventInstance="ei2846"/>
+<TLINK eventInstanceID="ei2887" lid="l92" relType="BEFORE" relatedToEventInstance="ei2889"/>
+<TLINK eventInstanceID="ei2807" lid="l93" relType="DURING" relatedToTime="t211"/>
+<TLINK eventInstanceID="ei2902" lid="l94" relType="BEFORE" relatedToEventInstance="ei2901"/>
+<TLINK eventInstanceID="ei2878" lid="l95" relType="OVERLAP" relatedToEventInstance="ei2879"/>
+<TLINK eventInstanceID="ei2860" lid="l96" relType="AFTER" relatedToEventInstance="ei2861"/>
+<TLINK eventInstanceID="ei2844" lid="l97" relType="SIMULTANEOUS" relatedToEventInstance="ei2837"/>
+<TLINK eventInstanceID="ei2853" lid="l98" relType="IS_INCLUDED" relatedToTime="t237"/>
+<TLINK eventInstanceID="ei2823" lid="l99" relType="DURING" relatedToTime="t2135"/>
+<TLINK eventInstanceID="ei2857" lid="l100" relType="OVERLAP" relatedToEventInstance="ei2856"/>
+<TLINK eventInstanceID="ei2906" lid="l101" relType="AFTER" relatedToEventInstance="ei2908"/>
+<TLINK eventInstanceID="ei2873" lid="l102" relType="SIMULTANEOUS" relatedToEventInstance="ei2869"/>
+<TLINK eventInstanceID="ei2844" lid="l103" relType="BEFORE" relatedToEventInstance="ei2845"/>
+<TLINK eventInstanceID="ei2906" lid="l104" relType="IS_INCLUDED" relatedToTime="t2009"/>
+<TLINK eventInstanceID="ei2849" lid="l105" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2930" lid="l106" relType="IS_INCLUDED" relatedToTime="t2038"/>
+<TLINK eventInstanceID="ei2868" lid="l107" relType="CONTINUES" relatedToEventInstance="ei2866"/>
+<TLINK eventInstanceID="ei2890" lid="l108" relType="BEFORE" relatedToEventInstance="ei2889"/>
+</TimeML>

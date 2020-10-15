@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0169</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Ratners Group PLC, a fast-growing, acquisition-minded London-based jeweler, <EVENT class="OCCURRENCE" eid="e1">raised</EVENT> its price for Seattle-based specialty jeweler Weisfield's Inc. to $57.50 a share, or $62.1 million, from $50 a share, or $55 million, after another concern <EVENT class="REPORTING" eid="e3">said</EVENT> it would be prepared to <EVENT class="OCCURRENCE" eid="e7">outbid</EVENT> Ratners's initial <EVENT class="OCCURRENCE" eid="e8">offer</EVENT>. The other concern wasn't identified.
+
+Ratners's chairman, Gerald Ratner, <EVENT class="REPORTING" eid="e11">said</EVENT> the deal remains of "substantial benefit to Ratners." In London at <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t28" type="TIME" value="1989-11-01TAF">mid-afternoon yesterday</TIMEX3>, Ratners's shares were <EVENT class="STATE" eid="e34">up</EVENT> 2 pence (1.26 cents), at 260 pence ($1.64).
+
+The sweetened <EVENT class="OCCURRENCE" eid="e14">offer</EVENT> <EVENT class="STATE" eid="e15">has</EVENT> acceptances from more than 50% of Weisfield's shareholders, and it is <EVENT class="I_STATE" eid="e17">scheduled</EVENT> for <EVENT class="OCCURRENCE" eid="e18">completion</EVENT> by <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t36" type="DATE" value="1989-12-10">Dec. 10</TIMEX3>.
+
+The <EVENT class="OCCURRENCE" eid="e19">acquisition</EVENT> of 87-store Weisfield's <EVENT class="OCCURRENCE" eid="e38">raises</EVENT> Ratners's U.S. presence to 450 stores. About 30% of Ratners's profit <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t101" type="DATE" value="PRESENT_REF">already</TIMEX3> is <EVENT class="OCCURRENCE" eid="e20">derived</EVENT> from the U.S.
+</TEXT>
+<LASTEXTRAINFO>wsj_0169</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei165" eventID="e19"/>
+<MAKEINSTANCE eiid="ei164" eventID="e18"/>
+<MAKEINSTANCE eiid="ei158" eventID="e34"/>
+<MAKEINSTANCE eiid="ei167" eventID="e20"/>
+<MAKEINSTANCE eiid="ei156" eventID="e11"/>
+<MAKEINSTANCE eiid="ei161" eventID="e15"/>
+<MAKEINSTANCE eiid="ei160" eventID="e14"/>
+<MAKEINSTANCE eiid="ei163" eventID="e17"/>
+<MAKEINSTANCE eiid="ei166" eventID="e38"/>
+<MAKEINSTANCE eiid="ei155" eventID="e8"/>
+<MAKEINSTANCE eiid="ei154" eventID="e7"/>
+<MAKEINSTANCE eiid="ei150" eventID="e1"/>
+<MAKEINSTANCE eiid="ei153" eventID="e3"/>
+<TLINK eventInstanceID="ei164" lid="l1" relType="TERMINATES" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei165" lid="l2" relType="IBEFORE" relatedToEventInstance="ei166"/>
+<TLINK eventInstanceID="ei156" lid="l3" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l4" relType="INCLUDES" relatedToEventInstance="ei158" timeID="t28"/>
+<TLINK lid="l5" relType="AFTER" relatedToEventInstance="ei150" timeID="t0"/>
+<TLINK eventInstanceID="ei154" lid="l6" relType="AFTER" relatedToEventInstance="ei155"/>
+<TLINK eventInstanceID="ei150" lid="l7" relType="AFTER" relatedToEventInstance="ei153"/>
+<TLINK eventInstanceID="ei165" lid="l8" relType="IDENTITY" relatedToEventInstance="ei160"/>
+<TLINK eventInstanceID="ei156" lid="l9" relType="IAFTER" relatedToEventInstance="ei150"/>
+<TLINK lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei167" timeID="t101"/>
+<TLINK lid="l11" relType="IS_INCLUDED" relatedToEventInstance="ei163" timeID="t0"/>
+<TLINK eventInstanceID="ei160" lid="l12" relType="BEFORE" relatedToEventInstance="ei161"/>
+<TLINK eventInstanceID="ei164" lid="l13" relType="ENDED_BY" relatedToTime="t36"/>
+<TLINK eventInstanceID="ei167" lid="l14" relType="BEFORE" relatedToEventInstance="ei165"/>
+<TLINK lid="l15" relType="INCLUDES" relatedToTime="t0" timeID="t101"/>
+</TimeML>

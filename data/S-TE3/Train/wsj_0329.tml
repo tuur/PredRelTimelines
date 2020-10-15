@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0329</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Coda Energy Inc. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="OCCURRENCE" eid="e2">arranged</EVENT> a $50 million credit facility with NCNB Texas National Bank, a unit of NCNB Corp., of Charlotte, N.C. The Dallas oil and gas concern <EVENT class="REPORTING" eid="e4">said</EVENT> that $10 million of the facility would be <EVENT class="OCCURRENCE" eid="e5">used</EVENT> to <EVENT class="OCCURRENCE" eid="e7">consolidate</EVENT> the company's $8.1 million of existing bank debt, to <EVENT class="OCCURRENCE" eid="e9">repurchase</EVENT> 4 million of its 4.9 million shares outstanding of Series D convertible preferred stock, and to <EVENT class="OCCURRENCE" eid="e10">purchase</EVENT> a 10% net-profits interest in certain oil and gas properties from one of its existing lenders, National Canada Corp. The remaining $40 million can be <EVENT class="OCCURRENCE" eid="e12">used</EVENT> over <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t21" type="DURATION" value="P3Y">three years</TIMEX3> for oil and gas acquisitions, the company <EVENT class="REPORTING" eid="e14">said</EVENT>.
+
+Ted Eubank, Coda's president, <EVENT class="REPORTING" eid="e15">said</EVENT> the loan carries an interest rate of prime plus one percentage point, with 85% of the company's net oil and gas revenue <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t22" type="SET" value="P1M">each month</TIMEX3> <EVENT class="OCCURRENCE" eid="e17">dedicated</EVENT> to repayment. The company <EVENT class="OCCURRENCE" eid="e23">put</EVENT> up "virtually all" of its oil and gas properties as collateral, he <EVENT class="REPORTING" eid="e18">said</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0329</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei67" eventID="e18"/>
+<MAKEINSTANCE eiid="ei66" eventID="e23"/>
+<MAKEINSTANCE eiid="ei61" eventID="e10"/>
+<MAKEINSTANCE eiid="ei62" eventID="e12"/>
+<MAKEINSTANCE eiid="ei64" eventID="e15"/>
+<MAKEINSTANCE eiid="ei63" eventID="e14"/>
+<MAKEINSTANCE eiid="ei65" eventID="e17"/>
+<MAKEINSTANCE eiid="ei60" eventID="e9"/>
+<MAKEINSTANCE eiid="ei58" eventID="e5"/>
+<MAKEINSTANCE eiid="ei57" eventID="e4"/>
+<MAKEINSTANCE eiid="ei59" eventID="e7"/>
+<MAKEINSTANCE eiid="ei54" eventID="e1"/>
+<MAKEINSTANCE eiid="ei55" eventID="e2"/>
+<TLINK eventInstanceID="ei58" lid="l1" relType="IS_INCLUDED" relatedToTime="t21"/>
+<TLINK eventInstanceID="ei54" lid="l2" relType="AFTER" relatedToEventInstance="ei55"/>
+<TLINK eventInstanceID="ei67" lid="l3" relType="IDENTITY" relatedToEventInstance="ei64"/>
+<TLINK eventInstanceID="ei58" lid="l4" relType="OVERLAP" relatedToEventInstance="ei59"/>
+<TLINK eventInstanceID="ei54" lid="l5" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei60" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei59"/>
+<TLINK eventInstanceID="ei57" lid="l7" relType="IDENTITY" relatedToEventInstance="ei54"/>
+<TLINK eventInstanceID="ei61" lid="l8" relType="SIMULTANEOUS" relatedToEventInstance="ei60"/>
+<TLINK eventInstanceID="ei57" lid="l9" relType="BEFORE" relatedToEventInstance="ei58"/>
+<TLINK eventInstanceID="ei65" lid="l10" relType="IS_INCLUDED" relatedToTime="t22"/>
+<TLINK eventInstanceID="ei63" lid="l11" relType="IDENTITY" relatedToEventInstance="ei54"/>
+<TLINK eventInstanceID="ei59" lid="l12" relType="AFTER" relatedToEventInstance="ei55"/>
+<TLINK eventInstanceID="ei62" lid="l13" relType="IS_INCLUDED" relatedToTime="t21"/>
+<TLINK eventInstanceID="ei64" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+</TimeML>

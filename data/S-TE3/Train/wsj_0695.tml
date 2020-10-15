@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0695</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-27">1989-10-27</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+A group of investors led by Giant Group Ltd. and its chairman, Burt Sugarman, <EVENT class="REPORTING" eid="e2">said</EVENT> it <EVENT class="I_ACTION" eid="e28">filed</EVENT> with federal antitrust regulators for clearance to <EVENT class="OCCURRENCE" eid="e5">buy</EVENT> more than 50% of the stock of Rally's Inc., a fast-food company based in Louisville, Ky.
+
+Rally's operates and franchises about 160 fast-food restaurants throughout the U.S. The company <EVENT class="OCCURRENCE" eid="e9">went</EVENT> public earlier <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t79" type="DATE" value="1989-10">this month</TIMEX3>, <EVENT class="OCCURRENCE" eid="e10">offering</EVENT> 1,745,000 shares of common stock at $15 a share. Giant has interests in cement making and newsprint.
+
+The investor group includes Restaurant Investment Partnership, a California general partnership, and three Rally's directors: Mr. Sugarman, James M. Trotter III and William E. Trotter II. The group currently holds 3,027,330 Rally's shares, or 45.2% of its commmon shares outstanding. Giant Group <EVENT class="STATE" eid="e16">owned</EVENT> 22% of Rally's shares before the initial public <EVENT class="OCCURRENCE" eid="e17">offering</EVENT>.
+
+A second group of three company directors, aligned with Rally's founder James Patterson, also is <EVENT class="I_ACTION" eid="e20">seeking</EVENT> control of the fast-food chain. It is estimated that the Patterson group <EVENT class="STATE" eid="e33">controls</EVENT> more than 40% of Rally's stock.
+
+Rally officials weren't <EVENT class="STATE" eid="e34">available</EVENT> to <EVENT class="OCCURRENCE" eid="e24">comment</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t37" type="DATE" value="1989-10-26">late yesterday</TIMEX3>.
+
+For <TIMEX3 functionInDocument="NONE" temporalFunction="true" tid="t39" type="DURATION" value="P1Y">the year</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t40" type="DATE" value="1989-07-02">July 2</TIMEX3>, Rally <EVENT class="OCCURRENCE" eid="e26">had</EVENT> net income of $2.4 million, or 34 cents a share, on revenue of $52.9 million.
+</TEXT>
+<LASTEXTRAINFO>wsj_0695</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei162" eventID="e24"/>
+<MAKEINSTANCE eiid="ei163" eventID="e26"/>
+<MAKEINSTANCE eiid="ei161" eventID="e34"/>
+<MAKEINSTANCE eiid="ei158" eventID="e20"/>
+<MAKEINSTANCE eiid="ei155" eventID="e10"/>
+<MAKEINSTANCE eiid="ei151" eventID="e28"/>
+<MAKEINSTANCE eiid="ei157" eventID="e17"/>
+<MAKEINSTANCE eiid="ei156" eventID="e16"/>
+<MAKEINSTANCE eiid="ei154" eventID="e9"/>
+<MAKEINSTANCE eiid="ei153" eventID="e5"/>
+<MAKEINSTANCE eiid="ei160" eventID="e33"/>
+<MAKEINSTANCE eiid="ei150" eventID="e2"/>
+<TLINK eventInstanceID="ei156" lid="l1" relType="BEFORE" relatedToEventInstance="ei157"/>
+<TLINK eventInstanceID="ei161" lid="l2" relType="OVERLAP" relatedToEventInstance="ei162"/>
+<TLINK lid="l3" relType="AFTER" relatedToEventInstance="ei150" timeID="t0"/>
+<TLINK lid="l4" relType="ENDED_BY" relatedToTime="t40" timeID="t39"/>
+<TLINK eventInstanceID="ei163" lid="l5" relType="DURING" relatedToTime="t39"/>
+<TLINK eventInstanceID="ei154" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei155"/>
+<TLINK eventInstanceID="ei157" lid="l7" relType="IDENTITY" relatedToEventInstance="ei155"/>
+<TLINK eventInstanceID="ei161" lid="l8" relType="DURING" relatedToTime="t37"/>
+<TLINK lid="l9" relType="INCLUDES" relatedToTime="t0" timeID="t79"/>
+<TLINK eventInstanceID="ei158" lid="l10" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei154" lid="l11" relType="SIMULTANEOUS" relatedToTime="t79"/>
+<TLINK eventInstanceID="ei150" lid="l12" relType="AFTER" relatedToEventInstance="ei151"/>
+<TLINK eventInstanceID="ei160" lid="l13" relType="DURING" relatedToTime="t0"/>
+</TimeML>

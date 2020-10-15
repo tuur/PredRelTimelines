@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0068</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+GOODY PRODUCTS Inc. <EVENT class="OCCURRENCE" eid="e9">cut</EVENT> its quarterly dividend to five cents a share from 11.5 cents a share. The reduced dividend is <EVENT class="OCCURRENCE" eid="e15">payable</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t18" type="DATE" value="1990-01-02">Jan. 2</TIMEX3> to stock of record <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t17" type="DATE" value="1989-12-15">Dec. 15</TIMEX3>. The Kearny, N.J.-based maker of hair accessories and other cosmetic products <EVENT class="REPORTING" eid="e3">said</EVENT> it <EVENT class="OCCURRENCE" eid="e4">cut</EVENT> the dividend due to its <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t26" type="DATE" value="1989-Q3">third-quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e5">loss</EVENT> of $992,000, or 15 cents a share. In <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t134" type="DATE" value="1988-Q3">the year-ago quarter</TIMEX3>, the company <EVENT class="REPORTING" eid="e6">reported</EVENT> net income of $1.9 million, or 29 cents a share. The company also <EVENT class="I_ACTION" eid="e7">adopted</EVENT> an anti-takeover plan.
+</TEXT>
+<LASTEXTRAINFO>wsj_0068</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei139" eventID="e15"/>
+<MAKEINSTANCE eiid="ei135" eventID="e9"/>
+<MAKEINSTANCE eiid="ei143" eventID="e5"/>
+<MAKEINSTANCE eiid="ei142" eventID="e4"/>
+<MAKEINSTANCE eiid="ei145" eventID="e7"/>
+<MAKEINSTANCE eiid="ei144" eventID="e6"/>
+<MAKEINSTANCE eiid="ei141" eventID="e3"/>
+<TLINK eventInstanceID="ei145" lid="l1" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei139" lid="l2" relType="IS_INCLUDED" relatedToTime="t18"/>
+<TLINK lid="l3" relType="AFTER" relatedToTime="t0" timeID="t18"/>
+<TLINK lid="l4" relType="AFTER" relatedToEventInstance="ei135" timeID="t0"/>
+<TLINK eventInstanceID="ei143" lid="l5" relType="ENDS" relatedToTime="t26"/>
+<TLINK eventInstanceID="ei143" lid="l6" relType="BEFORE" relatedToEventInstance="ei142"/>
+<TLINK eventInstanceID="ei144" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l8" relType="AFTER" relatedToTime="t17" timeID="t18"/>
+<TLINK eventInstanceID="ei141" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei141" lid="l10" relType="AFTER" relatedToEventInstance="ei142"/>
+<TLINK eventInstanceID="ei142" lid="l11" relType="IDENTITY" relatedToEventInstance="ei135"/>
+</TimeML>

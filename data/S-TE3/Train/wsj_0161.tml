@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0161</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Hadson Corp. <EVENT class="REPORTING" eid="e1">said</EVENT> it <EVENT class="I_STATE" eid="e2">expects</EVENT> to <EVENT class="REPORTING" eid="e4">report</EVENT> a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t28" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net <EVENT class="OCCURRENCE" eid="e5">loss</EVENT> of $17 million to $19 million because of special reserves and continued low natural-gas prices.
+
+The Oklahoma City energy and defense concern <EVENT class="REPORTING" eid="e7">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e8">record</EVENT> a $7.5 million reserve for its defense group, including a $4.7 million <EVENT class="OCCURRENCE" eid="e65">charge</EVENT> related to problems under a fixed-price development contract and $2.8 million in overhead <EVENT class="OCCURRENCE" eid="e66">costs</EVENT> that won't be <EVENT class="OCCURRENCE" eid="e12">reimbursed</EVENT>.
+
+In addition, Hadson <EVENT class="REPORTING" eid="e15">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e16">write</EVENT> off about $3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful.
+
+The company also cited interest costs and <EVENT class="OCCURRENCE" eid="e21">amortization</EVENT> of goodwill as factors in the <EVENT class="OCCURRENCE" eid="e23">loss</EVENT>.
+
+<TIMEX3 anchorTimeID="t28" functionInDocument="NONE" temporalFunction="true" tid="t31" type="DATE" value="1988-Q3">A year earlier</TIMEX3>, net <EVENT class="STATE" eid="e32">income</EVENT> was $2.1 million, or six cents a share, on revenue of $169.9 million.
+</TEXT>
+<LASTEXTRAINFO>wsj_0161</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei159" eventID="e32"/>
+<MAKEINSTANCE eiid="ei158" eventID="e23"/>
+<MAKEINSTANCE eiid="ei150" eventID="e12"/>
+<MAKEINSTANCE eiid="ei151" eventID="e15"/>
+<MAKEINSTANCE eiid="ei152" eventID="e16"/>
+<MAKEINSTANCE eiid="ei146" eventID="e8"/>
+<MAKEINSTANCE eiid="ei144" eventID="e5"/>
+<MAKEINSTANCE eiid="ei143" eventID="e4"/>
+<MAKEINSTANCE eiid="ei145" eventID="e7"/>
+<MAKEINSTANCE eiid="ei142" eventID="e2"/>
+<MAKEINSTANCE eiid="ei141" eventID="e1"/>
+<MAKEINSTANCE eiid="ei148" eventID="e65"/>
+<MAKEINSTANCE eiid="ei149" eventID="e66"/>
+<MAKEINSTANCE eiid="ei157" eventID="e21"/>
+<TLINK eventInstanceID="ei151" lid="l1" relType="BEFORE" relatedToEventInstance="ei152"/>
+<TLINK lid="l2" relType="BEFORE" relatedToTime="t28" timeID="t31"/>
+<TLINK eventInstanceID="ei142" lid="l3" relType="BEFORE" relatedToEventInstance="ei143"/>
+<TLINK eventInstanceID="ei145" lid="l4" relType="BEFORE" relatedToEventInstance="ei146"/>
+<TLINK eventInstanceID="ei152" lid="l5" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei157" lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei158"/>
+<TLINK eventInstanceID="ei152" lid="l7" relType="IS_INCLUDED" relatedToEventInstance="ei146"/>
+<TLINK eventInstanceID="ei141" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei141" lid="l9" relType="OVERLAP" relatedToEventInstance="ei142"/>
+<TLINK eventInstanceID="ei149" lid="l10" relType="BEFORE" relatedToEventInstance="ei150"/>
+<TLINK lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei159" timeID="t31"/>
+<TLINK eventInstanceID="ei151" lid="l12" relType="SIMULTANEOUS" relatedToEventInstance="ei141"/>
+<TLINK eventInstanceID="ei141" lid="l13" relType="SIMULTANEOUS" relatedToEventInstance="ei145"/>
+<TLINK eventInstanceID="ei144" lid="l14" relType="SIMULTANEOUS" relatedToTime="t28"/>
+<TLINK eventInstanceID="ei158" lid="l15" relType="IDENTITY" relatedToEventInstance="ei144"/>
+</TimeML>

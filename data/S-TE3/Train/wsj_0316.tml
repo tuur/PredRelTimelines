@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0316</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-01">1989-11-01</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+First Security Corp. <EVENT class="REPORTING" eid="e1">said</EVENT> it tentatively <EVENT class="I_ACTION" eid="e2">agreed</EVENT> to <EVENT class="OCCURRENCE" eid="e3">acquire</EVENT> Deseret Bancorp. for stock valued at about $18 million.
+
+Terms <EVENT class="I_ACTION" eid="e5">call</EVENT> for First Security to <EVENT class="OCCURRENCE" eid="e6">issue</EVENT> about 0.55 share of its stock for each Deseret share <EVENT class="STATE" eid="e7">held</EVENT>, or a total of about 550,000 First Security shares. It <EVENT class="STATE" eid="e8">has</EVENT> about 12.3 million shares outstanding.
+
+Deseret, with about $100 million in assets, is the parent of the Deseret Bank, which <EVENT class="STATE" eid="e9">has</EVENT> six offices and headquarters at Pleasant Grove, Utah. The purchase price is equal to about 1.65 times Deseret's roughly $10.7 million book value, or assets less liabilities.
+
+Salt Lake City-based First Security, with $5.4 billion in assets, <EVENT class="REPORTING" eid="e11">said</EVENT> the agreement is <EVENT class="I_STATE" eid="e2057">subject</EVENT> to shareholder and regulatory <EVENT class="OCCURRENCE" eid="e2056">approval</EVENT>, and that it <EVENT class="I_STATE" eid="e12">hopes</EVENT> to <EVENT class="OCCURRENCE" eid="e13">complete</EVENT> the <EVENT class="OCCURRENCE" eid="e1993">transaction</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t16" type="DATE" value="1990">early next year</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0316</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2110" eventID="e1993"/>
+<MAKEINSTANCE eiid="ei2104" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2109" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2108" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2106" eventID="e2057"/>
+<MAKEINSTANCE eiid="ei2107" eventID="e2056"/>
+<MAKEINSTANCE eiid="ei2102" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2101" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2098" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2100" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2099" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2094" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2096" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2095" eventID="e2"/>
+<TLINK eventInstanceID="ei2100" lid="l1" relType="BEFORE" relatedToEventInstance="ei2099"/>
+<TLINK eventInstanceID="ei2110" lid="l2" relType="IDENTITY" relatedToEventInstance="ei2096"/>
+<TLINK eventInstanceID="ei2104" lid="l3" relType="OVERLAP" relatedToEventInstance="ei2106"/>
+<TLINK eventInstanceID="ei2109" lid="l4" relType="CULMINATES" relatedToEventInstance="ei2110"/>
+<TLINK eventInstanceID="ei2094" lid="l5" relType="AFTER" relatedToEventInstance="ei2095"/>
+<TLINK eventInstanceID="ei2094" lid="l6" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2109" lid="l7" relType="IS_INCLUDED" relatedToTime="t16"/>
+<TLINK eventInstanceID="ei2095" lid="l8" relType="BEFORE" relatedToEventInstance="ei2094"/>
+<TLINK eventInstanceID="ei2102" lid="l9" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2108" lid="l10" relType="BEFORE" relatedToEventInstance="ei2109"/>
+<TLINK eventInstanceID="ei2101" lid="l11" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2095" lid="l12" relType="BEFORE" relatedToEventInstance="ei2096"/>
+<TLINK eventInstanceID="ei2098" lid="l13" relType="BEFORE" relatedToEventInstance="ei2099"/>
+<TLINK eventInstanceID="ei2104" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2098" lid="l15" relType="SIMULTANEOUS" relatedToEventInstance="ei2095"/>
+</TimeML>

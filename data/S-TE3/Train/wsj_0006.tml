@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0006</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Pacific First Financial Corp. <EVENT class="REPORTING" eid="e1">said</EVENT> shareholders <EVENT class="OCCURRENCE" eid="e2">approved</EVENT> its <EVENT class="OCCURRENCE" eid="e8">acquisition</EVENT> by Royal Trustco Ltd. of Toronto for $27 a share, or $212 million.
+
+The thrift holding company <EVENT class="REPORTING" eid="e4">said</EVENT> it <EVENT class="I_STATE" eid="e5">expects</EVENT> to <EVENT class="OCCURRENCE" eid="e6">obtain</EVENT> regulatory <EVENT class="OCCURRENCE" eid="e19">approval</EVENT> and <EVENT class="ASPECTUAL" eid="e7">complete</EVENT> the <EVENT class="OCCURRENCE" eid="e20">transaction</EVENT> by <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t10" type="DATE" value="1989-12-31">year-end</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0006</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei79" eventID="e19"/>
+<MAKEINSTANCE eiid="ei81" eventID="e20"/>
+<MAKEINSTANCE eiid="ei75" eventID="e8"/>
+<MAKEINSTANCE eiid="ei77" eventID="e5"/>
+<MAKEINSTANCE eiid="ei76" eventID="e4"/>
+<MAKEINSTANCE eiid="ei80" eventID="e7"/>
+<MAKEINSTANCE eiid="ei78" eventID="e6"/>
+<MAKEINSTANCE eiid="ei73" eventID="e1"/>
+<MAKEINSTANCE eiid="ei74" eventID="e2"/>
+<TLINK eventInstanceID="ei74" lid="l1" relType="BEFORE" relatedToEventInstance="ei73"/>
+<TLINK eventInstanceID="ei80" lid="l2" relType="ENDS" relatedToEventInstance="ei81"/>
+<TLINK eventInstanceID="ei80" lid="l3" relType="CULMINATES" relatedToEventInstance="ei81"/>
+<TLINK eventInstanceID="ei76" lid="l4" relType="SIMULTANEOUS" relatedToEventInstance="ei73"/>
+<TLINK eventInstanceID="ei77" lid="l5" relType="BEFORE" relatedToEventInstance="ei78"/>
+<TLINK eventInstanceID="ei76" lid="l6" relType="OVERLAP" relatedToEventInstance="ei77"/>
+<TLINK eventInstanceID="ei74" lid="l7" relType="AFTER" relatedToEventInstance="ei75"/>
+<TLINK eventInstanceID="ei73" lid="l8" relType="AFTER" relatedToEventInstance="ei74"/>
+<TLINK eventInstanceID="ei73" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei80" lid="l10" relType="BEFORE" relatedToTime="t10"/>
+</TimeML>

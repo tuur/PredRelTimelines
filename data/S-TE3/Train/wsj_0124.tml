@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0124</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+William C. Walbrecher Jr., an executive at San Francisco-based 1st Nationwide Bank, was <EVENT class="I_ACTION" eid="e1">named</EVENT> president and chief executive officer of Citadel Holding Corp. and its principal operating unit, Fidelity Federal Bank.
+
+The <EVENT class="OCCURRENCE" eid="e2">appointment</EVENT> <EVENT class="ASPECTUAL" eid="e3">takes</EVENT> <EVENT class="ASPECTUAL" eid="e63">effect</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t23" type="DATE" value="1989-11-13">Nov. 13</TIMEX3>. He <EVENT class="ASPECTUAL" eid="e4">succeeds</EVENT> James A. Taylor, who <EVENT class="ASPECTUAL" eid="e5">stepped</EVENT> down as <EVENT class="STATE" eid="e3000">chairman</EVENT>, president and chief executive in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t27" type="DATE" value="1989-03">March</TIMEX3> for health reasons. Edward L. Kane succeeded Mr. Taylor as chairman.
+
+Separately, Citadel <EVENT class="REPORTING" eid="e8">posted</EVENT> a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t29" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net <EVENT class="OCCURRENCE" eid="e9">loss</EVENT> of $2.3 million, or 68 cents a share, versus net <EVENT class="OCCURRENCE" eid="e30">income</EVENT> of $5.3 million, or $1.61 a share, <TIMEX3 anchorTimeID="t29" functionInDocument="NONE" temporalFunction="true" tid="t31" type="DATE" value="1988-Q3">a year earlier</TIMEX3>.
+
+The latest <EVENT class="OCCURRENCE" eid="e10">results</EVENT> <EVENT class="REPORTING" eid="e11">include</EVENT> some unusual <EVENT class="OCCURRENCE" eid="e32">write-downs</EVENT>, which had an after-tax impact of $4.9 million. Those <EVENT class="REPORTING" eid="e13">included</EVENT> costs associated with the potential Valley Federal Savings and Loan Association <EVENT class="OCCURRENCE" eid="e34">acquisition</EVENT>, which was <EVENT class="ASPECTUAL" eid="e15">terminated</EVENT> on <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t36" type="DATE" value="1989-11-27">Sept. 27, 1989</TIMEX3>. In addition, operating <EVENT class="OCCURRENCE" eid="e17">results</EVENT> were <EVENT class="OCCURRENCE" eid="e18">hit</EVENT> by an <EVENT class="OCCURRENCE" eid="e19">increase</EVENT> in loan and real estate loss reserves.
+
+In American Stock Exchange composite trading, Citadel shares <EVENT class="OCCURRENCE" eid="e20">closed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t37" type="DATE" value="1989-11-01">yesterday</TIMEX3> at $45.75, down 25 cents.
+</TEXT>
+<LASTEXTRAINFO>wsj_0124</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei331" eventID="e19"/>
+<MAKEINSTANCE eiid="ei330" eventID="e18"/>
+<MAKEINSTANCE eiid="ei327" eventID="e34"/>
+<MAKEINSTANCE eiid="ei332" eventID="e20"/>
+<MAKEINSTANCE eiid="ei325" eventID="e32"/>
+<MAKEINSTANCE eiid="ei322" eventID="e30"/>
+<MAKEINSTANCE eiid="ei324" eventID="e11"/>
+<MAKEINSTANCE eiid="ei323" eventID="e10"/>
+<MAKEINSTANCE eiid="ei326" eventID="e13"/>
+<MAKEINSTANCE eiid="ei328" eventID="e15"/>
+<MAKEINSTANCE eiid="ei329" eventID="e17"/>
+<MAKEINSTANCE eiid="ei321" eventID="e9"/>
+<MAKEINSTANCE eiid="ei320" eventID="e8"/>
+<MAKEINSTANCE eiid="ei314" eventID="e5"/>
+<MAKEINSTANCE eiid="ei313" eventID="e4"/>
+<MAKEINSTANCE eiid="ei312" eventID="e63"/>
+<MAKEINSTANCE eiid="ei307" eventID="e1"/>
+<MAKEINSTANCE eiid="ei311" eventID="e3"/>
+<MAKEINSTANCE eiid="ei310" eventID="e2"/>
+<TLINK eventInstanceID="ei314" lid="l1" relType="IS_INCLUDED" relatedToTime="t27"/>
+<TLINK lid="l2" relType="BEFORE" relatedToTime="t29" timeID="t31"/>
+<TLINK lid="l3" relType="BEFORE" relatedToTime="t0" timeID="t37"/>
+<TLINK eventInstanceID="ei310" lid="l4" relType="IDENTITY" relatedToEventInstance="ei307"/>
+<TLINK eventInstanceID="ei328" lid="l5" relType="TERMINATES" relatedToEventInstance="ei327"/>
+<TLINK lid="l6" relType="AFTER" relatedToEventInstance="ei307" timeID="t0"/>
+<TLINK eventInstanceID="ei323" lid="l7" relType="SIMULTANEOUS" relatedToEventInstance="ei321"/>
+<TLINK eventInstanceID="ei322" lid="l8" relType="ENDS" relatedToTime="t31"/>
+<TLINK eventInstanceID="ei327" lid="l9" relType="BEFORE" relatedToTime="t36"/>
+<TLINK eventInstanceID="ei320" lid="l10" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei313" lid="l11" relType="AFTER" relatedToEventInstance="ei314"/>
+<TLINK eventInstanceID="ei313" lid="l12" relType="IS_INCLUDED" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei331" lid="l13" relType="BEFORE" relatedToEventInstance="ei330"/>
+<TLINK eventInstanceID="ei321" lid="l14" relType="ENDS" relatedToTime="t29"/>
+<TLINK lid="l15" relType="BEFORE" relatedToTime="t0" timeID="t36"/>
+<TLINK lid="l16" relType="BEFORE" relatedToTime="t0" timeID="t27"/>
+<TLINK eventInstanceID="ei329" lid="l17" relType="SIMULTANEOUS" relatedToEventInstance="ei323"/>
+<TLINK eventInstanceID="ei311" lid="l18" relType="INITIATES" relatedToEventInstance="ei310"/>
+<TLINK lid="l19" relType="BEFORE" relatedToTime="t0" timeID="t29"/>
+<TLINK eventInstanceID="ei311" lid="l20" relType="IDENTITY" relatedToEventInstance="ei312"/>
+<TLINK eventInstanceID="ei307" lid="l21" relType="BEFORE" relatedToEventInstance="ei313"/>
+<TLINK lid="l22" relType="AFTER" relatedToTime="t0" timeID="t23"/>
+<TLINK eventInstanceID="ei312" lid="l23" relType="IS_INCLUDED" relatedToTime="t23"/>
+<TLINK eventInstanceID="ei328" lid="l24" relType="IS_INCLUDED" relatedToTime="t36"/>
+<TLINK eventInstanceID="ei332" lid="l25" relType="IS_INCLUDED" relatedToTime="t37"/>
+</TimeML>

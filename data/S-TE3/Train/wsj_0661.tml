@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0661</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+A unit of DPC Acquisition Partners <EVENT class="OCCURRENCE" eid="e1">launched</EVENT> a $10-a-share tender <EVENT class="OCCURRENCE" eid="e2">offer</EVENT> for the shares outstanding of Dataproducts Corp., and <EVENT class="REPORTING" eid="e3">said</EVENT> it would <EVENT class="I_ACTION" eid="e4">seek</EVENT> to <EVENT class="OCCURRENCE" eid="e7">liquidate</EVENT> the computer-printer maker "<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t80" type="DATE" value="FUTURE_REF">as soon as possible</TIMEX3>," even if a <EVENT class="OCCURRENCE" eid="e82">merger</EVENT> isn't <EVENT class="I_STATE" eid="e10">consummated</EVENT>.
+
+DPC Acquisition is controlled by Crescott Investment Associates, Wilson Investment Group, Kernel Corp. and Catalyst Partners. The investor group owns 1,534,600 Dataproducts common shares, or a 7.6% stake.
+
+The <EVENT class="OCCURRENCE" eid="e15">offer</EVENT> is based on several conditions, including <EVENT class="I_STATE" eid="e84">obtaining</EVENT> <EVENT class="STATE" eid="e85">financing</EVENT>. DPC Acquisition <EVENT class="REPORTING" eid="e18">said</EVENT> it had <EVENT class="OCCURRENCE" eid="e19">received</EVENT> the reasonable assurance of Chase Manhattan Bank N.A. that the <EVENT class="STATE" eid="e21">financing</EVENT> can be <EVENT class="I_STATE" eid="e22">obtained</EVENT>.
+
+In a filing with the Securities and Exchange Commission, DPC Acquisition <EVENT class="REPORTING" eid="e25">said</EVENT> it <EVENT class="I_STATE" eid="e26">expects</EVENT> it will <EVENT class="I_STATE" eid="e27">need</EVENT> about $215 million to <EVENT class="OCCURRENCE" eid="e29">buy</EVENT> the shares and <EVENT class="OCCURRENCE" eid="e30">pay</EVENT> related fees and expenses. DPC Acquisition <EVENT class="REPORTING" eid="e32">added</EVENT> that it has not <EVENT class="ASPECTUAL" eid="e33">begun</EVENT> <EVENT class="OCCURRENCE" eid="e35">discussions</EVENT> with financing sources, and <EVENT class="REPORTING" eid="e36">said</EVENT> it <EVENT class="I_STATE" eid="e37">expected</EVENT> to <EVENT class="OCCURRENCE" eid="e39">repay</EVENT> the amounts <EVENT class="OCCURRENCE" eid="e40">borrowed</EVENT> through proceeds of the <EVENT class="OCCURRENCE" eid="e42">liquidation</EVENT>.
+
+Dataproducts officials <EVENT class="I_ACTION" eid="e43">declined</EVENT> to <EVENT class="OCCURRENCE" eid="e45">comment</EVENT>, and <EVENT class="REPORTING" eid="e46">said</EVENT> they had not yet <EVENT class="PERCEPTION" eid="e47">seen</EVENT> a suit <EVENT class="OCCURRENCE" eid="e50">filed</EVENT> in federal court by DPC Acquisition that <EVENT class="I_STATE" eid="e52">seeks</EVENT> to <EVENT class="I_STATE" eid="e54">nullify</EVENT> a standstill <EVENT class="STATE" eid="e55">agreement</EVENT> between DPC Acquisition and Dataproducts.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t86" type="DATE" value="1989">Earlier this year</TIMEX3>, DPC Acquisition <EVENT class="OCCURRENCE" eid="e56">made</EVENT> a $15-a-share <EVENT class="OCCURRENCE" eid="e57">offer</EVENT> for Dataproducts, which the Dataproducts board <EVENT class="REPORTING" eid="e58">said</EVENT> it <EVENT class="I_ACTION" eid="e59">rejected</EVENT> because the $283.7 million offer was not fully <EVENT class="OCCURRENCE" eid="e61">financed</EVENT>. Dataproducts has since <EVENT class="ASPECTUAL" eid="e64">started</EVENT> a <EVENT class="OCCURRENCE" eid="e88">restructuring</EVENT>, and has <EVENT class="REPORTING" eid="e65">said</EVENT> it is not <EVENT class="STATE" eid="e90">for</EVENT> sale.
+</TEXT>
+<LASTEXTRAINFO>wsj_0661</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2001" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e33"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e30"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e10"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2036" eventID="e90"/>
+<MAKEINSTANCE eiid="ei2030" eventID="e59"/>
+<MAKEINSTANCE eiid="ei2029" eventID="e58"/>
+<MAKEINSTANCE eiid="ei2026" eventID="e55"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2028" eventID="e57"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e56"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e52"/>
+<MAKEINSTANCE eiid="ei2015" eventID="e37"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e40"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e43"/>
+<MAKEINSTANCE eiid="ei1993" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1990" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e3"/>
+<MAKEINSTANCE eiid="ei1991" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e46"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e45"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2009" eventID="e29"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e84"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e85"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e82"/>
+<MAKEINSTANCE eiid="ei2031" eventID="e61"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e64"/>
+<MAKEINSTANCE eiid="ei2034" eventID="e65"/>
+<MAKEINSTANCE eiid="ei2033" eventID="e88"/>
+<TLINK eventInstanceID="ei2036" lid="l1" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2019" lid="l2" relType="BEFORE" relatedToEventInstance="ei2020"/>
+<TLINK eventInstanceID="ei2027" lid="l3" relType="BEFORE" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2008" lid="l4" relType="BEFORE" relatedToEventInstance="ei2009"/>
+<TLINK eventInstanceID="ei2023" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei2024"/>
+<TLINK lid="l6" relType="INCLUDES" relatedToEventInstance="ei2027" timeID="t86"/>
+<TLINK eventInstanceID="ei2012" lid="l7" relType="INITIATES" relatedToEventInstance="ei2013"/>
+<TLINK eventInstanceID="ei2011" lid="l8" relType="IDENTITY" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei2032" lid="l9" relType="AFTER" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei2033" lid="l10" relType="IS_INCLUDED" relatedToEventInstance="ei2032"/>
+<TLINK eventInstanceID="ei1992" lid="l11" relType="INCLUDES" relatedToEventInstance="ei1990"/>
+<TLINK eventInstanceID="ei2004" lid="l12" relType="ENDED_BY" relatedToEventInstance="ei2003"/>
+<TLINK eventInstanceID="ei2014" lid="l13" relType="IDENTITY" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2024" lid="l14" relType="BEFORE" relatedToEventInstance="ei2025"/>
+<TLINK eventInstanceID="ei2000" lid="l15" relType="IDENTITY" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei2013" lid="l16" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2031" lid="l17" relType="BEFORE" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei1994" lid="l18" relType="IS_INCLUDED" relatedToTime="t80"/>
+<TLINK eventInstanceID="ei1990" lid="l19" relType="BEGINS" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei1990" lid="l20" relType="INITIATES" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei2007" lid="l21" relType="BEFORE" relatedToEventInstance="ei2008"/>
+<TLINK eventInstanceID="ei2015" lid="l22" relType="BEFORE" relatedToEventInstance="ei2016"/>
+<TLINK eventInstanceID="ei1990" lid="l23" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei1993" lid="l24" relType="BEFORE" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2017" lid="l25" relType="SIMULTANEOUS" relatedToEventInstance="ei2018"/>
+<TLINK eventInstanceID="ei1998" lid="l26" relType="ENDED_BY" relatedToEventInstance="ei1999"/>
+<TLINK eventInstanceID="ei2006" lid="l27" relType="OVERLAP" relatedToEventInstance="ei2007"/>
+<TLINK eventInstanceID="ei2021" lid="l28" relType="SIMULTANEOUS" relatedToEventInstance="ei2019"/>
+<TLINK eventInstanceID="ei2032" lid="l29" relType="INITIATES" relatedToEventInstance="ei2033"/>
+<TLINK eventInstanceID="ei2017" lid="l30" relType="BEFORE" relatedToEventInstance="ei2015"/>
+<TLINK eventInstanceID="ei1992" lid="l31" relType="BEFORE" relatedToEventInstance="ei1993"/>
+<TLINK eventInstanceID="ei2003" lid="l32" relType="IDENTITY" relatedToEventInstance="ei1999"/>
+<TLINK eventInstanceID="ei2021" lid="l33" relType="AFTER" relatedToEventInstance="ei2022"/>
+<TLINK eventInstanceID="ei2034" lid="l34" relType="AFTER" relatedToEventInstance="ei2032"/>
+<TLINK eventInstanceID="ei2000" lid="l35" relType="AFTER" relatedToEventInstance="ei2001"/>
+<TLINK eventInstanceID="ei2030" lid="l36" relType="AFTER" relatedToEventInstance="ei2031"/>
+<TLINK eventInstanceID="ei2029" lid="l37" relType="AFTER" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei2030" lid="l38" relType="BEFORE" relatedToEventInstance="ei2029"/>
+<TLINK eventInstanceID="ei1996" lid="l39" relType="BEFORE" relatedToEventInstance="ei1994"/>
+<TLINK eventInstanceID="ei2014" lid="l40" relType="OVERLAP" relatedToEventInstance="ei2015"/>
+<TLINK eventInstanceID="ei2016" lid="l41" relType="AFTER" relatedToEventInstance="ei2017"/>
+<TLINK eventInstanceID="ei1997" lid="l42" relType="IDENTITY" relatedToEventInstance="ei1991"/>
+<TLINK eventInstanceID="ei1992" lid="l43" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2027" lid="l44" relType="BEFORE" relatedToEventInstance="ei2030"/>
+<TLINK eventInstanceID="ei2008" lid="l45" relType="BEFORE" relatedToEventInstance="ei2010"/>
+<TLINK eventInstanceID="ei2011" lid="l46" relType="AFTER" relatedToEventInstance="ei2012"/>
+<TLINK eventInstanceID="ei1996" lid="l47" relType="BEGINS" relatedToEventInstance="ei1995"/>
+<TLINK eventInstanceID="ei2027" lid="l48" relType="IDENTITY" relatedToEventInstance="ei2028"/>
+</TimeML>

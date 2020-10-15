@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0189</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Ralston Purina Co. <EVENT class="REPORTING" eid="e1">reported</EVENT> a 47% <EVENT class="OCCURRENCE" eid="e1991">decline</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t38" type="DURATION" value="1989-Q4">fourth-quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e2018">earnings</EVENT>, <EVENT class="I_STATE" eid="e2">reflecting</EVENT> restructuring <EVENT class="OCCURRENCE" eid="e2033">costs</EVENT> as well as a more difficult pet food market.
+
+The St. Louis company <EVENT class="OCCURRENCE" eid="e3">earned</EVENT> $45.2 million, or 65 cents a share, compared with $84.9 million, or $1.24 a share, <TIMEX3 anchorTimeID="t38" functionInDocument="NONE" temporalFunction="true" tid="t39" type="DATE" value="1988-Q4">a year earlier</TIMEX3>. <EVENT class="OCCURRENCE" eid="e2044">Sales</EVENT> in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t42" type="DATE" value="1989-Q4">the latest period</TIMEX3> were $1.76 billion, a 13% <EVENT class="OCCURRENCE" eid="e1992">increase</EVENT> from <TIMEX3 anchorTimeID="t42" functionInDocument="NONE" temporalFunction="true" tid="t43" type="DATE" value="1988-Q4">last year</TIMEX3>'s $1.55 billion.
+
+For <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t41" type="DATE" value="1989">the year</TIMEX3> <EVENT class="ASPECTUAL" eid="e5">ended</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t40" type="DATE" value="1989-09-30">Sept. 30</TIMEX3>, Ralston <EVENT class="OCCURRENCE" eid="e6">earned</EVENT> $422.5 million, or $6.44 a share, up 8.9% from $387.8 million, or $5.63 a share. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t50" type="DATE" value="1989">This year</TIMEX3>'s <EVENT class="OCCURRENCE" eid="e1993">results</EVENT> included a <EVENT class="OCCURRENCE" eid="e1994">gain</EVENT> of $70.2 million on the <EVENT class="OCCURRENCE" eid="e8">disposal</EVENT> of seafood operations. <EVENT class="OCCURRENCE" eid="e1995">Sales</EVENT> for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t44" type="DATE" value="1989">the full year</TIMEX3> were $6.6 billion, up 13% from $5.8 billion.
+
+Ralston <EVENT class="REPORTING" eid="e10">said</EVENT> its restructuring costs <EVENT class="OCCURRENCE" eid="e11">include</EVENT> the <EVENT class="OCCURRENCE" eid="e1996">phase-out</EVENT> of a battery facility in Greenville, N.C., the <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t45" type="DATE" value="PAST_REF">recent</TIMEX3> <EVENT class="OCCURRENCE" eid="e1997">closing</EVENT> of a Hostess cake bakery in Cincinnati and a <EVENT class="OCCURRENCE" eid="e1998">reduction</EVENT> in staff throughout the company. The battery plant, which <EVENT class="OCCURRENCE" eid="e13">makes</EVENT> rechargeable nickel cadmium and carbon zinc products, will be <EVENT class="OCCURRENCE" eid="e14">closed</EVENT> over <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t46" type="DATE" value="1990">the next year or so</TIMEX3>, a spokesman <EVENT class="REPORTING" eid="e2000">said</EVENT>.
+
+Ralston <EVENT class="I_STATE" eid="e15">attributed</EVENT> its <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t47" type="DATE" value="1989-Q4">fourth-quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e2001">slump</EVENT> partly to higher costs of ingredients in the pet food business as well as competitive pressures, which <EVENT class="I_STATE" eid="e18">required</EVENT> higher advertising <EVENT class="OCCURRENCE" eid="e2004">spending</EVENT>. For <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t48" type="DATE" value="1989">the year</TIMEX3>, pet food volume was <EVENT class="STATE" eid="e2154">flat</EVENT>, the company <EVENT class="REPORTING" eid="e19">said</EVENT>.
+
+Its cereal division <EVENT class="OCCURRENCE" eid="e20">realized</EVENT> higher operating profit on volume <EVENT class="OCCURRENCE" eid="e21">increases</EVENT>, but also <EVENT class="OCCURRENCE" eid="e2006">spent</EVENT> more on promotion. The Continental Baking business <EVENT class="OCCURRENCE" eid="e26">benefited</EVENT> from higher margins on bread and on increased cake <EVENT class="OCCURRENCE" eid="e2008">sales</EVENT>, it <EVENT class="REPORTING" eid="e30">added</EVENT>.
+
+Ralston <EVENT class="REPORTING" eid="e31">said</EVENT> its Eveready battery unit was <EVENT class="OCCURRENCE" eid="e32">hurt</EVENT> by continuing economic <EVENT class="OCCURRENCE" eid="e2009">problems</EVENT> in South America.
+
+Ralston shares <EVENT class="OCCURRENCE" eid="e34">closed</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t49" type="DATE" value="1989-11-01">yesterday</TIMEX3> at $80.50, off $1, in New York Stock Exchange composite trading.
+</TEXT>
+<LASTEXTRAINFO>wsj_0189</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2224" eventID="e1995"/>
+<MAKEINSTANCE eiid="ei2222" eventID="e1994"/>
+<MAKEINSTANCE eiid="ei2229" eventID="e1997"/>
+<MAKEINSTANCE eiid="ei2228" eventID="e1996"/>
+<MAKEINSTANCE eiid="ei2212" eventID="e1991"/>
+<MAKEINSTANCE eiid="ei2221" eventID="e1993"/>
+<MAKEINSTANCE eiid="ei2218" eventID="e1992"/>
+<MAKEINSTANCE eiid="ei2230" eventID="e1998"/>
+<MAKEINSTANCE eiid="ei2232" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2241" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2238" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2255" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2252" eventID="e32"/>
+<MAKEINSTANCE eiid="ei2251" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2250" eventID="e30"/>
+<MAKEINSTANCE eiid="ei2227" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2225" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2231" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2234" eventID="e15"/>
+<MAKEINSTANCE eiid="ei2249" eventID="e2008"/>
+<MAKEINSTANCE eiid="ei2217" eventID="e2044"/>
+<MAKEINSTANCE eiid="ei2254" eventID="e2009"/>
+<MAKEINSTANCE eiid="ei2233" eventID="e2000"/>
+<MAKEINSTANCE eiid="ei2235" eventID="e2001"/>
+<MAKEINSTANCE eiid="ei2245" eventID="e2006"/>
+<MAKEINSTANCE eiid="ei2239" eventID="e2004"/>
+<MAKEINSTANCE eiid="ei2242" eventID="e20"/>
+<MAKEINSTANCE eiid="ei2223" eventID="e8"/>
+<MAKEINSTANCE eiid="ei2219" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2240" eventID="e2154"/>
+<MAKEINSTANCE eiid="ei2220" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2211" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2216" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2214" eventID="e2"/>
+<MAKEINSTANCE eiid="ei2247" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2215" eventID="e2033"/>
+<MAKEINSTANCE eiid="ei2244" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2213" eventID="e2018"/>
+<TLINK eventInstanceID="ei2251" lid="l1" relType="AFTER" relatedToEventInstance="ei2252"/>
+<TLINK eventInstanceID="ei2255" lid="l2" relType="IS_INCLUDED" relatedToTime="t49"/>
+<TLINK eventInstanceID="ei2221" lid="l3" relType="INCLUDES" relatedToEventInstance="ei2222"/>
+<TLINK eventInstanceID="ei2250" lid="l4" relType="IAFTER" relatedToEventInstance="ei2241"/>
+<TLINK eventInstanceID="ei2240" lid="l5" relType="IAFTER" relatedToTime="t48"/>
+<TLINK eventInstanceID="ei2212" lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei2213"/>
+<TLINK eventInstanceID="ei2251" lid="l7" relType="IDENTITY" relatedToEventInstance="ei2241"/>
+<TLINK eventInstanceID="ei2231" lid="l8" relType="DURING" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2220" lid="l9" relType="IS_INCLUDED" relatedToTime="t41"/>
+<TLINK lid="l10" relType="IS_INCLUDED" relatedToEventInstance="ei2229" timeID="t45"/>
+<TLINK eventInstanceID="ei2225" lid="l11" relType="OVERLAP" relatedToEventInstance="ei2227"/>
+<TLINK lid="l12" relType="INCLUDES" relatedToEventInstance="ei2221" timeID="t50"/>
+<TLINK lid="l13" relType="ENDED_BY" relatedToEventInstance="ei2219" timeID="t41"/>
+<TLINK eventInstanceID="ei2225" lid="l14" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2222" lid="l15" relType="SIMULTANEOUS" relatedToEventInstance="ei2223"/>
+<TLINK eventInstanceID="ei2219" lid="l16" relType="SIMULTANEOUS" relatedToTime="t40"/>
+<TLINK eventInstanceID="ei2232" lid="l17" relType="DURING" relatedToTime="t46"/>
+<TLINK eventInstanceID="ei2214" lid="l18" relType="SIMULTANEOUS" relatedToEventInstance="ei2212"/>
+<TLINK eventInstanceID="ei2234" lid="l19" relType="SIMULTANEOUS" relatedToEventInstance="ei2225"/>
+<TLINK eventInstanceID="ei2239" lid="l20" relType="SIMULTANEOUS" relatedToEventInstance="ei2238"/>
+<TLINK eventInstanceID="ei2211" lid="l21" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2241" lid="l22" relType="IDENTITY" relatedToEventInstance="ei2233"/>
+<TLINK eventInstanceID="ei2216" lid="l23" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2224" lid="l24" relType="IAFTER" relatedToTime="t44"/>
+<TLINK lid="l25" relType="INCLUDES" relatedToEventInstance="ei2235" timeID="t47"/>
+<TLINK eventInstanceID="ei2218" lid="l26" relType="SIMULTANEOUS" relatedToEventInstance="ei2217"/>
+<TLINK eventInstanceID="ei2213" lid="l27" relType="IS_INCLUDED" relatedToTime="t38"/>
+<TLINK eventInstanceID="ei2217" lid="l28" relType="IS_INCLUDED" relatedToTime="t42"/>
+</TimeML>

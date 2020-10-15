@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0158</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Reuters Holdings PLC <EVENT class="REPORTING" eid="e1">said</EVENT> Michael Reupke <EVENT class="OCCURRENCE" eid="e2">resigned</EVENT> as general manager to pursue unspecified interests, a <EVENT class="OCCURRENCE" eid="e97">move</EVENT> the news organization termed an "amicable separation."
+
+Mr. Reupke, 52 years old and a <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t42" type="DURATION" value="P27Y">27-year</TIMEX3> Reuters veteran, had been the information-services company's general <EVENT class="STATE" eid="e360">manager</EVENT> for only <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t43" type="DURATION" value="P6M">six months</TIMEX3>. His <EVENT class="I_ACTION" eid="e51">appointment</EVENT> to that post, which has senior administrative, staff and policy responsibilities, <EVENT class="ASPECTUAL" eid="e6">followed</EVENT> a <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t44" type="DURATION" value="PXY">several-year</TIMEX3> <EVENT class="STATE" eid="e52">tenure</EVENT> as Reuters's editor in chief. No successor was <EVENT class="I_ACTION" eid="e7">named</EVENT>, and Mr. Reupke's duties will be <EVENT class="ASPECTUAL" eid="e8">split</EVENT> among three other senior Reuters executives, the company <EVENT class="REPORTING" eid="e9">said</EVENT>.
+
+In a telephone interview, Mr. Reupke <EVENT class="REPORTING" eid="e10">said</EVENT> his <EVENT class="OCCURRENCE" eid="e55">departure</EVENT> was for "personal reasons," which he declined to specify. "There is no business reason for my <EVENT class="OCCURRENCE" eid="e57">departure</EVENT>," nor any disagreement over policy, he <EVENT class="REPORTING" eid="e14">added</EVENT>. He also <EVENT class="REPORTING" eid="e15">rejected</EVENT> reports that his <EVENT class="OCCURRENCE" eid="e59">departure</EVENT> <EVENT class="I_ACTION" eid="e16">stemmed</EVENT> from disappointment the general manager's post hadn't also <EVENT class="OCCURRENCE" eid="e69">led</EVENT> to a board directorship at the London-based news organization.
+
+Mr. Reupke was one of three executives on Reuters's eight-person executive committee who didn't also <EVENT class="STATE" eid="e21">serve</EVENT> on the company's board of directors. "If I were <EVENT class="ASPECTUAL" eid="e23">choosing</EVENT> the people of tomorrow, I would have <EVENT class="ASPECTUAL" eid="e24">chosen</EVENT> the people who are <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t46" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="STATE" eid="e363">on</EVENT> the board," he <EVENT class="REPORTING" eid="e27">said</EVENT>.
+
+A Reuters spokesman <EVENT class="REPORTING" eid="e28">said</EVENT> the <EVENT class="OCCURRENCE" eid="e65">departure</EVENT> <EVENT class="I_STATE" eid="e29">reflects</EVENT> "no <EVENT class="OCCURRENCE" eid="e72">change</EVENT> in strategy or profits." Mark Shepperd, an analyst at UBS Phillips amp Drew in London, <EVENT class="REPORTING" eid="e30">said</EVENT>, "I <EVENT class="PERCEPTION" eid="e31">suspect</EVENT> (the <EVENT class="OCCURRENCE" eid="e66">departure</EVENT>) will be fairly <EVENT class="STATE" eid="e67">irrelevant</EVENT> for the company. I would be very <EVENT class="I_STATE" eid="e32">surprised</EVENT> if his <EVENT class="OCCURRENCE" eid="e75">departure</EVENT> <EVENT class="ASPECTUAL" eid="e76">signals</EVENT> any <EVENT class="OCCURRENCE" eid="e77">change</EVENT> in strategy or <EVENT class="ASPECTUAL" eid="e79">change</EVENT> in profit expectations." On London's Stock Exchange, Reuters shares <EVENT class="I_ACTION" eid="e35">rose</EVENT> five pence to 913 pence ($14.43). In the U.S. over-the-counter market, American depositary shares for Reuters, each representing three shares in the London market, <EVENT class="OCCURRENCE" eid="e36">closed</EVENT> unchanged at $43.875.
+
+The senior of the three executives who will <EVENT class="I_ACTION" eid="e37">assume</EVENT> Mr. Reupke's <EVENT class="STATE" eid="e358">duties</EVENT> is Nigel Judah, 58, finance director and a Reuters board director. Peter Holland, 45, deputy general manager, <EVENT class="ASPECTUAL" eid="e38">becomes</EVENT> director of corporate affairs. And Patrick Mannix, 46, international technical manager, <EVENT class="OCCURRENCE" eid="e39">becomes</EVENT> director of group quality programs.
+</TEXT>
+<LASTEXTRAINFO>wsj_0158</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei512" eventID="e16"/>
+<MAKEINSTANCE eiid="ei545" eventID="e358"/>
+<MAKEINSTANCE eiid="ei544" eventID="e37"/>
+<MAKEINSTANCE eiid="ei542" eventID="e36"/>
+<MAKEINSTANCE eiid="ei541" eventID="e35"/>
+<MAKEINSTANCE eiid="ei533" eventID="e32"/>
+<MAKEINSTANCE eiid="ei530" eventID="e31"/>
+<MAKEINSTANCE eiid="ei529" eventID="e30"/>
+<MAKEINSTANCE eiid="ei505" eventID="e10"/>
+<MAKEINSTANCE eiid="ei509" eventID="e15"/>
+<MAKEINSTANCE eiid="ei508" eventID="e14"/>
+<MAKEINSTANCE eiid="ei548" eventID="e39"/>
+<MAKEINSTANCE eiid="ei546" eventID="e38"/>
+<MAKEINSTANCE eiid="ei538" eventID="e79"/>
+<MAKEINSTANCE eiid="ei511" eventID="e59"/>
+<MAKEINSTANCE eiid="ei491" eventID="e97"/>
+<MAKEINSTANCE eiid="ei506" eventID="e55"/>
+<MAKEINSTANCE eiid="ei526" eventID="e72"/>
+<MAKEINSTANCE eiid="ei507" eventID="e57"/>
+<MAKEINSTANCE eiid="ei536" eventID="e77"/>
+<MAKEINSTANCE eiid="ei535" eventID="e76"/>
+<MAKEINSTANCE eiid="ei534" eventID="e75"/>
+<MAKEINSTANCE eiid="ei498" eventID="e52"/>
+<MAKEINSTANCE eiid="ei554" eventID="e363"/>
+<MAKEINSTANCE eiid="ei551" eventID="e360"/>
+<MAKEINSTANCE eiid="ei504" eventID="e9"/>
+<MAKEINSTANCE eiid="ei503" eventID="e8"/>
+<MAKEINSTANCE eiid="ei501" eventID="e7"/>
+<MAKEINSTANCE eiid="ei497" eventID="e6"/>
+<MAKEINSTANCE eiid="ei489" eventID="e1"/>
+<MAKEINSTANCE eiid="ei490" eventID="e2"/>
+<MAKEINSTANCE eiid="ei520" eventID="e24"/>
+<MAKEINSTANCE eiid="ei522" eventID="e27"/>
+<MAKEINSTANCE eiid="ei517" eventID="e21"/>
+<MAKEINSTANCE eiid="ei519" eventID="e23"/>
+<MAKEINSTANCE eiid="ei495" eventID="e51"/>
+<MAKEINSTANCE eiid="ei523" eventID="e28"/>
+<MAKEINSTANCE eiid="ei525" eventID="e29"/>
+<MAKEINSTANCE eiid="ei515" eventID="e69"/>
+<MAKEINSTANCE eiid="ei524" eventID="e65"/>
+<MAKEINSTANCE eiid="ei531" eventID="e66"/>
+<MAKEINSTANCE eiid="ei532" eventID="e67"/>
+<TLINK eventInstanceID="ei506" lid="l1" relType="IDENTITY" relatedToEventInstance="ei490"/>
+<TLINK eventInstanceID="ei523" lid="l2" relType="OVERLAP" relatedToEventInstance="ei525"/>
+<TLINK eventInstanceID="ei551" lid="l3" relType="DURING" relatedToTime="t43"/>
+<TLINK eventInstanceID="ei536" lid="l4" relType="SIMULTANEOUS" relatedToEventInstance="ei538"/>
+<TLINK eventInstanceID="ei523" lid="l5" relType="SIMULTANEOUS" relatedToEventInstance="ei489"/>
+<TLINK eventInstanceID="ei491" lid="l6" relType="IDENTITY" relatedToEventInstance="ei490"/>
+<TLINK eventInstanceID="ei542" lid="l7" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei505" lid="l8" relType="AFTER" relatedToEventInstance="ei506"/>
+<TLINK eventInstanceID="ei489" lid="l9" relType="AFTER" relatedToEventInstance="ei490"/>
+<TLINK eventInstanceID="ei504" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei489"/>
+<TLINK eventInstanceID="ei498" lid="l11" relType="SIMULTANEOUS" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei541" lid="l12" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei533" lid="l13" relType="AFTER" relatedToEventInstance="ei535"/>
+<TLINK eventInstanceID="ei506" lid="l14" relType="IDENTITY" relatedToEventInstance="ei507"/>
+<TLINK eventInstanceID="ei489" lid="l15" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei504" lid="l16" relType="BEFORE" relatedToEventInstance="ei503"/>
+<TLINK eventInstanceID="ei546" lid="l17" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei517" lid="l18" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei544" lid="l19" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei509" lid="l20" relType="AFTER" relatedToEventInstance="ei505"/>
+<TLINK eventInstanceID="ei508" lid="l21" relType="AFTER" relatedToEventInstance="ei505"/>
+<TLINK eventInstanceID="ei501" lid="l22" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei495" lid="l23" relType="IAFTER" relatedToEventInstance="ei497"/>
+<TLINK eventInstanceID="ei524" lid="l24" relType="IDENTITY" relatedToEventInstance="ei506"/>
+<TLINK eventInstanceID="ei548" lid="l25" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei511" lid="l26" relType="IDENTITY" relatedToEventInstance="ei506"/>
+<TLINK eventInstanceID="ei534" lid="l27" relType="IDENTITY" relatedToEventInstance="ei506"/>
+<TLINK eventInstanceID="ei530" lid="l28" relType="BEFORE" relatedToEventInstance="ei532"/>
+<TLINK eventInstanceID="ei554" lid="l29" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei522" lid="l30" relType="SIMULTANEOUS" relatedToEventInstance="ei505"/>
+<TLINK eventInstanceID="ei529" lid="l31" relType="OVERLAP" relatedToEventInstance="ei530"/>
+<TLINK eventInstanceID="ei529" lid="l32" relType="AFTER" relatedToEventInstance="ei523"/>
+<TLINK eventInstanceID="ei505" lid="l33" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l34" relType="INCLUDES" relatedToEventInstance="ei522" timeID="t46"/>
+<TLINK eventInstanceID="ei531" lid="l35" relType="IDENTITY" relatedToEventInstance="ei507"/>
+</TimeML>

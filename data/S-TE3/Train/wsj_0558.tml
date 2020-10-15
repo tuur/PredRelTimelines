@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0558</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Aetna Life amp Casualty Co.'s <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t44" type="DATE" value="1989-Q3">third-quarter</TIMEX3> net income <EVENT class="OCCURRENCE" eid="e1">fell</EVENT> 22% to $182.6 million, or $1.63 a share, reflecting the <EVENT class="STATE" eid="e47">damages</EVENT> from Hurricane Hugo and lower <EVENT class="STATE" eid="e3">results</EVENT> for some of the company's major divisions.
+
+Catastrophe <EVENT class="STATE" eid="e48">losses</EVENT> <EVENT class="OCCURRENCE" eid="e4">reduced</EVENT> Aetna's net income by $50 million, including $36 million from Hugo. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t49" type="DATE" value="1988">Last year</TIMEX3> catastrophe <EVENT class="STATE" eid="e50">losses</EVENT> totaled $5 million, when <EVENT class="STATE" eid="e7">net</EVENT> was $235.5 million, or $2.07 a share. The <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t52" type="DATE" value="1988">year-earlier</TIMEX3> <EVENT class="STATE" eid="e8">results</EVENT> have been <EVENT class="I_ACTION" eid="e9">restated</EVENT> to <EVENT class="I_STATE" eid="e11">reflect</EVENT> an accounting <EVENT class="OCCURRENCE" eid="e12">change</EVENT>.
+
+The insurer has <EVENT class="ASPECTUAL" eid="e13">started</EVENT> <EVENT class="OCCURRENCE" eid="e54">processing</EVENT> <EVENT class="OCCURRENCE" eid="e14">claims</EVENT> from the Northern California <EVENT class="OCCURRENCE" eid="e55">earthquake</EVENT> <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t57" type="DATE" value="1989-WXX">nearly two weeks ago</TIMEX3>. But because these claims are more difficult to evaluate and have been <EVENT class="OCCURRENCE" eid="e18">coming</EVENT> in more slowly, the company <EVENT class="STATE" eid="e19">has</EVENT> no <EVENT class="I_STATE" eid="e20">estimate</EVENT> of the <EVENT class="STATE" eid="e21">impact</EVENT> of the <EVENT class="OCCURRENCE" eid="e60">earthquake</EVENT> on <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t61" type="DATE" value="1989-Q4">fourth-quarter</TIMEX3> <EVENT class="STATE" eid="e22">results</EVENT>.
+
+In New York Stock Exchange composite trading <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t63" type="DATE" value="1989-10-27">Friday</TIMEX3>, Aetna <EVENT class="OCCURRENCE" eid="e24">closed</EVENT> at $60, down 50 cents.
+
+In <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t65" type="DATE" value="1989-Q3">the latest quarter</TIMEX3>, Aetna <EVENT class="STATE" eid="e67">had</EVENT> a $23 million <EVENT class="OCCURRENCE" eid="e25">loss</EVENT> on its auto/homeowners line, compared with <EVENT class="STATE" eid="e68">earnings</EVENT> of $33 million <TIMEX3 anchorTimeID="t65" functionInDocument="NONE" temporalFunction="true" tid="t69" type="DATE" value="1988-Q3">last year</TIMEX3>. Profit for its commercial insurance division <EVENT class="OCCURRENCE" eid="e28">fell</EVENT> 30% to $59 million, reflecting higher catastrophe <EVENT class="OCCURRENCE" eid="e70">losses</EVENT> and the price <EVENT class="OCCURRENCE" eid="e71">war</EVENT> in the property/casualty market for <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t73" type="DURATION" value="P3Y">nearly three years</TIMEX3>.
+
+However, Aetna's employee benefits division, which includes its group health insurance operations, <EVENT class="REPORTING" eid="e34">posted</EVENT> a 34% profit <EVENT class="OCCURRENCE" eid="e74">gain</EVENT> to $106 million.
+
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t75" type="DATE" value="1989-Q3">Third-quarter</TIMEX3> <EVENT class="STATE" eid="e35">results</EVENT> included net realized capital <EVENT class="STATE" eid="e76">gains</EVENT> of $48 million, which <EVENT class="STATE" eid="e89">included</EVENT> $27 million from the <EVENT class="OCCURRENCE" eid="e39">sale</EVENT> of Federated Investors in <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t80" type="DATE" value="1989-08">August</TIMEX3> and a $15 million tax credit.
+
+In <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t81" type="DURATION" value="P9M">the nine months</TIMEX3>, net <EVENT class="OCCURRENCE" eid="e42">rose</EVENT> 4.3% to $525.8 million or $4.67 a share, from $504.2 million, or $4.41 a share, <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t85" type="DATE" value="1988">last year</TIMEX3>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0558</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2009" eventID="e19"/>
+<MAKEINSTANCE eiid="ei2008" eventID="e18"/>
+<MAKEINSTANCE eiid="ei2024" eventID="e35"/>
+<MAKEINSTANCE eiid="ei2022" eventID="e34"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2006" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2027" eventID="e39"/>
+<MAKEINSTANCE eiid="ei2007" eventID="e55"/>
+<MAKEINSTANCE eiid="ei2005" eventID="e54"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e71"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e70"/>
+<MAKEINSTANCE eiid="ei1998" eventID="e50"/>
+<MAKEINSTANCE eiid="ei2023" eventID="e74"/>
+<MAKEINSTANCE eiid="ei2028" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e9"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e8"/>
+<MAKEINSTANCE eiid="ei1997" eventID="e4"/>
+<MAKEINSTANCE eiid="ei1999" eventID="e7"/>
+<MAKEINSTANCE eiid="ei1992" eventID="e1"/>
+<MAKEINSTANCE eiid="ei1995" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e24"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e20"/>
+<MAKEINSTANCE eiid="ei1994" eventID="e47"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e22"/>
+<MAKEINSTANCE eiid="ei1996" eventID="e48"/>
+<MAKEINSTANCE eiid="ei2019" eventID="e28"/>
+<MAKEINSTANCE eiid="ei2025" eventID="e76"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e68"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e60"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e67"/>
+<MAKEINSTANCE eiid="ei2032" eventID="e89"/>
+<TLINK eventInstanceID="ei1998" lid="l1" relType="AFTER" relatedToEventInstance="ei2000"/>
+<TLINK eventInstanceID="ei2017" lid="l2" relType="AFTER" relatedToEventInstance="ei2018"/>
+<TLINK lid="l3" relType="IS_INCLUDED" relatedToTime="t81" timeID="t44"/>
+<TLINK eventInstanceID="ei2020" lid="l4" relType="BEFORE" relatedToEventInstance="ei2019"/>
+<TLINK eventInstanceID="ei2004" lid="l5" relType="INITIATES" relatedToEventInstance="ei2005"/>
+<TLINK lid="l6" relType="IDENTITY" relatedToTime="t75" timeID="t44"/>
+<TLINK lid="l7" relType="INCLUDES" relatedToEventInstance="ei2007" timeID="t57"/>
+<TLINK eventInstanceID="ei2021" lid="l8" relType="BEFORE" relatedToEventInstance="ei2019"/>
+<TLINK lid="l9" relType="IDENTITY" relatedToTime="t44" timeID="t65"/>
+<TLINK eventInstanceID="ei2007" lid="l10" relType="BEFORE" relatedToEventInstance="ei2006"/>
+<TLINK eventInstanceID="ei1995" lid="l11" relType="AFTER" relatedToEventInstance="ei1992"/>
+<TLINK eventInstanceID="ei2013" lid="l12" relType="INCLUDES" relatedToEventInstance="ei2010"/>
+<TLINK eventInstanceID="ei2032" lid="l13" relType="IS_INCLUDED" relatedToTime="t75"/>
+<TLINK eventInstanceID="ei2017" lid="l14" relType="IDENTITY" relatedToEventInstance="ei2016"/>
+<TLINK lid="l15" relType="DURING" relatedToEventInstance="ei1992" timeID="t44"/>
+<TLINK eventInstanceID="ei2001" lid="l16" relType="AFTER" relatedToEventInstance="ei2003"/>
+<TLINK eventInstanceID="ei2018" lid="l17" relType="IS_INCLUDED" relatedToTime="t69"/>
+<TLINK lid="l18" relType="BEFORE" relatedToTime="t65" timeID="t69"/>
+<TLINK lid="l19" relType="DURING" relatedToEventInstance="ei2013" timeID="t61"/>
+<TLINK eventInstanceID="ei2012" lid="l20" relType="BEFORE" relatedToEventInstance="ei2011"/>
+<TLINK lid="l21" relType="DURING" relatedToEventInstance="ei2019" timeID="t65"/>
+<TLINK lid="l22" relType="INCLUDES" relatedToEventInstance="ei1998" timeID="t49"/>
+<TLINK eventInstanceID="ei1996" lid="l23" relType="BEFORE" relatedToEventInstance="ei1997"/>
+<TLINK lid="l24" relType="DURING" relatedToEventInstance="ei2000" timeID="t52"/>
+<TLINK eventInstanceID="ei2012" lid="l25" relType="IDENTITY" relatedToEventInstance="ei2007"/>
+<TLINK lid="l26" relType="AFTER" relatedToEventInstance="ei2022" timeID="t0"/>
+<TLINK lid="l27" relType="INCLUDES" relatedToEventInstance="ei2016" timeID="t65"/>
+<TLINK eventInstanceID="ei2009" lid="l28" relType="IDENTITY" relatedToEventInstance="ei2010"/>
+<TLINK eventInstanceID="ei2025" lid="l29" relType="IS_INCLUDED" relatedToEventInstance="ei2024"/>
+<TLINK eventInstanceID="ei1996" lid="l30" relType="IS_INCLUDED" relatedToEventInstance="ei1994"/>
+<TLINK lid="l31" relType="DURING" relatedToEventInstance="ei2021" timeID="t73"/>
+<TLINK lid="l32" relType="INCLUDES" relatedToEventInstance="ei2027" timeID="t80"/>
+<TLINK eventInstanceID="ei2005" lid="l33" relType="AFTER" relatedToEventInstance="ei2007"/>
+<TLINK eventInstanceID="ei1999" lid="l34" relType="SIMULTANEOUS" relatedToEventInstance="ei1998"/>
+<TLINK eventInstanceID="ei2028" lid="l35" relType="IS_INCLUDED" relatedToTime="t81"/>
+<TLINK lid="l36" relType="AFTER" relatedToEventInstance="ei1992" timeID="t0"/>
+<TLINK lid="l37" relType="DURING" relatedToEventInstance="ei2024" timeID="t75"/>
+<TLINK eventInstanceID="ei2010" lid="l38" relType="AFTER" relatedToEventInstance="ei2008"/>
+<TLINK eventInstanceID="ei2001" lid="l39" relType="OVERLAP" relatedToEventInstance="ei2002"/>
+<TLINK eventInstanceID="ei1994" lid="l40" relType="BEFORE" relatedToEventInstance="ei1992"/>
+<TLINK lid="l41" relType="INCLUDES" relatedToEventInstance="ei2014" timeID="t63"/>
+<TLINK eventInstanceID="ei2006" lid="l42" relType="BEFORE" relatedToEventInstance="ei2004"/>
+<TLINK lid="l43" relType="AFTER" relatedToEventInstance="ei2004" timeID="t0"/>
+</TimeML>

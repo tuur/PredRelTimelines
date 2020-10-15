@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0136</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Oshkosh Truck Corp., Oshkosh, Wis., <EVENT class="REPORTING" eid="e17">estimated</EVENT> earnings for its <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2027" type="DATE" value="1998-Q4">fourth quarter</TIMEX3> ended <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2023" type="DATE" value="1989-09">Sept. 30</TIMEX3> <EVENT class="OCCURRENCE" eid="e2">fell</EVENT> 50% to 75% below the year-earlier $4.5 million, or 51 cents a share.
+
+The truck maker <EVENT class="REPORTING" eid="e3">said</EVENT> the significant <EVENT class="OCCURRENCE" eid="e21">drop</EVENT> in net income will <EVENT class="I_ACTION" eid="e4">result</EVENT> in lower earnings for <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t2024" type="DATE" value="1989">the fiscal year</TIMEX3>. In <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t37" type="DATE" value="1989">fiscal 1988</TIMEX3>, the company <EVENT class="OCCURRENCE" eid="e5">earned</EVENT> $17.3 million, or $1.92 a share, on revenue of $352.9 million.
+
+Oshkosh Truck <EVENT class="REPORTING" eid="e6">attributed</EVENT> the <EVENT class="OCCURRENCE" eid="e26">downturn</EVENT> in its earnings to higher start-up costs of its new chassis division, a softer motor-home market and higher administrative costs of compliance with government contractor regulations.
+
+The company <EVENT class="REPORTING" eid="e7">said</EVENT> it is in the process of <EVENT class="OCCURRENCE" eid="e10">phasing</EVENT> out John Deere, its current source of production for midsized motor home chassis. In anticipation of the start-up of its new factory, the company <EVENT class="REPORTING" eid="e11">said</EVENT> a larger-than-normal chassis supply has been <EVENT class="OCCURRENCE" eid="e12">built</EVENT> to <EVENT class="I_ACTION" eid="e13">carry</EVENT> it through the transition period.
+</TEXT>
+<LASTEXTRAINFO>wsj_0136</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2085" eventID="e26"/>
+<MAKEINSTANCE eiid="ei2081" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2090" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2088" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2092" eventID="e13"/>
+<MAKEINSTANCE eiid="ei2091" eventID="e12"/>
+<MAKEINSTANCE eiid="ei2078" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2083" eventID="e5"/>
+<MAKEINSTANCE eiid="ei2082" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2087" eventID="e7"/>
+<MAKEINSTANCE eiid="ei2084" eventID="e6"/>
+<MAKEINSTANCE eiid="ei2080" eventID="e3"/>
+<MAKEINSTANCE eiid="ei2079" eventID="e2"/>
+<TLINK eventInstanceID="ei2088" lid="l1" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK lid="l2" relType="ENDED_BY" relatedToTime="t2023" timeID="t2027"/>
+<TLINK lid="l3" relType="SIMULTANEOUS" relatedToEventInstance="ei2083" timeID="t37"/>
+<TLINK eventInstanceID="ei2080" lid="l4" relType="BEFORE" relatedToEventInstance="ei2082"/>
+<TLINK eventInstanceID="ei2082" lid="l5" relType="IS_INCLUDED" relatedToTime="t2024"/>
+<TLINK eventInstanceID="ei2080" lid="l6" relType="SIMULTANEOUS" relatedToEventInstance="ei2078"/>
+<TLINK eventInstanceID="ei2090" lid="l7" relType="AFTER" relatedToEventInstance="ei2091"/>
+<TLINK eventInstanceID="ei2084" lid="l8" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2079" lid="l9" relType="BEFORE" relatedToEventInstance="ei2078"/>
+<TLINK eventInstanceID="ei2090" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei2087"/>
+<TLINK eventInstanceID="ei2087" lid="l11" relType="SIMULTANEOUS" relatedToEventInstance="ei2078"/>
+<TLINK eventInstanceID="ei2081" lid="l12" relType="BEFORE" relatedToEventInstance="ei2082"/>
+<TLINK eventInstanceID="ei2078" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2091" lid="l14" relType="BEFORE" relatedToEventInstance="ei2090"/>
+</TimeML>

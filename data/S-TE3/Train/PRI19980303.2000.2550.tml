@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>PRI19980303.2000.2550</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1998-03-03">1998-03-03</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+<TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t135" type="DATE" value="1998-03-04">Tomorrow</TIMEX3> the board of supervisors of Loudon county, Virginia, will <EVENT class="I_ACTION" eid="e136">vote</EVENT> on whether a school <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t138" type="DATE" value="PRESENT_REF">now</TIMEX3> <EVENT class="OCCURRENCE" eid="e3">located</EVENT> in Mount Vernon can <EVENT class="OCCURRENCE" eid="e4">relocate</EVENT> to their county. In some respects, that's typical county business, but <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t139" type="DATE" value="1998-03-04">tomorrow</TIMEX3>'s <EVENT class="OCCURRENCE" eid="e8">vote</EVENT> has international implications. The board will <EVENT class="I_ACTION" eid="e10">decide</EVENT> whether the Islamic Saudi Academy, <EVENT class="STATE" eid="e11">funded</EVENT> by the government of Saudi Arabia, can <EVENT class="OCCURRENCE" eid="e12">move</EVENT> to Ashburn village, Virginia. But local residents have not exactly <EVENT class="I_ACTION" eid="e14">laid</EVENT> out the red carpet for their would be neighbors. The World's Nancy Marshalll <EVENT class="STATE" eid="e3000">has</EVENT> our story.
+
+Inside the Islamic Saudi academy in Mount Vernon, Virginia, many of the girls wear head scarves and some of the neatly dressed children are in uniforms. The instruction is in English for most classes, in Arabic for language and religious studies. The school says it teaches the children to be good Muslims and good students. They're learning a civics lesson from the residents of Loudon county. The Islamic Saudi Academy has twelve hundred mostly American students but would <EVENT class="OCCURRENCE" eid="e29">take</EVENT> thirty-five hundred if it <EVENT class="STATE" eid="e32">had</EVENT> the room. The academy <EVENT class="OCCURRENCE" eid="e33">bought</EVENT> a hundred acres in Loudon county, Virginia, and <EVENT class="I_ACTION" eid="e34">asked</EVENT> for permission to <EVENT class="OCCURRENCE" eid="e37">build</EVENT> a fifty million dollar campus. In the nearby suburban housing tracts, someone <EVENT class="OCCURRENCE" eid="e38">dropped</EVENT> off leaflets <EVENT class="I_ACTION" eid="e39">warning</EVENT> the school could <EVENT class="OCCURRENCE" eid="e40">bring</EVENT> thousands of Middle Eastern strangers and terrorists. Some residents of the mostly white, mostly middle class area <EVENT class="I_STATE" eid="e42">became</EVENT> alarmed. James Zogby of the Arab American Institute <EVENT class="REPORTING" eid="e147">says</EVENT> it's a familiar story.
+
+There is, a- at a very deep level in our culture, um I <EVENT class="I_STATE" eid="e146">think</EVENT>, a sense of, of ignorance about Islam, a fear about who Muslims are and what they're doing.
+
+Many local residents <EVENT class="I_ACTION" eid="e50">denounced</EVENT> the bigotry, but opposition to the school then <EVENT class="ASPECTUAL" eid="e52">shifted</EVENT>. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t346" type="DATE" value="PRESENT_REF">Now</TIMEX3> critics of the academy are <EVENT class="OCCURRENCE" eid="e53">targeting</EVENT> its owner, the Saudi government. Pastor James Allmen of the fellowship church and school in Ashburn has <EVENT class="OCCURRENCE" eid="e54">led</EVENT> the anti-Saudi <EVENT class="OCCURRENCE" eid="e55">campaign</EVENT>. James Allmen <EVENT class="REPORTING" eid="e56">says</EVENT> he <EVENT class="STATE" eid="e57">has</EVENT> no problem with a privately funded academy, but he <EVENT class="STATE" eid="e59">has</EVENT> a big problem with a Saudi funded school.
+
+The Saudi Arabian government has an atrocious record on human rights and is known to be one of the worst offending countries when it comes to religious persecution.
+
+That's correct.
+
+And that is a condition of the application, then.
+
+At a public <EVENT class="OCCURRENCE" eid="e69">hearing</EVENT> on the Islamic Saudi Academy's application, the <EVENT class="STATE" eid="e71">split</EVENT> in county opinion was obvious, supporters of the academy, including Ann Robinson, <EVENT class="REPORTING" eid="e72">said</EVENT> the Saudis were just <EVENT class="OCCURRENCE" eid="e73">providing</EVENT> a service and it was <EVENT class="I_STATE" eid="e153">unfair</EVENT> to <EVENT class="OCCURRENCE" eid="e76">penalize</EVENT> children.
+
+We do not <EVENT class="OCCURRENCE" eid="e155">further</EVENT> the purpose of human rights in the world by <EVENT class="OCCURRENCE" eid="e78">violating</EVENT> the human rights under our own constitution.
+
+But opponents <EVENT class="REPORTING" eid="e80">said</EVENT> the school might be a target for terrorist <EVENT class="OCCURRENCE" eid="e83">attacks</EVENT>, <EVENT class="I_ACTION" eid="e84">complained</EVENT> about its tax exempt status, and <EVENT class="I_ACTION" eid="e85">wondered</EVENT> why the Saudis are not <EVENT class="I_ACTION" eid="e86">compelled</EVENT> to <EVENT class="I_ACTION" eid="e89">allow</EVENT> Christians to <EVENT class="OCCURRENCE" eid="e90">worship</EVENT> in their country. Virginia Welch <EVENT class="REPORTING" eid="e91">delivered</EVENT> this message to the county board of supervisors.
+
+I <EVENT class="I_ACTION" eid="e94">urge</EVENT> you to <EVENT class="OCCURRENCE" eid="e96">do</EVENT> the right thing and <EVENT class="I_ACTION" eid="e98">send</EVENT> a message to the Saudis that the citizens of Loudon county <EVENT class="STATE" eid="e100">embrace</EVENT> religious and human freedom.
+
+Loudon county officials <EVENT class="REPORTING" eid="e101">say</EVENT> they'll <EVENT class="OCCURRENCE" eid="e102">rule</EVENT> on the application based only on land use issues and <EVENT class="I_ACTION" eid="e108">ignore</EVENT> all the other objections. What's really behind those objections, some <EVENT class="REPORTING" eid="e111">say</EVENT>, is Loudon county's <EVENT class="OCCURRENCE" eid="e112">collision</EVENT> with a new reality in America that the country is <EVENT class="OCCURRENCE" eid="e160">changing</EVENT> religiously as surely as it is racially and ethnically. <EVENT class="I_STATE" eid="e161">According</EVENT> to the Arab American institute, Islam will <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t163" type="DATE" value="FUTURE_REF">one day</TIMEX3> be the second largest religion in the country. For an indication of the problems that could face Muslims as they integrate into American life, one need look no farther than Loudon county, Virginia. For The World, I'm Nancy Marshalll.
+</TEXT>
+<LASTEXTRAINFO>PRI19980303.2000.2550</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei539" eventID="e136"/>
+<MAKEINSTANCE eiid="ei558" eventID="e37"/>
+<MAKEINSTANCE eiid="ei608" eventID="e160"/>
+<MAKEINSTANCE eiid="ei556" eventID="e34"/>
+<MAKEINSTANCE eiid="ei555" eventID="e33"/>
+<MAKEINSTANCE eiid="ei554" eventID="e32"/>
+<MAKEINSTANCE eiid="ei609" eventID="e161"/>
+<MAKEINSTANCE eiid="ei545" eventID="e11"/>
+<MAKEINSTANCE eiid="ei544" eventID="e10"/>
+<MAKEINSTANCE eiid="ei546" eventID="e12"/>
+<MAKEINSTANCE eiid="ei547" eventID="e14"/>
+<MAKEINSTANCE eiid="ei560" eventID="e39"/>
+<MAKEINSTANCE eiid="ei559" eventID="e38"/>
+<MAKEINSTANCE eiid="ei595" eventID="e91"/>
+<MAKEINSTANCE eiid="ei594" eventID="e90"/>
+<MAKEINSTANCE eiid="ei585" eventID="e78"/>
+<MAKEINSTANCE eiid="ei577" eventID="e59"/>
+<MAKEINSTANCE eiid="ei596" eventID="e94"/>
+<MAKEINSTANCE eiid="ei597" eventID="e96"/>
+<MAKEINSTANCE eiid="ei565" eventID="e146"/>
+<MAKEINSTANCE eiid="ei580" eventID="e72"/>
+<MAKEINSTANCE eiid="ei579" eventID="e71"/>
+<MAKEINSTANCE eiid="ei575" eventID="e56"/>
+<MAKEINSTANCE eiid="ei568" eventID="e50"/>
+<MAKEINSTANCE eiid="ei572" eventID="e53"/>
+<MAKEINSTANCE eiid="ei571" eventID="e52"/>
+<MAKEINSTANCE eiid="ei603" eventID="e108"/>
+<MAKEINSTANCE eiid="ei598" eventID="e98"/>
+<MAKEINSTANCE eiid="ei601" eventID="e102"/>
+<MAKEINSTANCE eiid="ei599" eventID="e100"/>
+<MAKEINSTANCE eiid="ei600" eventID="e101"/>
+<MAKEINSTANCE eiid="ei581" eventID="e73"/>
+<MAKEINSTANCE eiid="ei542" eventID="e8"/>
+<MAKEINSTANCE eiid="ei573" eventID="e54"/>
+<MAKEINSTANCE eiid="ei541" eventID="e4"/>
+<MAKEINSTANCE eiid="ei564" eventID="e147"/>
+<MAKEINSTANCE eiid="ei576" eventID="e57"/>
+<MAKEINSTANCE eiid="ei540" eventID="e3"/>
+<MAKEINSTANCE eiid="ei562" eventID="e42"/>
+<MAKEINSTANCE eiid="ei561" eventID="e40"/>
+<MAKEINSTANCE eiid="ei574" eventID="e55"/>
+<MAKEINSTANCE eiid="ei553" eventID="e29"/>
+<MAKEINSTANCE eiid="ei583" eventID="e76"/>
+<MAKEINSTANCE eiid="ei592" eventID="e86"/>
+<MAKEINSTANCE eiid="ei578" eventID="e69"/>
+<MAKEINSTANCE eiid="ei589" eventID="e84"/>
+<MAKEINSTANCE eiid="ei591" eventID="e85"/>
+<MAKEINSTANCE eiid="ei606" eventID="e111"/>
+<MAKEINSTANCE eiid="ei588" eventID="e83"/>
+<MAKEINSTANCE eiid="ei586" eventID="e80"/>
+<MAKEINSTANCE eiid="ei607" eventID="e112"/>
+<MAKEINSTANCE eiid="ei582" eventID="e153"/>
+<MAKEINSTANCE eiid="ei584" eventID="e155"/>
+<MAKEINSTANCE eiid="ei593" eventID="e89"/>
+<TLINK lid="l1" relType="INCLUDES" relatedToEventInstance="ei542" timeID="t139"/>
+<TLINK eventInstanceID="ei545" lid="l2" relType="INCLUDES" relatedToEventInstance="ei540"/>
+<TLINK eventInstanceID="ei578" lid="l3" relType="INCLUDES" relatedToEventInstance="ei579"/>
+<TLINK eventInstanceID="ei568" lid="l4" relType="BEFORE" relatedToEventInstance="ei571"/>
+<TLINK eventInstanceID="ei600" lid="l5" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei580" lid="l6" relType="IS_INCLUDED" relatedToEventInstance="ei578"/>
+<TLINK lid="l7" relType="INCLUDES" relatedToTime="t0" timeID="t138"/>
+<TLINK eventInstanceID="ei586" lid="l8" relType="SIMULTANEOUS" relatedToEventInstance="ei589"/>
+<TLINK eventInstanceID="ei559" lid="l9" relType="SIMULTANEOUS" relatedToEventInstance="ei560"/>
+<TLINK eventInstanceID="ei591" lid="l10" relType="SIMULTANEOUS" relatedToEventInstance="ei589"/>
+<TLINK eventInstanceID="ei609" lid="l11" relType="BEFORE" relatedToTime="t0"/>
+<TLINK lid="l12" relType="IDENTITY" relatedToTime="t139" timeID="t135"/>
+<TLINK eventInstanceID="ei595" lid="l13" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei584" lid="l14" relType="AFTER" relatedToEventInstance="ei585"/>
+<TLINK lid="l15" relType="DURING" relatedToEventInstance="ei572" timeID="t346"/>
+<TLINK eventInstanceID="ei545" lid="l16" relType="INCLUDES" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei559" lid="l17" relType="AFTER" relatedToEventInstance="ei556"/>
+<TLINK eventInstanceID="ei544" lid="l18" relType="IDENTITY" relatedToEventInstance="ei539"/>
+<TLINK eventInstanceID="ei555" lid="l19" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei542" lid="l20" relType="IDENTITY" relatedToEventInstance="ei539"/>
+<TLINK eventInstanceID="ei547" lid="l21" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei553" lid="l22" relType="AFTER" relatedToEventInstance="ei554"/>
+<TLINK eventInstanceID="ei564" lid="l23" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei568" lid="l24" relType="AFTER" relatedToEventInstance="ei559"/>
+<TLINK eventInstanceID="ei607" lid="l25" relType="AFTER" relatedToEventInstance="ei608"/>
+<TLINK lid="l26" relType="INCLUDES" relatedToEventInstance="ei539" timeID="t135"/>
+<TLINK eventInstanceID="ei586" lid="l27" relType="IS_INCLUDED" relatedToEventInstance="ei578"/>
+<TLINK eventInstanceID="ei559" lid="l28" relType="BEFORE" relatedToEventInstance="ei562"/>
+<TLINK eventInstanceID="ei578" lid="l29" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei540" lid="l30" relType="IS_INCLUDED" relatedToTime="t138"/>
+<TLINK eventInstanceID="ei606" lid="l31" relType="IS_INCLUDED" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei575" lid="l32" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei555" lid="l33" relType="BEFORE" relatedToEventInstance="ei556"/>
+</TimeML>

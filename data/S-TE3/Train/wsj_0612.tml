@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0612</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-10-30">1989-10-30</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+The following were among <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t29" type="DATE" value="1989-10-27">Friday</TIMEX3>'s <EVENT class="OCCURRENCE" eid="e1">offerings</EVENT> and <EVENT class="OCCURRENCE" eid="e30">pricings</EVENT> in the U.S. and non-U.S. capital markets, with terms and syndicate manager, as <EVENT class="REPORTING" eid="e3">compiled</EVENT> by Dow Jones Capital Markets Report: @ CORPORATES Sun Microsystems Inc. -- $125 million of 6 3/8% convertible subordinated debentures <EVENT class="STATE" eid="e31">due</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t32" type="DATE" value="1999-10-15">Oct. 15, 1999</TIMEX3>, <EVENT class="OCCURRENCE" eid="e4">priced</EVENT> at 84.90 to <EVENT class="I_STATE" eid="e42">yield</EVENT> 7.51%. The debentures are convertible into common stock at $25 a share, representing a 24% conversion premium over <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t33" type="DATE" value="1989-10-26">Thursday</TIMEX3>'s closing price. <EVENT class="OCCURRENCE" eid="e10">Rated</EVENT> single-B-1 by Moody's Investors Service Inc. and single-B-plus by Standard amp Poor's Corp., the issue will be <EVENT class="OCCURRENCE" eid="e11">sold</EVENT> through underwriters led by Goldman, Sachs amp Co. Hertz Corp. -- $100 million of senior notes <EVENT class="STATE" eid="e36">due</EVENT> <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t37" type="DATE" value="2009-11-01">Nov. 1, 2009</TIMEX3>, <EVENT class="STATE" eid="e14">priced</EVENT> at par to <EVENT class="I_STATE" eid="e41">yield</EVENT> 9%. The issue, which is puttable back to the company in <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t44" type="DATE" value="1999">1999</TIMEX3>, was <EVENT class="OCCURRENCE" eid="e17">priced</EVENT> at a spread of 110 basis points above the Treasury's <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t500" type="DURATION" value="P10Y">10-year</TIMEX3> note. <EVENT class="STATE" eid="e21">Rated</EVENT> single-A-3 by Moody's and triple-B by SampP, the issue will be <EVENT class="OCCURRENCE" eid="e22">sold</EVENT> through underwriters led by Merrill Lynch Capital Markets. @ EUROBONDS Canadian Imperial Bank of Commerce (Canada) -- 10 billion yen of 5.7% bonds due <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t47" type="DATE" value="1992-11-17">Nov. 17, 1992</TIMEX3>, <EVENT class="STATE" eid="e25">priced</EVENT> at 101 1/4 to <EVENT class="I_STATE" eid="e27">yield</EVENT> 5.75% less full fees, via LTCB International Ltd.
+</TEXT>
+<LASTEXTRAINFO>wsj_0612</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei2005" eventID="e42"/>
+<MAKEINSTANCE eiid="ei2020" eventID="e25"/>
+<MAKEINSTANCE eiid="ei2021" eventID="e27"/>
+<MAKEINSTANCE eiid="ei2017" eventID="e21"/>
+<MAKEINSTANCE eiid="ei2003" eventID="e31"/>
+<MAKEINSTANCE eiid="ei2001" eventID="e30"/>
+<MAKEINSTANCE eiid="ei2011" eventID="e11"/>
+<MAKEINSTANCE eiid="ei2010" eventID="e10"/>
+<MAKEINSTANCE eiid="ei2013" eventID="e14"/>
+<MAKEINSTANCE eiid="ei2016" eventID="e17"/>
+<MAKEINSTANCE eiid="ei2012" eventID="e36"/>
+<MAKEINSTANCE eiid="ei2014" eventID="e41"/>
+<MAKEINSTANCE eiid="ei2004" eventID="e4"/>
+<MAKEINSTANCE eiid="ei2018" eventID="e22"/>
+<MAKEINSTANCE eiid="ei2000" eventID="e1"/>
+<MAKEINSTANCE eiid="ei2002" eventID="e3"/>
+<TLINK eventInstanceID="ei2004" lid="l1" relType="BEFORE" relatedToEventInstance="ei2005"/>
+<TLINK eventInstanceID="ei2000" lid="l2" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2013" lid="l3" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2010" lid="l4" relType="BEFORE" relatedToEventInstance="ei2011"/>
+<TLINK eventInstanceID="ei2020" lid="l5" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2012" lid="l6" relType="ENDED_BY" relatedToTime="t37"/>
+<TLINK eventInstanceID="ei2003" lid="l7" relType="ENDED_BY" relatedToTime="t32"/>
+<TLINK eventInstanceID="ei2012" lid="l8" relType="BEGUN_BY" relatedToTime="t44"/>
+<TLINK eventInstanceID="ei2002" lid="l9" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei2017" lid="l10" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2001" lid="l11" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2004" lid="l12" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2010" lid="l13" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2003" lid="l14" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2017" lid="l15" relType="BEFORE" relatedToEventInstance="ei2018"/>
+<TLINK eventInstanceID="ei2020" lid="l16" relType="BEFORE" relatedToEventInstance="ei2021"/>
+<TLINK eventInstanceID="ei2013" lid="l17" relType="BEFORE" relatedToEventInstance="ei2014"/>
+<TLINK eventInstanceID="ei2012" lid="l18" relType="IS_INCLUDED" relatedToTime="t29"/>
+<TLINK eventInstanceID="ei2016" lid="l19" relType="IS_INCLUDED" relatedToTime="t29"/>
+</TimeML>

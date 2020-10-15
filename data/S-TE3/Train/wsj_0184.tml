@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TimeML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://timeml.org/timeMLdocs/TimeML_1.2.1.xsd">
+<DOCID>wsj_0184</DOCID>
+<DCT>
+<TIMEX3 functionInDocument="CREATION_TIME" temporalFunction="false" tid="t0" type="DATE" value="1989-11-02">1989-11-02</TIMEX3>
+</DCT>
+<EXTRAINFO>...</EXTRAINFO>
+<TEXT>
+Upjohn Co. <EVENT class="REPORTING" eid="e1">said</EVENT> it will <EVENT class="OCCURRENCE" eid="e2">offer</EVENT> an early retirement package to as many as 1,100 employees in a cost-cutting <EVENT class="I_ACTION" eid="e3">move</EVENT> <EVENT class="I_STATE" eid="e5">expected</EVENT> to <EVENT class="ASPECTUAL" eid="e7">result</EVENT> in a <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t79" type="DURATION" value="1989-Q4">fourth-quarter</TIMEX3> <EVENT class="OCCURRENCE" eid="e80">charge</EVENT>.
+
+Upjohn officials <EVENT class="REPORTING" eid="e8">said</EVENT> they couldn't <EVENT class="I_ACTION" eid="e9">estimate</EVENT> the size of the <EVENT class="STATE" eid="e81">charge</EVENT> until they <EVENT class="I_ACTION" eid="e12">determine</EVENT> which employees, and how many, will <EVENT class="OCCURRENCE" eid="e14">participate</EVENT> in the retirement plan. But the pharmaceutical company <EVENT class="REPORTING" eid="e16">said</EVENT> it "<EVENT class="I_STATE" eid="e17">anticipates</EVENT> the long-term savings resulting from the plan's implementation will more than <EVENT class="OCCURRENCE" eid="e91">offset</EVENT> short-term costs."
+
+The program, available to Upjohn employees 55 years old or older, could <EVENT class="OCCURRENCE" eid="e24">increase</EVENT> an individual's retirement benefits 10% to 20%. In addition, Upjohn is <EVENT class="OCCURRENCE" eid="e29">offering</EVENT> a one-time retirement bonus equal to six months of base pay.
+
+Chairman Theodore Cooper <EVENT class="REPORTING" eid="e31">called</EVENT> the program part of the company's <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t190" type="DURATION" value="P2Y">two-year</TIMEX3> <EVENT class="I_ACTION" eid="e189">strategy</EVENT> to <EVENT class="I_ACTION" eid="e33">implement</EVENT> budget constraints and "an effective headcount-control program."
+
+But some analysts <EVENT class="I_ACTION" eid="e34">questioned</EVENT> how much of an impact the retirement package will <EVENT class="OCCURRENCE" eid="e36">have</EVENT>, because few jobs will <EVENT class="ASPECTUAL" eid="e38">end</EVENT> up being <EVENT class="OCCURRENCE" eid="e86">eliminated</EVENT>. "It's a cosmetic <EVENT class="OCCURRENCE" eid="e39">move</EVENT>," <EVENT class="REPORTING" eid="e40">said</EVENT> Jonathan S. Gelles of Wertheim Schroder amp Co.
+
+According to Upjohn's estimates, only 50% to 60% of the 1,100 eligible employees will <EVENT class="OCCURRENCE" eid="e42">take</EVENT> advantage of the plan. Upjohn further <EVENT class="I_ACTION" eid="e43">estimated</EVENT> that about 50% of the employees who <EVENT class="OCCURRENCE" eid="e44">leave</EVENT> for early retirement may be <EVENT class="OCCURRENCE" eid="e46">replaced</EVENT>. As a result, Upjohn will likely <EVENT class="OCCURRENCE" eid="e50">trim</EVENT> only about 275 to 350 of its more than 21,000 jobs world-wide.
+
+In composite trading on the New York Stock Exchange <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t92" type="DATE" value="1989-11-01">yesterday</TIMEX3>, Upjohn shares <EVENT class="OCCURRENCE" eid="e53">rose</EVENT> 87.5 cents to $38.875 apiece.
+
+An Upjohn spokesman <EVENT class="REPORTING" eid="e54">said</EVENT> he had " <EVENT class="PERCEPTION" eid="e399">heard</EVENT> nothing" to <EVENT class="I_STATE" eid="e57">suggest</EVENT> the early retirement package was <EVENT class="OCCURRENCE" eid="e58">spurred</EVENT> by shareholder pressure or a potential bidder for the company, which occasionally has been the target of takeover speculation. The company <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t372" type="DATE" value="1989">earlier this year</TIMEX3> <EVENT class="OCCURRENCE" eid="e61">adopted</EVENT> a shareholder-rights plan to <EVENT class="OCCURRENCE" eid="e63">ward</EVENT> off unwanted suitors.
+
+The spokesman <EVENT class="REPORTING" eid="e64">said</EVENT> it is the first early retirement plan <EVENT class="I_ACTION" eid="e65">offered</EVENT> under its <TIMEX3 functionInDocument="NONE" temporalFunction="false" tid="t500" type="DURATION" value="P2Y">two-year</TIMEX3> cost-control strategy. <TIMEX3 anchorTimeID="t0" functionInDocument="NONE" temporalFunction="true" tid="t404" type="DATE" value="PAST_REF">Earlier</TIMEX3> staff-reduction <EVENT class="OCCURRENCE" eid="e66">moves</EVENT> have <EVENT class="OCCURRENCE" eid="e67">trimmed</EVENT> about 300 jobs, the spokesman <EVENT class="REPORTING" eid="e69">said</EVENT>.
+</TEXT>
+<LASTEXTRAINFO>wsj_0184</LASTEXTRAINFO>
+<MAKEINSTANCE eiid="ei448" eventID="e39"/>
+<MAKEINSTANCE eiid="ei433" eventID="e16"/>
+<MAKEINSTANCE eiid="ei445" eventID="e36"/>
+<MAKEINSTANCE eiid="ei443" eventID="e34"/>
+<MAKEINSTANCE eiid="ei440" eventID="e33"/>
+<MAKEINSTANCE eiid="ei438" eventID="e31"/>
+<MAKEINSTANCE eiid="ei431" eventID="e12"/>
+<MAKEINSTANCE eiid="ei432" eventID="e14"/>
+<MAKEINSTANCE eiid="ei434" eventID="e17"/>
+<MAKEINSTANCE eiid="ei446" eventID="e38"/>
+<MAKEINSTANCE eiid="ei435" eventID="e91"/>
+<MAKEINSTANCE eiid="ei461" eventID="e58"/>
+<MAKEINSTANCE eiid="ei458" eventID="e54"/>
+<MAKEINSTANCE eiid="ei460" eventID="e57"/>
+<MAKEINSTANCE eiid="ei456" eventID="e50"/>
+<MAKEINSTANCE eiid="ei457" eventID="e53"/>
+<MAKEINSTANCE eiid="ei451" eventID="e42"/>
+<MAKEINSTANCE eiid="ei429" eventID="e9"/>
+<MAKEINSTANCE eiid="ei428" eventID="e8"/>
+<MAKEINSTANCE eiid="ei425" eventID="e5"/>
+<MAKEINSTANCE eiid="ei426" eventID="e7"/>
+<MAKEINSTANCE eiid="ei439" eventID="e189"/>
+<MAKEINSTANCE eiid="ei421" eventID="e1"/>
+<MAKEINSTANCE eiid="ei424" eventID="e3"/>
+<MAKEINSTANCE eiid="ei422" eventID="e2"/>
+<MAKEINSTANCE eiid="ei436" eventID="e24"/>
+<MAKEINSTANCE eiid="ei453" eventID="e43"/>
+<MAKEINSTANCE eiid="ei449" eventID="e40"/>
+<MAKEINSTANCE eiid="ei455" eventID="e46"/>
+<MAKEINSTANCE eiid="ei454" eventID="e44"/>
+<MAKEINSTANCE eiid="ei437" eventID="e29"/>
+<MAKEINSTANCE eiid="ei447" eventID="e86"/>
+<MAKEINSTANCE eiid="ei473" eventID="e69"/>
+<MAKEINSTANCE eiid="ei427" eventID="e80"/>
+<MAKEINSTANCE eiid="ei430" eventID="e81"/>
+<MAKEINSTANCE eiid="ei466" eventID="e61"/>
+<MAKEINSTANCE eiid="ei475" eventID="e399"/>
+<MAKEINSTANCE eiid="ei467" eventID="e63"/>
+<MAKEINSTANCE eiid="ei468" eventID="e64"/>
+<MAKEINSTANCE eiid="ei470" eventID="e65"/>
+<MAKEINSTANCE eiid="ei471" eventID="e66"/>
+<MAKEINSTANCE eiid="ei472" eventID="e67"/>
+<TLINK eventInstanceID="ei454" lid="l1" relType="BEFORE" relatedToEventInstance="ei455"/>
+<TLINK eventInstanceID="ei427" lid="l2" relType="IS_INCLUDED" relatedToTime="t79"/>
+<TLINK eventInstanceID="ei431" lid="l3" relType="BEFORE" relatedToEventInstance="ei432"/>
+<TLINK eventInstanceID="ei454" lid="l4" relType="AFTER" relatedToTime="t0"/>
+<TLINK lid="l5" relType="AFTER" relatedToEventInstance="ei421" timeID="t0"/>
+<TLINK lid="l6" relType="IDENTITY" relatedToEventInstance="ei471" timeID="t404"/>
+<TLINK eventInstanceID="ei439" lid="l7" relType="SIMULTANEOUS" relatedToTime="t190"/>
+<TLINK lid="l8" relType="BEFORE" relatedToEventInstance="ei421" timeID="t372"/>
+<TLINK eventInstanceID="ei454" lid="l9" relType="AFTER" relatedToEventInstance="ei422"/>
+<TLINK eventInstanceID="ei471" lid="l10" relType="IBEFORE" relatedToEventInstance="ei472"/>
+<TLINK lid="l11" relType="BEFORE" relatedToTime="t0" timeID="t372"/>
+<TLINK eventInstanceID="ei421" lid="l12" relType="BEFORE" relatedToEventInstance="ei422"/>
+<TLINK eventInstanceID="ei451" lid="l13" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei438" lid="l14" relType="SIMULTANEOUS" relatedToEventInstance="ei428"/>
+<TLINK eventInstanceID="ei430" lid="l15" relType="BEGUN_BY" relatedToEventInstance="ei426"/>
+<TLINK eventInstanceID="ei429" lid="l16" relType="AFTER" relatedToEventInstance="ei431"/>
+<TLINK eventInstanceID="ei447" lid="l17" relType="DURING" relatedToEventInstance="ei439"/>
+<TLINK eventInstanceID="ei443" lid="l18" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei448" lid="l19" relType="IDENTITY" relatedToEventInstance="ei424"/>
+<TLINK eventInstanceID="ei436" lid="l20" relType="IS_INCLUDED" relatedToEventInstance="ei432"/>
+<TLINK lid="l21" relType="BEFORE" relatedToTime="t0" timeID="t404"/>
+<TLINK eventInstanceID="ei437" lid="l22" relType="SIMULTANEOUS" relatedToEventInstance="ei422"/>
+<TLINK eventInstanceID="ei473" lid="l23" relType="IDENTITY" relatedToEventInstance="ei468"/>
+<TLINK eventInstanceID="ei443" lid="l24" relType="AFTER" relatedToEventInstance="ei421"/>
+<TLINK eventInstanceID="ei466" lid="l25" relType="BEFORE" relatedToEventInstance="ei467"/>
+<TLINK eventInstanceID="ei433" lid="l26" relType="SIMULTANEOUS" relatedToEventInstance="ei421"/>
+<TLINK eventInstanceID="ei425" lid="l27" relType="BEFORE" relatedToEventInstance="ei426"/>
+<TLINK eventInstanceID="ei422" lid="l28" relType="IS_INCLUDED" relatedToEventInstance="ei424"/>
+<TLINK eventInstanceID="ei428" lid="l29" relType="SIMULTANEOUS" relatedToEventInstance="ei421"/>
+<TLINK eventInstanceID="ei456" lid="l30" relType="SIMULTANEOUS" relatedToEventInstance="ei455"/>
+<TLINK eventInstanceID="ei433" lid="l31" relType="OVERLAP" relatedToEventInstance="ei434"/>
+<TLINK eventInstanceID="ei446" lid="l32" relType="CULMINATES" relatedToEventInstance="ei447"/>
+<TLINK lid="l33" relType="INCLUDES" relatedToTime="t0" timeID="t190"/>
+<TLINK eventInstanceID="ei434" lid="l34" relType="BEFORE" relatedToEventInstance="ei435"/>
+<TLINK eventInstanceID="ei428" lid="l35" relType="OVERLAP" relatedToEventInstance="ei429"/>
+<TLINK eventInstanceID="ei453" lid="l36" relType="BEFORE" relatedToEventInstance="ei455"/>
+<TLINK eventInstanceID="ei458" lid="l37" relType="IAFTER" relatedToEventInstance="ei428"/>
+<TLINK eventInstanceID="ei458" lid="l38" relType="AFTER" relatedToEventInstance="ei475"/>
+<TLINK eventInstanceID="ei443" lid="l39" relType="BEFORE" relatedToEventInstance="ei446"/>
+<TLINK eventInstanceID="ei426" lid="l40" relType="INITIATES" relatedToEventInstance="ei427"/>
+<TLINK eventInstanceID="ei466" lid="l41" relType="IS_INCLUDED" relatedToTime="t372"/>
+<TLINK lid="l42" relType="BEFORE" relatedToTime="t0" timeID="t92"/>
+<TLINK eventInstanceID="ei432" lid="l43" relType="AFTER" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei449" lid="l44" relType="IS_INCLUDED" relatedToEventInstance="ei443"/>
+<TLINK eventInstanceID="ei470" lid="l45" relType="BEFORE" relatedToTime="t0"/>
+<TLINK eventInstanceID="ei475" lid="l46" relType="BEFORE" relatedToEventInstance="ei460"/>
+<TLINK eventInstanceID="ei468" lid="l47" relType="SIMULTANEOUS" relatedToEventInstance="ei428"/>
+<TLINK eventInstanceID="ei460" lid="l48" relType="AFTER" relatedToEventInstance="ei461"/>
+<TLINK lid="l49" relType="INCLUDES" relatedToEventInstance="ei457" timeID="t92"/>
+<TLINK eventInstanceID="ei425" lid="l50" relType="IS_INCLUDED" relatedToTime="t0"/>
+</TimeML>
