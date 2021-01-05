@@ -29,7 +29,7 @@ sh EXP-TL2RTL.sh
 ```
 The first will rerun the S-TLM and C-TLM experiments in the different loss settings (evaluation scores can be found at the end of the corresponding log files). And the second will rerun the TL2RTL experiments.
 
-`!!!` By default these scripts run many subprocesses simultaneously. If you prefer to run the experiments one-by-one you shold remove the &-symbol at the end of the python calls in the scripts. You can indicate which GPU you want to use by setting the CUDA variable in the scripts (-1 for using CPU instead).
+`!!!` By default these scripts run many subprocesses simultaneously. If you prefer to run the experiments one-by-one you should remove the &-symbol at the end of the python calls in the scripts. You can indicate which GPU you want to use by setting the CUDA variable in the scripts (-1 for using CPU instead).
 
 ### Obtaining more information 
 
