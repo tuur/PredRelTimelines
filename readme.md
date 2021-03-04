@@ -9,7 +9,7 @@ Apache License 2.0
 > Please cite the paper when using the code.
 
 ### What this code can be used for:
-Training relatie time-line prediction models (TLM), trained from TimeML-annotated data, and to convert TimeML-style annotations to relative time-lines (TL2RTL), i.e. to reproduce the results from the EMNLP 2018 paper. The data used in the original paper was added to facilitate reproducing the results from the paper.
+Training relative time-line prediction models (TLM), trained from TimeML-annotated data, and to convert TimeML-style annotations to relative time-lines (TL2RTL), i.e. to reproduce the results from the EMNLP 2018 paper. The data used in the original paper was added to facilitate reproducing the results from the paper.
 
 ### How do I get set up? ###
 1. Install  Python 3.5 (if not yet installed)
