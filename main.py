@@ -9,7 +9,7 @@ from __future__ import print_function
 import time, argparse, sys, os, shutil
 from lib.timeml import read_timebank_folder, simplify_relations,get_num_tlinks,extend_tlinks_with_timex3_values, add_TIF_features
 from lib.models import TimelineModel, load_timelinemodel, evaluate_timelinemodel
-from lib.pairwisemodel import PairwiseModel
+#from lib.pairwisemodel import PairwiseModel
 from lib.evaluation import get_acc_from_confusion_matrix, save_confusion_matrix_from_metrics
 from lib.data import Logger
 import torch, random
@@ -148,8 +148,8 @@ parser.add_argument('-pointwise_loss', type=str, default='hinge',
                     help='Ranking loss function used for the pointwise loss functions, from hinge,log,exp, (log works best) default: hinge')
 parser.add_argument('-reset_optimizer', type=int, default=0,
                     help='Resets the optimizer every X iterations, default:0 ')																				
-parser.add_argument('-pairwise', type=int, default=0,
-                    help='Use pairwise relation classification mode, default:0 ')																				
+#parser.add_argument('-pairwise', type=int, default=0,
+#                    help='Use pairwise relation classification mode, default:0 ')
 
 
 
@@ -280,10 +280,10 @@ if args.train:
 	
 	if not args.load_model:
 		vocab_data = data['train'] + data['dev'] + (data['test'] if args.test else []) # just used to select the vocabulary
-		if args.pairwise:
-			TLM = PairwiseModel(model_dir=exp_dir,data=vocab_data, margin=args.train_margin, dmin=args.min_duration, relations=selected_labels, lr=args.lr, rnn_size=args.wrnn_dim, crnn_size=args.crnn_dim, wemb_size=args.wemb_dim, cemb_size=args.cemb_dim, pemb_size=args.pemb_dim, gpu=args.gpu, dropout=args.dropout, depth=args.wrnn_depth, unk_threshold=args.unk, special_conflation=args.special_conflation, rnn_unit=args.rnn_unit, pos=args.pos,optimizer=args.optimizer, loss_func=args.loss_func, feature_keys=args.features, subtasks=args.subtasks.split(','), word_vectors=args.word_vectors, fix_wembs=args.fix_wembs,dct_start_fixed=args.dct_start_fixed, dct_duration_fixed=args.dct_duration_fixed, linear_bias=args.linear_bias, rnn_bias=args.rnn_bias, use_character_level_encoding=args.character_level_encoding,doc_normalization=args.doc_normalization, blinding=args.blinding,deep_word_modeling=args.deep_word_modeling, entity_sequence=args.entity_sequence, absolute=args.absolute, pointwise_loss=args.pointwise_loss)
-		else:
-			TLM = TimelineModel(model_dir=exp_dir,data=vocab_data, margin=args.train_margin, dmin=args.min_duration, relations=selected_labels, lr=args.lr, rnn_size=args.wrnn_dim, crnn_size=args.crnn_dim, wemb_size=args.wemb_dim, cemb_size=args.cemb_dim, pemb_size=args.pemb_dim, gpu=args.gpu, dropout=args.dropout, depth=args.wrnn_depth, unk_threshold=args.unk, special_conflation=args.special_conflation, rnn_unit=args.rnn_unit, pos=args.pos,optimizer=args.optimizer, loss_func=args.loss_func, feature_keys=args.features, subtasks=args.subtasks.split(','), word_vectors=args.word_vectors, fix_wembs=args.fix_wembs,dct_start_fixed=args.dct_start_fixed, dct_duration_fixed=args.dct_duration_fixed, linear_bias=args.linear_bias, rnn_bias=args.rnn_bias, use_character_level_encoding=args.character_level_encoding,doc_normalization=args.doc_normalization, blinding=args.blinding,deep_word_modeling=args.deep_word_modeling, entity_sequence=args.entity_sequence, absolute=args.absolute, pointwise_loss=args.pointwise_loss)
+		#if args.pairwise:
+		#	TLM = PairwiseModel(model_dir=exp_dir,data=vocab_data, margin=args.train_margin, dmin=args.min_duration, relations=selected_labels, lr=args.lr, rnn_size=args.wrnn_dim, crnn_size=args.crnn_dim, wemb_size=args.wemb_dim, cemb_size=args.cemb_dim, pemb_size=args.pemb_dim, gpu=args.gpu, dropout=args.dropout, depth=args.wrnn_depth, unk_threshold=args.unk, special_conflation=args.special_conflation, rnn_unit=args.rnn_unit, pos=args.pos,optimizer=args.optimizer, loss_func=args.loss_func, feature_keys=args.features, subtasks=args.subtasks.split(','), word_vectors=args.word_vectors, fix_wembs=args.fix_wembs,dct_start_fixed=args.dct_start_fixed, dct_duration_fixed=args.dct_duration_fixed, linear_bias=args.linear_bias, rnn_bias=args.rnn_bias, use_character_level_encoding=args.character_level_encoding,doc_normalization=args.doc_normalization, blinding=args.blinding,deep_word_modeling=args.deep_word_modeling, entity_sequence=args.entity_sequence, absolute=args.absolute, pointwise_loss=args.pointwise_loss)
+		#else:
+		TLM = TimelineModel(model_dir=exp_dir,data=vocab_data, margin=args.train_margin, dmin=args.min_duration, relations=selected_labels, lr=args.lr, rnn_size=args.wrnn_dim, crnn_size=args.crnn_dim, wemb_size=args.wemb_dim, cemb_size=args.cemb_dim, pemb_size=args.pemb_dim, gpu=args.gpu, dropout=args.dropout, depth=args.wrnn_depth, unk_threshold=args.unk, special_conflation=args.special_conflation, rnn_unit=args.rnn_unit, pos=args.pos,optimizer=args.optimizer, loss_func=args.loss_func, feature_keys=args.features, subtasks=args.subtasks.split(','), word_vectors=args.word_vectors, fix_wembs=args.fix_wembs,dct_start_fixed=args.dct_start_fixed, dct_duration_fixed=args.dct_duration_fixed, linear_bias=args.linear_bias, rnn_bias=args.rnn_bias, use_character_level_encoding=args.character_level_encoding,doc_normalization=args.doc_normalization, blinding=args.blinding,deep_word_modeling=args.deep_word_modeling, entity_sequence=args.entity_sequence, absolute=args.absolute, pointwise_loss=args.pointwise_loss)
 			
 		TLM.pred_viz(data['dev'][0], path=exp_dir + '/timeline-dev0.html') # viz dev sample BEFORE training
 	else:
